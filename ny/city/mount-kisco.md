@@ -1,0 +1,103 @@
+---
+title: "Certified Lead Paint Inspection & Abatement in Mount Kisco, NY: 5 Listings | Lead Roster"
+description: "5 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Mount Kisco, New York, plus 118 more in Westchester County. Licence numbers and expiry dates."
+canonical: https://leadpaintroster.com/ny/city/mount-kisco/
+---
+
+[Home](https://leadpaintroster.com/) › [New York](https://leadpaintroster.com/ny/) › [Westchester County](https://leadpaintroster.com/ny/county/westchester/) › Mount Kisco
+
+# Certified lead paint inspectors & abatement firms in Mount Kisco, NY
+
+5 EPA-licensed listings give an address in Mount Kisco (3 lead inspection / evaluation, 5 lead abatement), and 118 more are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
+
+[**Read the Mount Kisco hiring guide →**](https://leadpaintroster.com/ny/city/mount-kisco/guide/) (licence checks, questions to ask, costs, FAQ)
+
+[How to get quotes in Mount Kisco](https://leadpaintroster.com/get-quotes/?city=mount-kisco&st=ny)
+
+## Based in Mount Kisco
+
+### Lead inspection & evaluation firms (3)
+
+✔ EPA-certified firm Lead abatementLead inspection / evaluation
+
+### Apache Legend Group Corp
+
+Licensed firm
+
+239 Lexington Ave, Mount Kisco, NY  
+☎ [(917) 280-9851](tel:9172809851)
+
+EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F231036-1 (exp. 2028-06-23)  
+EPA Lead-Based Paint Activities firm: Abatement #LBP-F231036-1 (exp. 2028-06-23)  
+Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0092)
+
+✔ EPA-certified firm Lead abatementLead inspection / evaluation
+
+### Environmental Maintenance Contractors, Inc.
+
+Licensed firm
+
+333 Lexington Ave, Mount Kisco, NY  
+☎ [(914) 232-7355](tel:9142327355)
+
+EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-62470-4 (exp. 2029-10-06)  
+EPA Lead-Based Paint Activities firm: Abatement #LBP-62470-4 (exp. 2029-10-06)  
+Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0251)
+
+✔ EPA-certified firm Lead abatementLead inspection / evaluation
+
+### Environmental Tech Solutions, LLC
+
+Licensed firm
+
+487 E Main St, Mount Kisco, NY  
+☎ [(929) 949-9939](tel:9299499939)
+
+EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F263862-1 (exp. 2027-05-15)  
+EPA Lead-Based Paint Activities firm: Abatement #LBP-F263862-1 (exp. 2027-05-15)  
+Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0256)
+
+### Lead abatement contractors (2)
+
+✔ EPA-certified firm Lead abatement
+
+### Pascual Innovations, LLC
+
+Licensed firm
+
+487 E Main St, Mount Kisco, NY  
+☎ [(914) 602-9669](tel:9146029669)
+
+EPA Lead-Based Paint Activities firm: Abatement #LBP-F262910-1 (exp. 2027-05-08)  
+Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1347)
+
+✔ EPA-certified firm Lead abatement
+
+### Westchester County Department of Health
+
+Licensed firm
+
+25 Moore Ave, Mount Kisco, NY  
+☎ [(914) 336-1296](tel:9143361296)
+
+EPA Lead-Based Paint Activities firm: Abatement #LBP-2693-3 (exp. 2027-04-26)  
+Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1612)
+
+## Elsewhere in Westchester County (118)
+
+[See all 123 Westchester County listings →](https://leadpaintroster.com/ny/county/westchester/)
+
+## More cities in Westchester County
+
+[Yonkers](https://leadpaintroster.com/ny/city/yonkers/) · [New Rochelle](https://leadpaintroster.com/ny/city/new-rochelle/) · [White Plains](https://leadpaintroster.com/ny/city/white-plains/) · [Mount Vernon](https://leadpaintroster.com/ny/city/mount-vernon/) · [Scarsdale](https://leadpaintroster.com/ny/city/scarsdale/) · [Yorktown Heights](https://leadpaintroster.com/ny/city/yorktown-heights/)
+
+## Guides
+
+[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+
+Data last verified 2026-10-12 against EPA licence records.

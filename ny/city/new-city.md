@@ -1,0 +1,128 @@
+---
+title: "Certified Lead Paint Inspection & Abatement in New City, NY: 7 Listings | Lead Roster"
+description: "7 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in New City, New York, plus 40 more in Rockland County. Licence numbers and expiry dates."
+canonical: https://leadpaintroster.com/ny/city/new-city/
+---
+
+[Home](https://leadpaintroster.com/) › [New York](https://leadpaintroster.com/ny/) › [Rockland County](https://leadpaintroster.com/ny/county/rockland/) › New City
+
+# Certified lead paint inspectors & abatement firms in New City, NY
+
+7 EPA-licensed listings give an address in New City (3 lead inspection / evaluation, 6 lead abatement), and 40 more are elsewhere in Rockland County. Licensed pros often travel, so ask whether they cover your address.
+
+[**Read the New City hiring guide →**](https://leadpaintroster.com/ny/city/new-city/guide/) (licence checks, questions to ask, costs, FAQ)
+
+[How to get quotes in New City](https://leadpaintroster.com/get-quotes/?city=new-city&st=ny)
+
+## Based in New City
+
+### Lead inspection & evaluation firms (3)
+
+✔ EPA-certified firm Lead abatementLead inspection / evaluation
+
+### Absolute Enviro
+
+Licensed firm
+
+40 Red Rock Rd, New City, NY  
+☎ [(646) 784-6013](tel:6467846013)
+
+EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F221245-2 (exp. 2027-01-25)  
+EPA Lead-Based Paint Activities firm: Abatement #LBP-F221245-2 (exp. 2027-01-25)  
+Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0062)
+
+✔ EPA-certified firm Lead inspection / evaluation
+
+### Authority Energy Services, Inc D/B/A NYC Local Law Compliance Services
+
+Licensed firm
+
+2 Summit Dr, New City, NY  
+☎ [(516) 491-8000](tel:5164918000)
+
+EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F234379-2 (exp. 2028-04-04)  
+Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0109)
+
+✔ EPA-certified firm Lead abatementLead inspection / evaluation
+
+### Polstar Inc
+
+Licensed firm
+
+37 Parliament Dr, New City, NY  
+☎ [(845) 499-0076](tel:8454990076)
+
+EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F235650-2 (exp. 2028-08-21)  
+EPA Lead-Based Paint Activities firm: Abatement #LBP-F235650-2 (exp. 2028-08-21)  
+Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0519)
+
+### Lead abatement contractors (4)
+
+✔ EPA-certified firm Lead abatement
+
+### Envirotech Mold & Lead Corp
+
+Licensed firm
+
+216 Congers Rd, New City, NY  
+☎ [(305) 785-8065](tel:3057858065)
+
+EPA Lead-Based Paint Activities firm: Abatement #LBP-F319278-1 (exp. 2029-01-19)  
+Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0996)
+
+✔ EPA-certified firm Lead abatement
+
+### MFD Quality Construction Inc.
+
+Licensed firm
+
+173 Old Route 304, New City, NY  
+☎ [(845) 708-5221](tel:8457085221)
+
+EPA Lead-Based Paint Activities firm: Abatement #LBP-F292382-1 (exp. 2028-05-05)  
+Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1207)
+
+✔ EPA-certified firm Lead abatement
+
+### Onyx Restoration NY LLC
+
+Licensed firm
+
+368 New Hempstead Rd, New City, NY  
+☎ [(347) 824-2106](tel:3478242106)
+
+EPA Lead-Based Paint Activities firm: Abatement #LBP-F301063-1 (exp. 2028-07-14)  
+Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1317)
+
+✔ EPA-certified firm Lead abatement
+
+### Rockland Wall Covering & Paint Inc.
+
+Licensed firm
+
+14 Fair Haven Dr, New City, NY  
+☎ [(914) 349-3349](tel:9143493349)
+
+EPA Lead-Based Paint Activities firm: Abatement #LBP-F259471-1 (exp. 2027-02-19)  
+Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1438)
+
+## Elsewhere in Rockland County (40)
+
+[See all 47 Rockland County listings →](https://leadpaintroster.com/ny/county/rockland/)
+
+## More cities in Rockland County
+
+[Airmont](https://leadpaintroster.com/ny/city/airmont/) · [Monsey](https://leadpaintroster.com/ny/city/monsey/) · [Spring Valley](https://leadpaintroster.com/ny/city/spring-valley/) · [Suffern](https://leadpaintroster.com/ny/city/suffern/)
+
+## Guides
+
+[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+
+Data last verified 2026-10-12 against EPA licence records.

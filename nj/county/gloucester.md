@@ -1,0 +1,114 @@
+---
+title: "Certified Lead Paint Inspection & Abatement in Gloucester County, NJ: 5 Listings | Lead Roster"
+description: "5 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms in Gloucester County, New Jersey, with licence numbers, expiry dates and source links."
+canonical: https://leadpaintroster.com/nj/county/gloucester/
+---
+
+[Home](https://leadpaintroster.com/) › [New Jersey](https://leadpaintroster.com/nj/) › Gloucester County
+
+# Certified lead paint inspectors & abatement firms in Gloucester County, NJ
+
+**5 NJ DCA-licensed listings** with an address of record in Gloucester County (4 lead inspection / evaluation, 1 lead abatement): 5 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=gloucester&st=nj)
+
+## Lead inspection & evaluation firms (4)
+
+✔ Certified by NJ DCA Lead inspection / evaluation
+
+### Environmental Testing Services
+
+Licensed firm
+
+619 Wills Ave, Deptford, NJ  
+☎ [(215) 783-7261](tel:2157837261)  
+Contact listed by NJ DCA: Michael Stefkovic
+
+NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00531 (exp. 2027-01-31)  
+Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NJ0063)
+
+✔ Certified by NJ DCA Lead inspection / evaluation
+
+### Three Rivers Environmental
+
+Licensed firm
+
+35 Hickory Ridge Ct, Mullica Hill, NJ  
+☎ [(856) 434-4975](tel:8564344975)  
+Contact listed by NJ DCA: Matthew Scott
+
+NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00911 (exp. 2028-03-31)  
+Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NJ0171)
+
+✔ Certified by NJ DCA Lead inspection / evaluation
+
+### Fig Environmental
+
+Licensed firm
+
+8 Tranquility Ct, Sewell, NJ  
+☎ [(856) 553-6162](tel:8565536162)  
+Contact listed by NJ DCA: Janae Fiorelli
+
+NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00846 (exp. 2026-11-30)  
+Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NJ0069)
+
+✔ Certified by NJ DCA Lead inspection / evaluation
+
+### Ingt Lead Swipe, LLC
+
+Licensed firm
+
+24 Derby Rd, Swedesboro, NJ  
+☎ [(609) 828-0479](tel:6098280479)  
+Contact listed by NJ DCA: Michael B. Kogut
+
+NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00723 (exp. 2027-03-31)  
+Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NJ0085)
+
+## Lead abatement contractors (1)
+
+✔ Certified by NJ DCA Lead abatement
+
+### Allied Painting Inc
+
+Licensed firm
+
+1330 N.black Horse Pike, Suite B, Williamstown, NJ  
+☎ [(856) 429-3400](tel:8564293400)  
+Contact listed by NJ DCA: James Cannon
+
+NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00136 (exp. 2027-09-30)  
+Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat_c.pdf), retrieved 2026-10-12  
+[Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NJ0190)
+
+## Neighboring counties
+
+[Atlantic](https://leadpaintroster.com/nj/county/atlantic/) (3) · [Camden](https://leadpaintroster.com/nj/county/camden/) (13) · [Cumberland](https://leadpaintroster.com/nj/county/cumberland/) (7) · Salem (0)
+
+Adjacency from the U.S. Census Bureau county adjacency file.
+
+## Hiring in Gloucester County: quick guide
+
+1. Check the firm or person in the official list ([New Jersey Department of Community Affairs](https://www.nj.gov/dca/codes/offices/leadhazard_abatement.shtml)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
+2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.
+3. Decide what you need first: an [inspection or a risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/).
+4. For abatement, use a certified abatement contractor, and have someone independent do the clearance test.
+
+## Frequently asked questions
+
+**How many certified lead inspectors are in Gloucester County?**
+
+4 listings with inspection or risk-assessment credentials and 1 abatement listings have an address of record in Gloucester County.
+
+**How do I verify a Gloucester County lead inspector?**
+
+Check the NJ DCA list linked on each listing and ask for the certification number.
+
+## Guides
+
+[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+
+Data last verified 2026-10-12 against NJ DCA licence records.

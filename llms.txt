@@ -1,0 +1,33 @@
+# Lead Roster
+
+> Lead Roster is a free directory of certified lead-based paint inspectors, risk assessors and abatement firms in New Jersey, New York and Massachusetts, built from NJ DCA, US EPA and Massachusetts licence records.
+
+Lead Roster is for landlords, tenants, buyers and parents who need a certified lead inspector, risk assessor or abatement contractor. Listings come from NJ DCA certified contractor lists, the US EPA lead-based paint firm locator (New York) and the Massachusetts licensed lead inspector list, retrieved 2026-10-12. Every page has a Markdown version: replace the trailing slash with `.md` (home: https://leadpaintroster.com/index.md).
+
+## States
+- [New Jersey](https://leadpaintroster.com/nj/): New Jersey Department of Community Affairs licence records
+- [New York](https://leadpaintroster.com/ny/): US Environmental Protection Agency licence records
+- [Massachusetts](https://leadpaintroster.com/ma/): Commonwealth of Massachusetts (licensed private lead inspector list) licence records
+
+## Guides
+- [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/)
+- [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/)
+- [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/)
+- [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+- [How to get quotes](https://leadpaintroster.com/get-quotes/): find 2-3 licensed pros near you and what to ask
+
+## For professionals
+- [For professionals](https://leadpaintroster.com/for-pros/): free listings and planned advertising
+- [Claim, correct, add or remove a listing](https://leadpaintroster.com/claim-listing/): request form
+- [How we make money](https://leadpaintroster.com/how-we-make-money/)
+
+## About
+- [About](https://leadpaintroster.com/about/)
+- [About our data](https://leadpaintroster.com/about-our-data/): sources, dates, cleanup method
+- [Contact](https://leadpaintroster.com/contact/)
+- [Privacy policy](https://leadpaintroster.com/privacy/)
+- [How we verify listings](https://leadpaintroster.com/how-we-verify/): sources and retrieval dates
+- [Sitemap](https://leadpaintroster.com/sitemap.xml)
+
+## Optional
+- [llms-full.txt](https://leadpaintroster.com/llms-full.txt): every county, city and guide page
