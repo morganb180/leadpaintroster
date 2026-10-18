@@ -1,0 +1,16 @@
+---
+title: "A Quest Corporation, Brooklyn, NY | Lead Roster"
+description: "A Quest Corporation: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/a-quest-corporation-ny0706/
+---
+
+# A Quest Corporation
+
+* Lead abatement
+* Brooklyn, NY (Kings County)
+* Phone: (718) 965-4866
+* Address: 159 42nd St, Brooklyn, NY 11232
+* Google rating: 4.5 from 2 reviews (as of Oct 18, 2026)
+* EPA Lead-Based Paint Activities firm: Abatement #LBP-11439-4 (exp. 2029-04-28)
+
+Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0706

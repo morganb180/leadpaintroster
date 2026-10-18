@@ -1,0 +1,17 @@
+---
+title: "Okeno Smith, North Easton, MA | Lead Roster"
+description: "Okeno Smith: Lead inspection / evaluation in North Easton, MA. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/okeno-smith-ma0034/
+---
+
+# Okeno Smith
+
+* Lead inspection / evaluation
+* North Easton, MA (Bristol County)
+* Phone: (508) 821-0661
+* Email: Okenosmith@gmail.com
+* Address: North Easton, MA
+
+Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0034
+
+Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0034

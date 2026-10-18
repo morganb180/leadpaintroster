@@ -1,0 +1,15 @@
+---
+title: "DS Interiors Renovation Inc, Rego Park, NY | Lead Roster"
+description: "DS Interiors Renovation Inc: Lead abatement in Rego Park, NY. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/ds-interiors-renovation-inc-ny0927/
+---
+
+# DS Interiors Renovation Inc
+
+* Lead abatement
+* Rego Park, NY (Queens County)
+* Phone: (917) 513-0951
+* Address: 6546 Ellwell Cresent, Rego Park, NY 11374
+* EPA Lead-Based Paint Activities firm: Abatement #LBP-F290628-1 (exp. 2028-04-18)
+
+Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0927

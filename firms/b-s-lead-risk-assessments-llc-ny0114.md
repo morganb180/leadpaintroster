@@ -1,0 +1,15 @@
+---
+title: "B&S Lead Risk Assessments, LLC, Albany, NY | Lead Roster"
+description: "B&S Lead Risk Assessments, LLC: Lead inspection / evaluation in Albany, NY. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/b-s-lead-risk-assessments-llc-ny0114/
+---
+
+# B&S Lead Risk Assessments, LLC
+
+* Lead inspection / evaluation
+* Albany, NY (Albany County)
+* Phone: (518) 225-5124
+* Address: 15 Keller St, Albany, NY 12205
+* EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F325680-1 (exp. 2029-03-13)
+
+Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0114

@@ -1,0 +1,15 @@
+---
+title: "Birtchy’s General Contruction, Binghamton, NY | Lead Roster"
+description: "Birtchy’s General Contruction: Lead abatement in Binghamton, NY. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/birtchy-s-general-contruction-ny0838/
+---
+
+# Birtchy’s General Contruction
+
+* Lead abatement
+* Binghamton, NY (Broome County)
+* Phone: (607) 759-1455
+* Address: 64 Felters Rd, Binghamton, NY 13903
+* EPA Lead-Based Paint Activities firm: Abatement #LBP-F244581-1 (exp. 2027-10-24)
+
+Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0838

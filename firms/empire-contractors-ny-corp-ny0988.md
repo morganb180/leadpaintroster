@@ -1,0 +1,15 @@
+---
+title: "Empire Contractors NY Corp, Bayside, NY | Lead Roster"
+description: "Empire Contractors NY Corp: Lead abatement in Bayside, NY. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/empire-contractors-ny-corp-ny0988/
+---
+
+# Empire Contractors NY Corp
+
+* Lead abatement
+* Bayside, NY (Queens County)
+* Phone: (917) 214-6209
+* Address: 4014 209th St, Bayside, NY 11361
+* EPA Lead-Based Paint Activities firm: Abatement #LBP-F281168-1 (exp. 2028-01-29)
+
+Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0988

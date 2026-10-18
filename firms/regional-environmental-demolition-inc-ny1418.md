@@ -1,0 +1,18 @@
+---
+title: "Regional Environmental Demolition, Inc., Niagara Falls, NY | Lead Roster"
+description: "Regional Environmental Demolition, Inc.: Lead abatement in Niagara Falls, NY. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/regional-environmental-demolition-inc-ny1418/
+---
+
+# Regional Environmental Demolition, Inc.
+
+* Lead abatement
+* Niagara Falls, NY (Niagara County)
+* Phone: (716) 284-3366
+* Address: 6281 Wendt Dr, Niagara Falls, NY 14304
+* Google rating: 4.1 from 9 reviews (as of Oct 18, 2026)
+* EPA Lead-Based Paint Activities firm: Abatement #LBP-125971-3 (exp. 2027-06-20)
+
+Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1418
+
+Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1418

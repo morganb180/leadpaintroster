@@ -1,0 +1,15 @@
+---
+title: "River City Builders LLC, Larchmont, NY | Lead Roster"
+description: "River City Builders LLC: Lead abatement in Larchmont, NY. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/river-city-builders-llc-ny1433/
+---
+
+# River City Builders LLC
+
+* Lead abatement
+* Larchmont, NY (Westchester County)
+* Phone: (914) 833-3000
+* Address: 1865 Palmer Ave, Larchmont, NY 10538
+* EPA Lead-Based Paint Activities firm: Abatement #LBP-F179907-2 (exp. 2028-06-10)
+
+Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1433

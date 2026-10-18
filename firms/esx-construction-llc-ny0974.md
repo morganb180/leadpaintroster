@@ -1,0 +1,15 @@
+---
+title: "ESX Construction LLC, New York, NY | Lead Roster"
+description: "ESX Construction LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/esx-construction-llc-ny0974/
+---
+
+# ESX Construction LLC
+
+* Lead abatement
+* New York, NY (New York County)
+* Phone: (845) 893-7753
+* Address: 131 E 78th St, New York, NY 10075
+* EPA Lead-Based Paint Activities firm: Abatement #LBP-F301331-1 (exp. 2029-03-09)
+
+Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0974

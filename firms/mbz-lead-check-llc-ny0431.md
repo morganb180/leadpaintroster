@@ -1,0 +1,16 @@
+---
+title: "MBZ Lead Check LLC, New York, NY | Lead Roster"
+description: "MBZ Lead Check LLC: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/mbz-lead-check-llc-ny0431/
+---
+
+# MBZ Lead Check LLC
+
+* Lead abatement, Lead inspection / evaluation
+* New York, NY (New York County)
+* Phone: (917) 856-2282
+* Address: 81 Eldridge St, New York, NY 10002
+* EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F302535-1 (exp. 2028-07-30)
+* EPA Lead-Based Paint Activities firm: Abatement #LBP-F302535-1 (exp. 2028-07-30)
+
+Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0431

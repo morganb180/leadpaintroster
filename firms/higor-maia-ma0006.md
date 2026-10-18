@@ -1,0 +1,17 @@
+---
+title: "Higor Maia, Beverly, MA | Lead Roster"
+description: "Higor Maia: Lead inspection / evaluation in Beverly, MA. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/higor-maia-ma0006/
+---
+
+# Higor Maia
+
+* Lead inspection / evaluation
+* Beverly, MA (Essex County)
+* Phone: (617) 778-8501
+* Email: higorbmw@hotmail.com
+* Address: Beverly, MA
+
+Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0006
+
+Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0006

@@ -1,0 +1,15 @@
+---
+title: "SNM Contracting Corp, Astoria, NY | Lead Roster"
+description: "SNM Contracting Corp: Lead abatement in Astoria, NY. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/snm-contracting-corp-ny1459/
+---
+
+# SNM Contracting Corp
+
+* Lead abatement
+* Astoria, NY (Queens County)
+* Phone: (917) 335-3123
+* Address: 3084 34th St, Astoria, NY 11103
+* EPA Lead-Based Paint Activities firm: Abatement #LBP-F348476-1 (exp. 2029-10-05)
+
+Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1459

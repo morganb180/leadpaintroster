@@ -1,0 +1,17 @@
+---
+title: "Jerry Urban, Beverly, MA | Lead Roster"
+description: "Jerry Urban: Lead risk assessment in Beverly, MA. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/jerry-urban-ma0004/
+---
+
+# Jerry Urban
+
+* Lead risk assessment
+* Beverly, MA (Essex County)
+* Phone: (978) 395-5035
+* Email: jerryurban@mac.com
+* Address: Beverly, MA
+
+Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0004
+
+Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0004

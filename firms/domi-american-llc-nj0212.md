@@ -1,0 +1,15 @@
+---
+title: "Domi-American, LLC, Hackensack, NJ | Lead Roster"
+description: "Domi-American, LLC: Lead abatement in Hackensack, NJ. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/domi-american-llc-nj0212/
+---
+
+# Domi-American, LLC
+
+* Lead abatement
+* Hackensack, NJ (Bergen County)
+* Phone: (631) 601-9955
+* Address: 215 Poplar Ave, Hackensack, NJ 07601
+* NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00742 (exp. 2027-06-30)
+
+Source: https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat_c.pdf, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NJ0212

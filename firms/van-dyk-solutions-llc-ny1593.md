@@ -1,0 +1,15 @@
+---
+title: "Van Dyk Solutions LLC, Cambridge, NY | Lead Roster"
+description: "Van Dyk Solutions LLC: Lead abatement in Cambridge, NY. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/van-dyk-solutions-llc-ny1593/
+---
+
+# Van Dyk Solutions LLC
+
+* Lead abatement
+* Cambridge, NY (Washington County)
+* Phone: (518) 692-4700
+* Address: 22 Academy St, Cambridge, NY 12816
+* EPA Lead-Based Paint Activities firm: Abatement #LBP-F276408-1 (exp. 2027-11-28)
+
+Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1593

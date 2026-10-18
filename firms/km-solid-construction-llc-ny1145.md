@@ -1,0 +1,15 @@
+---
+title: "KM Solid Construction LLC, Brooklyn, NY | Lead Roster"
+description: "KM Solid Construction LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/km-solid-construction-llc-ny1145/
+---
+
+# KM Solid Construction LLC
+
+* Lead abatement
+* Brooklyn, NY (Kings County)
+* Phone: (347) 731-2759
+* Address: 274 Kingsland Ave, Brooklyn, NY 11222
+* EPA Lead-Based Paint Activities firm: Abatement #LBP-F340796-1 (exp. 2029-07-21)
+
+Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1145

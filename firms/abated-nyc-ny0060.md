@@ -1,0 +1,16 @@
+---
+title: "Abated NYC, Brooklyn, NY | Lead Roster"
+description: "Abated NYC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+canonical: https://leadpaintroster.com/firms/abated-nyc-ny0060/
+---
+
+# Abated NYC
+
+* Lead abatement, Lead inspection / evaluation
+* Brooklyn, NY (Kings County)
+* Phone: (347) 429-0139
+* Address: 1677 44th St, Brooklyn, NY 11204
+* EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F269301-1 (exp. 2027-09-17)
+* EPA Lead-Based Paint Activities firm: Abatement #LBP-F269301-1 (exp. 2027-09-17)
+
+Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0060
