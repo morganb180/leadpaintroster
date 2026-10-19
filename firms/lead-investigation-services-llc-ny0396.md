@@ -1,5 +1,5 @@
 ---
-title: "Lead Investigation Services LLC, Brooklyn, NY | Lead Roster"
+title: "Lead Investigation Services LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Lead Investigation Services LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-investigation-services-llc-ny0396/
 ---

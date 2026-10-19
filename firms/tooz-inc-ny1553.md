@@ -1,5 +1,5 @@
 ---
-title: "Tooz, Inc., Little Neck, NY | Lead Roster"
+title: "Tooz, Inc., Little Neck, NY | Lead Paint Roster"
 description: "Tooz, Inc.: Lead abatement in Little Neck, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tooz-inc-ny1553/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "A Pagano Painting & Restoration, Hurley, NY | Lead Roster"
+title: "A Pagano Painting & Restoration, Hurley, NY | Lead Paint Roster"
 description: "A Pagano Painting & Restoration: Lead abatement in Hurley, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-pagano-painting-restoration-ny0703/
 ---

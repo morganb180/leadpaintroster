@@ -1,5 +1,5 @@
 ---
-title: "KFG Restoration & Abatement LLC, Brooklyn, NY | Lead Roster"
+title: "KFG Restoration & Abatement LLC, Brooklyn, NY | Lead Paint Roster"
 description: "KFG Restoration & Abatement LLC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kfg-restoration-abatement-llc-ny0364/
 ---

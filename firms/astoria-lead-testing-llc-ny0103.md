@@ -1,5 +1,5 @@
 ---
-title: "Astoria Lead Testing, LLC, Jackson Heights, NY | Lead Roster"
+title: "Astoria Lead Testing, LLC, Jackson Heights, NY | Lead Paint Roster"
 description: "Astoria Lead Testing, LLC: Lead inspection / evaluation in Jackson Heights, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/astoria-lead-testing-llc-ny0103/
 ---

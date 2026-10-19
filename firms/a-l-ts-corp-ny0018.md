@@ -1,5 +1,5 @@
 ---
-title: "A.L.TS Corp., South Richmond Hill, NY | Lead Roster"
+title: "A.L.TS Corp., South Richmond Hill, NY | Lead Paint Roster"
 description: "A.L.TS Corp.: Lead abatement, Lead inspection / evaluation in South Richmond Hill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-l-ts-corp-ny0018/
 ---

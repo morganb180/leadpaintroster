@@ -1,5 +1,5 @@
 ---
-title: "DFP Operations Management Services, Miller Place, NY | Lead Roster"
+title: "DFP Operations Management Services, Miller Place, NY | Lead Paint Roster"
 description: "DFP Operations Management Services: Lead abatement, Lead inspection / evaluation in Miller Place, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dfp-operations-management-services-ny0189/
 ---

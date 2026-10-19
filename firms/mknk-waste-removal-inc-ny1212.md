@@ -1,5 +1,5 @@
 ---
-title: "MKNK Waste Removal, Inc., Brooklyn, NY | Lead Roster"
+title: "MKNK Waste Removal, Inc., Brooklyn, NY | Lead Paint Roster"
 description: "MKNK Waste Removal, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mknk-waste-removal-inc-ny1212/
 ---

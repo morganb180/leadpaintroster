@@ -1,5 +1,5 @@
 ---
-title: "Ceja Landscaping Inc, New Rochelle, NY | Lead Roster"
+title: "Ceja Landscaping Inc, New Rochelle, NY | Lead Paint Roster"
 description: "Ceja Landscaping Inc: Lead abatement in New Rochelle, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ceja-landscaping-inc-ny0889/
 ---

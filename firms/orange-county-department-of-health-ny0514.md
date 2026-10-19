@@ -1,5 +1,5 @@
 ---
-title: "Orange County Department of Health, Goshen, NY | Lead Roster"
+title: "Orange County Department of Health, Goshen, NY | Lead Paint Roster"
 description: "Orange County Department of Health: Lead inspection / evaluation in Goshen, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/orange-county-department-of-health-ny0514/
 ---

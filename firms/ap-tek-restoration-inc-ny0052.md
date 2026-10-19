@@ -1,5 +1,5 @@
 ---
-title: "AP. TEK Restoration Inc., East Elmhurst, NY | Lead Roster"
+title: "AP. TEK Restoration Inc., East Elmhurst, NY | Lead Paint Roster"
 description: "AP. TEK Restoration Inc.: Lead abatement, Lead inspection / evaluation in East Elmhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ap-tek-restoration-inc-ny0052/
 ---

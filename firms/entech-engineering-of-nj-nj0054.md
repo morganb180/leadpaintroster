@@ -1,5 +1,5 @@
 ---
-title: "Entech Engineering of NJ, Newark, NJ | Lead Roster"
+title: "Entech Engineering of NJ, Newark, NJ | Lead Paint Roster"
 description: "Entech Engineering of NJ: Lead inspection / evaluation in Newark, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/entech-engineering-of-nj-nj0054/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Angessy Home Improvements, Corona, NY | Lead Roster"
+title: "Angessy Home Improvements, Corona, NY | Lead Paint Roster"
 description: "Angessy Home Improvements: Lead abatement in Corona, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/angessy-home-improvements-ny0785/
 ---

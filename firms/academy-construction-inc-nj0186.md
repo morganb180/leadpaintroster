@@ -1,5 +1,5 @@
 ---
-title: "Academy Construction Inc, Pompton Plains, NJ | Lead Roster"
+title: "Academy Construction Inc, Pompton Plains, NJ | Lead Paint Roster"
 description: "Academy Construction Inc: Lead abatement in Pompton Plains, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/academy-construction-inc-nj0186/
 ---

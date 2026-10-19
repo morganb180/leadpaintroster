@@ -1,5 +1,5 @@
 ---
-title: "Lima Contractors, Corp., Brooklyn, NY | Lead Roster"
+title: "Lima Contractors, Corp., Brooklyn, NY | Lead Paint Roster"
 description: "Lima Contractors, Corp.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lima-contractors-corp-ny1181/
 ---

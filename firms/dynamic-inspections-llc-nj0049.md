@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Inspections, LLC, Princeton, NJ | Lead Roster"
+title: "Dynamic Inspections, LLC, Princeton, NJ | Lead Paint Roster"
 description: "Dynamic Inspections, LLC: Lead inspection / evaluation in Princeton, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dynamic-inspections-llc-nj0049/
 ---

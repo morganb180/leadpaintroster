@@ -1,5 +1,5 @@
 ---
-title: "LB Brothers Corp, New York, NY | Lead Roster"
+title: "LB Brothers Corp, New York, NY | Lead Paint Roster"
 description: "LB Brothers Corp: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lb-brothers-corp-ny1164/
 ---

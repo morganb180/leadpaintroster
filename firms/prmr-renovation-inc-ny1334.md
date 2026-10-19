@@ -1,5 +1,5 @@
 ---
-title: "PRMR Renovation Inc, Richmond Hill, NY | Lead Roster"
+title: "PRMR Renovation Inc, Richmond Hill, NY | Lead Paint Roster"
 description: "PRMR Renovation Inc: Lead abatement in Richmond Hill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/prmr-renovation-inc-ny1334/
 ---

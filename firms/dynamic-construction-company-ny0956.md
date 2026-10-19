@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Construction Company, Brooklyn, NY | Lead Roster"
+title: "Dynamic Construction Company, Brooklyn, NY | Lead Paint Roster"
 description: "Dynamic Construction Company: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dynamic-construction-company-ny0956/
 ---

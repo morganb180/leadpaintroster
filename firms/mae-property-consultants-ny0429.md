@@ -1,5 +1,5 @@
 ---
-title: "MAE Property Consultants, New York, NY | Lead Roster"
+title: "MAE Property Consultants, New York, NY | Lead Paint Roster"
 description: "MAE Property Consultants: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mae-property-consultants-ny0429/
 ---

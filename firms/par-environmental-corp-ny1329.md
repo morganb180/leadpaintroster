@@ -1,5 +1,5 @@
 ---
-title: "PAR Environmental Corp., Suffern, NY | Lead Roster"
+title: "PAR Environmental Corp., Suffern, NY | Lead Paint Roster"
 description: "PAR Environmental Corp.: Lead abatement in Suffern, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/par-environmental-corp-ny1329/
 ---

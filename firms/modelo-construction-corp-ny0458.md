@@ -1,5 +1,5 @@
 ---
-title: "Modelo Construction Corp., New York, NY | Lead Roster"
+title: "Modelo Construction Corp., New York, NY | Lead Paint Roster"
 description: "Modelo Construction Corp.: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/modelo-construction-corp-ny0458/
 ---

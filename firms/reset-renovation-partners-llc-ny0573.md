@@ -1,5 +1,5 @@
 ---
-title: "Reset Renovation Partners, LLC, New York, NY | Lead Roster"
+title: "Reset Renovation Partners, LLC, New York, NY | Lead Paint Roster"
 description: "Reset Renovation Partners, LLC: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/reset-renovation-partners-llc-ny0573/
 ---

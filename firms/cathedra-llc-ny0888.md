@@ -1,5 +1,5 @@
 ---
-title: "Cathedra LLC, Brooklyn, NY | Lead Roster"
+title: "Cathedra LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Cathedra LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cathedra-llc-ny0888/
 ---

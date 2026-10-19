@@ -1,5 +1,5 @@
 ---
-title: "Z & R Painting & Contracting, Yorktown Heights, NY | Lead Roster"
+title: "Z & R Painting & Contracting, Yorktown Heights, NY | Lead Paint Roster"
 description: "Z & R Painting & Contracting: Lead abatement, Lead inspection / evaluation in Yorktown Heights, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/z-r-painting-contracting-ny0682/
 ---

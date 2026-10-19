@@ -1,5 +1,5 @@
 ---
-title: "Salma Construction Corp, Brooklyn, NY | Lead Roster"
+title: "Salma Construction Corp, Brooklyn, NY | Lead Paint Roster"
 description: "Salma Construction Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/salma-construction-corp-ny1471/
 ---

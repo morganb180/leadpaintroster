@@ -1,5 +1,5 @@
 ---
-title: "Tess Environmental Services, Marlton, NJ | Lead Roster"
+title: "Tess Environmental Services, Marlton, NJ | Lead Paint Roster"
 description: "Tess Environmental Services: Lead inspection / evaluation in Marlton, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tess-environmental-services-nj0169/
 ---

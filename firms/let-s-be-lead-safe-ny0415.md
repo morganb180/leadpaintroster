@@ -1,5 +1,5 @@
 ---
-title: "Let's Be Lead Safe, Spencerport, NY | Lead Roster"
+title: "Let's Be Lead Safe, Spencerport, NY | Lead Paint Roster"
 description: "Let's Be Lead Safe: Lead abatement, Lead inspection / evaluation in Spencerport, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/let-s-be-lead-safe-ny0415/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "ABC Environmental Services,llc, Watchung, NJ | Lead Roster"
+title: "ABC Environmental Services,llc, Watchung, NJ | Lead Paint Roster"
 description: "ABC Environmental Services,llc: Lead inspection / evaluation in Watchung, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abc-environmental-services-llc-nj0013/
 ---

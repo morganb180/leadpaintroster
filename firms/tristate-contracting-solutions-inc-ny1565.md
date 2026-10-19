@@ -1,5 +1,5 @@
 ---
-title: "Tristate Contracting Solutions Inc, College Point, NY | Lead Roster"
+title: "Tristate Contracting Solutions Inc, College Point, NY | Lead Paint Roster"
 description: "Tristate Contracting Solutions Inc: Lead abatement in College Point, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tristate-contracting-solutions-inc-ny1565/
 ---

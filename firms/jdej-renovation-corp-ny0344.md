@@ -1,5 +1,5 @@
 ---
-title: "JDEJ Renovation Corp., Hempstead, NY | Lead Roster"
+title: "JDEJ Renovation Corp., Hempstead, NY | Lead Paint Roster"
 description: "JDEJ Renovation Corp.: Lead abatement, Lead inspection / evaluation in Hempstead, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jdej-renovation-corp-ny0344/
 ---

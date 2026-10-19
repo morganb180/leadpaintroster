@@ -1,5 +1,5 @@
 ---
-title: "Middle Country Cleaners Inc., Manorville, NY | Lead Roster"
+title: "Middle Country Cleaners Inc., Manorville, NY | Lead Paint Roster"
 description: "Middle Country Cleaners Inc.: Lead abatement in Manorville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/middle-country-cleaners-inc-ny1249/
 ---

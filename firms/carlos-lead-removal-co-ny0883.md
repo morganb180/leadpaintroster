@@ -1,5 +1,5 @@
 ---
-title: "Carlos Lead Removal Co, Brooklyn, NY | Lead Roster"
+title: "Carlos Lead Removal Co, Brooklyn, NY | Lead Paint Roster"
 description: "Carlos Lead Removal Co: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/carlos-lead-removal-co-ny0883/
 ---

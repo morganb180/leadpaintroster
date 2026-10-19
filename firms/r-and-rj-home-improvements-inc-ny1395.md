@@ -1,5 +1,5 @@
 ---
-title: "R and RJ Home Improvements, Inc, New York, NY | Lead Roster"
+title: "R and RJ Home Improvements, Inc, New York, NY | Lead Paint Roster"
 description: "R and RJ Home Improvements, Inc: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/r-and-rj-home-improvements-inc-ny1395/
 ---

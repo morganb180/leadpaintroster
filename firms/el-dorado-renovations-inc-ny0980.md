@@ -1,5 +1,5 @@
 ---
-title: "El Dorado Renovations, Inc., New York, NY | Lead Roster"
+title: "El Dorado Renovations, Inc., New York, NY | Lead Paint Roster"
 description: "El Dorado Renovations, Inc.: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/el-dorado-renovations-inc-ny0980/
 ---

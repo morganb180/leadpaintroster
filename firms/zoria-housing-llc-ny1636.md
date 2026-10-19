@@ -1,5 +1,5 @@
 ---
-title: "Zoria Housing LLC, Richmond Hill, NY | Lead Roster"
+title: "Zoria Housing LLC, Richmond Hill, NY | Lead Paint Roster"
 description: "Zoria Housing LLC: Lead abatement in Richmond Hill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/zoria-housing-llc-ny1636/
 ---

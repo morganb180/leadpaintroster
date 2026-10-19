@@ -1,5 +1,5 @@
 ---
-title: "Colonial Property Management, Airmont, NY | Lead Roster"
+title: "Colonial Property Management, Airmont, NY | Lead Paint Roster"
 description: "Colonial Property Management: Lead abatement in Airmont, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/colonial-property-management-ny0904/
 ---

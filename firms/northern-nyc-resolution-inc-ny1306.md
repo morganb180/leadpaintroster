@@ -1,5 +1,5 @@
 ---
-title: "Northern NYC Resolution Inc., Bronx, NY | Lead Roster"
+title: "Northern NYC Resolution Inc., Bronx, NY | Lead Paint Roster"
 description: "Northern NYC Resolution Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/northern-nyc-resolution-inc-ny1306/
 ---

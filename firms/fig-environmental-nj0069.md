@@ -1,5 +1,5 @@
 ---
-title: "Fig Environmental, Sewell, NJ | Lead Roster"
+title: "Fig Environmental, Sewell, NJ | Lead Paint Roster"
 description: "Fig Environmental: Lead inspection / evaluation in Sewell, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/fig-environmental-nj0069/
 ---

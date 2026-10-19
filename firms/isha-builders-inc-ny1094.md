@@ -1,5 +1,5 @@
 ---
-title: "Isha Builders Inc., Staten Island, NY | Lead Roster"
+title: "Isha Builders Inc., Staten Island, NY | Lead Paint Roster"
 description: "Isha Builders Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/isha-builders-inc-ny1094/
 ---

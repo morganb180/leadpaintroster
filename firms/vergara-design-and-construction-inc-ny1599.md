@@ -1,5 +1,5 @@
 ---
-title: "Vergara Design and Construction, Inc., Queens, NY | Lead Roster"
+title: "Vergara Design and Construction, Inc., Queens, NY | Lead Paint Roster"
 description: "Vergara Design and Construction, Inc.: Lead abatement in Queens, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/vergara-design-and-construction-inc-ny1599/
 ---

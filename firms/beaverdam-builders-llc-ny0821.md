@@ -1,5 +1,5 @@
 ---
-title: "Beaverdam Builders LLC, Roxbury, NY | Lead Roster"
+title: "Beaverdam Builders LLC, Roxbury, NY | Lead Paint Roster"
 description: "Beaverdam Builders LLC: Lead abatement in Roxbury, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/beaverdam-builders-llc-ny0821/
 ---

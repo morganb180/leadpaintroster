@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Yonkers, NY: 35 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Yonkers, NY: 35 Listings | Lead Paint Roster"
 description: "35 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Yonkers, New York, plus 88 more in Westchester County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/yonkers/
 ---

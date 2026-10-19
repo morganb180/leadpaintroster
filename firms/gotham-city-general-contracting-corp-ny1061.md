@@ -1,5 +1,5 @@
 ---
-title: "Gotham City General Contracting Corp., Astoria, NY | Lead Roster"
+title: "Gotham City General Contracting Corp., Astoria, NY | Lead Paint Roster"
 description: "Gotham City General Contracting Corp.: Lead abatement in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gotham-city-general-contracting-corp-ny1061/
 ---

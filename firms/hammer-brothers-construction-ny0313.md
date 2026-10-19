@@ -1,5 +1,5 @@
 ---
-title: "Hammer Brothers Construction, Baldwinsville, NY | Lead Roster"
+title: "Hammer Brothers Construction, Baldwinsville, NY | Lead Paint Roster"
 description: "Hammer Brothers Construction: Lead abatement, Lead inspection / evaluation in Baldwinsville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/hammer-brothers-construction-ny0313/
 ---

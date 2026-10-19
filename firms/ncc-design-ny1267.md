@@ -1,5 +1,5 @@
 ---
-title: "NCC Design, Yonkers, NY | Lead Roster"
+title: "NCC Design, Yonkers, NY | Lead Paint Roster"
 description: "NCC Design: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ncc-design-ny1267/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Hillmann Consulting, LLC, Union, NJ | Lead Roster"
+title: "Hillmann Consulting, LLC, Union, NJ | Lead Paint Roster"
 description: "Hillmann Consulting, LLC: Lead inspection / evaluation in Union, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/hillmann-consulting-llc-nj0079/
 ---

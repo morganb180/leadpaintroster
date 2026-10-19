@@ -1,5 +1,5 @@
 ---
-title: "Peak Construction, Fishkill, NY | Lead Roster"
+title: "Peak Construction, Fishkill, NY | Lead Paint Roster"
 description: "Peak Construction: Lead abatement in Fishkill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/peak-construction-ny1349/
 ---

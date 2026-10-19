@@ -1,5 +1,5 @@
 ---
-title: "GPS Environmental Svcs, Inc., Brooklyn, NY | Lead Roster"
+title: "GPS Environmental Svcs, Inc., Brooklyn, NY | Lead Paint Roster"
 description: "GPS Environmental Svcs, Inc.: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gps-environmental-svcs-inc-ny0286/
 ---

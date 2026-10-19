@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Earth, LLC, Lake Como, NJ | Lead Roster"
+title: "Dynamic Earth, LLC, Lake Como, NJ | Lead Paint Roster"
 description: "Dynamic Earth, LLC: Lead inspection / evaluation in Lake Como, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dynamic-earth-llc-nj0048/
 ---

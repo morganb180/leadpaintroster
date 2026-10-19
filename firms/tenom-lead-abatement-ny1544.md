@@ -1,5 +1,5 @@
 ---
-title: "Tenom Lead Abatement, Brooklyn, NY | Lead Roster"
+title: "Tenom Lead Abatement, Brooklyn, NY | Lead Paint Roster"
 description: "Tenom Lead Abatement: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tenom-lead-abatement-ny1544/
 ---

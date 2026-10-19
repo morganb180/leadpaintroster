@@ -1,5 +1,5 @@
 ---
-title: "Okeno Smith, North Easton, MA | Lead Roster"
+title: "Okeno Smith, North Easton, MA | Lead Paint Roster"
 description: "Okeno Smith: Lead inspection / evaluation in North Easton, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/okeno-smith-ma0034/
 ---

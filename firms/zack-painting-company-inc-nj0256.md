@@ -1,5 +1,5 @@
 ---
-title: "Zack Painting Company, Inc., Fords, NJ | Lead Roster"
+title: "Zack Painting Company, Inc., Fords, NJ | Lead Paint Roster"
 description: "Zack Painting Company, Inc.: Lead abatement in Fords, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/zack-painting-company-inc-nj0256/
 ---

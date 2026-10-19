@@ -1,5 +1,5 @@
 ---
-title: "Ravi Engineering & Land Surveying, P.C., Rochester, NY | Lead Roster"
+title: "Ravi Engineering & Land Surveying, P.C., Rochester, NY | Lead Paint Roster"
 description: "Ravi Engineering & Land Surveying, P.C.: Lead inspection / evaluation in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ravi-engineering-land-surveying-p-c-ny0566/
 ---

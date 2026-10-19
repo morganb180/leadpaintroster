@@ -1,5 +1,5 @@
 ---
-title: "Breeze Environmental, Brooklyn, NY | Lead Roster"
+title: "Breeze Environmental, Brooklyn, NY | Lead Paint Roster"
 description: "Breeze Environmental: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/breeze-environmental-ny0139/
 ---

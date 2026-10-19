@@ -1,5 +1,5 @@
 ---
-title: "Evenhouse Contracting Corp, Long Island City, NY | Lead Roster"
+title: "Evenhouse Contracting Corp, Long Island City, NY | Lead Paint Roster"
 description: "Evenhouse Contracting Corp: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/evenhouse-contracting-corp-ny1003/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Integral Inspection, Troy, NY | Lead Roster"
+title: "Integral Inspection, Troy, NY | Lead Paint Roster"
 description: "Integral Inspection: Lead inspection / evaluation in Troy, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/integral-inspection-ny0335/
 ---

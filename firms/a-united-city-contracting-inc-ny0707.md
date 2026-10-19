@@ -1,5 +1,5 @@
 ---
-title: "A United City Contracting Inc, Ardsley, NY | Lead Roster"
+title: "A United City Contracting Inc, Ardsley, NY | Lead Paint Roster"
 description: "A United City Contracting Inc: Lead abatement in Ardsley, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-united-city-contracting-inc-ny0707/
 ---

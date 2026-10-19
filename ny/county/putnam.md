@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Putnam County, NY: 7 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Putnam County, NY: 7 Listings | Lead Paint Roster"
 description: "7 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Putnam County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/putnam/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Structural Contracting Services, Inc., Mount Vernon, NY | Lead Roster"
+title: "Structural Contracting Services, Inc., Mount Vernon, NY | Lead Paint Roster"
 description: "Structural Contracting Services, Inc.: Lead abatement in Mount Vernon, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/structural-contracting-services-inc-ny1517/
 ---

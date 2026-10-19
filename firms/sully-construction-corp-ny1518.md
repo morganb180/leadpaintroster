@@ -1,5 +1,5 @@
 ---
-title: "Sully Construction Corp, Brooklyn, NY | Lead Roster"
+title: "Sully Construction Corp, Brooklyn, NY | Lead Paint Roster"
 description: "Sully Construction Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sully-construction-corp-ny1518/
 ---

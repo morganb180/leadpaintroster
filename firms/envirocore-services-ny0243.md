@@ -1,5 +1,5 @@
 ---
-title: "EnviroCore Services, College Point, NY | Lead Roster"
+title: "EnviroCore Services, College Point, NY | Lead Paint Roster"
 description: "EnviroCore Services: Lead abatement, Lead inspection / evaluation in College Point, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/envirocore-services-ny0243/
 ---

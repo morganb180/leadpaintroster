@@ -1,5 +1,5 @@
 ---
-title: "Rapex Contracting Corp., New York, NY | Lead Roster"
+title: "Rapex Contracting Corp., New York, NY | Lead Paint Roster"
 description: "Rapex Contracting Corp.: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rapex-contracting-corp-ny1412/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Obsidian Environmental, Suffern, NY | Lead Roster"
+title: "Obsidian Environmental, Suffern, NY | Lead Paint Roster"
 description: "Obsidian Environmental: Lead abatement, Lead inspection / evaluation in Suffern, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/obsidian-environmental-ny0507/
 ---

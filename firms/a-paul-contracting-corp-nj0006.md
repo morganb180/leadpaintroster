@@ -1,5 +1,5 @@
 ---
-title: "A. Paul Contracting Corp., Hillside, NJ | Lead Roster"
+title: "A. Paul Contracting Corp., Hillside, NJ | Lead Paint Roster"
 description: "A. Paul Contracting Corp.: Lead abatement, Lead inspection / evaluation in Hillside, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-paul-contracting-corp-nj0006/
 ---

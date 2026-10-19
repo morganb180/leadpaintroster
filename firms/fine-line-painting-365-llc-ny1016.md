@@ -1,5 +1,5 @@
 ---
-title: "Fine Line Painting 365 LLC, Staten Island, NY | Lead Roster"
+title: "Fine Line Painting 365 LLC, Staten Island, NY | Lead Paint Roster"
 description: "Fine Line Painting 365 LLC: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/fine-line-painting-365-llc-ny1016/
 ---

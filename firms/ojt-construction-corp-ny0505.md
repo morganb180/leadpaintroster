@@ -1,5 +1,5 @@
 ---
-title: "Ojt Construction Corp, Bronx, NY | Lead Roster"
+title: "Ojt Construction Corp, Bronx, NY | Lead Paint Roster"
 description: "Ojt Construction Corp: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ojt-construction-corp-ny0505/
 ---

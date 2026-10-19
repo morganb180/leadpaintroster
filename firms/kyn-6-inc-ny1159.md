@@ -1,5 +1,5 @@
 ---
-title: "Kyn 6 Inc, Centereach, NY | Lead Roster"
+title: "Kyn 6 Inc, Centereach, NY | Lead Paint Roster"
 description: "Kyn 6 Inc: Lead abatement in Centereach, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kyn-6-inc-ny1159/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Maspeth, NY: 17 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Maspeth, NY: 17 Listings | Lead Paint Roster"
 description: "17 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Maspeth, New York, plus 307 more in Queens County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/maspeth/
 ---

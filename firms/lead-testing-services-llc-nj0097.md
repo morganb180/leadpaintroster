@@ -1,5 +1,5 @@
 ---
-title: "Lead Testing Services, LLC, Philadelphia, PA | Lead Roster"
+title: "Lead Testing Services, LLC, Philadelphia, PA | Lead Paint Roster"
 description: "Lead Testing Services, LLC: Lead inspection / evaluation in Philadelphia, PA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-testing-services-llc-nj0097/
 ---

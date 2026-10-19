@@ -1,5 +1,5 @@
 ---
-title: "Galermo, Flushing, NY | Lead Roster"
+title: "Galermo, Flushing, NY | Lead Paint Roster"
 description: "Galermo: Lead abatement, Lead inspection / evaluation in Flushing, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/galermo-ny0289/
 ---

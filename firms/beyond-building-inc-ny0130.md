@@ -1,5 +1,5 @@
 ---
-title: "Beyond Building Inc., Fresh Meadows, NY | Lead Roster"
+title: "Beyond Building Inc., Fresh Meadows, NY | Lead Paint Roster"
 description: "Beyond Building Inc.: Lead abatement, Lead inspection / evaluation in Fresh Meadows, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/beyond-building-inc-ny0130/
 ---

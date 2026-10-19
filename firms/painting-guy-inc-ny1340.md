@@ -1,5 +1,5 @@
 ---
-title: "Painting Guy Inc., Richmond Hill, NY | Lead Roster"
+title: "Painting Guy Inc., Richmond Hill, NY | Lead Paint Roster"
 description: "Painting Guy Inc.: Lead abatement in Richmond Hill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/painting-guy-inc-ny1340/
 ---

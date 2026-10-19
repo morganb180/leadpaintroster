@@ -1,5 +1,5 @@
 ---
-title: "Envirotech Mold Specialists LLC, Brooklyn, NY | Lead Roster"
+title: "Envirotech Mold Specialists LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Envirotech Mold Specialists LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/envirotech-mold-specialists-llc-ny0997/
 ---

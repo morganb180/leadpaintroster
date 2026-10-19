@@ -1,5 +1,5 @@
 ---
-title: "Testor Technology Environmental Services, Inc., Long Island City, NY | Lead Roster"
+title: "Testor Technology Environmental Services, Inc., Long Island City, NY | Lead Paint Roster"
 description: "Testor Technology Environmental Services, Inc.: Lead abatement, Lead inspection / evaluation in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/testor-technology-environmental-services-inc-ny0642/
 ---

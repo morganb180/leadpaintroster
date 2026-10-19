@@ -1,5 +1,5 @@
 ---
-title: "Pipe Wizard, Yorktown, NY | Lead Roster"
+title: "Pipe Wizard, Yorktown, NY | Lead Paint Roster"
 description: "Pipe Wizard: Lead abatement in Yorktown, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pipe-wizard-ny1354/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "United Environmental Services, Brooklyn, NY | Lead Roster"
+title: "United Environmental Services, Brooklyn, NY | Lead Paint Roster"
 description: "United Environmental Services: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/united-environmental-services-ny0659/
 ---

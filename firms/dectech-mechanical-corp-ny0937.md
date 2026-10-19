@@ -1,5 +1,5 @@
 ---
-title: "Dectech Mechanical, Corp., Yonkers, NY | Lead Roster"
+title: "Dectech Mechanical, Corp., Yonkers, NY | Lead Paint Roster"
 description: "Dectech Mechanical, Corp.: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dectech-mechanical-corp-ny0937/
 ---

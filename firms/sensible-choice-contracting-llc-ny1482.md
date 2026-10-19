@@ -1,5 +1,5 @@
 ---
-title: "Sensible Choice Contracting, LLC, Ossining, NY | Lead Roster"
+title: "Sensible Choice Contracting, LLC, Ossining, NY | Lead Paint Roster"
 description: "Sensible Choice Contracting, LLC: Lead abatement in Ossining, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sensible-choice-contracting-llc-ny1482/
 ---

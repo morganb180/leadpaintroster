@@ -1,5 +1,5 @@
 ---
-title: "GNP Environmental Inc., Brooklyn, NY | Lead Roster"
+title: "GNP Environmental Inc., Brooklyn, NY | Lead Paint Roster"
 description: "GNP Environmental Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gnp-environmental-inc-ny1044/
 ---

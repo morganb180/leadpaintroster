@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Bronx, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Bronx, NY | Lead Paint Roster"
 description: "Bronx, NY lead paint guide: 47 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/bronx/guide/
 ---

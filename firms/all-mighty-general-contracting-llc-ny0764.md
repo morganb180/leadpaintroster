@@ -1,5 +1,5 @@
 ---
-title: "All Mighty General Contracting LLC, Albany, NY | Lead Roster"
+title: "All Mighty General Contracting LLC, Albany, NY | Lead Paint Roster"
 description: "All Mighty General Contracting LLC: Lead abatement in Albany, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/all-mighty-general-contracting-llc-ny0764/
 ---

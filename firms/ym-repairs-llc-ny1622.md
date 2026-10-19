@@ -1,5 +1,5 @@
 ---
-title: "YM Repairs LLC, Woodridge, NY | Lead Roster"
+title: "YM Repairs LLC, Woodridge, NY | Lead Paint Roster"
 description: "YM Repairs LLC: Lead abatement in Woodridge, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ym-repairs-llc-ny1622/
 ---

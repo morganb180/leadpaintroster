@@ -1,5 +1,5 @@
 ---
-title: "Ziccor Capital Construction, Inc., Staten Island, NY | Lead Roster"
+title: "Ziccor Capital Construction, Inc., Staten Island, NY | Lead Paint Roster"
 description: "Ziccor Capital Construction, Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ziccor-capital-construction-inc-ny1635/
 ---

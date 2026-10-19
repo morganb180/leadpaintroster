@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Lakewood, NJ: 5 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Lakewood, NJ: 5 Listings | Lead Paint Roster"
 description: "5 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms based in Lakewood, New Jersey, plus 5 more in Ocean County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/nj/city/lakewood/
 ---

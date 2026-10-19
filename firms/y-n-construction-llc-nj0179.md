@@ -1,5 +1,5 @@
 ---
-title: "Y & N Construction, LLC., Newark, NJ | Lead Roster"
+title: "Y & N Construction, LLC., Newark, NJ | Lead Paint Roster"
 description: "Y & N Construction, LLC.: Lead inspection / evaluation in Newark, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/y-n-construction-llc-nj0179/
 ---

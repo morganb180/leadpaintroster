@@ -1,5 +1,5 @@
 ---
-title: "Arko Construction, Corp, Brooklyn, NY | Lead Roster"
+title: "Arko Construction, Corp, Brooklyn, NY | Lead Paint Roster"
 description: "Arko Construction, Corp: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/arko-construction-corp-ny0097/
 ---

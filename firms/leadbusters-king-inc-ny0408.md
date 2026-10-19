@@ -1,5 +1,5 @@
 ---
-title: "LeadBusters King Inc., Brooklyn, NY | Lead Roster"
+title: "LeadBusters King Inc., Brooklyn, NY | Lead Paint Roster"
 description: "LeadBusters King Inc.: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/leadbusters-king-inc-ny0408/
 ---

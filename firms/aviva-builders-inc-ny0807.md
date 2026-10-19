@@ -1,5 +1,5 @@
 ---
-title: "Aviva Builders, Inc., New York, NY | Lead Roster"
+title: "Aviva Builders, Inc., New York, NY | Lead Paint Roster"
 description: "Aviva Builders, Inc.: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/aviva-builders-inc-ny0807/
 ---

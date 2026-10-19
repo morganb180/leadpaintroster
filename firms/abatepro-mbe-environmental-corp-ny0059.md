@@ -1,5 +1,5 @@
 ---
-title: "AbatePro MBE Environmental Corp, Bronx, NY | Lead Roster"
+title: "AbatePro MBE Environmental Corp, Bronx, NY | Lead Paint Roster"
 description: "AbatePro MBE Environmental Corp: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abatepro-mbe-environmental-corp-ny0059/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "BEP Environmental Services, Ridge, NY | Lead Roster"
+title: "BEP Environmental Services, Ridge, NY | Lead Paint Roster"
 description: "BEP Environmental Services: Lead abatement, Lead inspection / evaluation in Ridge, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bep-environmental-services-ny0115/
 ---

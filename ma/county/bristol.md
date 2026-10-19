@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Bristol County, MA: 8 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Bristol County, MA: 8 Listings | Lead Paint Roster"
 description: "8 MA-licensed lead paint inspectors, risk assessors and abatement firms in Bristol County, Massachusetts, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ma/county/bristol/
 ---

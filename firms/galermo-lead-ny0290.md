@@ -1,5 +1,5 @@
 ---
-title: "Galermo Lead, Woodside, NY | Lead Roster"
+title: "Galermo Lead, Woodside, NY | Lead Paint Roster"
 description: "Galermo Lead: Lead abatement, Lead inspection / evaluation in Woodside, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/galermo-lead-ny0290/
 ---

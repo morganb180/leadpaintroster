@@ -1,5 +1,5 @@
 ---
-title: "Chautauqua Home Rehabilitation & Improvement Corp., Mayville, NY | Lead Roster"
+title: "Chautauqua Home Rehabilitation & Improvement Corp., Mayville, NY | Lead Paint Roster"
 description: "Chautauqua Home Rehabilitation & Improvement Corp.: Lead inspection / evaluation in Mayville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/chautauqua-home-rehabilitation-improvement-corp-ny0164/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Edelweiss Khust, Inc, Brooklyn, NY | Lead Roster"
+title: "Edelweiss Khust, Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Edelweiss Khust, Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/edelweiss-khust-inc-ny0979/
 ---

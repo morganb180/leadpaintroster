@@ -1,5 +1,5 @@
 ---
-title: "A to Z Lead Abatement Corp, Brooklyn, NY | Lead Roster"
+title: "A to Z Lead Abatement Corp, Brooklyn, NY | Lead Paint Roster"
 description: "A to Z Lead Abatement Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-to-z-lead-abatement-corp-ny0708/
 ---

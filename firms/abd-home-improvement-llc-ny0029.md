@@ -1,5 +1,5 @@
 ---
-title: "ABD Home Improvement LLC, Buffalo, NY | Lead Roster"
+title: "ABD Home Improvement LLC, Buffalo, NY | Lead Paint Roster"
 description: "ABD Home Improvement LLC: Lead abatement, Lead inspection / evaluation in Buffalo, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abd-home-improvement-llc-ny0029/
 ---

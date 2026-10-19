@@ -1,5 +1,5 @@
 ---
-title: "Pro Build Restoration Inc, Brooklyn, NY | Lead Roster"
+title: "Pro Build Restoration Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Pro Build Restoration Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pro-build-restoration-inc-ny0541/
 ---

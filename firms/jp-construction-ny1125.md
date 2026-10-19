@@ -1,5 +1,5 @@
 ---
-title: "JP Construction, Lockport, NY | Lead Roster"
+title: "JP Construction, Lockport, NY | Lead Paint Roster"
 description: "JP Construction: Lead abatement in Lockport, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jp-construction-ny1125/
 ---

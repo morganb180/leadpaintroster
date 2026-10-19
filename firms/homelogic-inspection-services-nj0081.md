@@ -1,5 +1,5 @@
 ---
-title: "Homelogic Inspection Services, Wayne, NJ | Lead Roster"
+title: "Homelogic Inspection Services, Wayne, NJ | Lead Paint Roster"
 description: "Homelogic Inspection Services: Lead inspection / evaluation in Wayne, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/homelogic-inspection-services-nj0081/
 ---

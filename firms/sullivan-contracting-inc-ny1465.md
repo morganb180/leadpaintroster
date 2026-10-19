@@ -1,5 +1,5 @@
 ---
-title: "Sullivan Contracting, Inc., Sauquoit, NY | Lead Roster"
+title: "Sullivan Contracting, Inc., Sauquoit, NY | Lead Paint Roster"
 description: "Sullivan Contracting, Inc.: Lead abatement in Sauquoit, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sullivan-contracting-inc-ny1465/
 ---

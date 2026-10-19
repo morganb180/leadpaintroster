@@ -1,5 +1,5 @@
 ---
-title: "Nella Consulting Inc, Peekskill, NY | Lead Roster"
+title: "Nella Consulting Inc, Peekskill, NY | Lead Paint Roster"
 description: "Nella Consulting Inc: Lead abatement, Lead inspection / evaluation in Peekskill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nella-consulting-inc-ny0489/
 ---

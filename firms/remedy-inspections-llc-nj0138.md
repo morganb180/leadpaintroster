@@ -1,5 +1,5 @@
 ---
-title: "Remedy Inspections, LLC, Rockaway, NJ | Lead Roster"
+title: "Remedy Inspections, LLC, Rockaway, NJ | Lead Paint Roster"
 description: "Remedy Inspections, LLC: Lead inspection / evaluation in Rockaway, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/remedy-inspections-llc-nj0138/
 ---

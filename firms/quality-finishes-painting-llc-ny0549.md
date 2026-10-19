@@ -1,5 +1,5 @@
 ---
-title: "Quality Finishes Painting LLC, Bronx, NY | Lead Roster"
+title: "Quality Finishes Painting LLC, Bronx, NY | Lead Paint Roster"
 description: "Quality Finishes Painting LLC: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/quality-finishes-painting-llc-ny0549/
 ---

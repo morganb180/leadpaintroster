@@ -1,5 +1,5 @@
 ---
-title: "Get free quotes | Lead Roster"
+title: "Get free quotes | Lead Paint Roster"
 description: "Send one request to up to 3 certified lead professionals near you."
 canonical: https://leadpaintroster.com/get-quotes/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "KosHead Inc, Crompond, NY | Lead Roster"
+title: "KosHead Inc, Crompond, NY | Lead Paint Roster"
 description: "KosHead Inc: Lead abatement in Crompond, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/koshead-inc-ny1158/
 ---

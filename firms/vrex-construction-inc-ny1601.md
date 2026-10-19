@@ -1,5 +1,5 @@
 ---
-title: "Vrex Construction Inc., Bronx, NY | Lead Roster"
+title: "Vrex Construction Inc., Bronx, NY | Lead Paint Roster"
 description: "Vrex Construction Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/vrex-construction-inc-ny1601/
 ---

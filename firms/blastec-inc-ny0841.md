@@ -1,5 +1,5 @@
 ---
-title: "Blastec Inc., Rochester, NY | Lead Roster"
+title: "Blastec Inc., Rochester, NY | Lead Paint Roster"
 description: "Blastec Inc.: Lead abatement in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/blastec-inc-ny0841/
 ---

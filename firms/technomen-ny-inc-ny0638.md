@@ -1,5 +1,5 @@
 ---
-title: "Technomen NY, Inc, Franklin Square, NY | Lead Roster"
+title: "Technomen NY, Inc, Franklin Square, NY | Lead Paint Roster"
 description: "Technomen NY, Inc: Lead abatement, Lead inspection / evaluation in Franklin Square, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/technomen-ny-inc-ny0638/
 ---

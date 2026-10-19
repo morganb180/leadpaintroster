@@ -1,5 +1,5 @@
 ---
-title: "Ambient Environmental, Inc., Albany, NY | Lead Roster"
+title: "Ambient Environmental, Inc., Albany, NY | Lead Paint Roster"
 description: "Ambient Environmental, Inc.: Lead inspection / evaluation in Albany, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ambient-environmental-inc-ny0086/
 ---

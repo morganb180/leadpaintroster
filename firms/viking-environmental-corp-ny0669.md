@@ -1,5 +1,5 @@
 ---
-title: "Viking Environmental Corp, White Plains, NY | Lead Roster"
+title: "Viking Environmental Corp, White Plains, NY | Lead Paint Roster"
 description: "Viking Environmental Corp: Lead inspection / evaluation in White Plains, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/viking-environmental-corp-ny0669/
 ---

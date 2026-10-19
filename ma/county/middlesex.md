@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Middlesex County, MA: 18 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Middlesex County, MA: 18 Listings | Lead Paint Roster"
 description: "18 MA-licensed lead paint inspectors, risk assessors and abatement firms in Middlesex County, Massachusetts, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ma/county/middlesex/
 ---

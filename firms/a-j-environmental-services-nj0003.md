@@ -1,5 +1,5 @@
 ---
-title: "A J Environmental Services, Lakewood, NJ | Lead Roster"
+title: "A J Environmental Services, Lakewood, NJ | Lead Paint Roster"
 description: "A J Environmental Services: Lead abatement, Lead inspection / evaluation in Lakewood, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-j-environmental-services-nj0003/
 ---

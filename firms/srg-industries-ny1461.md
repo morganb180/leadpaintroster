@@ -1,5 +1,5 @@
 ---
-title: "SRG Industries, Buffalo, NY | Lead Roster"
+title: "SRG Industries, Buffalo, NY | Lead Paint Roster"
 description: "SRG Industries: Lead abatement in Buffalo, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/srg-industries-ny1461/
 ---

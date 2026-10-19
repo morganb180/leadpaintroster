@@ -1,5 +1,5 @@
 ---
-title: "Umoren Inc., Mount Holly, NJ | Lead Roster"
+title: "Umoren Inc., Mount Holly, NJ | Lead Paint Roster"
 description: "Umoren Inc.: Lead inspection / evaluation in Mount Holly, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/umoren-inc-nj0174/
 ---

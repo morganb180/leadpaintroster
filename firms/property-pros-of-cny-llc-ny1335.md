@@ -1,5 +1,5 @@
 ---
-title: "Property Pros of Cny LLC, East Syracuse, NY | Lead Roster"
+title: "Property Pros of Cny LLC, East Syracuse, NY | Lead Paint Roster"
 description: "Property Pros of Cny LLC: Lead abatement in East Syracuse, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/property-pros-of-cny-llc-ny1335/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Jay Frango LLC, Howard Beach, NY | Lead Roster"
+title: "Jay Frango LLC, Howard Beach, NY | Lead Paint Roster"
 description: "Jay Frango LLC: Lead abatement in Howard Beach, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jay-frango-llc-ny1136/
 ---

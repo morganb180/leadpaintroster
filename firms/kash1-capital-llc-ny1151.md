@@ -1,5 +1,5 @@
 ---
-title: "Kash1 Capital LLC, New York, NY | Lead Roster"
+title: "Kash1 Capital LLC, New York, NY | Lead Paint Roster"
 description: "Kash1 Capital LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kash1-capital-llc-ny1151/
 ---

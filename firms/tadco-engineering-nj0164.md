@@ -1,5 +1,5 @@
 ---
-title: "Tadco Engineering, Lyndhurst, NJ | Lead Roster"
+title: "Tadco Engineering, Lyndhurst, NJ | Lead Paint Roster"
 description: "Tadco Engineering: Lead inspection / evaluation in Lyndhurst, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tadco-engineering-nj0164/
 ---

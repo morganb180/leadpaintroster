@@ -1,5 +1,5 @@
 ---
-title: "J & Sons Construction Group, Inc., Staten Island, NY | Lead Roster"
+title: "J & Sons Construction Group, Inc., Staten Island, NY | Lead Paint Roster"
 description: "J & Sons Construction Group, Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/j-sons-construction-group-inc-ny1107/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Zaman Construction Corp., Ozone Park, NY | Lead Roster"
+title: "Zaman Construction Corp., Ozone Park, NY | Lead Paint Roster"
 description: "Zaman Construction Corp.: Lead abatement in Ozone Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/zaman-construction-corp-ny1631/
 ---

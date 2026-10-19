@@ -1,5 +1,5 @@
 ---
-title: "Jpi Painting Inc., Lowellville, OH | Lead Roster"
+title: "Jpi Painting Inc., Lowellville, OH | Lead Paint Roster"
 description: "Jpi Painting Inc.: Lead abatement in Lowellville, OH. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jpi-painting-inc-nj0225/
 ---

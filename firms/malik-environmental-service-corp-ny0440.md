@@ -1,5 +1,5 @@
 ---
-title: "Malik Environmental Service Corp, Staten Island, NY | Lead Roster"
+title: "Malik Environmental Service Corp, Staten Island, NY | Lead Paint Roster"
 description: "Malik Environmental Service Corp: Lead abatement, Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/malik-environmental-service-corp-ny0440/
 ---

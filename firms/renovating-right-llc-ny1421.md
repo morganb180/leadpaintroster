@@ -1,5 +1,5 @@
 ---
-title: "Renovating Right LLC, Yonkers, NY | Lead Roster"
+title: "Renovating Right LLC, Yonkers, NY | Lead Paint Roster"
 description: "Renovating Right LLC: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/renovating-right-llc-ny1421/
 ---

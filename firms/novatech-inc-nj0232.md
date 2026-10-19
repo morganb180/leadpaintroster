@@ -1,5 +1,5 @@
 ---
-title: "Novatech Inc., Avenel, NJ | Lead Roster"
+title: "Novatech Inc., Avenel, NJ | Lead Paint Roster"
 description: "Novatech Inc.: Lead abatement in Avenel, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/novatech-inc-nj0232/
 ---

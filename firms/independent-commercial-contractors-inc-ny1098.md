@@ -1,5 +1,5 @@
 ---
-title: "Independent Commercial Contractors Inc., Lorraine, NY | Lead Roster"
+title: "Independent Commercial Contractors Inc., Lorraine, NY | Lead Paint Roster"
 description: "Independent Commercial Contractors Inc.: Lead abatement in Lorraine, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/independent-commercial-contractors-inc-ny1098/
 ---

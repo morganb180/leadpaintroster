@@ -1,5 +1,5 @@
 ---
-title: "Landlord Lead Paint Rules: NJ, NYC & Massachusetts | Lead Roster"
+title: "Landlord Lead Paint Rules: NJ, NYC & Massachusetts | Lead Paint Roster"
 description: "Plain-language summary of lead paint inspection rules in New Jersey, New York City and Massachusetts."
 canonical: https://leadpaintroster.com/lead-paint-rules-by-state/
 ---

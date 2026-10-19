@@ -1,5 +1,5 @@
 ---
-title: "Rip cord production LLC, New York, NY | Lead Roster"
+title: "Rip cord production LLC, New York, NY | Lead Paint Roster"
 description: "Rip cord production LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rip-cord-production-llc-ny1429/
 ---

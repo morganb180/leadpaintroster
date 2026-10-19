@@ -1,5 +1,5 @@
 ---
-title: "Pal Environmental Safety Corp., Long Island City, NY | Lead Roster"
+title: "Pal Environmental Safety Corp., Long Island City, NY | Lead Paint Roster"
 description: "Pal Environmental Safety Corp.: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pal-environmental-safety-corp-nj0233/
 ---

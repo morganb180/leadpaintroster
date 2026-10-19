@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Plainview, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Plainview, NY | Lead Paint Roster"
 description: "Plainview, NY lead paint guide: 2 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/plainview/guide/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Venia Contracting LLC, Woodbury, NY | Lead Roster"
+title: "Venia Contracting LLC, Woodbury, NY | Lead Paint Roster"
 description: "Venia Contracting LLC: Lead abatement in Woodbury, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/venia-contracting-llc-ny1596/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tristate Restoration, Jericho, NY | Lead Roster"
+title: "Tristate Restoration, Jericho, NY | Lead Paint Roster"
 description: "Tristate Restoration: Lead abatement in Jericho, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tristate-restoration-ny1566/
 ---

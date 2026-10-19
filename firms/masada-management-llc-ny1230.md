@@ -1,5 +1,5 @@
 ---
-title: "Masada Management LLC, Great Neck, NY | Lead Roster"
+title: "Masada Management LLC, Great Neck, NY | Lead Paint Roster"
 description: "Masada Management LLC: Lead abatement in Great Neck, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/masada-management-llc-ny1230/
 ---

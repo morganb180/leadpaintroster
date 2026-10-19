@@ -1,5 +1,5 @@
 ---
-title: "Superior Exteriors of the Finger Lakes,LLC, Newark, NY | Lead Roster"
+title: "Superior Exteriors of the Finger Lakes,LLC, Newark, NY | Lead Paint Roster"
 description: "Superior Exteriors of the Finger Lakes,LLC: Lead abatement in Newark, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/superior-exteriors-of-the-finger-lakes-llc-ny1523/
 ---

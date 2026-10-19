@@ -1,5 +1,5 @@
 ---
-title: "Kemp Group Corp, Brooklyn, NY | Lead Roster"
+title: "Kemp Group Corp, Brooklyn, NY | Lead Paint Roster"
 description: "Kemp Group Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kemp-group-corp-ny1153/
 ---

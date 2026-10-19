@@ -1,5 +1,5 @@
 ---
-title: "Barretos Services LLC, Mount Vernon, NY | Lead Roster"
+title: "Barretos Services LLC, Mount Vernon, NY | Lead Paint Roster"
 description: "Barretos Services LLC: Lead abatement, Lead inspection / evaluation in Mount Vernon, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/barretos-services-llc-ny0123/
 ---

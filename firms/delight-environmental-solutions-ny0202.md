@@ -1,5 +1,5 @@
 ---
-title: "Delight Environmental Solutions, Hempstead, NY | Lead Roster"
+title: "Delight Environmental Solutions, Hempstead, NY | Lead Paint Roster"
 description: "Delight Environmental Solutions: Lead abatement, Lead inspection / evaluation in Hempstead, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/delight-environmental-solutions-ny0202/
 ---

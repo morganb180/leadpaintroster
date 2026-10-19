@@ -1,5 +1,5 @@
 ---
-title: "Manhattan Lead LLC, Brooklyn, NY | Lead Roster"
+title: "Manhattan Lead LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Manhattan Lead LLC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/manhattan-lead-llc-ny0443/
 ---

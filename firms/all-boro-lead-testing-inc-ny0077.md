@@ -1,5 +1,5 @@
 ---
-title: "All Boro Lead Testing Inc., Whitestone, NY | Lead Roster"
+title: "All Boro Lead Testing Inc., Whitestone, NY | Lead Paint Roster"
 description: "All Boro Lead Testing Inc.: Lead inspection / evaluation in Whitestone, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/all-boro-lead-testing-inc-ny0077/
 ---

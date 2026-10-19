@@ -1,5 +1,5 @@
 ---
-title: "Lam Environmental LLC, Briarwood, NY | Lead Roster"
+title: "Lam Environmental LLC, Briarwood, NY | Lead Paint Roster"
 description: "Lam Environmental LLC: Lead abatement, Lead inspection / evaluation in Briarwood, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lam-environmental-llc-ny0378/
 ---

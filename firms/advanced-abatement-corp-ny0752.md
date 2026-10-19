@@ -1,5 +1,5 @@
 ---
-title: "Advanced Abatement Corp, Brooklyn, NY | Lead Roster"
+title: "Advanced Abatement Corp, Brooklyn, NY | Lead Paint Roster"
 description: "Advanced Abatement Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/advanced-abatement-corp-ny0752/
 ---

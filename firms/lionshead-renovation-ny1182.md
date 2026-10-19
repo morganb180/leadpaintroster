@@ -1,5 +1,5 @@
 ---
-title: "Lionshead Renovation, New York, NY | Lead Roster"
+title: "Lionshead Renovation, New York, NY | Lead Paint Roster"
 description: "Lionshead Renovation: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lionshead-renovation-ny1182/
 ---

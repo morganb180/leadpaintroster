@@ -1,5 +1,5 @@
 ---
-title: "Project Solutions Development Group Inc., Long Island City, NY | Lead Roster"
+title: "Project Solutions Development Group Inc., Long Island City, NY | Lead Paint Roster"
 description: "Project Solutions Development Group Inc.: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/project-solutions-development-group-inc-ny1377/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Bgi Resources International, Cherry Hill, NJ | Lead Roster"
+title: "Bgi Resources International, Cherry Hill, NJ | Lead Paint Roster"
 description: "Bgi Resources International: Lead abatement in Cherry Hill, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bgi-resources-international-nj0201/
 ---

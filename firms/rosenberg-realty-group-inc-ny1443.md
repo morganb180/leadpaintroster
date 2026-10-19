@@ -1,5 +1,5 @@
 ---
-title: "Rosenberg Realty Group, Inc, Bronx, NY | Lead Roster"
+title: "Rosenberg Realty Group, Inc, Bronx, NY | Lead Paint Roster"
 description: "Rosenberg Realty Group, Inc: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rosenberg-realty-group-inc-ny1443/
 ---

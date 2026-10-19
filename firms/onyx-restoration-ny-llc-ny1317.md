@@ -1,5 +1,5 @@
 ---
-title: "Onyx Restoration NY LLC, New City, NY | Lead Roster"
+title: "Onyx Restoration NY LLC, New City, NY | Lead Paint Roster"
 description: "Onyx Restoration NY LLC: Lead abatement in New City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/onyx-restoration-ny-llc-ny1317/
 ---

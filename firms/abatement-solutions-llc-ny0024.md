@@ -1,5 +1,5 @@
 ---
-title: "Abatement Solutions LLC, Brooklyn, NY | Lead Roster"
+title: "Abatement Solutions LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Abatement Solutions LLC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abatement-solutions-llc-ny0024/
 ---

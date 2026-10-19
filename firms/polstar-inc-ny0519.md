@@ -1,5 +1,5 @@
 ---
-title: "Polstar Inc, New City, NY | Lead Roster"
+title: "Polstar Inc, New City, NY | Lead Paint Roster"
 description: "Polstar Inc: Lead abatement, Lead inspection / evaluation in New City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/polstar-inc-ny0519/
 ---

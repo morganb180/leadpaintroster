@@ -1,5 +1,5 @@
 ---
-title: "Plum Impressions Inc., Buffalo, NY | Lead Roster"
+title: "Plum Impressions Inc., Buffalo, NY | Lead Paint Roster"
 description: "Plum Impressions Inc.: Lead abatement, Lead inspection / evaluation in Buffalo, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/plum-impressions-inc-ny0530/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "90West Group, LLC, Buffalo, NY | Lead Roster"
+title: "90West Group, LLC, Buffalo, NY | Lead Paint Roster"
 description: "90West Group, LLC: Lead abatement in Buffalo, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/90west-group-llc-ny0699/
 ---

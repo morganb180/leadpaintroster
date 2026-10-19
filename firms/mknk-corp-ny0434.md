@@ -1,5 +1,5 @@
 ---
-title: "Mknk Corp., Brooklyn, NY | Lead Roster"
+title: "Mknk Corp., Brooklyn, NY | Lead Paint Roster"
 description: "Mknk Corp.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mknk-corp-ny0434/
 ---

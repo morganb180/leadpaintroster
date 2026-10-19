@@ -1,5 +1,5 @@
 ---
-title: "Andriola Environmental, Katonah, NY | Lead Roster"
+title: "Andriola Environmental, Katonah, NY | Lead Paint Roster"
 description: "Andriola Environmental: Lead inspection / evaluation in Katonah, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/andriola-environmental-ny0089/
 ---

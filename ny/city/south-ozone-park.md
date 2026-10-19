@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in South Ozone Park, NY: 7 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in South Ozone Park, NY: 7 Listings | Lead Paint Roster"
 description: "7 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in South Ozone Park, New York, plus 317 more in Queens County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/south-ozone-park/
 ---

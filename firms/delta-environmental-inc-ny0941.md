@@ -1,5 +1,5 @@
 ---
-title: "Delta Environmental, Inc., Brooklyn, NY | Lead Roster"
+title: "Delta Environmental, Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Delta Environmental, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/delta-environmental-inc-ny0941/
 ---

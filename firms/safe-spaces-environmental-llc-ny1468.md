@@ -1,5 +1,5 @@
 ---
-title: "Safe Spaces Environmental LLC, Bronx, NY | Lead Roster"
+title: "Safe Spaces Environmental LLC, Bronx, NY | Lead Paint Roster"
 description: "Safe Spaces Environmental LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/safe-spaces-environmental-llc-ny1468/
 ---

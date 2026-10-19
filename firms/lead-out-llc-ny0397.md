@@ -1,5 +1,5 @@
 ---
-title: "Lead Out LLC, Albany, NY | Lead Roster"
+title: "Lead Out LLC, Albany, NY | Lead Paint Roster"
 description: "Lead Out LLC: Lead abatement, Lead inspection / evaluation in Albany, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-out-llc-ny0397/
 ---

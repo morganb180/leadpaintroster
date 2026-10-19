@@ -1,5 +1,5 @@
 ---
-title: "Rising Sun Construction US Inc, Staten Island, NY | Lead Roster"
+title: "Rising Sun Construction US Inc, Staten Island, NY | Lead Paint Roster"
 description: "Rising Sun Construction US Inc: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rising-sun-construction-us-inc-ny1431/
 ---

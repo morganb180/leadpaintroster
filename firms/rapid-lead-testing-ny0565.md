@@ -1,5 +1,5 @@
 ---
-title: "Rapid Lead Testing, Rego Park, NY | Lead Roster"
+title: "Rapid Lead Testing, Rego Park, NY | Lead Paint Roster"
 description: "Rapid Lead Testing: Lead inspection / evaluation in Rego Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rapid-lead-testing-ny0565/
 ---

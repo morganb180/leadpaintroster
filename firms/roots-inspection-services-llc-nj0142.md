@@ -1,5 +1,5 @@
 ---
-title: "Roots Inspection Services, LLC, Scotch Plains, NJ | Lead Roster"
+title: "Roots Inspection Services, LLC, Scotch Plains, NJ | Lead Paint Roster"
 description: "Roots Inspection Services, LLC: Lead inspection / evaluation in Scotch Plains, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/roots-inspection-services-llc-nj0142/
 ---

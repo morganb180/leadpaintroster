@@ -1,5 +1,5 @@
 ---
-title: "Pride Construction & Restoration Corp, Bronx, NY | Lead Roster"
+title: "Pride Construction & Restoration Corp, Bronx, NY | Lead Paint Roster"
 description: "Pride Construction & Restoration Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pride-construction-restoration-corp-ny1367/
 ---

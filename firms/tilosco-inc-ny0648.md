@@ -1,5 +1,5 @@
 ---
-title: "Tilosco Inc, Brooklyn, NY | Lead Roster"
+title: "Tilosco Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Tilosco Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tilosco-inc-ny0648/
 ---

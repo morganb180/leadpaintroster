@@ -1,5 +1,5 @@
 ---
-title: "Remedify Corporation, Brooklyn, NY | Lead Roster"
+title: "Remedify Corporation, Brooklyn, NY | Lead Paint Roster"
 description: "Remedify Corporation: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/remedify-corporation-ny0571/
 ---

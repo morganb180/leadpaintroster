@@ -1,5 +1,5 @@
 ---
-title: "Enviro Solutions Inc, Newburgh, NY | Lead Roster"
+title: "Enviro Solutions Inc, Newburgh, NY | Lead Paint Roster"
 description: "Enviro Solutions Inc: Lead abatement, Lead inspection / evaluation in Newburgh, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/enviro-solutions-inc-ny0239/
 ---

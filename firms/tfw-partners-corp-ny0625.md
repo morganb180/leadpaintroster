@@ -1,5 +1,5 @@
 ---
-title: "TFW Partners Corp, South Ozone Park, NY | Lead Roster"
+title: "TFW Partners Corp, South Ozone Park, NY | Lead Paint Roster"
 description: "TFW Partners Corp: Lead abatement, Lead inspection / evaluation in South Ozone Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tfw-partners-corp-ny0625/
 ---

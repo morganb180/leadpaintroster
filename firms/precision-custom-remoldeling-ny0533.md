@@ -1,5 +1,5 @@
 ---
-title: "Precision Custom Remoldeling, Huntington, NY | Lead Roster"
+title: "Precision Custom Remoldeling, Huntington, NY | Lead Paint Roster"
 description: "Precision Custom Remoldeling: Lead abatement, Lead inspection / evaluation in Huntington, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/precision-custom-remoldeling-ny0533/
 ---

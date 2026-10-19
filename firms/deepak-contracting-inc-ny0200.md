@@ -1,5 +1,5 @@
 ---
-title: "Deepak Contracting Inc., Valley Stream, NY | Lead Roster"
+title: "Deepak Contracting Inc., Valley Stream, NY | Lead Paint Roster"
 description: "Deepak Contracting Inc.: Lead abatement, Lead inspection / evaluation in Valley Stream, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/deepak-contracting-inc-ny0200/
 ---

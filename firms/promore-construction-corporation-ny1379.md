@@ -1,5 +1,5 @@
 ---
-title: "Promore Construction Corporation, Woodhaven, NY | Lead Roster"
+title: "Promore Construction Corporation, Woodhaven, NY | Lead Paint Roster"
 description: "Promore Construction Corporation: Lead abatement in Woodhaven, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/promore-construction-corporation-ny1379/
 ---

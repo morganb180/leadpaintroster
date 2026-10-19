@@ -1,5 +1,5 @@
 ---
-title: "AJ MGMT Solutions, LLC, Cedarhurst, NY | Lead Roster"
+title: "AJ MGMT Solutions, LLC, Cedarhurst, NY | Lead Paint Roster"
 description: "AJ MGMT Solutions, LLC: Lead abatement, Lead inspection / evaluation in Cedarhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/aj-mgmt-solutions-llc-ny0038/
 ---

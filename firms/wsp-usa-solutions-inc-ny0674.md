@@ -1,5 +1,5 @@
 ---
-title: "WSP USA Solutions Inc., New York, NY | Lead Roster"
+title: "WSP USA Solutions Inc., New York, NY | Lead Paint Roster"
 description: "WSP USA Solutions Inc.: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/wsp-usa-solutions-inc-ny0674/
 ---

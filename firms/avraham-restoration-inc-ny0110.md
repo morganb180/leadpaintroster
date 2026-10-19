@@ -1,5 +1,5 @@
 ---
-title: "Avraham Restoration Inc, Brooklyn, NY | Lead Roster"
+title: "Avraham Restoration Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Avraham Restoration Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/avraham-restoration-inc-ny0110/
 ---

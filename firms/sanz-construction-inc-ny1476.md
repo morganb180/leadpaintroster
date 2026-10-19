@@ -1,5 +1,5 @@
 ---
-title: "Sanz Construction Inc., Staten Island, NY | Lead Roster"
+title: "Sanz Construction Inc., Staten Island, NY | Lead Paint Roster"
 description: "Sanz Construction Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sanz-construction-inc-ny1476/
 ---

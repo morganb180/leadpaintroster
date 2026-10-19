@@ -1,5 +1,5 @@
 ---
-title: "J Express Realty, Brooklyn, NY | Lead Roster"
+title: "J Express Realty, Brooklyn, NY | Lead Paint Roster"
 description: "J Express Realty: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/j-express-realty-ny0338/
 ---

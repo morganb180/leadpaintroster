@@ -1,12 +1,12 @@
 ---
-title: "For Professionals: Free Listings & Advertising | Lead Roster"
-description: "Every licensee on the NJ DCA, EPA, MA lists gets a free Lead Roster listing. Claim it, correct it, or ask about featured placement."
+title: "For Professionals: Free Listings & Advertising | Lead Paint Roster"
+description: "Every licensee on the NJ DCA, EPA, MA lists gets a free Lead Paint Roster listing. Claim it, correct it, or ask about featured placement."
 canonical: https://leadpaintroster.com/for-pros/
 ---
 
 # For professionals
 
-Every current licensee on the NJ DCA, EPA, MA lists gets a free listing on Lead Roster, built from the official record and linked to it.
+Every current licensee on the NJ DCA, EPA, MA lists gets a free listing on Lead Paint Roster, built from the official record and linked to it.
 
 ## Free listing
 

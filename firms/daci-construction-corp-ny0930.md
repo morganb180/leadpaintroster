@@ -1,5 +1,5 @@
 ---
-title: "Daci Construction Corp, Valhalla, NY | Lead Roster"
+title: "Daci Construction Corp, Valhalla, NY | Lead Paint Roster"
 description: "Daci Construction Corp: Lead abatement in Valhalla, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/daci-construction-corp-ny0930/
 ---

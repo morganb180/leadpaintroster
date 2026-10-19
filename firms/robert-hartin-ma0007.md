@@ -1,5 +1,5 @@
 ---
-title: "Robert Hartin, Braintree, MA | Lead Roster"
+title: "Robert Hartin, Braintree, MA | Lead Paint Roster"
 description: "Robert Hartin: Lead risk assessment in Braintree, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/robert-hartin-ma0007/
 ---

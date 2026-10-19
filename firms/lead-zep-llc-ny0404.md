@@ -1,5 +1,5 @@
 ---
-title: "Lead Zep LLC, Lawrence, NY | Lead Roster"
+title: "Lead Zep LLC, Lawrence, NY | Lead Paint Roster"
 description: "Lead Zep LLC: Lead inspection / evaluation in Lawrence, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-zep-llc-ny0404/
 ---

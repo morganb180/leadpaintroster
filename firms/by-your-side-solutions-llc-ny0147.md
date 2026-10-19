@@ -1,5 +1,5 @@
 ---
-title: "By Your Side Solutions LLC, Kingston, NY | Lead Roster"
+title: "By Your Side Solutions LLC, Kingston, NY | Lead Paint Roster"
 description: "By Your Side Solutions LLC: Lead abatement, Lead inspection / evaluation in Kingston, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/by-your-side-solutions-llc-ny0147/
 ---

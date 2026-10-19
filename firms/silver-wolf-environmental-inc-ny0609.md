@@ -1,5 +1,5 @@
 ---
-title: "Silver Wolf Environmental, Inc., Shoreham, NY | Lead Roster"
+title: "Silver Wolf Environmental, Inc., Shoreham, NY | Lead Paint Roster"
 description: "Silver Wolf Environmental, Inc.: Lead inspection / evaluation in Shoreham, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/silver-wolf-environmental-inc-ny0609/
 ---

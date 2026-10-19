@@ -1,5 +1,5 @@
 ---
-title: "Eikon Planning & Design, LLC, Hackettstown, NJ | Lead Roster"
+title: "Eikon Planning & Design, LLC, Hackettstown, NJ | Lead Paint Roster"
 description: "Eikon Planning & Design, LLC: Lead inspection / evaluation in Hackettstown, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/eikon-planning-design-llc-nj0052/
 ---

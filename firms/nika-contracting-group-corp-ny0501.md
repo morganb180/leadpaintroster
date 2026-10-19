@@ -1,5 +1,5 @@
 ---
-title: "Nika Contracting Group Corp., Port Washington, NY | Lead Roster"
+title: "Nika Contracting Group Corp., Port Washington, NY | Lead Paint Roster"
 description: "Nika Contracting Group Corp.: Lead abatement, Lead inspection / evaluation in Port Washington, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nika-contracting-group-corp-ny0501/
 ---

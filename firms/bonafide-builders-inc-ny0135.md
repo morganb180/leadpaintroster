@@ -1,5 +1,5 @@
 ---
-title: "Bonafide Builders Inc, Brooklyn, NY | Lead Roster"
+title: "Bonafide Builders Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Bonafide Builders Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bonafide-builders-inc-ny0135/
 ---

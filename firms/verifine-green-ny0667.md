@@ -1,5 +1,5 @@
 ---
-title: "Verifine Green, Monsey, NY | Lead Roster"
+title: "Verifine Green, Monsey, NY | Lead Paint Roster"
 description: "Verifine Green: Lead inspection / evaluation in Monsey, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/verifine-green-ny0667/
 ---

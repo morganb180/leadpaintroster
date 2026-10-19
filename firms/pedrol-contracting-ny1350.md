@@ -1,5 +1,5 @@
 ---
-title: "Pedrol Contracting, Brooklyn, NY | Lead Roster"
+title: "Pedrol Contracting, Brooklyn, NY | Lead Paint Roster"
 description: "Pedrol Contracting: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pedrol-contracting-ny1350/
 ---

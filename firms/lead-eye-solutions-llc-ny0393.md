@@ -1,5 +1,5 @@
 ---
-title: "Lead Eye Solutions LLC, New York, NY | Lead Roster"
+title: "Lead Eye Solutions LLC, New York, NY | Lead Paint Roster"
 description: "Lead Eye Solutions LLC: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-eye-solutions-llc-ny0393/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Two Brothers Contracting, Inc., Westmoreland, NY | Lead Roster"
+title: "Two Brothers Contracting, Inc., Westmoreland, NY | Lead Paint Roster"
 description: "Two Brothers Contracting, Inc.: Lead abatement in Westmoreland, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/two-brothers-contracting-inc-ny1572/
 ---

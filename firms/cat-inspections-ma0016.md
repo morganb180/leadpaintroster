@@ -1,5 +1,5 @@
 ---
-title: "CAT Inspections, Fitchburg, MA | Lead Roster"
+title: "CAT Inspections, Fitchburg, MA | Lead Paint Roster"
 description: "CAT Inspections: Lead risk assessment in Fitchburg, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cat-inspections-ma0016/
 ---

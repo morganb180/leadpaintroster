@@ -1,5 +1,5 @@
 ---
-title: "Citywide Environmental Services, LLC, Whitestone, NY | Lead Roster"
+title: "Citywide Environmental Services, LLC, Whitestone, NY | Lead Paint Roster"
 description: "Citywide Environmental Services, LLC: Lead abatement in Whitestone, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/citywide-environmental-services-llc-ny0898/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Zone One Building Services Inc, Brooklyn, NY | Lead Roster"
+title: "Zone One Building Services Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Zone One Building Services Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/zone-one-building-services-inc-ny0686/
 ---

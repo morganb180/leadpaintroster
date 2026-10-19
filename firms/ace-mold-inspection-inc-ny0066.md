@@ -1,5 +1,5 @@
 ---
-title: "Ace Mold Inspection, Inc, Brooklyn, NY | Lead Roster"
+title: "Ace Mold Inspection, Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Ace Mold Inspection, Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ace-mold-inspection-inc-ny0066/
 ---

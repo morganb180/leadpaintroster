@@ -1,5 +1,5 @@
 ---
-title: "Claridan Contracting, Inc., New York, NY | Lead Roster"
+title: "Claridan Contracting, Inc., New York, NY | Lead Paint Roster"
 description: "Claridan Contracting, Inc.: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/claridan-contracting-inc-ny0899/
 ---

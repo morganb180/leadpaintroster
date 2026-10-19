@@ -1,5 +1,5 @@
 ---
-title: "Breit Services LLC, Brooklyn, NY | Lead Roster"
+title: "Breit Services LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Breit Services LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/breit-services-llc-ny0854/
 ---

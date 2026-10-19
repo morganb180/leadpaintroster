@@ -1,5 +1,5 @@
 ---
-title: "Titan Safety Inc., New York, NY | Lead Roster"
+title: "Titan Safety Inc., New York, NY | Lead Paint Roster"
 description: "Titan Safety Inc.: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/titan-safety-inc-ny1551/
 ---

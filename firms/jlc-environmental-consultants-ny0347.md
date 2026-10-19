@@ -1,5 +1,5 @@
 ---
-title: "JLC Environmental Consultants, New York, NY | Lead Roster"
+title: "JLC Environmental Consultants, New York, NY | Lead Paint Roster"
 description: "JLC Environmental Consultants: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jlc-environmental-consultants-ny0347/
 ---

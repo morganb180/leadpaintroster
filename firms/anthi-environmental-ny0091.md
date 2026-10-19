@@ -1,5 +1,5 @@
 ---
-title: "Anthi Environmental, Astoria, NY | Lead Roster"
+title: "Anthi Environmental, Astoria, NY | Lead Paint Roster"
 description: "Anthi Environmental: Lead abatement, Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/anthi-environmental-ny0091/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Lawrence Env, LLC, New York, NY | Lead Roster"
+title: "Lawrence Env, LLC, New York, NY | Lead Paint Roster"
 description: "Lawrence Env, LLC: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lawrence-env-llc-ny0385/
 ---

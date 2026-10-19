@@ -1,5 +1,5 @@
 ---
-title: "Lea Environmental, LLC, Blackwood, NJ | Lead Roster"
+title: "Lea Environmental, LLC, Blackwood, NJ | Lead Paint Roster"
 description: "Lea Environmental, LLC: Lead inspection / evaluation in Blackwood, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lea-environmental-llc-nj0092/
 ---

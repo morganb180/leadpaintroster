@@ -1,5 +1,5 @@
 ---
-title: "MS Enviro Corp, Brooklyn, NY | Lead Roster"
+title: "MS Enviro Corp, Brooklyn, NY | Lead Paint Roster"
 description: "MS Enviro Corp: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ms-enviro-corp-ny0436/
 ---

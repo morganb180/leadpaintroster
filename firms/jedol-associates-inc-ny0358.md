@@ -1,5 +1,5 @@
 ---
-title: "Jedol Associates Inc., West Hempstead, NY | Lead Roster"
+title: "Jedol Associates Inc., West Hempstead, NY | Lead Paint Roster"
 description: "Jedol Associates Inc.: Lead inspection / evaluation in West Hempstead, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jedol-associates-inc-ny0358/
 ---

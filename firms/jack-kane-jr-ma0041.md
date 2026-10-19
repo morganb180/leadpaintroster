@@ -1,5 +1,5 @@
 ---
-title: "Jack Kane Jr., Sharon, MA | Lead Roster"
+title: "Jack Kane Jr., Sharon, MA | Lead Paint Roster"
 description: "Jack Kane Jr.: Lead risk assessment in Sharon, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jack-kane-jr-ma0041/
 ---

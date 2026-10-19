@@ -1,5 +1,5 @@
 ---
-title: "Fine Finishing Group, Freeport, NY | Lead Roster"
+title: "Fine Finishing Group, Freeport, NY | Lead Paint Roster"
 description: "Fine Finishing Group: Lead abatement in Freeport, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/fine-finishing-group-ny1015/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "R. Koch Construction Corp., Syracuse, NY | Lead Roster"
+title: "R. Koch Construction Corp., Syracuse, NY | Lead Paint Roster"
 description: "R. Koch Construction Corp.: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/r-koch-construction-corp-ny1397/
 ---

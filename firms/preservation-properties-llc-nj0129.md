@@ -1,5 +1,5 @@
 ---
-title: "Preservation Properties, LLC, Newtown, PA | Lead Roster"
+title: "Preservation Properties, LLC, Newtown, PA | Lead Paint Roster"
 description: "Preservation Properties, LLC: Lead inspection / evaluation in Newtown, PA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/preservation-properties-llc-nj0129/
 ---

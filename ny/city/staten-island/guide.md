@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Staten Island, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Staten Island, NY | Lead Paint Roster"
 description: "Staten Island, NY lead paint guide: 31 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/staten-island/guide/
 ---

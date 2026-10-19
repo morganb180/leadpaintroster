@@ -1,5 +1,5 @@
 ---
-title: "M&B Contractors, Wheatfield, NY | Lead Roster"
+title: "M&B Contractors, Wheatfield, NY | Lead Paint Roster"
 description: "M&B Contractors: Lead abatement in Wheatfield, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/m-b-contractors-ny1194/
 ---

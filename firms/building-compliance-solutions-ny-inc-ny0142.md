@@ -1,5 +1,5 @@
 ---
-title: "Building Compliance Solutions NY Inc., Long Island City, NY | Lead Roster"
+title: "Building Compliance Solutions NY Inc., Long Island City, NY | Lead Paint Roster"
 description: "Building Compliance Solutions NY Inc.: Lead abatement, Lead inspection / evaluation in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/building-compliance-solutions-ny-inc-ny0142/
 ---

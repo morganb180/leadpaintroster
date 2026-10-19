@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Astoria, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Astoria, NY | Lead Paint Roster"
 description: "Astoria, NY lead paint guide: 17 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/astoria/guide/
 ---

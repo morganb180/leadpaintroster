@@ -1,5 +1,5 @@
 ---
-title: "TRC Engineers, Inc., New York, NY | Lead Roster"
+title: "TRC Engineers, Inc., New York, NY | Lead Paint Roster"
 description: "TRC Engineers, Inc.: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/trc-engineers-inc-ny0631/
 ---

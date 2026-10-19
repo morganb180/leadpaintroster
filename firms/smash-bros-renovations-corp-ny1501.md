@@ -1,5 +1,5 @@
 ---
-title: "Smash Bros Renovations Corp., Bronx, NY | Lead Roster"
+title: "Smash Bros Renovations Corp., Bronx, NY | Lead Paint Roster"
 description: "Smash Bros Renovations Corp.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/smash-bros-renovations-corp-ny1501/
 ---

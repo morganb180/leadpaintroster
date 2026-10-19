@@ -1,5 +1,5 @@
 ---
-title: "AKRF, Inc., New York, NY | Lead Roster"
+title: "AKRF, Inc., New York, NY | Lead Paint Roster"
 description: "AKRF, Inc.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/akrf-inc-ny0039/
 ---

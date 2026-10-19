@@ -1,5 +1,5 @@
 ---
-title: "Abs Environmental Group, LLC, Glenwood, NJ | Lead Roster"
+title: "Abs Environmental Group, LLC, Glenwood, NJ | Lead Paint Roster"
 description: "Abs Environmental Group, LLC: Lead inspection / evaluation in Glenwood, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abs-environmental-group-llc-nj0014/
 ---

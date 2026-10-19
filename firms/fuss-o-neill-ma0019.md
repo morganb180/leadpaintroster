@@ -1,5 +1,5 @@
 ---
-title: "Fuss & O'Neill, Hartford, CT | Lead Roster"
+title: "Fuss & O'Neill, Hartford, CT | Lead Paint Roster"
 description: "Fuss & O'Neill: Lead risk assessment in Hartford, CT. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/fuss-o-neill-ma0019/
 ---

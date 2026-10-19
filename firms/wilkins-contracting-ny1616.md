@@ -1,5 +1,5 @@
 ---
-title: "Wilkins Contracting, Bath, NY | Lead Roster"
+title: "Wilkins Contracting, Bath, NY | Lead Paint Roster"
 description: "Wilkins Contracting: Lead abatement in Bath, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/wilkins-contracting-ny1616/
 ---

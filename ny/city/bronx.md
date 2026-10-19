@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Bronx, NY: 116 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Bronx, NY: 116 Listings | Lead Paint Roster"
 description: "116 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Bronx, New York, plus 2 more in Bronx County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/bronx/
 ---

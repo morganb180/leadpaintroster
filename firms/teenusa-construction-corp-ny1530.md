@@ -1,5 +1,5 @@
 ---
-title: "TEENUSA Construction Corp, Nassau, NY | Lead Roster"
+title: "TEENUSA Construction Corp, Nassau, NY | Lead Paint Roster"
 description: "TEENUSA Construction Corp: Lead abatement in Nassau, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/teenusa-construction-corp-ny1530/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tamis Construction, Elmhurst, NY | Lead Roster"
+title: "Tamis Construction, Elmhurst, NY | Lead Paint Roster"
 description: "Tamis Construction: Lead abatement in Elmhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tamis-construction-ny1541/
 ---

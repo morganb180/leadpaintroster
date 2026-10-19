@@ -1,5 +1,5 @@
 ---
-title: "Beautiful Consulting and Construction, Inc., Great Neck, NY | Lead Roster"
+title: "Beautiful Consulting and Construction, Inc., Great Neck, NY | Lead Paint Roster"
 description: "Beautiful Consulting and Construction, Inc.: Lead abatement in Great Neck, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/beautiful-consulting-and-construction-inc-ny0820/
 ---

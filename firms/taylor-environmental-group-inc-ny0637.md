@@ -1,5 +1,5 @@
 ---
-title: "Taylor Environmental Group, Inc., Floral Park, NY | Lead Roster"
+title: "Taylor Environmental Group, Inc., Floral Park, NY | Lead Paint Roster"
 description: "Taylor Environmental Group, Inc.: Lead inspection / evaluation in Floral Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/taylor-environmental-group-inc-ny0637/
 ---

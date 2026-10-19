@@ -1,5 +1,5 @@
 ---
-title: "NYTX Management LLC, E Syracuse, NY | Lead Roster"
+title: "NYTX Management LLC, E Syracuse, NY | Lead Paint Roster"
 description: "NYTX Management LLC: Lead abatement in E Syracuse, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nytx-management-llc-ny1282/
 ---

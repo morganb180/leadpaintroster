@@ -1,5 +1,5 @@
 ---
-title: "Hudson Valley Repair & Remediation, Poughkeepsie, NY | Lead Roster"
+title: "Hudson Valley Repair & Remediation, Poughkeepsie, NY | Lead Paint Roster"
 description: "Hudson Valley Repair & Remediation: Lead abatement in Poughkeepsie, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/hudson-valley-repair-remediation-ny1087/
 ---

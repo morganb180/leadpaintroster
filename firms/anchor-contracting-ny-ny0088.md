@@ -1,5 +1,5 @@
 ---
-title: "Anchor Contracting, NY, Bronx, NY | Lead Roster"
+title: "Anchor Contracting, NY, Bronx, NY | Lead Paint Roster"
 description: "Anchor Contracting, NY: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/anchor-contracting-ny-ny0088/
 ---

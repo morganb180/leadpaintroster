@@ -1,5 +1,5 @@
 ---
-title: "Abatement Unlimited, Inc., Bronx, NY | Lead Roster"
+title: "Abatement Unlimited, Inc., Bronx, NY | Lead Paint Roster"
 description: "Abatement Unlimited, Inc.: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abatement-unlimited-inc-ny0061/
 ---

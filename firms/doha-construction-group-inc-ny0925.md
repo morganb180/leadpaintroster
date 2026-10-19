@@ -1,5 +1,5 @@
 ---
-title: "DOHA Construction Group Inc., Ozone Park, NY | Lead Roster"
+title: "DOHA Construction Group Inc., Ozone Park, NY | Lead Paint Roster"
 description: "DOHA Construction Group Inc.: Lead abatement in Ozone Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/doha-construction-group-inc-ny0925/
 ---

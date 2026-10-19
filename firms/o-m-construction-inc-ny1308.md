@@ -1,5 +1,5 @@
 ---
-title: "O M Construction Inc, Bronx, NY | Lead Roster"
+title: "O M Construction Inc, Bronx, NY | Lead Paint Roster"
 description: "O M Construction Inc: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/o-m-construction-inc-ny1308/
 ---

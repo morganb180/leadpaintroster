@@ -1,5 +1,5 @@
 ---
-title: "Empire Contracting & Renovation Inc, Flushing, NY | Lead Roster"
+title: "Empire Contracting & Renovation Inc, Flushing, NY | Lead Paint Roster"
 description: "Empire Contracting & Renovation Inc: Lead abatement in Flushing, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/empire-contracting-renovation-inc-ny0971/
 ---

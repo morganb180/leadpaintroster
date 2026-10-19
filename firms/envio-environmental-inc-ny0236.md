@@ -1,5 +1,5 @@
 ---
-title: "Envio Environmental Inc, Brooklyn, NY | Lead Roster"
+title: "Envio Environmental Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Envio Environmental Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/envio-environmental-inc-ny0236/
 ---

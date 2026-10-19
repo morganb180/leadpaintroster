@@ -1,5 +1,5 @@
 ---
-title: "Lead & Mold Checks LTD, Brooklyn, NY | Lead Roster"
+title: "Lead & Mold Checks LTD, Brooklyn, NY | Lead Paint Roster"
 description: "Lead & Mold Checks LTD: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-mold-checks-ltd-ny0386/
 ---

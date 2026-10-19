@@ -1,5 +1,5 @@
 ---
-title: "Aixon Capital Enterprises, Inc, Ozone Park, NY | Lead Roster"
+title: "Aixon Capital Enterprises, Inc, Ozone Park, NY | Lead Paint Roster"
 description: "Aixon Capital Enterprises, Inc: Lead abatement, Lead inspection / evaluation in Ozone Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/aixon-capital-enterprises-inc-ny0074/
 ---

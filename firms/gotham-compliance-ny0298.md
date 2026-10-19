@@ -1,5 +1,5 @@
 ---
-title: "Gotham Compliance, Red Hook, NY | Lead Roster"
+title: "Gotham Compliance, Red Hook, NY | Lead Paint Roster"
 description: "Gotham Compliance: Lead abatement, Lead inspection / evaluation in Red Hook, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gotham-compliance-ny0298/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "XYZ Construction, LLC, Bronx, NY | Lead Roster"
+title: "XYZ Construction, LLC, Bronx, NY | Lead Paint Roster"
 description: "XYZ Construction, LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/xyz-construction-llc-ny1619/
 ---

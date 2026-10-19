@@ -1,5 +1,5 @@
 ---
-title: "Atlantic Contracting & Specialties, Troy, NY | Lead Roster"
+title: "Atlantic Contracting & Specialties, Troy, NY | Lead Paint Roster"
 description: "Atlantic Contracting & Specialties: Lead abatement in Troy, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/atlantic-contracting-specialties-ny0802/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Blackheart Advisory Limited, Nyack, NY | Lead Roster"
+title: "Blackheart Advisory Limited, Nyack, NY | Lead Paint Roster"
 description: "Blackheart Advisory Limited: Lead abatement, Lead inspection / evaluation in Nyack, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/blackheart-advisory-limited-ny0132/
 ---

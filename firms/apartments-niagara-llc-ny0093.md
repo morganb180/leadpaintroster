@@ -1,5 +1,5 @@
 ---
-title: "Apartments Niagara, LLC, Grand Island, NY | Lead Roster"
+title: "Apartments Niagara, LLC, Grand Island, NY | Lead Paint Roster"
 description: "Apartments Niagara, LLC: Lead abatement, Lead inspection / evaluation in Grand Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/apartments-niagara-llc-ny0093/
 ---

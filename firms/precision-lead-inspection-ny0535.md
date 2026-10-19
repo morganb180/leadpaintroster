@@ -1,5 +1,5 @@
 ---
-title: "Precision Lead Inspection, New York, NY | Lead Roster"
+title: "Precision Lead Inspection, New York, NY | Lead Paint Roster"
 description: "Precision Lead Inspection: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/precision-lead-inspection-ny0535/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Four Leaf Home Inspections,llc, Atlantic Highlands, NJ | Lead Roster"
+title: "Four Leaf Home Inspections,llc, Atlantic Highlands, NJ | Lead Paint Roster"
 description: "Four Leaf Home Inspections,llc: Lead inspection / evaluation in Atlantic Highlands, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/four-leaf-home-inspections-llc-nj0070/
 ---

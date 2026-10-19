@@ -1,5 +1,5 @@
 ---
-title: "Cartvall Construction Inc., Flushing, NY | Lead Roster"
+title: "Cartvall Construction Inc., Flushing, NY | Lead Paint Roster"
 description: "Cartvall Construction Inc.: Lead abatement in Flushing, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cartvall-construction-inc-ny0886/
 ---

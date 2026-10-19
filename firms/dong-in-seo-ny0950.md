@@ -1,5 +1,5 @@
 ---
-title: "Dong In Seo, Flushing, NY | Lead Roster"
+title: "Dong In Seo, Flushing, NY | Lead Paint Roster"
 description: "Dong In Seo: Lead abatement in Flushing, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dong-in-seo-ny0950/
 ---

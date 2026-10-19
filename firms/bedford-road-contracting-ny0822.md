@@ -1,5 +1,5 @@
 ---
-title: "Bedford Road Contracting, Port Chester, NY | Lead Roster"
+title: "Bedford Road Contracting, Port Chester, NY | Lead Paint Roster"
 description: "Bedford Road Contracting: Lead abatement in Port Chester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bedford-road-contracting-ny0822/
 ---

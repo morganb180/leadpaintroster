@@ -1,5 +1,5 @@
 ---
-title: "JGotti, LLC, Rochester, NY | Lead Roster"
+title: "JGotti, LLC, Rochester, NY | Lead Paint Roster"
 description: "JGotti, LLC: Lead abatement in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jgotti-llc-ny1118/
 ---

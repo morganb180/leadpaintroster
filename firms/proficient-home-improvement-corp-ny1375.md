@@ -1,5 +1,5 @@
 ---
-title: "Proficient Home Improvement Corp., Brooklyn, NY | Lead Roster"
+title: "Proficient Home Improvement Corp., Brooklyn, NY | Lead Paint Roster"
 description: "Proficient Home Improvement Corp.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/proficient-home-improvement-corp-ny1375/
 ---

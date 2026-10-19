@@ -1,5 +1,5 @@
 ---
-title: "Rahman Renovations, Inc., Brooklyn, NY | Lead Roster"
+title: "Rahman Renovations, Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Rahman Renovations, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rahman-renovations-inc-ny1409/
 ---

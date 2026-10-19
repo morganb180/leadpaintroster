@@ -1,5 +1,5 @@
 ---
-title: "NY Lead Abatement Corp., Brooklyn, NY | Lead Roster"
+title: "NY Lead Abatement Corp., Brooklyn, NY | Lead Paint Roster"
 description: "NY Lead Abatement Corp.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ny-lead-abatement-corp-ny0467/
 ---

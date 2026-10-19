@@ -1,5 +1,5 @@
 ---
-title: "Environmental Design Inc., Pennsauken, NJ | Lead Roster"
+title: "Environmental Design Inc., Pennsauken, NJ | Lead Paint Roster"
 description: "Environmental Design Inc.: Lead inspection / evaluation in Pennsauken, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/environmental-design-inc-nj0058/
 ---

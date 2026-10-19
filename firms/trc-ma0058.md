@@ -1,5 +1,5 @@
 ---
-title: "TRC, Woburn, MA | Lead Roster"
+title: "TRC, Woburn, MA | Lead Paint Roster"
 description: "TRC: Lead inspection / evaluation in Woburn, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/trc-ma0058/
 ---

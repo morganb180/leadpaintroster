@@ -1,5 +1,5 @@
 ---
-title: "ARK Builders Corp., Brooklyn, NY | Lead Roster"
+title: "ARK Builders Corp., Brooklyn, NY | Lead Paint Roster"
 description: "ARK Builders Corp.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ark-builders-corp-ny0735/
 ---

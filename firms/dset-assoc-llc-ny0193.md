@@ -1,5 +1,5 @@
 ---
-title: "Dset Assoc LLC, Cedarhurst, NY | Lead Roster"
+title: "Dset Assoc LLC, Cedarhurst, NY | Lead Paint Roster"
 description: "Dset Assoc LLC: Lead inspection / evaluation in Cedarhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dset-assoc-llc-ny0193/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Roux Associates, Inc., Islandia, NY | Lead Roster"
+title: "Roux Associates, Inc., Islandia, NY | Lead Paint Roster"
 description: "Roux Associates, Inc.: Lead inspection / evaluation in Islandia, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/roux-associates-inc-ny0584/
 ---

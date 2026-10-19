@@ -1,5 +1,5 @@
 ---
-title: "GBA Environmental LLC, Brooklyn, NY | Lead Roster"
+title: "GBA Environmental LLC, Brooklyn, NY | Lead Paint Roster"
 description: "GBA Environmental LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gba-environmental-llc-ny0279/
 ---

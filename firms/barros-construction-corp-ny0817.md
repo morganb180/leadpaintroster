@@ -1,5 +1,5 @@
 ---
-title: "Barros Construction Corp, Richmond Hill, NY | Lead Roster"
+title: "Barros Construction Corp, Richmond Hill, NY | Lead Paint Roster"
 description: "Barros Construction Corp: Lead abatement in Richmond Hill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/barros-construction-corp-ny0817/
 ---

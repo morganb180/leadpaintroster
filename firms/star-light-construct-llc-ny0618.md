@@ -1,5 +1,5 @@
 ---
-title: "Star Light Construct LLC, Bellerose, NY | Lead Roster"
+title: "Star Light Construct LLC, Bellerose, NY | Lead Paint Roster"
 description: "Star Light Construct LLC: Lead abatement, Lead inspection / evaluation in Bellerose, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/star-light-construct-llc-ny0618/
 ---

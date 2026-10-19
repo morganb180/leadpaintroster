@@ -1,5 +1,5 @@
 ---
-title: "Cardot Construction Inc., Rochester, NY | Lead Roster"
+title: "Cardot Construction Inc., Rochester, NY | Lead Paint Roster"
 description: "Cardot Construction Inc.: Lead abatement in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cardot-construction-inc-ny0882/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "CBJ Environmental LLC, Hopedale, MA | Lead Roster"
+title: "CBJ Environmental LLC, Hopedale, MA | Lead Paint Roster"
 description: "CBJ Environmental LLC: Lead risk assessment in Hopedale, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cbj-environmental-llc-ma0021/
 ---

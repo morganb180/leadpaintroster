@@ -1,5 +1,5 @@
 ---
-title: "All Things New Building & Restoration, Binghamton, NY | Lead Roster"
+title: "All Things New Building & Restoration, Binghamton, NY | Lead Paint Roster"
 description: "All Things New Building & Restoration: Lead abatement in Binghamton, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/all-things-new-building-restoration-ny0766/
 ---

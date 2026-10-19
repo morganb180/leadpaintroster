@@ -1,5 +1,5 @@
 ---
-title: "Spes Contracting, LLC, Paterson, NJ | Lead Roster"
+title: "Spes Contracting, LLC, Paterson, NJ | Lead Paint Roster"
 description: "Spes Contracting, LLC: Lead abatement in Paterson, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/spes-contracting-llc-nj0245/
 ---

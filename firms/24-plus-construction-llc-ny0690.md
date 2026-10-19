@@ -1,5 +1,5 @@
 ---
-title: "24 Plus construction LLC, New York, NY | Lead Roster"
+title: "24 Plus construction LLC, New York, NY | Lead Paint Roster"
 description: "24 Plus construction LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/24-plus-construction-llc-ny0690/
 ---

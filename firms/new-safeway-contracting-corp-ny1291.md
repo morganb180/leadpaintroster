@@ -1,5 +1,5 @@
 ---
-title: "New Safeway Contracting Corp, Jamaica, NY | Lead Roster"
+title: "New Safeway Contracting Corp, Jamaica, NY | Lead Paint Roster"
 description: "New Safeway Contracting Corp: Lead abatement in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/new-safeway-contracting-corp-ny1291/
 ---

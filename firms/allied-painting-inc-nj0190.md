@@ -1,5 +1,5 @@
 ---
-title: "Allied Painting Inc, Williamstown, NJ | Lead Roster"
+title: "Allied Painting Inc, Williamstown, NJ | Lead Paint Roster"
 description: "Allied Painting Inc: Lead abatement in Williamstown, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/allied-painting-inc-nj0190/
 ---

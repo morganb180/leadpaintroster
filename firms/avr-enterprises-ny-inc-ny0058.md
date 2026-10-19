@@ -1,5 +1,5 @@
 ---
-title: "AVR Enterprises NY Inc, Astoria, NY | Lead Roster"
+title: "AVR Enterprises NY Inc, Astoria, NY | Lead Paint Roster"
 description: "AVR Enterprises NY Inc: Lead abatement, Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/avr-enterprises-ny-inc-ny0058/
 ---

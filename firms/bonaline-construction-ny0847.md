@@ -1,5 +1,5 @@
 ---
-title: "Bonaline Construction, Bronx, NY | Lead Roster"
+title: "Bonaline Construction, Bronx, NY | Lead Paint Roster"
 description: "Bonaline Construction: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bonaline-construction-ny0847/
 ---

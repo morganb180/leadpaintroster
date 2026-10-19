@@ -1,5 +1,5 @@
 ---
-title: "Jkm, Brooklyn, NY | Lead Roster"
+title: "Jkm, Brooklyn, NY | Lead Paint Roster"
 description: "Jkm: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jkm-ny0346/
 ---

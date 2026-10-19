@@ -1,5 +1,5 @@
 ---
-title: "Eastern BH Mechanical Inc., Jamaica, NY | Lead Roster"
+title: "Eastern BH Mechanical Inc., Jamaica, NY | Lead Paint Roster"
 description: "Eastern BH Mechanical Inc.: Lead abatement in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/eastern-bh-mechanical-inc-ny0977/
 ---

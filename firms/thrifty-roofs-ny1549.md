@@ -1,5 +1,5 @@
 ---
-title: "Thrifty Roofs, Depew, NY | Lead Roster"
+title: "Thrifty Roofs, Depew, NY | Lead Paint Roster"
 description: "Thrifty Roofs: Lead abatement in Depew, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/thrifty-roofs-ny1549/
 ---

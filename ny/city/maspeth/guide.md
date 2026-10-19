@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Maspeth, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Maspeth, NY | Lead Paint Roster"
 description: "Maspeth, NY lead paint guide: 3 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/maspeth/guide/
 ---

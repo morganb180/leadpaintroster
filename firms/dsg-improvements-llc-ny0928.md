@@ -1,5 +1,5 @@
 ---
-title: "DSG Improvements, LLC, Bayside, NY | Lead Roster"
+title: "DSG Improvements, LLC, Bayside, NY | Lead Paint Roster"
 description: "DSG Improvements, LLC: Lead abatement in Bayside, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dsg-improvements-llc-ny0928/
 ---

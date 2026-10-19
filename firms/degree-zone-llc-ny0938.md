@@ -1,5 +1,5 @@
 ---
-title: "Degree Zone LLC, Brooklyn, NY | Lead Roster"
+title: "Degree Zone LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Degree Zone LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/degree-zone-llc-ny0938/
 ---

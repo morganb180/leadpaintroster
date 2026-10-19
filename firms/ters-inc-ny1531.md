@@ -1,5 +1,5 @@
 ---
-title: "TERS Inc., Nanuet, NY | Lead Roster"
+title: "TERS Inc., Nanuet, NY | Lead Paint Roster"
 description: "TERS Inc.: Lead abatement in Nanuet, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ters-inc-ny1531/
 ---

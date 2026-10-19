@@ -1,5 +1,5 @@
 ---
-title: "Titan Lead Testing LLC, Melrose, MA | Lead Roster"
+title: "Titan Lead Testing LLC, Melrose, MA | Lead Paint Roster"
 description: "Titan Lead Testing LLC: Lead risk assessment in Melrose, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/titan-lead-testing-llc-ma0029/
 ---

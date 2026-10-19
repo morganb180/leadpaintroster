@@ -1,14 +1,14 @@
 ---
-title: "About Lead Roster | Lead Roster"
-description: "What Lead Roster is, who it is for, where listings come from and how it is funded."
+title: "About Lead Paint Roster | Lead Paint Roster"
+description: "What Lead Paint Roster is, who it is for, where listings come from and how it is funded."
 canonical: https://leadpaintroster.com/about/
 ---
 
-# About Lead Roster
+# About Lead Paint Roster
 
-Lead Roster is a free directory of certified lead-based paint inspectors, risk assessors and abatement firms in New Jersey, New York and Massachusetts, built from NJ DCA, US EPA and Massachusetts licence records.
+Lead Paint Roster is a free directory of certified lead-based paint inspectors, risk assessors and abatement firms in New Jersey, New York and Massachusetts, built from NJ DCA, US EPA and Massachusetts licence records.
 
-Lead Roster is for landlords, tenants, buyers and parents who need a certified lead inspector, risk assessor or abatement contractor.
+Lead Paint Roster is for landlords, tenants, buyers and parents who need a certified lead inspector, risk assessor or abatement contractor.
 
 ## Where the information comes from
 
@@ -26,4 +26,4 @@ Lead Roster is for landlords, tenants, buyers and parents who need a certified l
 
 ## Independence
 
-Lead Roster is independent. It isn't affiliated with any government agency, licensing board or contractor, and a listing is not an endorsement. See [how we make money](https://leadpaintroster.com/how-we-make-money/), [how we verify listings](https://leadpaintroster.com/how-we-verify/) and [about our data](https://leadpaintroster.com/about-our-data/).
+Lead Paint Roster is independent. It isn't affiliated with any government agency, licensing board or contractor, and a listing is not an endorsement. See [how we make money](https://leadpaintroster.com/how-we-make-money/), [how we verify listings](https://leadpaintroster.com/how-we-verify/) and [about our data](https://leadpaintroster.com/about-our-data/).

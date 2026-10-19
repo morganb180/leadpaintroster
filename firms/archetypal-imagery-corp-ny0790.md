@@ -1,5 +1,5 @@
 ---
-title: "Archetypal Imagery Corp., Little Neck, NY | Lead Roster"
+title: "Archetypal Imagery Corp., Little Neck, NY | Lead Paint Roster"
 description: "Archetypal Imagery Corp.: Lead abatement in Little Neck, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/archetypal-imagery-corp-ny0790/
 ---

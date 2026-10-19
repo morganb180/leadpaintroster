@@ -1,5 +1,5 @@
 ---
-title: "Elite Precision LLC, Buffalo, NY | Lead Roster"
+title: "Elite Precision LLC, Buffalo, NY | Lead Paint Roster"
 description: "Elite Precision LLC: Lead abatement in Buffalo, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/elite-precision-llc-ny0982/
 ---

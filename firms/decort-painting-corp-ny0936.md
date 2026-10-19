@@ -1,5 +1,5 @@
 ---
-title: "Decort Painting Corp, Bay Shore, NY | Lead Roster"
+title: "Decort Painting Corp, Bay Shore, NY | Lead Paint Roster"
 description: "Decort Painting Corp: Lead abatement in Bay Shore, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/decort-painting-corp-ny0936/
 ---

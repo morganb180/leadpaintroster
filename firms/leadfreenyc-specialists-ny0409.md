@@ -1,5 +1,5 @@
 ---
-title: "LeadFreeNYC Specialists, Albany, NY | Lead Roster"
+title: "LeadFreeNYC Specialists, Albany, NY | Lead Paint Roster"
 description: "LeadFreeNYC Specialists: Lead abatement, Lead inspection / evaluation in Albany, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/leadfreenyc-specialists-ny0409/
 ---

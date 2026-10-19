@@ -1,5 +1,5 @@
 ---
-title: "Leadguys NJ, Newton, NJ | Lead Roster"
+title: "Leadguys NJ, Newton, NJ | Lead Paint Roster"
 description: "Leadguys NJ: Lead inspection / evaluation in Newton, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/leadguys-nj-nj0098/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Onondaga County Health Department, Syracuse, NY | Lead Roster"
+title: "Onondaga County Health Department, Syracuse, NY | Lead Paint Roster"
 description: "Onondaga County Health Department: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/onondaga-county-health-department-ny1316/
 ---

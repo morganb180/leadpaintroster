@@ -1,5 +1,5 @@
 ---
-title: "Walisons USA Inc., Queens Village, NY | Lead Roster"
+title: "Walisons USA Inc., Queens Village, NY | Lead Paint Roster"
 description: "Walisons USA Inc.: Lead abatement in Queens Village, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/walisons-usa-inc-ny1606/
 ---

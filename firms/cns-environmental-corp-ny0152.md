@@ -1,5 +1,5 @@
 ---
-title: "CNS Environmental Corp., Plainview, NY | Lead Roster"
+title: "CNS Environmental Corp., Plainview, NY | Lead Paint Roster"
 description: "CNS Environmental Corp.: Lead abatement, Lead inspection / evaluation in Plainview, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cns-environmental-corp-ny0152/
 ---

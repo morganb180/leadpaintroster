@@ -1,5 +1,5 @@
 ---
-title: "Kiss Construction, Inc., Maspeth, NY | Lead Roster"
+title: "Kiss Construction, Inc., Maspeth, NY | Lead Paint Roster"
 description: "Kiss Construction, Inc.: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kiss-construction-inc-ny1156/
 ---

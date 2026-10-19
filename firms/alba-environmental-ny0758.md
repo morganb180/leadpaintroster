@@ -1,5 +1,5 @@
 ---
-title: "Alba Environmental, New York, NY | Lead Roster"
+title: "Alba Environmental, New York, NY | Lead Paint Roster"
 description: "Alba Environmental: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/alba-environmental-ny0758/
 ---

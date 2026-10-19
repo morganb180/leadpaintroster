@@ -1,5 +1,5 @@
 ---
-title: "Lead Safe Solutions NYC, Queens, NY | Lead Roster"
+title: "Lead Safe Solutions NYC, Queens, NY | Lead Paint Roster"
 description: "Lead Safe Solutions NYC: Lead inspection / evaluation in Queens, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-safe-solutions-nyc-ny0398/
 ---

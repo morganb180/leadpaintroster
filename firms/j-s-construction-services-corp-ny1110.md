@@ -1,5 +1,5 @@
 ---
-title: "J'S Construction Services Corp, Yonkers, NY | Lead Roster"
+title: "J'S Construction Services Corp, Yonkers, NY | Lead Paint Roster"
 description: "J'S Construction Services Corp: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/j-s-construction-services-corp-ny1110/
 ---

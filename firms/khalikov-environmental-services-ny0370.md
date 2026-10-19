@@ -1,5 +1,5 @@
 ---
-title: "Khalikov Environmental Services, Brooklyn, NY | Lead Roster"
+title: "Khalikov Environmental Services, Brooklyn, NY | Lead Paint Roster"
 description: "Khalikov Environmental Services: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/khalikov-environmental-services-ny0370/
 ---

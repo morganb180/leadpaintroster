@@ -1,5 +1,5 @@
 ---
-title: "Total Environmental Associates Inc, New York, NY | Lead Roster"
+title: "Total Environmental Associates Inc, New York, NY | Lead Paint Roster"
 description: "Total Environmental Associates Inc: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/total-environmental-associates-inc-ny0651/
 ---

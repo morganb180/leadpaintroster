@@ -1,5 +1,5 @@
 ---
-title: "Lead and Mold NY LLC, Great Neck, NY | Lead Roster"
+title: "Lead and Mold NY LLC, Great Neck, NY | Lead Paint Roster"
 description: "Lead and Mold NY LLC: Lead abatement in Great Neck, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-and-mold-ny-llc-ny1175/
 ---

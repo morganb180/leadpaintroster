@@ -1,5 +1,5 @@
 ---
-title: "David & Sons Lead Inspections, Lynn, MA | Lead Roster"
+title: "David & Sons Lead Inspections, Lynn, MA | Lead Paint Roster"
 description: "David & Sons Lead Inspections: Lead risk assessment in Lynn, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/david-sons-lead-inspections-ma0025/
 ---

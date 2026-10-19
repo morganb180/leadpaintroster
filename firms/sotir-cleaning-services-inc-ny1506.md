@@ -1,5 +1,5 @@
 ---
-title: "Sotir Cleaning Services Inc, Roosevelt, NY | Lead Roster"
+title: "Sotir Cleaning Services Inc, Roosevelt, NY | Lead Paint Roster"
 description: "Sotir Cleaning Services Inc: Lead abatement in Roosevelt, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sotir-cleaning-services-inc-ny1506/
 ---

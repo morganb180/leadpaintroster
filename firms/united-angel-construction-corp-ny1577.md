@@ -1,5 +1,5 @@
 ---
-title: "United Angel Construction Corp, Richmond Hill, NY | Lead Roster"
+title: "United Angel Construction Corp, Richmond Hill, NY | Lead Paint Roster"
 description: "United Angel Construction Corp: Lead abatement in Richmond Hill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/united-angel-construction-corp-ny1577/
 ---

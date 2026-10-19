@@ -1,5 +1,5 @@
 ---
-title: "SimSim Construction Inc, Hicksville, NY | Lead Roster"
+title: "SimSim Construction Inc, Hicksville, NY | Lead Paint Roster"
 description: "SimSim Construction Inc: Lead abatement, Lead inspection / evaluation in Hicksville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/simsim-construction-inc-ny0610/
 ---

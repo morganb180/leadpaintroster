@@ -1,5 +1,5 @@
 ---
-title: "Boyle18, Inc., East Patchogue, NY | Lead Roster"
+title: "Boyle18, Inc., East Patchogue, NY | Lead Paint Roster"
 description: "Boyle18, Inc.: Lead abatement in East Patchogue, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/boyle18-inc-ny0851/
 ---

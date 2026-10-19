@@ -1,5 +1,5 @@
 ---
-title: "Merino Ventures, LLC, South Ozone Park, NY | Lead Roster"
+title: "Merino Ventures, LLC, South Ozone Park, NY | Lead Paint Roster"
 description: "Merino Ventures, LLC: Lead abatement in South Ozone Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/merino-ventures-llc-ny1206/
 ---

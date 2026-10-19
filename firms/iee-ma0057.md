@@ -1,5 +1,5 @@
 ---
-title: "IEE, Wilmington, MA | Lead Roster"
+title: "IEE, Wilmington, MA | Lead Paint Roster"
 description: "IEE: Lead inspection / evaluation, Lead risk assessment in Wilmington, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/iee-ma0057/
 ---

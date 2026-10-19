@@ -1,5 +1,5 @@
 ---
-title: "Gls Inspections LLC, Fair Lawn, NJ | Lead Roster"
+title: "Gls Inspections LLC, Fair Lawn, NJ | Lead Paint Roster"
 description: "Gls Inspections LLC: Lead inspection / evaluation in Fair Lawn, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gls-inspections-llc-nj0073/
 ---

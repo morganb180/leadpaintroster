@@ -1,5 +1,5 @@
 ---
-title: "City of Rochester, Rochester, NY | Lead Roster"
+title: "City of Rochester, Rochester, NY | Lead Paint Roster"
 description: "City of Rochester: Lead abatement in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/city-of-rochester-ny0897/
 ---

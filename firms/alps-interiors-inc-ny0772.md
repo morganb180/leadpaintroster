@@ -1,5 +1,5 @@
 ---
-title: "Alps Interiors Inc, New York City, NY | Lead Roster"
+title: "Alps Interiors Inc, New York City, NY | Lead Paint Roster"
 description: "Alps Interiors Inc: Lead abatement in New York City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/alps-interiors-inc-ny0772/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "DDDDY Painting, Astoria, NY | Lead Roster"
+title: "DDDDY Painting, Astoria, NY | Lead Paint Roster"
 description: "DDDDY Painting: Lead abatement in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ddddy-painting-ny0920/
 ---

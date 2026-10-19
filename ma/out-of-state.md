@@ -1,5 +1,5 @@
 ---
-title: "Out-of-State Lead Paint Inspectors & Abatement Firms Licensed in Massachusetts | Lead Roster"
+title: "Out-of-State Lead Paint Inspectors & Abatement Firms Licensed in Massachusetts | Lead Paint Roster"
 description: "2 MA-licensed lead paint inspectors, risk assessors and abatement firms whose address of record is outside Massachusetts or has no county."
 canonical: https://leadpaintroster.com/ma/out-of-state/
 ---

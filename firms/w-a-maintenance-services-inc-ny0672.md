@@ -1,5 +1,5 @@
 ---
-title: "W & A Maintenance Services, Inc., Rockaway Park, NY | Lead Roster"
+title: "W & A Maintenance Services, Inc., Rockaway Park, NY | Lead Paint Roster"
 description: "W & A Maintenance Services, Inc.: Lead abatement, Lead inspection / evaluation in Rockaway Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/w-a-maintenance-services-inc-ny0672/
 ---

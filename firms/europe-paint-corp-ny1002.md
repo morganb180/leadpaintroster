@@ -1,5 +1,5 @@
 ---
-title: "Europe Paint Corp, Roslyn Heights, NY | Lead Roster"
+title: "Europe Paint Corp, Roslyn Heights, NY | Lead Paint Roster"
 description: "Europe Paint Corp: Lead abatement in Roslyn Heights, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/europe-paint-corp-ny1002/
 ---

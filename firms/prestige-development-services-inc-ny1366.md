@@ -1,5 +1,5 @@
 ---
-title: "Prestige Development Services Inc., Bronx, NY | Lead Roster"
+title: "Prestige Development Services Inc., Bronx, NY | Lead Paint Roster"
 description: "Prestige Development Services Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/prestige-development-services-inc-ny1366/
 ---

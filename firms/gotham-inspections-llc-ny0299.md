@@ -1,5 +1,5 @@
 ---
-title: "Gotham Inspections, LLC, Roosevelt, NY | Lead Roster"
+title: "Gotham Inspections, LLC, Roosevelt, NY | Lead Paint Roster"
 description: "Gotham Inspections, LLC: Lead inspection / evaluation in Roosevelt, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gotham-inspections-llc-ny0299/
 ---

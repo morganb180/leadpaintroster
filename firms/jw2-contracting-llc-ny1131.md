@@ -1,5 +1,5 @@
 ---
-title: "JW2 Contracting LLC, Great Neck, NY | Lead Roster"
+title: "JW2 Contracting LLC, Great Neck, NY | Lead Paint Roster"
 description: "JW2 Contracting LLC: Lead abatement in Great Neck, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jw2-contracting-llc-ny1131/
 ---

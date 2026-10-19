@@ -1,5 +1,5 @@
 ---
-title: "Quorey Construction Inc, Brooklyn, NY | Lead Roster"
+title: "Quorey Construction Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Quorey Construction Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/quorey-construction-inc-ny0552/
 ---

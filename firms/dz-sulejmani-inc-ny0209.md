@@ -1,5 +1,5 @@
 ---
-title: "Dz & Sulejmani Inc., Brooklyn, NY | Lead Roster"
+title: "Dz & Sulejmani Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Dz & Sulejmani Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dz-sulejmani-inc-ny0209/
 ---

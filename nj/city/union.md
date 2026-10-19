@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Union, NJ: 4 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Union, NJ: 4 Listings | Lead Paint Roster"
 description: "4 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms based in Union, New Jersey, plus 16 more in Union County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/nj/city/union/
 ---

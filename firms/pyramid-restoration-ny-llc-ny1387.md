@@ -1,5 +1,5 @@
 ---
-title: "Pyramid Restoration NY LLC, Long Island City, NY | Lead Roster"
+title: "Pyramid Restoration NY LLC, Long Island City, NY | Lead Paint Roster"
 description: "Pyramid Restoration NY LLC: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pyramid-restoration-ny-llc-ny1387/
 ---

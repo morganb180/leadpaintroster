@@ -1,5 +1,5 @@
 ---
-title: "ECC Inc., New York, NY | Lead Roster"
+title: "ECC Inc., New York, NY | Lead Paint Roster"
 description: "ECC Inc.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ecc-inc-ny0212/
 ---

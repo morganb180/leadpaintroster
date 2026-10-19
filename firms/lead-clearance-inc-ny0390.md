@@ -1,5 +1,5 @@
 ---
-title: "Lead Clearance Inc., Staten Island, NY | Lead Roster"
+title: "Lead Clearance Inc., Staten Island, NY | Lead Paint Roster"
 description: "Lead Clearance Inc.: Lead abatement, Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-clearance-inc-ny0390/
 ---

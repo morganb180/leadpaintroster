@@ -1,5 +1,5 @@
 ---
-title: "Buffalo RC., LLC, Williamsville, NY | Lead Roster"
+title: "Buffalo RC., LLC, Williamsville, NY | Lead Paint Roster"
 description: "Buffalo RC., LLC: Lead abatement in Williamsville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/buffalo-rc-llc-ny0861/
 ---

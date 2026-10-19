@@ -1,5 +1,5 @@
 ---
-title: "A & B Inspection Services, Corp., Arverne, NY | Lead Roster"
+title: "A & B Inspection Services, Corp., Arverne, NY | Lead Paint Roster"
 description: "A & B Inspection Services, Corp.: Lead inspection / evaluation in Arverne, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-b-inspection-services-corp-ny0011/
 ---

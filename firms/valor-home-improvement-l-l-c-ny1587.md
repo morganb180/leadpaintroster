@@ -1,5 +1,5 @@
 ---
-title: "Valor Home Improvement L.L.C, Bronx, NY | Lead Roster"
+title: "Valor Home Improvement L.L.C, Bronx, NY | Lead Paint Roster"
 description: "Valor Home Improvement L.L.C: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/valor-home-improvement-l-l-c-ny1587/
 ---

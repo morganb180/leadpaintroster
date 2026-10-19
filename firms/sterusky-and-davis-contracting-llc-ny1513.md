@@ -1,5 +1,5 @@
 ---
-title: "Sterusky and Davis Contracting LLC, Dolgeville, NY | Lead Roster"
+title: "Sterusky and Davis Contracting LLC, Dolgeville, NY | Lead Paint Roster"
 description: "Sterusky and Davis Contracting LLC: Lead abatement in Dolgeville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sterusky-and-davis-contracting-llc-ny1513/
 ---

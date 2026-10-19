@@ -1,5 +1,5 @@
 ---
-title: "Mindful Solutions NY, Brooklyn, NY | Lead Roster"
+title: "Mindful Solutions NY, Brooklyn, NY | Lead Paint Roster"
 description: "Mindful Solutions NY: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mindful-solutions-ny-ny0457/
 ---

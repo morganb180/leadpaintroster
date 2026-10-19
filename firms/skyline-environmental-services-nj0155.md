@@ -1,5 +1,5 @@
 ---
-title: "Skyline Environmental Services, Ringwood, NJ | Lead Roster"
+title: "Skyline Environmental Services, Ringwood, NJ | Lead Paint Roster"
 description: "Skyline Environmental Services: Lead inspection / evaluation in Ringwood, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/skyline-environmental-services-nj0155/
 ---

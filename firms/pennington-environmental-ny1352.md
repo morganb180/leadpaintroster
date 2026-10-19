@@ -1,5 +1,5 @@
 ---
-title: "Pennington Environmental, Bronx, NY | Lead Roster"
+title: "Pennington Environmental, Bronx, NY | Lead Paint Roster"
 description: "Pennington Environmental: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pennington-environmental-ny1352/
 ---

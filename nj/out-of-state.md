@@ -1,5 +1,5 @@
 ---
-title: "Out-of-State Lead Paint Inspectors & Abatement Firms Licensed in New Jersey | Lead Roster"
+title: "Out-of-State Lead Paint Inspectors & Abatement Firms Licensed in New Jersey | Lead Paint Roster"
 description: "44 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms whose address of record is outside New Jersey or has no county."
 canonical: https://leadpaintroster.com/nj/out-of-state/
 ---

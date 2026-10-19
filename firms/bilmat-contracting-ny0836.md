@@ -1,5 +1,5 @@
 ---
-title: "Bilmat Contracting, Walton, NY | Lead Roster"
+title: "Bilmat Contracting, Walton, NY | Lead Paint Roster"
 description: "Bilmat Contracting: Lead abatement in Walton, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bilmat-contracting-ny0836/
 ---

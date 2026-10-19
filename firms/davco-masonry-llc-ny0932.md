@@ -1,5 +1,5 @@
 ---
-title: "Davco Masonry LLC, Watervliet, NY | Lead Roster"
+title: "Davco Masonry LLC, Watervliet, NY | Lead Paint Roster"
 description: "Davco Masonry LLC: Lead abatement in Watervliet, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/davco-masonry-llc-ny0932/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Shining Sky Inc, Brooklyn, NY | Lead Roster"
+title: "Shining Sky Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Shining Sky Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/shining-sky-inc-ny0608/
 ---

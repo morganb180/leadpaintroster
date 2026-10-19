@@ -1,5 +1,5 @@
 ---
-title: "High Tech Construction, Smithtown, NY | Lead Roster"
+title: "High Tech Construction, Smithtown, NY | Lead Paint Roster"
 description: "High Tech Construction: Lead abatement, Lead inspection / evaluation in Smithtown, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/high-tech-construction-ny0320/
 ---

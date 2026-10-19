@@ -1,5 +1,5 @@
 ---
-title: "The Puma Home Repair and Painting Corp., Bronx, NY | Lead Roster"
+title: "The Puma Home Repair and Painting Corp., Bronx, NY | Lead Paint Roster"
 description: "The Puma Home Repair and Painting Corp.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/the-puma-home-repair-and-painting-corp-ny1547/
 ---

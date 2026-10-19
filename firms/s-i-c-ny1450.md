@@ -1,5 +1,5 @@
 ---
-title: "S.I.C., Staten Island, NY | Lead Roster"
+title: "S.I.C., Staten Island, NY | Lead Paint Roster"
 description: "S.I.C.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/s-i-c-ny1450/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Prestige NDT Inc., East Elmhurst, NY | Lead Roster"
+title: "Prestige NDT Inc., East Elmhurst, NY | Lead Paint Roster"
 description: "Prestige NDT Inc.: Lead abatement, Lead inspection / evaluation in East Elmhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/prestige-ndt-inc-ny0538/
 ---

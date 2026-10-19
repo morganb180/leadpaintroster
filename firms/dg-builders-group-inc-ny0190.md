@@ -1,5 +1,5 @@
 ---
-title: "DG Builders Group Inc., Farmingdale, NY | Lead Roster"
+title: "DG Builders Group Inc., Farmingdale, NY | Lead Paint Roster"
 description: "DG Builders Group Inc.: Lead abatement, Lead inspection / evaluation in Farmingdale, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dg-builders-group-inc-ny0190/
 ---

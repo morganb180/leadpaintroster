@@ -1,5 +1,5 @@
 ---
-title: "Qualis Workforce LLC, Rochester, NY | Lead Roster"
+title: "Qualis Workforce LLC, Rochester, NY | Lead Paint Roster"
 description: "Qualis Workforce LLC: Lead abatement in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/qualis-workforce-llc-ny1391/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Prodeal Construction, Astoria, NY | Lead Roster"
+title: "Prodeal Construction, Astoria, NY | Lead Paint Roster"
 description: "Prodeal Construction: Lead abatement in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/prodeal-construction-ny1374/
 ---

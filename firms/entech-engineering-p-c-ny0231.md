@@ -1,5 +1,5 @@
 ---
-title: "EnTech Engineering, P.C., New York, NY | Lead Roster"
+title: "EnTech Engineering, P.C., New York, NY | Lead Paint Roster"
 description: "EnTech Engineering, P.C.: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/entech-engineering-p-c-ny0231/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Dolmen JDR Restoration Corp, Brooklyn, NY | Lead Roster"
+title: "Dolmen JDR Restoration Corp, Brooklyn, NY | Lead Paint Roster"
 description: "Dolmen JDR Restoration Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dolmen-jdr-restoration-corp-ny0949/
 ---

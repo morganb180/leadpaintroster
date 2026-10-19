@@ -1,5 +1,5 @@
 ---
-title: "Tectonic Engineering Consultants, Geologists & Land Surveyors, D.P.C., Mountainville, NY | Lead Roster"
+title: "Tectonic Engineering Consultants, Geologists & Land Surveyors, D.P.C., Mountainville, NY | Lead Paint Roster"
 description: "Tectonic Engineering Consultants, Geologists & Land Surveyors, D.P.C.: Lead inspection / evaluation in Mountainville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tectonic-engineering-consultants-geologists-land-surveyors-d-ny0639/
 ---

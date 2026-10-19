@@ -1,5 +1,5 @@
 ---
-title: "Speedo Corporation, Valley Stream, NY | Lead Roster"
+title: "Speedo Corporation, Valley Stream, NY | Lead Paint Roster"
 description: "Speedo Corporation: Lead abatement, Lead inspection / evaluation in Valley Stream, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/speedo-corporation-ny0616/
 ---

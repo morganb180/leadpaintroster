@@ -1,5 +1,5 @@
 ---
-title: "The Bronx Lead, Bronx, NY | Lead Roster"
+title: "The Bronx Lead, Bronx, NY | Lead Paint Roster"
 description: "The Bronx Lead: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/the-bronx-lead-ny0644/
 ---

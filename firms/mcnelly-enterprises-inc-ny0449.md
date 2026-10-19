@@ -1,5 +1,5 @@
 ---
-title: "Mcnelly Enterprises Inc., Brooklyn, NY | Lead Roster"
+title: "Mcnelly Enterprises Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Mcnelly Enterprises Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mcnelly-enterprises-inc-ny0449/
 ---

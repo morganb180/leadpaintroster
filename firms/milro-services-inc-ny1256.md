@@ -1,5 +1,5 @@
 ---
-title: "Milro Services, Inc., Freeport, NY | Lead Roster"
+title: "Milro Services, Inc., Freeport, NY | Lead Paint Roster"
 description: "Milro Services, Inc.: Lead abatement in Freeport, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/milro-services-inc-ny1256/
 ---

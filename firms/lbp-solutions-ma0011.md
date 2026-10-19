@@ -1,5 +1,5 @@
 ---
-title: "LBP Solutions, Dighton, MA | Lead Roster"
+title: "LBP Solutions, Dighton, MA | Lead Paint Roster"
 description: "LBP Solutions: Lead risk assessment in Dighton, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lbp-solutions-ma0011/
 ---

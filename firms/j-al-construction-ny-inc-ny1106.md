@@ -1,5 +1,5 @@
 ---
-title: "J & AL Construction NY, Inc., Bronx, NY | Lead Roster"
+title: "J & AL Construction NY, Inc., Bronx, NY | Lead Paint Roster"
 description: "J & AL Construction NY, Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/j-al-construction-ny-inc-ny1106/
 ---

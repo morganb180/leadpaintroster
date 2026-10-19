@@ -1,5 +1,5 @@
 ---
-title: "Raven Construction Services Corp., Brooklyn, NY | Lead Roster"
+title: "Raven Construction Services Corp., Brooklyn, NY | Lead Paint Roster"
 description: "Raven Construction Services Corp.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/raven-construction-services-corp-ny1398/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Maye Development, Spencerport, NY | Lead Roster"
+title: "Maye Development, Spencerport, NY | Lead Paint Roster"
 description: "Maye Development: Lead abatement, Lead inspection / evaluation in Spencerport, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/maye-development-ny0447/
 ---

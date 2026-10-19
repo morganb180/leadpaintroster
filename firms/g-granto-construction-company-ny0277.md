@@ -1,5 +1,5 @@
 ---
-title: "G.Granto Construction Company, North Tonawanda, NY | Lead Roster"
+title: "G.Granto Construction Company, North Tonawanda, NY | Lead Paint Roster"
 description: "G.Granto Construction Company: Lead abatement, Lead inspection / evaluation in North Tonawanda, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/g-granto-construction-company-ny0277/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Cielo Home Improvement LLC, Bronx, NY | Lead Roster"
+title: "Cielo Home Improvement LLC, Bronx, NY | Lead Paint Roster"
 description: "Cielo Home Improvement LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cielo-home-improvement-llc-ny0896/
 ---

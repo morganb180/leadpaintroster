@@ -1,5 +1,5 @@
 ---
-title: "Jun's Construction Inc, College Point, NY | Lead Roster"
+title: "Jun's Construction Inc, College Point, NY | Lead Paint Roster"
 description: "Jun's Construction Inc: Lead abatement, Lead inspection / evaluation in College Point, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jun-s-construction-inc-ny0355/
 ---

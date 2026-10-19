@@ -1,5 +1,5 @@
 ---
-title: "Trident Construction & Mechanical Services LLC, Brewerton, NY | Lead Roster"
+title: "Trident Construction & Mechanical Services LLC, Brewerton, NY | Lead Paint Roster"
 description: "Trident Construction & Mechanical Services LLC: Lead abatement, Lead inspection / evaluation in Brewerton, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/trident-construction-mechanical-services-llc-ny0655/
 ---

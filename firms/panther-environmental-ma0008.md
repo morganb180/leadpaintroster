@@ -1,5 +1,5 @@
 ---
-title: "Panther Environmental, Braintree, MA | Lead Roster"
+title: "Panther Environmental, Braintree, MA | Lead Paint Roster"
 description: "Panther Environmental: Lead risk assessment in Braintree, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/panther-environmental-ma0008/
 ---

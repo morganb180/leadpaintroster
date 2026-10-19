@@ -1,5 +1,5 @@
 ---
-title: "Scott Construction Svcs Of Rochester, Inc, Rochester, NY | Lead Roster"
+title: "Scott Construction Svcs Of Rochester, Inc, Rochester, NY | Lead Paint Roster"
 description: "Scott Construction Svcs Of Rochester, Inc: Lead abatement in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/scott-construction-svcs-of-rochester-inc-ny1480/
 ---

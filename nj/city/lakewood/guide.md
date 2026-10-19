@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Lakewood, NJ | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Lakewood, NJ | Lead Paint Roster"
 description: "Lakewood, NJ lead paint guide: 5 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/nj/city/lakewood/guide/
 ---

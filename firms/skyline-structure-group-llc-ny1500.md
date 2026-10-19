@@ -1,5 +1,5 @@
 ---
-title: "Skyline Structure Group, LLC, College Point, NY | Lead Roster"
+title: "Skyline Structure Group, LLC, College Point, NY | Lead Paint Roster"
 description: "Skyline Structure Group, LLC: Lead abatement in College Point, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/skyline-structure-group-llc-ny1500/
 ---

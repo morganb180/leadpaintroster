@@ -1,5 +1,5 @@
 ---
-title: "NY Healthy Homes Testing Inc., Manlius, NY | Lead Roster"
+title: "NY Healthy Homes Testing Inc., Manlius, NY | Lead Paint Roster"
 description: "NY Healthy Homes Testing Inc.: Lead inspection / evaluation in Manlius, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ny-healthy-homes-testing-inc-ny0466/
 ---

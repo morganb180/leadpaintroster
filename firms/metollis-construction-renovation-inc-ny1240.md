@@ -1,5 +1,5 @@
 ---
-title: "Metollis Construction & Renovation Inc., Brooklyn, NY | Lead Roster"
+title: "Metollis Construction & Renovation Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Metollis Construction & Renovation Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/metollis-construction-renovation-inc-ny1240/
 ---

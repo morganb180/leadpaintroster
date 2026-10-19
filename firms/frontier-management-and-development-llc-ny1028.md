@@ -1,5 +1,5 @@
 ---
-title: "Frontier Management and Development, LLC, Niagara Falls, NY | Lead Roster"
+title: "Frontier Management and Development, LLC, Niagara Falls, NY | Lead Paint Roster"
 description: "Frontier Management and Development, LLC: Lead abatement in Niagara Falls, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/frontier-management-and-development-llc-ny1028/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Nyhi LLC, Brooklyn, NY | Lead Roster"
+title: "Nyhi LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Nyhi LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nyhi-llc-ny0482/
 ---

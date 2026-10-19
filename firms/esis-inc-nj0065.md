@@ -1,5 +1,5 @@
 ---
-title: "Esis, Inc., Philadelphia, PA | Lead Roster"
+title: "Esis, Inc., Philadelphia, PA | Lead Paint Roster"
 description: "Esis, Inc.: Lead inspection / evaluation in Philadelphia, PA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/esis-inc-nj0065/
 ---

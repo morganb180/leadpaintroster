@@ -1,5 +1,5 @@
 ---
-title: "O'Hagan Construction INC, Maspeth, NY | Lead Roster"
+title: "O'Hagan Construction INC, Maspeth, NY | Lead Paint Roster"
 description: "O'Hagan Construction INC: Lead abatement, Lead inspection / evaluation in Maspeth, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/o-hagan-construction-inc-ny0504/
 ---

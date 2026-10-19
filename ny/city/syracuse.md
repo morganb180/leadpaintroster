@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Syracuse, NY: 21 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Syracuse, NY: 21 Listings | Lead Paint Roster"
 description: "21 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Syracuse, New York, plus 17 more in Onondaga County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/syracuse/
 ---

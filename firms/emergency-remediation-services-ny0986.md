@@ -1,5 +1,5 @@
 ---
-title: "Emergency Remediation Services, New York, NY | Lead Roster"
+title: "Emergency Remediation Services, New York, NY | Lead Paint Roster"
 description: "Emergency Remediation Services: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/emergency-remediation-services-ny0986/
 ---

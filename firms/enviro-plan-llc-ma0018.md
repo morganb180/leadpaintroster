@@ -1,5 +1,5 @@
 ---
-title: "Enviro Plan LLC, Hancock, MA | Lead Roster"
+title: "Enviro Plan LLC, Hancock, MA | Lead Paint Roster"
 description: "Enviro Plan LLC: Lead risk assessment in Hancock, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/enviro-plan-llc-ma0018/
 ---

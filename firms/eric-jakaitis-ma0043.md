@@ -1,5 +1,5 @@
 ---
-title: "Eric Jakaitis, South Weymouth, MA | Lead Roster"
+title: "Eric Jakaitis, South Weymouth, MA | Lead Paint Roster"
 description: "Eric Jakaitis: Lead inspection / evaluation in South Weymouth, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/eric-jakaitis-ma0043/
 ---

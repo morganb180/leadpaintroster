@@ -1,5 +1,5 @@
 ---
-title: "Kenneth Corb, Waltham, MA | Lead Roster"
+title: "Kenneth Corb, Waltham, MA | Lead Paint Roster"
 description: "Kenneth Corb: Lead inspection / evaluation in Waltham, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kenneth-corb-ma0051/
 ---

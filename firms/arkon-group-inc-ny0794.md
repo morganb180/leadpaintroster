@@ -1,5 +1,5 @@
 ---
-title: "Arkon Group Inc., Bronx, NY | Lead Roster"
+title: "Arkon Group Inc., Bronx, NY | Lead Paint Roster"
 description: "Arkon Group Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/arkon-group-inc-ny0794/
 ---

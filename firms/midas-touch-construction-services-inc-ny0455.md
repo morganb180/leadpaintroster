@@ -1,5 +1,5 @@
 ---
-title: "Midas Touch Construction Services Inc, Mount Vernon, NY | Lead Roster"
+title: "Midas Touch Construction Services Inc, Mount Vernon, NY | Lead Paint Roster"
 description: "Midas Touch Construction Services Inc: Lead abatement, Lead inspection / evaluation in Mount Vernon, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/midas-touch-construction-services-inc-ny0455/
 ---

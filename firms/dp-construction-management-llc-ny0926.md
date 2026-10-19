@@ -1,5 +1,5 @@
 ---
-title: "DP Construction Management LLC, Manhattan, NY | Lead Roster"
+title: "DP Construction Management LLC, Manhattan, NY | Lead Paint Roster"
 description: "DP Construction Management LLC: Lead abatement in Manhattan, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dp-construction-management-llc-ny0926/
 ---

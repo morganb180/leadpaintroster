@@ -1,5 +1,5 @@
 ---
-title: "Michael's Remodeling, Selkirk, NY | Lead Roster"
+title: "Michael's Remodeling, Selkirk, NY | Lead Paint Roster"
 description: "Michael's Remodeling: Lead abatement in Selkirk, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/michael-s-remodeling-ny1246/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "McMahon's Home Improvement, Gardiner, NY | Lead Roster"
+title: "McMahon's Home Improvement, Gardiner, NY | Lead Paint Roster"
 description: "McMahon's Home Improvement: Lead abatement in Gardiner, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mcmahon-s-home-improvement-ny1235/
 ---

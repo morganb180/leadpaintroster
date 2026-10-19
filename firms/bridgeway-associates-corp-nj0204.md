@@ -1,5 +1,5 @@
 ---
-title: "Bridgeway Associates Corp., Hillside, NJ | Lead Roster"
+title: "Bridgeway Associates Corp., Hillside, NJ | Lead Paint Roster"
 description: "Bridgeway Associates Corp.: Lead abatement in Hillside, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bridgeway-associates-corp-nj0204/
 ---

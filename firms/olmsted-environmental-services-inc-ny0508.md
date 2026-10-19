@@ -1,5 +1,5 @@
 ---
-title: "Olmsted Environmental Services, Inc, Garrison, NY | Lead Roster"
+title: "Olmsted Environmental Services, Inc, Garrison, NY | Lead Paint Roster"
 description: "Olmsted Environmental Services, Inc: Lead inspection / evaluation in Garrison, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/olmsted-environmental-services-inc-ny0508/
 ---

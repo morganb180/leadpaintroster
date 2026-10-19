@@ -1,5 +1,5 @@
 ---
-title: "Gohar Construction Corp, Staten Island, NY | Lead Roster"
+title: "Gohar Construction Corp, Staten Island, NY | Lead Paint Roster"
 description: "Gohar Construction Corp: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gohar-construction-corp-ny1058/
 ---

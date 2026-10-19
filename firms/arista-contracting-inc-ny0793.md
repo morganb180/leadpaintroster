@@ -1,5 +1,5 @@
 ---
-title: "Arista Contracting Inc, Staten Island, NY | Lead Roster"
+title: "Arista Contracting Inc, Staten Island, NY | Lead Paint Roster"
 description: "Arista Contracting Inc: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/arista-contracting-inc-ny0793/
 ---

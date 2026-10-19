@@ -1,5 +1,5 @@
 ---
-title: "Mapco Enterprises Inc., Schenectady, NY | Lead Roster"
+title: "Mapco Enterprises Inc., Schenectady, NY | Lead Paint Roster"
 description: "Mapco Enterprises Inc.: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mapco-enterprises-inc-ny1222/
 ---

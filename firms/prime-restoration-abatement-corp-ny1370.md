@@ -1,5 +1,5 @@
 ---
-title: "Prime Restoration & Abatement Corp, Ozone Park, NY | Lead Roster"
+title: "Prime Restoration & Abatement Corp, Ozone Park, NY | Lead Paint Roster"
 description: "Prime Restoration & Abatement Corp: Lead abatement in Ozone Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/prime-restoration-abatement-corp-ny1370/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "YAS Consulting LLC, Thiells, NY | Lead Roster"
+title: "YAS Consulting LLC, Thiells, NY | Lead Paint Roster"
 description: "YAS Consulting LLC: Lead abatement in Thiells, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/yas-consulting-llc-ny1621/
 ---

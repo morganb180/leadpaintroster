@@ -1,5 +1,5 @@
 ---
-title: "Blackstone Environmental Solutions, Woodmere, NY | Lead Roster"
+title: "Blackstone Environmental Solutions, Woodmere, NY | Lead Paint Roster"
 description: "Blackstone Environmental Solutions: Lead inspection / evaluation in Woodmere, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/blackstone-environmental-solutions-ny0133/
 ---

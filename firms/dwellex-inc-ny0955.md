@@ -1,5 +1,5 @@
 ---
-title: "Dwellex Inc, Rochester, NY | Lead Roster"
+title: "Dwellex Inc, Rochester, NY | Lead Paint Roster"
 description: "Dwellex Inc: Lead abatement in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dwellex-inc-ny0955/
 ---

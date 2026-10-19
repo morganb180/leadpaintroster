@@ -1,5 +1,5 @@
 ---
-title: "Clean Collection Inc, Brooklyn, NY | Lead Roster"
+title: "Clean Collection Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Clean Collection Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/clean-collection-inc-ny0901/
 ---

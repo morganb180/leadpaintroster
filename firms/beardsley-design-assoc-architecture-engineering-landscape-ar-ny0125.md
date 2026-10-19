@@ -1,5 +1,5 @@
 ---
-title: "Beardsley Design Assoc Architecture, Engineering & Landscape Architecture, D.P.C, Auburn, NY | Lead Roster"
+title: "Beardsley Design Assoc Architecture, Engineering & Landscape Architecture, D.P.C, Auburn, NY | Lead Paint Roster"
 description: "Beardsley Design Assoc Architecture, Engineering & Landscape Architecture, D.P.C: Lead inspection / evaluation in Auburn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/beardsley-design-assoc-architecture-engineering-landscape-ar-ny0125/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Dutchess County, NY: 10 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Dutchess County, NY: 10 Listings | Lead Paint Roster"
 description: "10 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Dutchess County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/dutchess/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Knabuilders, Inc, Tonawanda, NY | Lead Roster"
+title: "Knabuilders, Inc, Tonawanda, NY | Lead Paint Roster"
 description: "Knabuilders, Inc: Lead abatement in Tonawanda, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/knabuilders-inc-ny1157/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Orange County, NY: 21 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Orange County, NY: 21 Listings | Lead Paint Roster"
 description: "21 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Orange County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/orange/
 ---

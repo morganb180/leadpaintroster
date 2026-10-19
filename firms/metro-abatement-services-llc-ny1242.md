@@ -1,5 +1,5 @@
 ---
-title: "Metro Abatement Services LLC, Yonkers, NY | Lead Roster"
+title: "Metro Abatement Services LLC, Yonkers, NY | Lead Paint Roster"
 description: "Metro Abatement Services LLC: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/metro-abatement-services-llc-ny1242/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Rscan Home Inspections, Schenectady, NY | Lead Roster"
+title: "Rscan Home Inspections, Schenectady, NY | Lead Paint Roster"
 description: "Rscan Home Inspections: Lead abatement, Lead inspection / evaluation in Schenectady, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rscan-home-inspections-ny0585/
 ---

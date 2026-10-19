@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Cumberland County, NJ: 7 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Cumberland County, NJ: 7 Listings | Lead Paint Roster"
 description: "7 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms in Cumberland County, New Jersey, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/nj/county/cumberland/
 ---

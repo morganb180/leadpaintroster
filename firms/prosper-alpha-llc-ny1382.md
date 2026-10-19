@@ -1,5 +1,5 @@
 ---
-title: "Prosper Alpha LLC, Albany, NY | Lead Roster"
+title: "Prosper Alpha LLC, Albany, NY | Lead Paint Roster"
 description: "Prosper Alpha LLC: Lead abatement in Albany, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/prosper-alpha-llc-ny1382/
 ---

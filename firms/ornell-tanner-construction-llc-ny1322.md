@@ -1,5 +1,5 @@
 ---
-title: "Ornell Tanner Construction LLC, Bronx, NY | Lead Roster"
+title: "Ornell Tanner Construction LLC, Bronx, NY | Lead Paint Roster"
 description: "Ornell Tanner Construction LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ornell-tanner-construction-llc-ny1322/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Sienia Construction Inc., Maspeth, NY | Lead Roster"
+title: "Sienia Construction Inc., Maspeth, NY | Lead Paint Roster"
 description: "Sienia Construction Inc.: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sienia-construction-inc-ny1496/
 ---

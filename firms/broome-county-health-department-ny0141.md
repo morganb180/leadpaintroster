@@ -1,5 +1,5 @@
 ---
-title: "Broome County Health Department, Binghamton, NY | Lead Roster"
+title: "Broome County Health Department, Binghamton, NY | Lead Paint Roster"
 description: "Broome County Health Department: Lead inspection / evaluation in Binghamton, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/broome-county-health-department-ny0141/
 ---

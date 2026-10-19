@@ -1,5 +1,5 @@
 ---
-title: "AAA Quality Home Improvement, Grand Island, NY | Lead Roster"
+title: "AAA Quality Home Improvement, Grand Island, NY | Lead Paint Roster"
 description: "AAA Quality Home Improvement: Lead abatement in Grand Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/aaa-quality-home-improvement-ny0718/
 ---

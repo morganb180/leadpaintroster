@@ -1,5 +1,5 @@
 ---
-title: "Environmental Investigators, New York City, NY | Lead Roster"
+title: "Environmental Investigators, New York City, NY | Lead Paint Roster"
 description: "Environmental Investigators: Lead abatement, Lead inspection / evaluation in New York City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/environmental-investigators-ny0250/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Pro Vista Home Inspections, Passaic, NJ | Lead Roster"
+title: "Pro Vista Home Inspections, Passaic, NJ | Lead Paint Roster"
 description: "Pro Vista Home Inspections: Lead inspection / evaluation in Passaic, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pro-vista-home-inspections-nj0132/
 ---

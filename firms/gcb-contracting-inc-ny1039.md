@@ -1,5 +1,5 @@
 ---
-title: "GCB Contracting Inc, Lowville, NY | Lead Roster"
+title: "GCB Contracting Inc, Lowville, NY | Lead Paint Roster"
 description: "GCB Contracting Inc: Lead abatement in Lowville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gcb-contracting-inc-ny1039/
 ---

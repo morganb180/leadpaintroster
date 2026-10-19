@@ -1,5 +1,5 @@
 ---
-title: "AED Contracting Corp, Brooklyn, NY | Lead Roster"
+title: "AED Contracting Corp, Brooklyn, NY | Lead Paint Roster"
 description: "AED Contracting Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/aed-contracting-corp-ny0726/
 ---

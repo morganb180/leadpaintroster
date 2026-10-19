@@ -1,5 +1,5 @@
 ---
-title: "Certified NY Environmental Services LLC, Airmont, NY | Lead Roster"
+title: "Certified NY Environmental Services LLC, Airmont, NY | Lead Paint Roster"
 description: "Certified NY Environmental Services LLC: Lead abatement, Lead inspection / evaluation in Airmont, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/certified-ny-environmental-services-llc-ny0161/
 ---

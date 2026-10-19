@@ -1,5 +1,5 @@
 ---
-title: "OnyxEnviro LLC, Suffern, NY | Lead Roster"
+title: "OnyxEnviro LLC, Suffern, NY | Lead Paint Roster"
 description: "OnyxEnviro LLC: Lead abatement, Lead inspection / evaluation in Suffern, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/onyxenviro-llc-ny0512/
 ---

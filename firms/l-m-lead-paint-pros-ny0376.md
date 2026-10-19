@@ -1,5 +1,5 @@
 ---
-title: "L&M Lead Paint Pros, Glen Cove, NY | Lead Roster"
+title: "L&M Lead Paint Pros, Glen Cove, NY | Lead Paint Roster"
 description: "L&M Lead Paint Pros: Lead abatement, Lead inspection / evaluation in Glen Cove, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/l-m-lead-paint-pros-ny0376/
 ---

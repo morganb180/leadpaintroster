@@ -1,5 +1,5 @@
 ---
-title: "Millburn Harbor Inc., New York, NY | Lead Roster"
+title: "Millburn Harbor Inc., New York, NY | Lead Paint Roster"
 description: "Millburn Harbor Inc.: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/millburn-harbor-inc-ny1254/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Corcon, Inc., Lowellville, OH | Lead Roster"
+title: "Corcon, Inc., Lowellville, OH | Lead Paint Roster"
 description: "Corcon, Inc.: Lead abatement in Lowellville, OH. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/corcon-inc-nj0209/
 ---

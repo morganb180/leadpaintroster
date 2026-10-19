@@ -1,5 +1,5 @@
 ---
-title: "Applied Biomassferm Technologies LLC, Syracuse, NY | Lead Roster"
+title: "Applied Biomassferm Technologies LLC, Syracuse, NY | Lead Paint Roster"
 description: "Applied Biomassferm Technologies LLC: Lead inspection / evaluation in Syracuse, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/applied-biomassferm-technologies-llc-ny0095/
 ---

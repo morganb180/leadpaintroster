@@ -1,5 +1,5 @@
 ---
-title: "Q G I Construction LLC, Queens Village, NY | Lead Roster"
+title: "Q G I Construction LLC, Queens Village, NY | Lead Paint Roster"
 description: "Q G I Construction LLC: Lead abatement, Lead inspection / evaluation in Queens Village, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/q-g-i-construction-llc-ny0546/
 ---

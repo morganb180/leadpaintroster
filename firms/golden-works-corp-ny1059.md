@@ -1,5 +1,5 @@
 ---
-title: "Golden Works Corp, Astoria, NY | Lead Roster"
+title: "Golden Works Corp, Astoria, NY | Lead Paint Roster"
 description: "Golden Works Corp: Lead abatement in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/golden-works-corp-ny1059/
 ---

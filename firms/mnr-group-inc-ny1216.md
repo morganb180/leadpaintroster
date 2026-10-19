@@ -1,5 +1,5 @@
 ---
-title: "MNR Group, Inc., College Point, NY | Lead Roster"
+title: "MNR Group, Inc., College Point, NY | Lead Paint Roster"
 description: "MNR Group, Inc.: Lead abatement in College Point, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mnr-group-inc-ny1216/
 ---

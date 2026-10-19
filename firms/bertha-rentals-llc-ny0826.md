@@ -1,5 +1,5 @@
 ---
-title: "Bertha Rentals LLC, Albany, NY | Lead Roster"
+title: "Bertha Rentals LLC, Albany, NY | Lead Paint Roster"
 description: "Bertha Rentals LLC: Lead abatement in Albany, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bertha-rentals-llc-ny0826/
 ---

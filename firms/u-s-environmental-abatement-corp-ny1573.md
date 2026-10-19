@@ -1,5 +1,5 @@
 ---
-title: "U.S. Environmental Abatement, Corp., Westbury, NY | Lead Roster"
+title: "U.S. Environmental Abatement, Corp., Westbury, NY | Lead Paint Roster"
 description: "U.S. Environmental Abatement, Corp.: Lead abatement in Westbury, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/u-s-environmental-abatement-corp-ny1573/
 ---

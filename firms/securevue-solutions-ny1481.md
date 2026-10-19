@@ -1,5 +1,5 @@
 ---
-title: "SecureVue Solutions, New York, NY | Lead Roster"
+title: "SecureVue Solutions, New York, NY | Lead Paint Roster"
 description: "SecureVue Solutions: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/securevue-solutions-ny1481/
 ---

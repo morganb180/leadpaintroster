@@ -1,5 +1,5 @@
 ---
-title: "Van Dyk Solutions LLC, Cambridge, NY | Lead Roster"
+title: "Van Dyk Solutions LLC, Cambridge, NY | Lead Paint Roster"
 description: "Van Dyk Solutions LLC: Lead abatement in Cambridge, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/van-dyk-solutions-llc-ny1593/
 ---

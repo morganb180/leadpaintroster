@@ -1,5 +1,5 @@
 ---
-title: "ClearVU Environmental, Queensbury, NY | Lead Roster"
+title: "ClearVU Environmental, Queensbury, NY | Lead Paint Roster"
 description: "ClearVU Environmental: Lead inspection / evaluation in Queensbury, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/clearvu-environmental-ny0171/
 ---

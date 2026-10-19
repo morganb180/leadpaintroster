@@ -1,5 +1,5 @@
 ---
-title: "GI Environmental Testing & Consulting Corp., Whitestone, NY | Lead Roster"
+title: "GI Environmental Testing & Consulting Corp., Whitestone, NY | Lead Paint Roster"
 description: "GI Environmental Testing & Consulting Corp.: Lead inspection / evaluation in Whitestone, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gi-environmental-testing-consulting-corp-ny0284/
 ---

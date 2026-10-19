@@ -1,5 +1,5 @@
 ---
-title: "Metro General Contracting, Inc., Staten Island, NY | Lead Roster"
+title: "Metro General Contracting, Inc., Staten Island, NY | Lead Paint Roster"
 description: "Metro General Contracting, Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/metro-general-contracting-inc-ny1245/
 ---

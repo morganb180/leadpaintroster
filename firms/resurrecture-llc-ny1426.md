@@ -1,5 +1,5 @@
 ---
-title: "Resurrecture, LLC, New York, NY | Lead Roster"
+title: "Resurrecture, LLC, New York, NY | Lead Paint Roster"
 description: "Resurrecture, LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/resurrecture-llc-ny1426/
 ---

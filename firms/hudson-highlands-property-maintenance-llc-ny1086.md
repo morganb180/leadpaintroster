@@ -1,5 +1,5 @@
 ---
-title: "Hudson Highlands Property Maintenance LLC, Highland, NY | Lead Roster"
+title: "Hudson Highlands Property Maintenance LLC, Highland, NY | Lead Paint Roster"
 description: "Hudson Highlands Property Maintenance LLC: Lead abatement in Highland, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/hudson-highlands-property-maintenance-llc-ny1086/
 ---

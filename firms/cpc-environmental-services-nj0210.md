@@ -1,5 +1,5 @@
 ---
-title: "Cpc Environmental Services, Newark, NJ | Lead Roster"
+title: "Cpc Environmental Services, Newark, NJ | Lead Paint Roster"
 description: "Cpc Environmental Services: Lead abatement in Newark, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cpc-environmental-services-nj0210/
 ---

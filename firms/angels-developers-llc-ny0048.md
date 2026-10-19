@@ -1,5 +1,5 @@
 ---
-title: "Angels Developers LLC, Floral Park, NY | Lead Roster"
+title: "Angels Developers LLC, Floral Park, NY | Lead Paint Roster"
 description: "Angels Developers LLC: Lead abatement, Lead inspection / evaluation in Floral Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/angels-developers-llc-ny0048/
 ---

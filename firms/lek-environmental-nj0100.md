@@ -1,5 +1,5 @@
 ---
-title: "Lek Environmental, Palisades Park, NJ | Lead Roster"
+title: "Lek Environmental, Palisades Park, NJ | Lead Paint Roster"
 description: "Lek Environmental: Lead inspection / evaluation in Palisades Park, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lek-environmental-nj0100/
 ---

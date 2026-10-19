@@ -1,5 +1,5 @@
 ---
-title: "Cut Above Insp. & Testing, LLC, Elizabeth, NJ | Lead Roster"
+title: "Cut Above Insp. & Testing, LLC, Elizabeth, NJ | Lead Paint Roster"
 description: "Cut Above Insp. & Testing, LLC: Lead inspection / evaluation in Elizabeth, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cut-above-insp-testing-llc-nj0044/
 ---

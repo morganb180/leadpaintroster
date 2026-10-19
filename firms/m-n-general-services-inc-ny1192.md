@@ -1,5 +1,5 @@
 ---
-title: "M & N General Services, Inc, Brooklyn, NY | Lead Roster"
+title: "M & N General Services, Inc, Brooklyn, NY | Lead Paint Roster"
 description: "M & N General Services, Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/m-n-general-services-inc-ny1192/
 ---

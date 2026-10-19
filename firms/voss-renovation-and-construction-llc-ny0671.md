@@ -1,5 +1,5 @@
 ---
-title: "Voss Renovation and Construction, LLC, Getzville, NY | Lead Roster"
+title: "Voss Renovation and Construction, LLC, Getzville, NY | Lead Paint Roster"
 description: "Voss Renovation and Construction, LLC: Lead abatement, Lead inspection / evaluation in Getzville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/voss-renovation-and-construction-llc-ny0671/
 ---

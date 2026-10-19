@@ -1,5 +1,5 @@
 ---
-title: "Maven Construction Corp, Brooklyn, NY | Lead Roster"
+title: "Maven Construction Corp, Brooklyn, NY | Lead Paint Roster"
 description: "Maven Construction Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/maven-construction-corp-ny1232/
 ---

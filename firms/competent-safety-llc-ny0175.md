@@ -1,5 +1,5 @@
 ---
-title: "Competent Safety LLC, Queens, NY | Lead Roster"
+title: "Competent Safety LLC, Queens, NY | Lead Paint Roster"
 description: "Competent Safety LLC: Lead abatement, Lead inspection / evaluation in Queens, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/competent-safety-llc-ny0175/
 ---

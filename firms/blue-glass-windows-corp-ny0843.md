@@ -1,5 +1,5 @@
 ---
-title: "Blue Glass Windows Corp, Smithtown, NY | Lead Roster"
+title: "Blue Glass Windows Corp, Smithtown, NY | Lead Paint Roster"
 description: "Blue Glass Windows Corp: Lead abatement in Smithtown, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/blue-glass-windows-corp-ny0843/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Environmental Construction Group Inc, Albion, NY | Lead Roster"
+title: "Environmental Construction Group Inc, Albion, NY | Lead Paint Roster"
 description: "Environmental Construction Group Inc: Lead abatement in Albion, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/environmental-construction-group-inc-ny0994/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Fire Shield Restoration LLC, Brooklyn, NY | Lead Roster"
+title: "Fire Shield Restoration LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Fire Shield Restoration LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/fire-shield-restoration-llc-ny1019/
 ---

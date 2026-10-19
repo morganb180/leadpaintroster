@@ -1,5 +1,5 @@
 ---
-title: "ELI NYC Inc., New York, NY | Lead Roster"
+title: "ELI NYC Inc., New York, NY | Lead Paint Roster"
 description: "ELI NYC Inc.: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/eli-nyc-inc-ny0213/
 ---

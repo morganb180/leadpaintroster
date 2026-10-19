@@ -1,5 +1,5 @@
 ---
-title: "Pyramid Safety & Health Solutions, Inc, Jamaica, NY | Lead Roster"
+title: "Pyramid Safety & Health Solutions, Inc, Jamaica, NY | Lead Paint Roster"
 description: "Pyramid Safety & Health Solutions, Inc: Lead abatement, Lead inspection / evaluation in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pyramid-safety-health-solutions-inc-ny0545/
 ---

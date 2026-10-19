@@ -1,5 +1,5 @@
 ---
-title: "Castro Contracting, Amsterdam, NY | Lead Roster"
+title: "Castro Contracting, Amsterdam, NY | Lead Paint Roster"
 description: "Castro Contracting: Lead abatement in Amsterdam, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/castro-contracting-ny0887/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "East End Environmental, Corp., Kings Park, NY | Lead Roster"
+title: "East End Environmental, Corp., Kings Park, NY | Lead Paint Roster"
 description: "East End Environmental, Corp.: Lead abatement in Kings Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/east-end-environmental-corp-ny0976/
 ---

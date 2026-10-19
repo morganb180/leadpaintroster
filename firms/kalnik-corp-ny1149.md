@@ -1,5 +1,5 @@
 ---
-title: "Kalnik Corp., Melville, NY | Lead Roster"
+title: "Kalnik Corp., Melville, NY | Lead Paint Roster"
 description: "Kalnik Corp.: Lead abatement in Melville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kalnik-corp-ny1149/
 ---

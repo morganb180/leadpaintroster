@@ -1,5 +1,5 @@
 ---
-title: "Berenato Env. Associates, LLC, Ocean City, NJ | Lead Roster"
+title: "Berenato Env. Associates, LLC, Ocean City, NJ | Lead Paint Roster"
 description: "Berenato Env. Associates, LLC: Lead inspection / evaluation in Ocean City, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/berenato-env-associates-llc-nj0034/
 ---

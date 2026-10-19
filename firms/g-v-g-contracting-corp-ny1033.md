@@ -1,5 +1,5 @@
 ---
-title: "G.V.G. Contracting Corp., Flushing, NY | Lead Roster"
+title: "G.V.G. Contracting Corp., Flushing, NY | Lead Paint Roster"
 description: "G.V.G. Contracting Corp.: Lead abatement in Flushing, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/g-v-g-contracting-corp-ny1033/
 ---

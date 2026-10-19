@@ -1,5 +1,5 @@
 ---
-title: "Luxury Tile And Painting LLC, Far Rockaway, NY | Lead Roster"
+title: "Luxury Tile And Painting LLC, Far Rockaway, NY | Lead Paint Roster"
 description: "Luxury Tile And Painting LLC: Lead abatement in Far Rockaway, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/luxury-tile-and-painting-llc-ny1189/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "VIT Unlimited Inc, Brooklyn, NY | Lead Roster"
+title: "VIT Unlimited Inc, Brooklyn, NY | Lead Paint Roster"
 description: "VIT Unlimited Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/vit-unlimited-inc-ny1590/
 ---

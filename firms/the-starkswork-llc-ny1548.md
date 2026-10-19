@@ -1,5 +1,5 @@
 ---
-title: "The Starkswork, LLC, Flushing, NY | Lead Roster"
+title: "The Starkswork, LLC, Flushing, NY | Lead Paint Roster"
 description: "The Starkswork, LLC: Lead abatement in Flushing, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/the-starkswork-llc-ny1548/
 ---

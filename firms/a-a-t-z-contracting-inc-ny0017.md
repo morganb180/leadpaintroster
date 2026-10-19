@@ -1,5 +1,5 @@
 ---
-title: "A.A.T.Z. Contracting Inc, Scarsdale, NY | Lead Roster"
+title: "A.A.T.Z. Contracting Inc, Scarsdale, NY | Lead Paint Roster"
 description: "A.A.T.Z. Contracting Inc: Lead abatement, Lead inspection / evaluation in Scarsdale, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-a-t-z-contracting-inc-ny0017/
 ---

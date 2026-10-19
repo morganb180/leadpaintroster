@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in White Plains, NY: 8 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in White Plains, NY: 8 Listings | Lead Paint Roster"
 description: "8 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in White Plains, New York, plus 115 more in Westchester County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/white-plains/
 ---

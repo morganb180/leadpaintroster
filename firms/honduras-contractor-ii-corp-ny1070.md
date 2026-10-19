@@ -1,5 +1,5 @@
 ---
-title: "Honduras Contractor II Corp, Hempstead, NY | Lead Roster"
+title: "Honduras Contractor II Corp, Hempstead, NY | Lead Paint Roster"
 description: "Honduras Contractor II Corp: Lead abatement in Hempstead, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/honduras-contractor-ii-corp-ny1070/
 ---

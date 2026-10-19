@@ -1,5 +1,5 @@
 ---
-title: "B&S Lead Risk Assessments, LLC, Albany, NY | Lead Roster"
+title: "B&S Lead Risk Assessments, LLC, Albany, NY | Lead Paint Roster"
 description: "B&S Lead Risk Assessments, LLC: Lead inspection / evaluation in Albany, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/b-s-lead-risk-assessments-llc-ny0114/
 ---

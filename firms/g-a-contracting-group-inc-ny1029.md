@@ -1,5 +1,5 @@
 ---
-title: "G&a Contracting Group Inc, Jamaica, NY | Lead Roster"
+title: "G&a Contracting Group Inc, Jamaica, NY | Lead Paint Roster"
 description: "G&a Contracting Group Inc: Lead abatement in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/g-a-contracting-group-inc-ny1029/
 ---

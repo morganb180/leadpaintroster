@@ -1,5 +1,5 @@
 ---
-title: "Tadas Environmental, Auburn, MA | Lead Roster"
+title: "Tadas Environmental, Auburn, MA | Lead Paint Roster"
 description: "Tadas Environmental: Lead inspection / evaluation in Auburn, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tadas-environmental-ma0002/
 ---

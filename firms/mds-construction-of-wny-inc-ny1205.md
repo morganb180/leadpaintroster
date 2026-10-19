@@ -1,5 +1,5 @@
 ---
-title: "MDS Construction of WNY Inc., Lockport, NY | Lead Roster"
+title: "MDS Construction of WNY Inc., Lockport, NY | Lead Paint Roster"
 description: "MDS Construction of WNY Inc.: Lead abatement in Lockport, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mds-construction-of-wny-inc-ny1205/
 ---

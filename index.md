@@ -1,5 +1,5 @@
 ---
-title: "Lead Roster: Certified Lead Paint Inspectors in NJ, NY & MA"
+title: "Lead Paint Roster: Certified Lead Paint Inspectors in NJ, NY & MA"
 description: "Search state- and EPA-certified lead paint inspectors, risk assessors and abatement firms in New Jersey, New York (including NYC) and Massachusetts. Certification numbers, expiry dates and sources."
 canonical: https://leadpaintroster.com/
 ---

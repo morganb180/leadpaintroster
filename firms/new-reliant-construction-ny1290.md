@@ -1,5 +1,5 @@
 ---
-title: "New Reliant Construction, New York, NY | Lead Roster"
+title: "New Reliant Construction, New York, NY | Lead Paint Roster"
 description: "New Reliant Construction: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/new-reliant-construction-ny1290/
 ---

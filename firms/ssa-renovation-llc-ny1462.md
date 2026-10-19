@@ -1,5 +1,5 @@
 ---
-title: "SSA Renovation LLC, Brooklyn, NY | Lead Roster"
+title: "SSA Renovation LLC, Brooklyn, NY | Lead Paint Roster"
 description: "SSA Renovation LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ssa-renovation-llc-ny1462/
 ---

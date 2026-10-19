@@ -1,5 +1,5 @@
 ---
-title: "I Prime Development LLC, New York, NY | Lead Roster"
+title: "I Prime Development LLC, New York, NY | Lead Paint Roster"
 description: "I Prime Development LLC: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/i-prime-development-llc-ny0331/
 ---

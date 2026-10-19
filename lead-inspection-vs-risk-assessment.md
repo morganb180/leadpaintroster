@@ -1,5 +1,5 @@
 ---
-title: "Lead Inspection vs Lead Risk Assessment | Lead Roster"
+title: "Lead Inspection vs Lead Risk Assessment | Lead Paint Roster"
 description: "The difference between a lead-based paint inspection and a lead risk assessment."
 canonical: https://leadpaintroster.com/lead-inspection-vs-risk-assessment/
 ---

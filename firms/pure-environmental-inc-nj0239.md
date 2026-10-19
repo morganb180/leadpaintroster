@@ -1,5 +1,5 @@
 ---
-title: "Pure Environmental, Inc., Brooklyn, NY | Lead Roster"
+title: "Pure Environmental, Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Pure Environmental, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pure-environmental-inc-nj0239/
 ---

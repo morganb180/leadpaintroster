@@ -1,5 +1,5 @@
 ---
-title: "D Gaines Contracting LLC, Binghamton, NY | Lead Roster"
+title: "D Gaines Contracting LLC, Binghamton, NY | Lead Paint Roster"
 description: "D Gaines Contracting LLC: Lead abatement in Binghamton, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/d-gaines-contracting-llc-ny0915/
 ---

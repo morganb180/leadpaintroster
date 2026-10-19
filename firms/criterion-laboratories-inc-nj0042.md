@@ -1,5 +1,5 @@
 ---
-title: "Criterion Laboratories Inc., Bensalem, PA | Lead Roster"
+title: "Criterion Laboratories Inc., Bensalem, PA | Lead Paint Roster"
 description: "Criterion Laboratories Inc.: Lead inspection / evaluation in Bensalem, PA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/criterion-laboratories-inc-nj0042/
 ---

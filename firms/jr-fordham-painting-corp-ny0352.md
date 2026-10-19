@@ -1,5 +1,5 @@
 ---
-title: "JR Fordham Painting Corp, Bronx, NY | Lead Roster"
+title: "JR Fordham Painting Corp, Bronx, NY | Lead Paint Roster"
 description: "JR Fordham Painting Corp: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jr-fordham-painting-corp-ny0352/
 ---

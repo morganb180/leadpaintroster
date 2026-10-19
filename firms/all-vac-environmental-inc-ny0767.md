@@ -1,5 +1,5 @@
 ---
-title: "All Vac Environmental, Inc., Cornwall, NY | Lead Roster"
+title: "All Vac Environmental, Inc., Cornwall, NY | Lead Paint Roster"
 description: "All Vac Environmental, Inc.: Lead abatement in Cornwall, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/all-vac-environmental-inc-ny0767/
 ---

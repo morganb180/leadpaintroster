@@ -1,5 +1,5 @@
 ---
-title: "Build Iconic Inc., Brooklyn, NY | Lead Roster"
+title: "Build Iconic Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Build Iconic Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/build-iconic-inc-ny0862/
 ---

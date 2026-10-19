@@ -1,5 +1,5 @@
 ---
-title: "Artstone Contracting Corp, Eastchester, NY | Lead Roster"
+title: "Artstone Contracting Corp, Eastchester, NY | Lead Paint Roster"
 description: "Artstone Contracting Corp: Lead abatement, Lead inspection / evaluation in Eastchester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/artstone-contracting-corp-ny0099/
 ---

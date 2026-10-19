@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Massachusetts | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Massachusetts | Lead Paint Roster"
 description: "Find MA-licensed lead paint inspectors, risk assessors and abatement firms in Massachusetts: 60 listings by county and city, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ma/
 ---
@@ -58,7 +58,7 @@ Under the Massachusetts Lead Law, homes built before 1978 where a child under 6 
 
 **How many certified lead professionals are listed in Massachusetts?**
 
-Lead Roster lists 60 listings from MA records retrieved 2026-10-12: 30 lead inspection / evaluation, 34 lead risk assessment.
+Lead Paint Roster lists 60 listings from MA records retrieved 2026-10-12: 30 lead inspection / evaluation, 34 lead risk assessment.
 
 **How much does a lead inspection cost?**
 

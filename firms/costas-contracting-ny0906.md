@@ -1,5 +1,5 @@
 ---
-title: "Costas Contracting, Yonkers, NY | Lead Roster"
+title: "Costas Contracting, Yonkers, NY | Lead Paint Roster"
 description: "Costas Contracting: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/costas-contracting-ny0906/
 ---

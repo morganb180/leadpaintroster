@@ -1,5 +1,5 @@
 ---
-title: "Paladin Environmental Services, LLC, Syracuse, NY | Lead Roster"
+title: "Paladin Environmental Services, LLC, Syracuse, NY | Lead Paint Roster"
 description: "Paladin Environmental Services, LLC: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/paladin-environmental-services-llc-ny1341/
 ---

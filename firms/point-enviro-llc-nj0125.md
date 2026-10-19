@@ -1,5 +1,5 @@
 ---
-title: "Point Enviro, LLC, Wallington, NJ | Lead Roster"
+title: "Point Enviro, LLC, Wallington, NJ | Lead Paint Roster"
 description: "Point Enviro, LLC: Lead inspection / evaluation in Wallington, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/point-enviro-llc-nj0125/
 ---

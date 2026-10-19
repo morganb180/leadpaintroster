@@ -1,5 +1,5 @@
 ---
-title: "K&D Contracting & Seasonal Maintenance, Malone, NY | Lead Roster"
+title: "K&D Contracting & Seasonal Maintenance, Malone, NY | Lead Paint Roster"
 description: "K&D Contracting & Seasonal Maintenance: Lead abatement in Malone, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/k-d-contracting-seasonal-maintenance-ny1143/
 ---

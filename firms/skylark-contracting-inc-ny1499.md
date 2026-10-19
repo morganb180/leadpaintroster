@@ -1,5 +1,5 @@
 ---
-title: "Skylark Contracting Inc., Brooklyn, NY | Lead Roster"
+title: "Skylark Contracting Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Skylark Contracting Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/skylark-contracting-inc-ny1499/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "YUGO Construction Corp., New York, NY | Lead Roster"
+title: "YUGO Construction Corp., New York, NY | Lead Paint Roster"
 description: "YUGO Construction Corp.: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/yugo-construction-corp-ny1625/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "LedTek Consulting, Inc., Astoria, NY | Lead Roster"
+title: "LedTek Consulting, Inc., Astoria, NY | Lead Paint Roster"
 description: "LedTek Consulting, Inc.: Lead abatement, Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ledtek-consulting-inc-ny0414/
 ---

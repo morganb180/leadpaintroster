@@ -1,5 +1,5 @@
 ---
-title: "Boswell Incorporated, South Hackensack, NJ | Lead Roster"
+title: "Boswell Incorporated, South Hackensack, NJ | Lead Paint Roster"
 description: "Boswell Incorporated: Lead inspection / evaluation in South Hackensack, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/boswell-incorporated-nj0037/
 ---

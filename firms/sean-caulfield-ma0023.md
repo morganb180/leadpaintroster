@@ -1,5 +1,5 @@
 ---
-title: "Sean Caulfield, Leominster, MA | Lead Roster"
+title: "Sean Caulfield, Leominster, MA | Lead Paint Roster"
 description: "Sean Caulfield: Lead inspection / evaluation in Leominster, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sean-caulfield-ma0023/
 ---

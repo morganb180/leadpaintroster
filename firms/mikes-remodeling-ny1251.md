@@ -1,5 +1,5 @@
 ---
-title: "Mikes Remodeling, Rexford, NY | Lead Roster"
+title: "Mikes Remodeling, Rexford, NY | Lead Paint Roster"
 description: "Mikes Remodeling: Lead abatement in Rexford, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mikes-remodeling-ny1251/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Eastwood Analytics LLC, New York, NY | Lead Roster"
+title: "Eastwood Analytics LLC, New York, NY | Lead Paint Roster"
 description: "Eastwood Analytics LLC: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/eastwood-analytics-llc-ny0218/
 ---

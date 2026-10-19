@@ -1,5 +1,5 @@
 ---
-title: "Ds Environmental, Manalapan, NJ | Lead Roster"
+title: "Ds Environmental, Manalapan, NJ | Lead Paint Roster"
 description: "Ds Environmental: Lead inspection / evaluation in Manalapan, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ds-environmental-nj0047/
 ---

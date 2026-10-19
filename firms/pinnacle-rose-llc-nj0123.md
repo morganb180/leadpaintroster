@@ -1,5 +1,5 @@
 ---
-title: "Pinnacle Rose, LLC, Neptune, NJ | Lead Roster"
+title: "Pinnacle Rose, LLC, Neptune, NJ | Lead Paint Roster"
 description: "Pinnacle Rose, LLC: Lead inspection / evaluation in Neptune, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pinnacle-rose-llc-nj0123/
 ---

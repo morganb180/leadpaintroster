@@ -1,5 +1,5 @@
 ---
-title: "Compliance Aide Inc, Maspeth, NY | Lead Roster"
+title: "Compliance Aide Inc, Maspeth, NY | Lead Paint Roster"
 description: "Compliance Aide Inc: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/compliance-aide-inc-ny0905/
 ---

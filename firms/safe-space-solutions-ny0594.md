@@ -1,5 +1,5 @@
 ---
-title: "Safe Space Solutions, Albany, NY | Lead Roster"
+title: "Safe Space Solutions, Albany, NY | Lead Paint Roster"
 description: "Safe Space Solutions: Lead inspection / evaluation in Albany, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/safe-space-solutions-ny0594/
 ---

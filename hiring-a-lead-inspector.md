@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector | Lead Roster"
+title: "How to Hire a Lead Paint Inspector | Lead Paint Roster"
 description: "Checklist for hiring a certified lead inspector or risk assessor."
 canonical: https://leadpaintroster.com/hiring-a-lead-inspector/
 ---

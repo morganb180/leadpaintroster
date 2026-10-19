@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Lockport, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Lockport, NY | Lead Paint Roster"
 description: "Lockport, NY lead paint guide: 0 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/lockport/guide/
 ---

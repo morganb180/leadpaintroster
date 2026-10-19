@@ -1,5 +1,5 @@
 ---
-title: "TNA Field Services Inc., Brooklyn, NY | Lead Roster"
+title: "TNA Field Services Inc., Brooklyn, NY | Lead Paint Roster"
 description: "TNA Field Services Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tna-field-services-inc-ny0628/
 ---

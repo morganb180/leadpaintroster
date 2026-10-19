@@ -1,5 +1,5 @@
 ---
-title: "Authority Energy Services, Inc D/B/A NYC Local Law Compliance Services, New City, NY | Lead Roster"
+title: "Authority Energy Services, Inc D/B/A NYC Local Law Compliance Services, New City, NY | Lead Paint Roster"
 description: "Authority Energy Services, Inc D/B/A NYC Local Law Compliance Services: Lead inspection / evaluation in New City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/authority-energy-services-inc-d-b-a-nyc-local-law-compliance-ny0109/
 ---

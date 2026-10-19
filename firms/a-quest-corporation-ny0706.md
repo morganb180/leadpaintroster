@@ -1,5 +1,5 @@
 ---
-title: "A Quest Corporation, Brooklyn, NY | Lead Roster"
+title: "A Quest Corporation, Brooklyn, NY | Lead Paint Roster"
 description: "A Quest Corporation: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-quest-corporation-ny0706/
 ---

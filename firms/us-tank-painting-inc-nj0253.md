@@ -1,5 +1,5 @@
 ---
-title: "US Tank Painting Inc., Millstone Township, NJ | Lead Roster"
+title: "US Tank Painting Inc., Millstone Township, NJ | Lead Paint Roster"
 description: "US Tank Painting Inc.: Lead abatement in Millstone Township, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/us-tank-painting-inc-nj0253/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Shaindel Inc., Ossining, NY | Lead Roster"
+title: "Shaindel Inc., Ossining, NY | Lead Paint Roster"
 description: "Shaindel Inc.: Lead abatement, Lead inspection / evaluation in Ossining, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/shaindel-inc-ny0607/
 ---

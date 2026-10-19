@@ -1,5 +1,5 @@
 ---
-title: "Pronos Construction Corp., Astoria, NY | Lead Roster"
+title: "Pronos Construction Corp., Astoria, NY | Lead Paint Roster"
 description: "Pronos Construction Corp.: Lead abatement in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pronos-construction-corp-ny1380/
 ---

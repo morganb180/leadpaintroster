@@ -1,5 +1,5 @@
 ---
-title: "Comprehensive Env. Services, Somerville, NJ | Lead Roster"
+title: "Comprehensive Env. Services, Somerville, NJ | Lead Paint Roster"
 description: "Comprehensive Env. Services: Lead inspection / evaluation in Somerville, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/comprehensive-env-services-nj0040/
 ---

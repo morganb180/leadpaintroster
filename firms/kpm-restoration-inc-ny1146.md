@@ -1,5 +1,5 @@
 ---
-title: "KPM Restoration Inc., Mechanicville, NY | Lead Roster"
+title: "KPM Restoration Inc., Mechanicville, NY | Lead Paint Roster"
 description: "KPM Restoration Inc.: Lead abatement in Mechanicville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kpm-restoration-inc-ny1146/
 ---

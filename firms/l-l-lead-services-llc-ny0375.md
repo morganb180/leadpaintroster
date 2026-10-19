@@ -1,5 +1,5 @@
 ---
-title: "L&L Lead Services LLC, Brooklyn, NY | Lead Roster"
+title: "L&L Lead Services LLC, Brooklyn, NY | Lead Paint Roster"
 description: "L&L Lead Services LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/l-l-lead-services-llc-ny0375/
 ---

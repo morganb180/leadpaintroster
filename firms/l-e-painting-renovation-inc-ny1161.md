@@ -1,5 +1,5 @@
 ---
-title: "L & E Painting & Renovation Inc, Forest Hills, NY | Lead Roster"
+title: "L & E Painting & Renovation Inc, Forest Hills, NY | Lead Paint Roster"
 description: "L & E Painting & Renovation Inc: Lead abatement in Forest Hills, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/l-e-painting-renovation-inc-ny1161/
 ---

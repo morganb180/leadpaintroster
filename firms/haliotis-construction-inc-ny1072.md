@@ -1,5 +1,5 @@
 ---
-title: "Haliotis Construction Inc, Brooklyn, NY | Lead Roster"
+title: "Haliotis Construction Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Haliotis Construction Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/haliotis-construction-inc-ny1072/
 ---

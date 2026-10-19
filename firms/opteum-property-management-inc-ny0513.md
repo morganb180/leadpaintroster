@@ -1,5 +1,5 @@
 ---
-title: "Opteum Property Management Inc., North Tonawanda, NY | Lead Roster"
+title: "Opteum Property Management Inc., North Tonawanda, NY | Lead Paint Roster"
 description: "Opteum Property Management Inc.: Lead abatement, Lead inspection / evaluation in North Tonawanda, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/opteum-property-management-inc-ny0513/
 ---

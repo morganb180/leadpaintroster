@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Yorktown Heights, NY: 5 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Yorktown Heights, NY: 5 Listings | Lead Paint Roster"
 description: "5 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Yorktown Heights, New York, plus 118 more in Westchester County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/yorktown-heights/
 ---

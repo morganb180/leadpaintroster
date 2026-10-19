@@ -1,5 +1,5 @@
 ---
-title: "J.C. Broderick & Associates, Inc., Hauppauge, NY | Lead Roster"
+title: "J.C. Broderick & Associates, Inc., Hauppauge, NY | Lead Paint Roster"
 description: "J.C. Broderick & Associates, Inc.: Lead abatement in Hauppauge, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/j-c-broderick-associates-inc-ny1111/
 ---

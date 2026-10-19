@@ -1,5 +1,5 @@
 ---
-title: "Nebcom Inc., Long Island City, NY | Lead Roster"
+title: "Nebcom Inc., Long Island City, NY | Lead Paint Roster"
 description: "Nebcom Inc.: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nebcom-inc-ny1285/
 ---

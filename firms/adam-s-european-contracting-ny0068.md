@@ -1,5 +1,5 @@
 ---
-title: "Adam's European Contracting, Brooklyn, NY | Lead Roster"
+title: "Adam's European Contracting, Brooklyn, NY | Lead Paint Roster"
 description: "Adam's European Contracting: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/adam-s-european-contracting-ny0068/
 ---

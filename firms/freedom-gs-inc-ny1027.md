@@ -1,5 +1,5 @@
 ---
-title: "Freedom GS Inc, Woodside, NY | Lead Roster"
+title: "Freedom GS Inc, Woodside, NY | Lead Paint Roster"
 description: "Freedom GS Inc: Lead abatement in Woodside, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/freedom-gs-inc-ny1027/
 ---

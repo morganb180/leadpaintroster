@@ -1,5 +1,5 @@
 ---
-title: "Lawal Environmental Services Corp, Bronx, NY | Lead Roster"
+title: "Lawal Environmental Services Corp, Bronx, NY | Lead Paint Roster"
 description: "Lawal Environmental Services Corp: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lawal-environmental-services-corp-ny0384/
 ---

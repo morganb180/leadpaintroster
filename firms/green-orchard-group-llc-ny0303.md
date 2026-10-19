@@ -1,5 +1,5 @@
 ---
-title: "Green Orchard Group LLC, Long Island City, NY | Lead Roster"
+title: "Green Orchard Group LLC, Long Island City, NY | Lead Paint Roster"
 description: "Green Orchard Group LLC: Lead abatement, Lead inspection / evaluation in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/green-orchard-group-llc-ny0303/
 ---

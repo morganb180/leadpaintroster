@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in West Babylon, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in West Babylon, NY | Lead Paint Roster"
 description: "West Babylon, NY lead paint guide: 0 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/west-babylon/guide/
 ---

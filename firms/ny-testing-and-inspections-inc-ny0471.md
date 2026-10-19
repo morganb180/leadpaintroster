@@ -1,5 +1,5 @@
 ---
-title: "NY Testing and Inspections Inc., Brooklyn, NY | Lead Roster"
+title: "NY Testing and Inspections Inc., Brooklyn, NY | Lead Paint Roster"
 description: "NY Testing and Inspections Inc.: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ny-testing-and-inspections-inc-ny0471/
 ---

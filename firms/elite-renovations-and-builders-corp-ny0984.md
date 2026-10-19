@@ -1,5 +1,5 @@
 ---
-title: "Elite Renovations and Builders Corp, Brooklyn, NY | Lead Roster"
+title: "Elite Renovations and Builders Corp, Brooklyn, NY | Lead Paint Roster"
 description: "Elite Renovations and Builders Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/elite-renovations-and-builders-corp-ny0984/
 ---

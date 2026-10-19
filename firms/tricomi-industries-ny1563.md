@@ -1,5 +1,5 @@
 ---
-title: "Tricomi Industries, Brooklyn, NY | Lead Roster"
+title: "Tricomi Industries, Brooklyn, NY | Lead Paint Roster"
 description: "Tricomi Industries: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tricomi-industries-ny1563/
 ---

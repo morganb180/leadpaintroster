@@ -1,5 +1,5 @@
 ---
-title: "Pristine General Contracting Inc., Staten Island, NY | Lead Roster"
+title: "Pristine General Contracting Inc., Staten Island, NY | Lead Paint Roster"
 description: "Pristine General Contracting Inc.: Lead abatement, Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pristine-general-contracting-inc-ny0540/
 ---

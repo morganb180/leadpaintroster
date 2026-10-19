@@ -1,5 +1,5 @@
 ---
-title: "Awan Contracting Co., New Rochelle, NY | Lead Roster"
+title: "Awan Contracting Co., New Rochelle, NY | Lead Paint Roster"
 description: "Awan Contracting Co.: Lead abatement in New Rochelle, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/awan-contracting-co-ny0808/
 ---

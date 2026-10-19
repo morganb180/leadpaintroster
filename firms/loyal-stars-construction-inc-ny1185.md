@@ -1,5 +1,5 @@
 ---
-title: "Loyal Stars Construction Inc., Bronx, NY | Lead Roster"
+title: "Loyal Stars Construction Inc., Bronx, NY | Lead Paint Roster"
 description: "Loyal Stars Construction Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/loyal-stars-construction-inc-ny1185/
 ---

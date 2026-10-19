@@ -1,5 +1,5 @@
 ---
-title: "Metro Abatement Corp, Brooklyn, NY | Lead Roster"
+title: "Metro Abatement Corp, Brooklyn, NY | Lead Paint Roster"
 description: "Metro Abatement Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/metro-abatement-corp-ny1241/
 ---

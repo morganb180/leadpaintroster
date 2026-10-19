@@ -1,5 +1,5 @@
 ---
-title: "Kanaris LLC, Whitestone, NY | Lead Roster"
+title: "Kanaris LLC, Whitestone, NY | Lead Paint Roster"
 description: "Kanaris LLC: Lead abatement in Whitestone, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kanaris-llc-ny1150/
 ---

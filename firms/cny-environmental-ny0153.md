@@ -1,5 +1,5 @@
 ---
-title: "CNY Environmental, North Syracuse, NY | Lead Roster"
+title: "CNY Environmental, North Syracuse, NY | Lead Paint Roster"
 description: "CNY Environmental: Lead abatement, Lead inspection / evaluation in North Syracuse, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cny-environmental-ny0153/
 ---

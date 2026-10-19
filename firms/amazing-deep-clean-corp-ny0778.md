@@ -1,5 +1,5 @@
 ---
-title: "Amazing Deep Clean Corp., Bronx, NY | Lead Roster"
+title: "Amazing Deep Clean Corp., Bronx, NY | Lead Paint Roster"
 description: "Amazing Deep Clean Corp.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/amazing-deep-clean-corp-ny0778/
 ---

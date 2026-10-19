@@ -1,5 +1,5 @@
 ---
-title: "Environmental Risk Associates, Florida, NY | Lead Roster"
+title: "Environmental Risk Associates, Florida, NY | Lead Paint Roster"
 description: "Environmental Risk Associates: Lead abatement, Lead inspection / evaluation in Florida, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/environmental-risk-associates-ny0254/
 ---

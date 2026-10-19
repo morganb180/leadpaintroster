@@ -1,5 +1,5 @@
 ---
-title: "Abated, LLC, Elizabeth, NJ | Lead Roster"
+title: "Abated, LLC, Elizabeth, NJ | Lead Paint Roster"
 description: "Abated, LLC: Lead abatement, Lead inspection / evaluation in Elizabeth, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abated-llc-nj0012/
 ---

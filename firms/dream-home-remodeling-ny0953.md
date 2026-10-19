@@ -1,5 +1,5 @@
 ---
-title: "Dream Home Remodeling, Niagara Falls, NY | Lead Roster"
+title: "Dream Home Remodeling, Niagara Falls, NY | Lead Paint Roster"
 description: "Dream Home Remodeling: Lead abatement in Niagara Falls, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dream-home-remodeling-ny0953/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "B & A Heim Construction, Williamsville, NY | Lead Roster"
+title: "B & A Heim Construction, Williamsville, NY | Lead Paint Roster"
 description: "B & A Heim Construction: Lead abatement in Williamsville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/b-a-heim-construction-ny0809/
 ---

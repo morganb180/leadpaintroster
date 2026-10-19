@@ -1,5 +1,5 @@
 ---
-title: "Heartland Environmental Svcs., Washington, NJ | Lead Roster"
+title: "Heartland Environmental Svcs., Washington, NJ | Lead Paint Roster"
 description: "Heartland Environmental Svcs.: Lead inspection / evaluation in Washington, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/heartland-environmental-svcs-nj0078/
 ---

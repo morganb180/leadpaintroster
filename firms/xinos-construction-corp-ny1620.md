@@ -1,5 +1,5 @@
 ---
-title: "Xinos Construction Corp., College Point, NY | Lead Roster"
+title: "Xinos Construction Corp., College Point, NY | Lead Paint Roster"
 description: "Xinos Construction Corp.: Lead abatement in College Point, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/xinos-construction-corp-ny1620/
 ---

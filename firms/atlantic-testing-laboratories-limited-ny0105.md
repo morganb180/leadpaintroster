@@ -1,5 +1,5 @@
 ---
-title: "Atlantic Testing Laboratories, Limited, Canton, NY | Lead Roster"
+title: "Atlantic Testing Laboratories, Limited, Canton, NY | Lead Paint Roster"
 description: "Atlantic Testing Laboratories, Limited: Lead inspection / evaluation in Canton, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/atlantic-testing-laboratories-limited-ny0105/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Smbt LLC, Brooklyn, NY | Lead Roster"
+title: "Smbt LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Smbt LLC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/smbt-llc-ny0591/
 ---

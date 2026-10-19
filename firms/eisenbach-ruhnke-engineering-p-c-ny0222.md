@@ -1,5 +1,5 @@
 ---
-title: "Eisenbach & Ruhnke Engineering, P.C., Utica, NY | Lead Roster"
+title: "Eisenbach & Ruhnke Engineering, P.C., Utica, NY | Lead Paint Roster"
 description: "Eisenbach & Ruhnke Engineering, P.C.: Lead inspection / evaluation in Utica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/eisenbach-ruhnke-engineering-p-c-ny0222/
 ---

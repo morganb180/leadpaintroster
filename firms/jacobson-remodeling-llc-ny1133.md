@@ -1,5 +1,5 @@
 ---
-title: "Jacobson Remodeling, LLC, Tonawanda, NY | Lead Roster"
+title: "Jacobson Remodeling, LLC, Tonawanda, NY | Lead Paint Roster"
 description: "Jacobson Remodeling, LLC: Lead abatement in Tonawanda, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jacobson-remodeling-llc-ny1133/
 ---

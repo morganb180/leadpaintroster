@@ -1,5 +1,5 @@
 ---
-title: "Velmartin Associates Inc., Brooklyn, NY | Lead Roster"
+title: "Velmartin Associates Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Velmartin Associates Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/velmartin-associates-inc-ny0666/
 ---

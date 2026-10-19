@@ -1,5 +1,5 @@
 ---
-title: "Neighborhood Environmental LLC, New York, NY | Lead Roster"
+title: "Neighborhood Environmental LLC, New York, NY | Lead Paint Roster"
 description: "Neighborhood Environmental LLC: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/neighborhood-environmental-llc-ny0488/
 ---

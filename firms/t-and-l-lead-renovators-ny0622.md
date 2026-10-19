@@ -1,5 +1,5 @@
 ---
-title: "T and L Lead Renovators, Yonkers, NY | Lead Roster"
+title: "T and L Lead Renovators, Yonkers, NY | Lead Paint Roster"
 description: "T and L Lead Renovators: Lead abatement, Lead inspection / evaluation in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/t-and-l-lead-renovators-ny0622/
 ---

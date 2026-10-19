@@ -1,5 +1,5 @@
 ---
-title: "Dmgj Corp, Massapequa, NY | Lead Roster"
+title: "Dmgj Corp, Massapequa, NY | Lead Paint Roster"
 description: "Dmgj Corp: Lead abatement in Massapequa, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dmgj-corp-ny0924/
 ---

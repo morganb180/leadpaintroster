@@ -1,5 +1,5 @@
 ---
-title: "EnviroNova LLC, Bronx, NY | Lead Roster"
+title: "EnviroNova LLC, Bronx, NY | Lead Paint Roster"
 description: "EnviroNova LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/environova-llc-ny0992/
 ---

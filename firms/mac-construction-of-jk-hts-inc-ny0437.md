@@ -1,5 +1,5 @@
 ---
-title: "Mac Construction of Jk Hts Inc, Floral Park, NY | Lead Roster"
+title: "Mac Construction of Jk Hts Inc, Floral Park, NY | Lead Paint Roster"
 description: "Mac Construction of Jk Hts Inc: Lead abatement, Lead inspection / evaluation in Floral Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mac-construction-of-jk-hts-inc-ny0437/
 ---

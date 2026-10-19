@@ -1,5 +1,5 @@
 ---
-title: "Victory Restoration And Cleaning, Inc., Glen Head, NY | Lead Roster"
+title: "Victory Restoration And Cleaning, Inc., Glen Head, NY | Lead Paint Roster"
 description: "Victory Restoration And Cleaning, Inc.: Lead abatement in Glen Head, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/victory-restoration-and-cleaning-inc-ny1600/
 ---

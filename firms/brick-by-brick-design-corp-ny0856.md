@@ -1,5 +1,5 @@
 ---
-title: "Brick By Brick Design Corp, Bronx, NY | Lead Roster"
+title: "Brick By Brick Design Corp, Bronx, NY | Lead Paint Roster"
 description: "Brick By Brick Design Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/brick-by-brick-design-corp-ny0856/
 ---

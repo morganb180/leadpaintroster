@@ -1,5 +1,5 @@
 ---
-title: "Krashi Contracting Inc, Queens, NY | Lead Roster"
+title: "Krashi Contracting Inc, Queens, NY | Lead Paint Roster"
 description: "Krashi Contracting Inc: Lead abatement, Lead inspection / evaluation in Queens, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/krashi-contracting-inc-ny0372/
 ---

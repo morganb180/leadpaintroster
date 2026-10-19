@@ -1,5 +1,5 @@
 ---
-title: "NYC Environmental Consultants, LLC, Inwood, NY | Lead Roster"
+title: "NYC Environmental Consultants, LLC, Inwood, NY | Lead Paint Roster"
 description: "NYC Environmental Consultants, LLC: Lead abatement, Lead inspection / evaluation in Inwood, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nyc-environmental-consultants-llc-ny0474/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Frank J. Ryan & Sons, Inc., Troy, NY | Lead Roster"
+title: "Frank J. Ryan & Sons, Inc., Troy, NY | Lead Paint Roster"
 description: "Frank J. Ryan & Sons, Inc.: Lead abatement in Troy, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/frank-j-ryan-sons-inc-ny1026/
 ---

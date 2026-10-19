@@ -1,5 +1,5 @@
 ---
-title: "Big Apple Designs and Environmental DBA A to Z Renovations, Brooklyn, NY | Lead Roster"
+title: "Big Apple Designs and Environmental DBA A to Z Renovations, Brooklyn, NY | Lead Paint Roster"
 description: "Big Apple Designs and Environmental DBA A to Z Renovations: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/big-apple-designs-and-environmental-dba-a-to-z-renovations-ny0832/
 ---

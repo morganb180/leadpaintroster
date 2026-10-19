@@ -1,5 +1,5 @@
 ---
-title: "Sherwin Property Services LLC, Schenectady, NY | Lead Roster"
+title: "Sherwin Property Services LLC, Schenectady, NY | Lead Paint Roster"
 description: "Sherwin Property Services LLC: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sherwin-property-services-llc-ny1491/
 ---

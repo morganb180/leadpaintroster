@@ -1,5 +1,5 @@
 ---
-title: "C & C Unlimited, Inc., Albany, NY | Lead Roster"
+title: "C & C Unlimited, Inc., Albany, NY | Lead Paint Roster"
 description: "C & C Unlimited, Inc.: Lead abatement in Albany, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/c-c-unlimited-inc-ny0867/
 ---

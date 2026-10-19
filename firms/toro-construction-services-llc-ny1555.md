@@ -1,5 +1,5 @@
 ---
-title: "Toro Construction Services, LLC, New York, NY | Lead Roster"
+title: "Toro Construction Services, LLC, New York, NY | Lead Paint Roster"
 description: "Toro Construction Services, LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/toro-construction-services-llc-ny1555/
 ---

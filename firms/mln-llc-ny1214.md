@@ -1,5 +1,5 @@
 ---
-title: "Mln LLC, Brooklyn, NY | Lead Roster"
+title: "Mln LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Mln LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mln-llc-ny1214/
 ---

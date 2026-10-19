@@ -1,5 +1,5 @@
 ---
-title: "New York State Lead Inc., Brooklyn, NY | Lead Roster"
+title: "New York State Lead Inc., Brooklyn, NY | Lead Paint Roster"
 description: "New York State Lead Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/new-york-state-lead-inc-ny0496/
 ---

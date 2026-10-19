@@ -1,5 +1,5 @@
 ---
-title: "A Liu Company, Montclair, NJ | Lead Roster"
+title: "A Liu Company, Montclair, NJ | Lead Paint Roster"
 description: "A Liu Company: Lead inspection / evaluation in Montclair, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-liu-company-nj0004/
 ---

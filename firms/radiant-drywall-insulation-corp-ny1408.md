@@ -1,5 +1,5 @@
 ---
-title: "Radiant Drywall & Insulation Corp., Middle Island, NY | Lead Roster"
+title: "Radiant Drywall & Insulation Corp., Middle Island, NY | Lead Paint Roster"
 description: "Radiant Drywall & Insulation Corp.: Lead abatement in Middle Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/radiant-drywall-insulation-corp-ny1408/
 ---

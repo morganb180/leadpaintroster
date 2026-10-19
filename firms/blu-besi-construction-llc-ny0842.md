@@ -1,5 +1,5 @@
 ---
-title: "Blu Besi Construction LLC, Yonkers, NY | Lead Roster"
+title: "Blu Besi Construction LLC, Yonkers, NY | Lead Paint Roster"
 description: "Blu Besi Construction LLC: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/blu-besi-construction-llc-ny0842/
 ---

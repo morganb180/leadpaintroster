@@ -1,5 +1,5 @@
 ---
-title: "OK Management, Inc., Harrison, NY | Lead Roster"
+title: "OK Management, Inc., Harrison, NY | Lead Paint Roster"
 description: "OK Management, Inc.: Lead abatement in Harrison, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ok-management-inc-ny1309/
 ---

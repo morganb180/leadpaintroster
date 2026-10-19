@@ -1,5 +1,5 @@
 ---
-title: "NYC Lead Paint Expert, Ridgewood, NY | Lead Roster"
+title: "NYC Lead Paint Expert, Ridgewood, NY | Lead Paint Roster"
 description: "NYC Lead Paint Expert: Lead abatement, Lead inspection / evaluation in Ridgewood, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nyc-lead-paint-expert-ny0476/
 ---

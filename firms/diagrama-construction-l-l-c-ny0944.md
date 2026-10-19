@@ -1,5 +1,5 @@
 ---
-title: "Diagrama Construction, L.L.C., Brooklyn, NY | Lead Roster"
+title: "Diagrama Construction, L.L.C., Brooklyn, NY | Lead Paint Roster"
 description: "Diagrama Construction, L.L.C.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/diagrama-construction-l-l-c-ny0944/
 ---

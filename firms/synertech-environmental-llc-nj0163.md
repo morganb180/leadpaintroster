@@ -1,5 +1,5 @@
 ---
-title: "Synertech Environmental, LLC, Philadelphia, PA | Lead Roster"
+title: "Synertech Environmental, LLC, Philadelphia, PA | Lead Paint Roster"
 description: "Synertech Environmental, LLC: Lead inspection / evaluation in Philadelphia, PA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/synertech-environmental-llc-nj0163/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Environmental Safeguard Solutions LLC, Queens, NY | Lead Roster"
+title: "Environmental Safeguard Solutions LLC, Queens, NY | Lead Paint Roster"
 description: "Environmental Safeguard Solutions LLC: Lead abatement, Lead inspection / evaluation in Queens, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/environmental-safeguard-solutions-llc-ny0255/
 ---

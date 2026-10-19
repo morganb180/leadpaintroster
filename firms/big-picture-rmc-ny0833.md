@@ -1,5 +1,5 @@
 ---
-title: "Big Picture RMC, Brooklyn, NY | Lead Roster"
+title: "Big Picture RMC, Brooklyn, NY | Lead Paint Roster"
 description: "Big Picture RMC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/big-picture-rmc-ny0833/
 ---

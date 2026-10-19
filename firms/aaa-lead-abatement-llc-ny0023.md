@@ -1,5 +1,5 @@
 ---
-title: "AAA Lead Abatement, LLC, Brooklyn, NY | Lead Roster"
+title: "AAA Lead Abatement, LLC, Brooklyn, NY | Lead Paint Roster"
 description: "AAA Lead Abatement, LLC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/aaa-lead-abatement-llc-ny0023/
 ---

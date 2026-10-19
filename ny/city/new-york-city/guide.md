@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in New York City, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in New York City, NY | Lead Paint Roster"
 description: "New York City, NY lead paint guide: 1 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/new-york-city/guide/
 ---

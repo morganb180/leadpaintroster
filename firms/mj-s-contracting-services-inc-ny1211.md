@@ -1,5 +1,5 @@
 ---
-title: "MJ's Contracting Services Inc, Waterville, NY | Lead Roster"
+title: "MJ's Contracting Services Inc, Waterville, NY | Lead Paint Roster"
 description: "MJ's Contracting Services Inc: Lead abatement in Waterville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mj-s-contracting-services-inc-ny1211/
 ---

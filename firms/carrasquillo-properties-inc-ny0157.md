@@ -1,5 +1,5 @@
 ---
-title: "Carrasquillo Properties, Inc., Maybrook, NY | Lead Roster"
+title: "Carrasquillo Properties, Inc., Maybrook, NY | Lead Paint Roster"
 description: "Carrasquillo Properties, Inc.: Lead abatement, Lead inspection / evaluation in Maybrook, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/carrasquillo-properties-inc-ny0157/
 ---

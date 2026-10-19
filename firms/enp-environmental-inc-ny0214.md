@@ -1,5 +1,5 @@
 ---
-title: "ENP Environmental, Inc., Long Beach, NY | Lead Roster"
+title: "ENP Environmental, Inc., Long Beach, NY | Lead Paint Roster"
 description: "ENP Environmental, Inc.: Lead abatement, Lead inspection / evaluation in Long Beach, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/enp-environmental-inc-ny0214/
 ---

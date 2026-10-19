@@ -1,5 +1,5 @@
 ---
-title: "Bond Construction Inc., New York, NY | Lead Roster"
+title: "Bond Construction Inc., New York, NY | Lead Paint Roster"
 description: "Bond Construction Inc.: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bond-construction-inc-ny0136/
 ---

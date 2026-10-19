@@ -1,5 +1,5 @@
 ---
-title: "A & B Leadmasters, LLC, Lakewood, NJ | Lead Roster"
+title: "A & B Leadmasters, LLC, Lakewood, NJ | Lead Paint Roster"
 description: "A & B Leadmasters, LLC: Lead inspection / evaluation in Lakewood, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-b-leadmasters-llc-nj0002/
 ---

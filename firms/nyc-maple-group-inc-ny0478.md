@@ -1,5 +1,5 @@
 ---
-title: "NYC Maple Group Inc, Uniondale, NY | Lead Roster"
+title: "NYC Maple Group Inc, Uniondale, NY | Lead Paint Roster"
 description: "NYC Maple Group Inc: Lead abatement, Lead inspection / evaluation in Uniondale, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nyc-maple-group-inc-ny0478/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Absolute Jm Services LLC, Orange, NJ | Lead Roster"
+title: "Absolute Jm Services LLC, Orange, NJ | Lead Paint Roster"
 description: "Absolute Jm Services LLC: Lead abatement, Lead inspection / evaluation in Orange, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/absolute-jm-services-llc-nj0016/
 ---

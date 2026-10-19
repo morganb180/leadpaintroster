@@ -1,5 +1,5 @@
 ---
-title: "Ec Solutions Inc., Port Washington, NY | Lead Roster"
+title: "Ec Solutions Inc., Port Washington, NY | Lead Paint Roster"
 description: "Ec Solutions Inc.: Lead abatement in Port Washington, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ec-solutions-inc-ny0966/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Plymouth County, MA: 2 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Plymouth County, MA: 2 Listings | Lead Paint Roster"
 description: "2 MA-licensed lead paint inspectors, risk assessors and abatement firms in Plymouth County, Massachusetts, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ma/county/plymouth/
 ---

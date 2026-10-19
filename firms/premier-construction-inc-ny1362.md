@@ -1,5 +1,5 @@
 ---
-title: "Premier Construction Inc, Hollis, NY | Lead Roster"
+title: "Premier Construction Inc, Hollis, NY | Lead Paint Roster"
 description: "Premier Construction Inc: Lead abatement in Hollis, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/premier-construction-inc-ny1362/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "GID Industries, Yonkers, NY | Lead Roster"
+title: "GID Industries, Yonkers, NY | Lead Paint Roster"
 description: "GID Industries: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gid-industries-ny1040/
 ---

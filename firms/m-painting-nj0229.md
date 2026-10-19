@@ -1,5 +1,5 @@
 ---
-title: "M. Painting, Newark, NJ | Lead Roster"
+title: "M. Painting, Newark, NJ | Lead Paint Roster"
 description: "M. Painting: Lead abatement in Newark, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/m-painting-nj0229/
 ---

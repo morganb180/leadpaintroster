@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Brooklyn, NY: 249 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Brooklyn, NY: 249 Listings | Lead Paint Roster"
 description: "249 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Brooklyn, New York, plus 6 more in Kings County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/brooklyn/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ganesh Tiles Inc., South Richmond Hill, NY | Lead Roster"
+title: "Ganesh Tiles Inc., South Richmond Hill, NY | Lead Paint Roster"
 description: "Ganesh Tiles Inc.: Lead abatement in South Richmond Hill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ganesh-tiles-inc-ny1051/
 ---

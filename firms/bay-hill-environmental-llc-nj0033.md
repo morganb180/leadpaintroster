@@ -1,5 +1,5 @@
 ---
-title: "Bay Hill Environmental, LLC, Cherry Hill, NJ | Lead Roster"
+title: "Bay Hill Environmental, LLC, Cherry Hill, NJ | Lead Paint Roster"
 description: "Bay Hill Environmental, LLC: Lead inspection / evaluation in Cherry Hill, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bay-hill-environmental-llc-nj0033/
 ---

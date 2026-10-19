@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Long Island City, NY: 31 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Long Island City, NY: 31 Listings | Lead Paint Roster"
 description: "31 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Long Island City, New York, plus 293 more in Queens County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/long-island-city/
 ---

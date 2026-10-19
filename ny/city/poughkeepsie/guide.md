@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Poughkeepsie, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Poughkeepsie, NY | Lead Paint Roster"
 description: "Poughkeepsie, NY lead paint guide: 4 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/poughkeepsie/guide/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Vast Restoration Services LLC, New York Mills, NY | Lead Roster"
+title: "Vast Restoration Services LLC, New York Mills, NY | Lead Paint Roster"
 description: "Vast Restoration Services LLC: Lead abatement in New York Mills, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/vast-restoration-services-llc-ny1594/
 ---

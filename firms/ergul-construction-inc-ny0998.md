@@ -1,5 +1,5 @@
 ---
-title: "Ergul Construction Inc., Brooklyn, NY | Lead Roster"
+title: "Ergul Construction Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Ergul Construction Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ergul-construction-inc-ny0998/
 ---

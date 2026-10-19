@@ -1,5 +1,5 @@
 ---
-title: "Carnation Realty, Katonah, NY | Lead Roster"
+title: "Carnation Realty, Katonah, NY | Lead Paint Roster"
 description: "Carnation Realty: Lead abatement in Katonah, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/carnation-realty-ny0884/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ivan Interiors, Inc., Astoria, NY | Lead Roster"
+title: "Ivan Interiors, Inc., Astoria, NY | Lead Paint Roster"
 description: "Ivan Interiors, Inc.: Lead abatement in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ivan-interiors-inc-ny1105/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "FVD Construction Inc, New York, NY | Lead Roster"
+title: "FVD Construction Inc, New York, NY | Lead Paint Roster"
 description: "FVD Construction Inc: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/fvd-construction-inc-ny1009/
 ---

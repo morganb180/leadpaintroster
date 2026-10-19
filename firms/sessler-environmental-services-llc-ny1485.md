@@ -1,5 +1,5 @@
 ---
-title: "Sessler Environmental Services, LLC, Macedon, NY | Lead Roster"
+title: "Sessler Environmental Services, LLC, Macedon, NY | Lead Paint Roster"
 description: "Sessler Environmental Services, LLC: Lead abatement in Macedon, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sessler-environmental-services-llc-ny1485/
 ---

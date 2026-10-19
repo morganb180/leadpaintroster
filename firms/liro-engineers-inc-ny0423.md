@@ -1,5 +1,5 @@
 ---
-title: "Liro Engineers, Inc., Syosset, NY | Lead Roster"
+title: "Liro Engineers, Inc., Syosset, NY | Lead Paint Roster"
 description: "Liro Engineers, Inc.: Lead inspection / evaluation in Syosset, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/liro-engineers-inc-ny0423/
 ---

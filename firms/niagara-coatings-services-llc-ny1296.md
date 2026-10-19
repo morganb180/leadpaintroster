@@ -1,5 +1,5 @@
 ---
-title: "Niagara Coatings Services, LLC., Niagara Falls, NY | Lead Roster"
+title: "Niagara Coatings Services, LLC., Niagara Falls, NY | Lead Paint Roster"
 description: "Niagara Coatings Services, LLC.: Lead abatement in Niagara Falls, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/niagara-coatings-services-llc-ny1296/
 ---

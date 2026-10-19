@@ -1,5 +1,5 @@
 ---
-title: "Lauren Adams, Quincy, MA | Lead Roster"
+title: "Lauren Adams, Quincy, MA | Lead Paint Roster"
 description: "Lauren Adams: Lead inspection / evaluation in Quincy, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lauren-adams-ma0038/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "GT & K Construction Inc, New York, NY | Lead Roster"
+title: "GT & K Construction Inc, New York, NY | Lead Paint Roster"
 description: "GT & K Construction Inc: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gt-k-construction-inc-ny0287/
 ---

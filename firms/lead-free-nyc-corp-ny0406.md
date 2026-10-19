@@ -1,5 +1,5 @@
 ---
-title: "Lead-Free NYC Corp., Maspeth, NY | Lead Roster"
+title: "Lead-Free NYC Corp., Maspeth, NY | Lead Paint Roster"
 description: "Lead-Free NYC Corp.: Lead inspection / evaluation in Maspeth, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-free-nyc-corp-ny0406/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "TW Environmental Services Inc., Brooklyn, NY | Lead Roster"
+title: "TW Environmental Services Inc., Brooklyn, NY | Lead Paint Roster"
 description: "TW Environmental Services Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tw-environmental-services-inc-ny0634/
 ---

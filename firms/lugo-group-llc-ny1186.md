@@ -1,5 +1,5 @@
 ---
-title: "Lugo Group LLC, Corona, NY | Lead Roster"
+title: "Lugo Group LLC, Corona, NY | Lead Paint Roster"
 description: "Lugo Group LLC: Lead abatement in Corona, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lugo-group-llc-ny1186/
 ---

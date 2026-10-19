@@ -1,5 +1,5 @@
 ---
-title: "Liaviv Construction Corp, Elmhurst, NY | Lead Roster"
+title: "Liaviv Construction Corp, Elmhurst, NY | Lead Paint Roster"
 description: "Liaviv Construction Corp: Lead abatement, Lead inspection / evaluation in Elmhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/liaviv-construction-corp-ny0418/
 ---

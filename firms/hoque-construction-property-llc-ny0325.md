@@ -1,5 +1,5 @@
 ---
-title: "Hoque Construction & Property LLC, Astoria, NY | Lead Roster"
+title: "Hoque Construction & Property LLC, Astoria, NY | Lead Paint Roster"
 description: "Hoque Construction & Property LLC: Lead abatement, Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/hoque-construction-property-llc-ny0325/
 ---

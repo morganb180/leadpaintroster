@@ -1,5 +1,5 @@
 ---
-title: "M-Azad Construction Inc, Brooklyn, NY | Lead Roster"
+title: "M-Azad Construction Inc, Brooklyn, NY | Lead Paint Roster"
 description: "M-Azad Construction Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/m-azad-construction-inc-ny1197/
 ---

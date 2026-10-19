@@ -1,5 +1,5 @@
 ---
-title: "Pankro Painting Inc, Bronx, NY | Lead Roster"
+title: "Pankro Painting Inc, Bronx, NY | Lead Paint Roster"
 description: "Pankro Painting Inc: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pankro-painting-inc-ny1342/
 ---

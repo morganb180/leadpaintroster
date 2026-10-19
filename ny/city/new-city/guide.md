@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in New City, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in New City, NY | Lead Paint Roster"
 description: "New City, NY lead paint guide: 3 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/new-city/guide/
 ---

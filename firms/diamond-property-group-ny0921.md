@@ -1,5 +1,5 @@
 ---
-title: "Diamond Property Group, Bronx, NY | Lead Roster"
+title: "Diamond Property Group, Bronx, NY | Lead Paint Roster"
 description: "Diamond Property Group: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/diamond-property-group-ny0921/
 ---

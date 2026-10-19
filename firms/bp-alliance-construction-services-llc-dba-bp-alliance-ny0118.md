@@ -1,5 +1,5 @@
 ---
-title: "BP Alliance Construction Services LLC dba BP Alliance, Jamaica, NY | Lead Roster"
+title: "BP Alliance Construction Services LLC dba BP Alliance, Jamaica, NY | Lead Paint Roster"
 description: "BP Alliance Construction Services LLC dba BP Alliance: Lead abatement, Lead inspection / evaluation in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bp-alliance-construction-services-llc-dba-bp-alliance-ny0118/
 ---

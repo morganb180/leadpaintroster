@@ -1,5 +1,5 @@
 ---
-title: "Total Abatement & Construction, South Orange, NJ | Lead Roster"
+title: "Total Abatement & Construction, South Orange, NJ | Lead Paint Roster"
 description: "Total Abatement & Construction: Lead abatement in South Orange, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/total-abatement-construction-nj0248/
 ---

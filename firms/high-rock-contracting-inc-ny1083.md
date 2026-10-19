@@ -1,5 +1,5 @@
 ---
-title: "High Rock Contracting Inc., Webster, NY | Lead Roster"
+title: "High Rock Contracting Inc., Webster, NY | Lead Paint Roster"
 description: "High Rock Contracting Inc.: Lead abatement in Webster, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/high-rock-contracting-inc-ny1083/
 ---

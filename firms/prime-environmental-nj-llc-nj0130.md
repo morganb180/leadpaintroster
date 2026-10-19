@@ -1,5 +1,5 @@
 ---
-title: "Prime Environmental NJ, LLC, East Rutherford, NJ | Lead Roster"
+title: "Prime Environmental NJ, LLC, East Rutherford, NJ | Lead Paint Roster"
 description: "Prime Environmental NJ, LLC: Lead inspection / evaluation in East Rutherford, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/prime-environmental-nj-llc-nj0130/
 ---

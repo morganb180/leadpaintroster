@@ -1,5 +1,5 @@
 ---
-title: "Saul Environmental Corporation, North Bergen, NJ | Lead Roster"
+title: "Saul Environmental Corporation, North Bergen, NJ | Lead Paint Roster"
 description: "Saul Environmental Corporation: Lead abatement in North Bergen, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/saul-environmental-corporation-nj0241/
 ---

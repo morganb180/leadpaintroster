@@ -1,5 +1,5 @@
 ---
-title: "Safety Haven Solutions Inc., Falconer, NY | Lead Roster"
+title: "Safety Haven Solutions Inc., Falconer, NY | Lead Paint Roster"
 description: "Safety Haven Solutions Inc.: Lead abatement in Falconer, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/safety-haven-solutions-inc-ny1470/
 ---

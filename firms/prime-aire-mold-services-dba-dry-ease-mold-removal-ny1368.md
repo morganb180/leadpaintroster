@@ -1,5 +1,5 @@
 ---
-title: "Prime Aire Mold Services DBA Dry Ease Mold Removal, Brooklyn, NY | Lead Roster"
+title: "Prime Aire Mold Services DBA Dry Ease Mold Removal, Brooklyn, NY | Lead Paint Roster"
 description: "Prime Aire Mold Services DBA Dry Ease Mold Removal: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/prime-aire-mold-services-dba-dry-ease-mold-removal-ny1368/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Pace Window and Door Corporation, Victor, NY | Lead Roster"
+title: "Pace Window and Door Corporation, Victor, NY | Lead Paint Roster"
 description: "Pace Window and Door Corporation: Lead inspection / evaluation in Victor, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pace-window-and-door-corporation-ny0521/
 ---

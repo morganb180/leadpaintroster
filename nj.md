@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in New Jersey | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in New Jersey | Lead Paint Roster"
 description: "Find NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms in New Jersey: 256 listings by county and city, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/nj/
 ---
@@ -76,7 +76,7 @@ A lead evaluation contractor certified by NJ DCA, using an NJDOH-licensed inspec
 
 **How many certified lead professionals are listed in New Jersey?**
 
-Lead Roster lists 256 listings from NJ DCA records retrieved 2026-10-12: 180 lead inspection / evaluation, 88 lead abatement.
+Lead Paint Roster lists 256 listings from NJ DCA records retrieved 2026-10-12: 180 lead inspection / evaluation, 88 lead abatement.
 
 **How much does a lead inspection cost?**
 

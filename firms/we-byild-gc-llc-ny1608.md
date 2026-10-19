@@ -1,5 +1,5 @@
 ---
-title: "We Byild Gc LLC, Brooklyn, NY | Lead Roster"
+title: "We Byild Gc LLC, Brooklyn, NY | Lead Paint Roster"
 description: "We Byild Gc LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/we-byild-gc-llc-ny1608/
 ---

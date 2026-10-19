@@ -1,12 +1,12 @@
 ---
-title: "How We Make Money | Lead Roster"
-description: "How Lead Roster is funded today and later, and the rules for labeled paid placements."
+title: "How We Make Money | Lead Paint Roster"
+description: "How Lead Paint Roster is funded today and later, and the rules for labeled paid placements."
 canonical: https://leadpaintroster.com/how-we-make-money/
 ---
 
 # How we make money
 
-Lead Roster is free to use. Here is how it is, and will be, paid for, and the rules we hold ourselves to.
+Lead Paint Roster is free to use. Here is how it is, and will be, paid for, and the rules we hold ourselves to.
 
 ## Today
 

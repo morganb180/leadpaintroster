@@ -1,5 +1,5 @@
 ---
-title: "Pledge Environmental LLC, Brooklyn, NY | Lead Roster"
+title: "Pledge Environmental LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Pledge Environmental LLC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pledge-environmental-llc-ny0529/
 ---

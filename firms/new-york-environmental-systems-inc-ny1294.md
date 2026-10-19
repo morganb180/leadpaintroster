@@ -1,5 +1,5 @@
 ---
-title: "New York Environmental Systems, Inc., Brooklyn, NY | Lead Roster"
+title: "New York Environmental Systems, Inc., Brooklyn, NY | Lead Paint Roster"
 description: "New York Environmental Systems, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/new-york-environmental-systems-inc-ny1294/
 ---

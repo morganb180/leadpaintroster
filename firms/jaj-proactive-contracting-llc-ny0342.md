@@ -1,5 +1,5 @@
 ---
-title: "JAJ Proactive Contracting LLC, Bronx, NY | Lead Roster"
+title: "JAJ Proactive Contracting LLC, Bronx, NY | Lead Paint Roster"
 description: "JAJ Proactive Contracting LLC: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jaj-proactive-contracting-llc-ny0342/
 ---

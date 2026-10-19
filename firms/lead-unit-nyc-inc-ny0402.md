@@ -1,5 +1,5 @@
 ---
-title: "Lead Unit NYC, Inc., New York, NY | Lead Roster"
+title: "Lead Unit NYC, Inc., New York, NY | Lead Paint Roster"
 description: "Lead Unit NYC, Inc.: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-unit-nyc-inc-ny0402/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Albany, NY: 22 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Albany, NY: 22 Listings | Lead Paint Roster"
 description: "22 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Albany, New York, plus 7 more in Albany County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/albany/
 ---

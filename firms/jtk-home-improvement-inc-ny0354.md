@@ -1,5 +1,5 @@
 ---
-title: "JTK Home Improvement Inc, New York, NY | Lead Roster"
+title: "JTK Home Improvement Inc, New York, NY | Lead Paint Roster"
 description: "JTK Home Improvement Inc: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jtk-home-improvement-inc-ny0354/
 ---

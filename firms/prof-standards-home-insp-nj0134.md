@@ -1,5 +1,5 @@
 ---
-title: "Prof. Standards Home Insp., Brick, NJ | Lead Roster"
+title: "Prof. Standards Home Insp., Brick, NJ | Lead Paint Roster"
 description: "Prof. Standards Home Insp.: Lead inspection / evaluation in Brick, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/prof-standards-home-insp-nj0134/
 ---

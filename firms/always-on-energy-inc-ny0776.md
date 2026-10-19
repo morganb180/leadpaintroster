@@ -1,5 +1,5 @@
 ---
-title: "Always on Energy Inc, Brooklyn, NY | Lead Roster"
+title: "Always on Energy Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Always on Energy Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/always-on-energy-inc-ny0776/
 ---

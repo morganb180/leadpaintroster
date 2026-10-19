@@ -1,5 +1,5 @@
 ---
-title: "Cornerstone Home Inspection, Warren, NJ | Lead Roster"
+title: "Cornerstone Home Inspection, Warren, NJ | Lead Paint Roster"
 description: "Cornerstone Home Inspection: Lead inspection / evaluation in Warren, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cornerstone-home-inspection-nj0041/
 ---

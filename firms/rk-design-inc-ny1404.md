@@ -1,5 +1,5 @@
 ---
-title: "RK Design Inc, Whitestone, NY | Lead Roster"
+title: "RK Design Inc, Whitestone, NY | Lead Paint Roster"
 description: "RK Design Inc: Lead abatement in Whitestone, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rk-design-inc-ny1404/
 ---

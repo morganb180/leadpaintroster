@@ -1,5 +1,5 @@
 ---
-title: "GKM Industries Inc., Richmond Hill, NY | Lead Roster"
+title: "GKM Industries Inc., Richmond Hill, NY | Lead Paint Roster"
 description: "GKM Industries Inc.: Lead abatement in Richmond Hill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gkm-industries-inc-ny1041/
 ---

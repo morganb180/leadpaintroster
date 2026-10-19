@@ -1,5 +1,5 @@
 ---
-title: "GC Painting NY Corp, Bronx, NY | Lead Roster"
+title: "GC Painting NY Corp, Bronx, NY | Lead Paint Roster"
 description: "GC Painting NY Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gc-painting-ny-corp-ny1037/
 ---

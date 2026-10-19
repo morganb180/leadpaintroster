@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Medford, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Medford, NY | Lead Paint Roster"
 description: "Medford, NY lead paint guide: 0 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/medford/guide/
 ---

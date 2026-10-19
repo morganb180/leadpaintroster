@@ -1,5 +1,5 @@
 ---
-title: "SB Handy, Inc., Staten Island, NY | Lead Roster"
+title: "SB Handy, Inc., Staten Island, NY | Lead Paint Roster"
 description: "SB Handy, Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sb-handy-inc-ny1452/
 ---

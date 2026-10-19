@@ -1,5 +1,5 @@
 ---
-title: "Mr. Mold NY LLC, Bronx, NY | Lead Roster"
+title: "Mr. Mold NY LLC, Bronx, NY | Lead Paint Roster"
 description: "Mr. Mold NY LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mr-mold-ny-llc-ny1263/
 ---

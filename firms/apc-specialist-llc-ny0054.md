@@ -1,5 +1,5 @@
 ---
-title: "APC Specialist LLC, Long Island City, NY | Lead Roster"
+title: "APC Specialist LLC, Long Island City, NY | Lead Paint Roster"
 description: "APC Specialist LLC: Lead abatement, Lead inspection / evaluation in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/apc-specialist-llc-ny0054/
 ---

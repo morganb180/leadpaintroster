@@ -1,5 +1,5 @@
 ---
-title: "Black Hawk Restoration Inc., Ridgewood, NY | Lead Roster"
+title: "Black Hawk Restoration Inc., Ridgewood, NY | Lead Paint Roster"
 description: "Black Hawk Restoration Inc.: Lead abatement in Ridgewood, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/black-hawk-restoration-inc-ny0839/
 ---

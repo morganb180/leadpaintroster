@@ -1,5 +1,5 @@
 ---
-title: "TPS Cleaning Services Corp, Melville, NY | Lead Roster"
+title: "TPS Cleaning Services Corp, Melville, NY | Lead Paint Roster"
 description: "TPS Cleaning Services Corp: Lead abatement in Melville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tps-cleaning-services-corp-ny1537/
 ---

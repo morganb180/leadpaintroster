@@ -1,5 +1,5 @@
 ---
-title: "TryAx Realty Management, Inc., Great Neck, NY | Lead Roster"
+title: "TryAx Realty Management, Inc., Great Neck, NY | Lead Paint Roster"
 description: "TryAx Realty Management, Inc.: Lead abatement in Great Neck, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tryax-realty-management-inc-ny1569/
 ---

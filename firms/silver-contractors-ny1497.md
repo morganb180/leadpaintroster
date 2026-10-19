@@ -1,5 +1,5 @@
 ---
-title: "Silver Contractors, Crompond, NY | Lead Roster"
+title: "Silver Contractors, Crompond, NY | Lead Paint Roster"
 description: "Silver Contractors: Lead abatement in Crompond, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/silver-contractors-ny1497/
 ---

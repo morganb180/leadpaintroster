@@ -1,5 +1,5 @@
 ---
-title: "General Contracting Group, LLC, Upper Saddle River, NJ | Lead Roster"
+title: "General Contracting Group, LLC, Upper Saddle River, NJ | Lead Paint Roster"
 description: "General Contracting Group, LLC: Lead abatement in Upper Saddle River, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/general-contracting-group-llc-nj0217/
 ---

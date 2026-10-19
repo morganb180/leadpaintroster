@@ -1,5 +1,5 @@
 ---
-title: "Enhanced Environments Mgmt, Corp., Staten Island, NY | Lead Roster"
+title: "Enhanced Environments Mgmt, Corp., Staten Island, NY | Lead Paint Roster"
 description: "Enhanced Environments Mgmt, Corp.: Lead abatement, Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/enhanced-environments-mgmt-corp-ny0235/
 ---

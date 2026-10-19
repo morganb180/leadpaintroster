@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in New York, NY: 121 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in New York, NY: 121 Listings | Lead Paint Roster"
 description: "121 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in New York, New York, plus 6 more in New York County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/new-york/
 ---

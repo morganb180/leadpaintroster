@@ -1,5 +1,5 @@
 ---
-title: "Padma Contracting Corp, Bronx, NY | Lead Roster"
+title: "Padma Contracting Corp, Bronx, NY | Lead Paint Roster"
 description: "Padma Contracting Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/padma-contracting-corp-ny1338/
 ---

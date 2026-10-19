@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Scarsdale, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Scarsdale, NY | Lead Paint Roster"
 description: "Scarsdale, NY lead paint guide: 3 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/scarsdale/guide/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "P&R Interior Construction Inc, Corona, NY | Lead Roster"
+title: "P&R Interior Construction Inc, Corona, NY | Lead Paint Roster"
 description: "P&R Interior Construction Inc: Lead abatement in Corona, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/p-r-interior-construction-inc-ny1326/
 ---

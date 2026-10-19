@@ -1,5 +1,5 @@
 ---
-title: "Hartford Structural Inspections, LLC, Scarsdale, NY | Lead Roster"
+title: "Hartford Structural Inspections, LLC, Scarsdale, NY | Lead Paint Roster"
 description: "Hartford Structural Inspections, LLC: Lead abatement, Lead inspection / evaluation in Scarsdale, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/hartford-structural-inspections-llc-ny0315/
 ---

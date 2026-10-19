@@ -1,5 +1,5 @@
 ---
-title: "A&V Painting Corp., US, NY | Lead Roster"
+title: "A&V Painting Corp., US, NY | Lead Paint Roster"
 description: "A&V Painting Corp.: Lead abatement, Lead inspection / evaluation in US, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-v-painting-corp-ny0016/
 ---

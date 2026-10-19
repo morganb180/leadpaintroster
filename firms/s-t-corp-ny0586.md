@@ -1,5 +1,5 @@
 ---
-title: "S & T Corp, Blauvelt, NY | Lead Roster"
+title: "S & T Corp, Blauvelt, NY | Lead Paint Roster"
 description: "S & T Corp: Lead abatement, Lead inspection / evaluation in Blauvelt, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/s-t-corp-ny0586/
 ---

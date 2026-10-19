@@ -1,5 +1,5 @@
 ---
-title: "Quality Air Abatement Inc., Jackson Heights, NY | Lead Roster"
+title: "Quality Air Abatement Inc., Jackson Heights, NY | Lead Paint Roster"
 description: "Quality Air Abatement Inc.: Lead abatement in Jackson Heights, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/quality-air-abatement-inc-ny1392/
 ---

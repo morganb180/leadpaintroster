@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Essex County, NJ: 24 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Essex County, NJ: 24 Listings | Lead Paint Roster"
 description: "24 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms in Essex County, New Jersey, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/nj/county/essex/
 ---

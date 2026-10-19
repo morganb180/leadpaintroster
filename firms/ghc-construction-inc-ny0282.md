@@ -1,5 +1,5 @@
 ---
-title: "GHC Construction, Inc., Astoria, NY | Lead Roster"
+title: "GHC Construction, Inc., Astoria, NY | Lead Paint Roster"
 description: "GHC Construction, Inc.: Lead abatement, Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ghc-construction-inc-ny0282/
 ---

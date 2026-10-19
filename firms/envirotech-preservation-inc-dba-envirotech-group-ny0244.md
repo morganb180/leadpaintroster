@@ -1,5 +1,5 @@
 ---
-title: "EnviroTech Preservation Inc.DBA EnviroTech Group, Monsey, NY | Lead Roster"
+title: "EnviroTech Preservation Inc.DBA EnviroTech Group, Monsey, NY | Lead Paint Roster"
 description: "EnviroTech Preservation Inc.DBA EnviroTech Group: Lead abatement, Lead inspection / evaluation in Monsey, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/envirotech-preservation-inc-dba-envirotech-group-ny0244/
 ---

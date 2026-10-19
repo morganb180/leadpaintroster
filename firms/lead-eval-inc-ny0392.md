@@ -1,5 +1,5 @@
 ---
-title: "Lead Eval, Inc., Inwood, NY | Lead Roster"
+title: "Lead Eval, Inc., Inwood, NY | Lead Paint Roster"
 description: "Lead Eval, Inc.: Lead inspection / evaluation in Inwood, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-eval-inc-ny0392/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "RPG Builders Corp, Astoria, NY | Lead Roster"
+title: "RPG Builders Corp, Astoria, NY | Lead Paint Roster"
 description: "RPG Builders Corp: Lead abatement, Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rpg-builders-corp-ny0559/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "T2K Environmental Solutions LLC, Brooklyn, NY | Lead Roster"
+title: "T2K Environmental Solutions LLC, Brooklyn, NY | Lead Paint Roster"
 description: "T2K Environmental Solutions LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/t2k-environmental-solutions-llc-ny0624/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tajes Environmental Services, Lyndhurst, NJ | Lead Roster"
+title: "Tajes Environmental Services, Lyndhurst, NJ | Lead Paint Roster"
 description: "Tajes Environmental Services: Lead inspection / evaluation in Lyndhurst, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tajes-environmental-services-nj0167/
 ---

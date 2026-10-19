@@ -1,5 +1,5 @@
 ---
-title: "Rockland Wall Covering & Paint Inc., New City, NY | Lead Roster"
+title: "Rockland Wall Covering & Paint Inc., New City, NY | Lead Paint Roster"
 description: "Rockland Wall Covering & Paint Inc.: Lead abatement in New City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rockland-wall-covering-paint-inc-ny1438/
 ---

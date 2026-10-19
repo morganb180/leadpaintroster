@@ -1,5 +1,5 @@
 ---
-title: "Nbcas, Brooklyn, NY | Lead Roster"
+title: "Nbcas, Brooklyn, NY | Lead Paint Roster"
 description: "Nbcas: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nbcas-ny1266/
 ---

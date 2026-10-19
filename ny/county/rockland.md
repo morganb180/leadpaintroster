@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Rockland County, NY: 47 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Rockland County, NY: 47 Listings | Lead Paint Roster"
 description: "47 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Rockland County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/rockland/
 ---

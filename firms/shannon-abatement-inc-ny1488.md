@@ -1,5 +1,5 @@
 ---
-title: "Shannon Abatement, Inc., Stony Point, NY | Lead Roster"
+title: "Shannon Abatement, Inc., Stony Point, NY | Lead Paint Roster"
 description: "Shannon Abatement, Inc.: Lead abatement in Stony Point, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/shannon-abatement-inc-ny1488/
 ---

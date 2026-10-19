@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Elmont, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Elmont, NY | Lead Paint Roster"
 description: "Elmont, NY lead paint guide: 5 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/elmont/guide/
 ---

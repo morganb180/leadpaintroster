@@ -1,5 +1,5 @@
 ---
-title: "TG Sticks, Dewitt, NY | Lead Roster"
+title: "TG Sticks, Dewitt, NY | Lead Paint Roster"
 description: "TG Sticks: Lead abatement in Dewitt, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tg-sticks-ny1532/
 ---

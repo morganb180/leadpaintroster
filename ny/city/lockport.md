@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Lockport, NY: 4 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Lockport, NY: 4 Listings | Lead Paint Roster"
 description: "4 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Lockport, New York, plus 13 more in Niagara County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/lockport/
 ---

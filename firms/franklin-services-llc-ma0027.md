@@ -1,5 +1,5 @@
 ---
-title: "Franklin Services LLC, Marion, MA | Lead Roster"
+title: "Franklin Services LLC, Marion, MA | Lead Paint Roster"
 description: "Franklin Services LLC: Lead risk assessment in Marion, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/franklin-services-llc-ma0027/
 ---

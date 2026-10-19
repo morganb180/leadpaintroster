@@ -1,5 +1,5 @@
 ---
-title: "Amateda LLC, Bronxville, NY | Lead Roster"
+title: "Amateda LLC, Bronxville, NY | Lead Paint Roster"
 description: "Amateda LLC: Lead abatement in Bronxville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/amateda-llc-ny0777/
 ---

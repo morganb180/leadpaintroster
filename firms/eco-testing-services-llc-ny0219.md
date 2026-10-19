@@ -1,5 +1,5 @@
 ---
-title: "Eco-Testing Services, LLC, Newfield, NY | Lead Roster"
+title: "Eco-Testing Services, LLC, Newfield, NY | Lead Paint Roster"
 description: "Eco-Testing Services, LLC: Lead inspection / evaluation in Newfield, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/eco-testing-services-llc-ny0219/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Cashin Associates, P.C., Hauppauge, NY | Lead Roster"
+title: "Cashin Associates, P.C., Hauppauge, NY | Lead Paint Roster"
 description: "Cashin Associates, P.C.: Lead abatement, Lead inspection / evaluation in Hauppauge, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cashin-associates-p-c-ny0159/
 ---

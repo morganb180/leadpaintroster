@@ -1,5 +1,5 @@
 ---
-title: "Jing Ya Home Improvements, Inc, Flushing, NY | Lead Roster"
+title: "Jing Ya Home Improvements, Inc, Flushing, NY | Lead Paint Roster"
 description: "Jing Ya Home Improvements, Inc: Lead abatement in Flushing, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jing-ya-home-improvements-inc-ny1139/
 ---

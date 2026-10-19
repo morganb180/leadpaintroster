@@ -1,5 +1,5 @@
 ---
-title: "JL White Management, Scarsdale, NY | Lead Roster"
+title: "JL White Management, Scarsdale, NY | Lead Paint Roster"
 description: "JL White Management: Lead abatement in Scarsdale, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jl-white-management-ny1121/
 ---

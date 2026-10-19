@@ -1,5 +1,5 @@
 ---
-title: "Ota, LLC, Mount Laurel, NJ | Lead Roster"
+title: "Ota, LLC, Mount Laurel, NJ | Lead Paint Roster"
 description: "Ota, LLC: Lead inspection / evaluation in Mount Laurel, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ota-llc-nj0120/
 ---

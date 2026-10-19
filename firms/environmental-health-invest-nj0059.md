@@ -1,5 +1,5 @@
 ---
-title: "Environmental Health Invest., Sparta, NJ | Lead Roster"
+title: "Environmental Health Invest., Sparta, NJ | Lead Paint Roster"
 description: "Environmental Health Invest.: Lead inspection / evaluation in Sparta, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/environmental-health-invest-nj0059/
 ---

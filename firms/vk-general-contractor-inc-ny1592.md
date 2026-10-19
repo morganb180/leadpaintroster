@@ -1,5 +1,5 @@
 ---
-title: "VK General Contractor, Inc, Astoria, NY | Lead Roster"
+title: "VK General Contractor, Inc, Astoria, NY | Lead Paint Roster"
 description: "VK General Contractor, Inc: Lead abatement in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/vk-general-contractor-inc-ny1592/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Onyx Environmental, LLC, Centereach, NY | Lead Roster"
+title: "Onyx Environmental, LLC, Centereach, NY | Lead Paint Roster"
 description: "Onyx Environmental, LLC: Lead abatement, Lead inspection / evaluation in Centereach, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/onyx-environmental-llc-ny0511/
 ---

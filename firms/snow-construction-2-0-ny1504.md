@@ -1,5 +1,5 @@
 ---
-title: "Snow Construction 2.0, Falconer, NY | Lead Roster"
+title: "Snow Construction 2.0, Falconer, NY | Lead Paint Roster"
 description: "Snow Construction 2.0: Lead abatement in Falconer, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/snow-construction-2-0-ny1504/
 ---

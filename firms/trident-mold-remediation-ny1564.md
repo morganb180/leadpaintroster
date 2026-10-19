@@ -1,5 +1,5 @@
 ---
-title: "Trident Mold Remediation, Castleton On Hudson, NY | Lead Roster"
+title: "Trident Mold Remediation, Castleton On Hudson, NY | Lead Paint Roster"
 description: "Trident Mold Remediation: Lead abatement in Castleton On Hudson, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/trident-mold-remediation-ny1564/
 ---

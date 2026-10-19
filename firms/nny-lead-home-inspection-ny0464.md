@@ -1,5 +1,5 @@
 ---
-title: "NNY Lead & Home Inspection, Dexter, NY | Lead Roster"
+title: "NNY Lead & Home Inspection, Dexter, NY | Lead Paint Roster"
 description: "NNY Lead & Home Inspection: Lead abatement, Lead inspection / evaluation in Dexter, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nny-lead-home-inspection-ny0464/
 ---

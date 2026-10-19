@@ -1,5 +1,5 @@
 ---
-title: "Renovation With Passion, Maspeth, NY | Lead Roster"
+title: "Renovation With Passion, Maspeth, NY | Lead Paint Roster"
 description: "Renovation With Passion: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/renovation-with-passion-ny1402/
 ---

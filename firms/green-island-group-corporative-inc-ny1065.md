@@ -1,5 +1,5 @@
 ---
-title: "Green Island Group Corporative Inc., Bohemia, NY | Lead Roster"
+title: "Green Island Group Corporative Inc., Bohemia, NY | Lead Paint Roster"
 description: "Green Island Group Corporative Inc.: Lead abatement in Bohemia, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/green-island-group-corporative-inc-ny1065/
 ---

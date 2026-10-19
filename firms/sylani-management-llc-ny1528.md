@@ -1,5 +1,5 @@
 ---
-title: "Sylani Management LLC, Eastchester, NY | Lead Roster"
+title: "Sylani Management LLC, Eastchester, NY | Lead Paint Roster"
 description: "Sylani Management LLC: Lead abatement in Eastchester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sylani-management-llc-ny1528/
 ---

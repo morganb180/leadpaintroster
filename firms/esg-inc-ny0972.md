@@ -1,5 +1,5 @@
 ---
-title: "Esg Inc, Whitestone, NY | Lead Roster"
+title: "Esg Inc, Whitestone, NY | Lead Paint Roster"
 description: "Esg Inc: Lead abatement in Whitestone, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/esg-inc-ny0972/
 ---

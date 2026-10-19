@@ -1,5 +1,5 @@
 ---
-title: "ABC Global Lead Consult Inc, Bronx, NY | Lead Roster"
+title: "ABC Global Lead Consult Inc, Bronx, NY | Lead Paint Roster"
 description: "ABC Global Lead Consult Inc: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abc-global-lead-consult-inc-ny0027/
 ---

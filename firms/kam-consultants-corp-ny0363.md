@@ -1,5 +1,5 @@
 ---
-title: "KAM Consultants Corp., Long Island City, NY | Lead Roster"
+title: "KAM Consultants Corp., Long Island City, NY | Lead Paint Roster"
 description: "KAM Consultants Corp.: Lead inspection / evaluation in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kam-consultants-corp-ny0363/
 ---

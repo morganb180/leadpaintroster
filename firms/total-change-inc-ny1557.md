@@ -1,5 +1,5 @@
 ---
-title: "Total Change Inc., Flushing, NY | Lead Roster"
+title: "Total Change Inc., Flushing, NY | Lead Paint Roster"
 description: "Total Change Inc.: Lead abatement in Flushing, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/total-change-inc-ny1557/
 ---

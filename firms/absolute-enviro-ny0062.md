@@ -1,5 +1,5 @@
 ---
-title: "Absolute Enviro, New City, NY | Lead Roster"
+title: "Absolute Enviro, New City, NY | Lead Paint Roster"
 description: "Absolute Enviro: Lead abatement, Lead inspection / evaluation in New City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/absolute-enviro-ny0062/
 ---

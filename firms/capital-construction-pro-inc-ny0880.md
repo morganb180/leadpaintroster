@@ -1,5 +1,5 @@
 ---
-title: "Capital Construction Pro Inc, Yonkers, NY | Lead Roster"
+title: "Capital Construction Pro Inc, Yonkers, NY | Lead Paint Roster"
 description: "Capital Construction Pro Inc: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/capital-construction-pro-inc-ny0880/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "YT Resolution Services, LLC, New York, NY | Lead Roster"
+title: "YT Resolution Services, LLC, New York, NY | Lead Paint Roster"
 description: "YT Resolution Services, LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/yt-resolution-services-llc-ny1624/
 ---

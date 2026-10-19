@@ -1,5 +1,5 @@
 ---
-title: "Standard Environmental LLC, New York, NY | Lead Roster"
+title: "Standard Environmental LLC, New York, NY | Lead Paint Roster"
 description: "Standard Environmental LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/standard-environmental-llc-ny1463/
 ---

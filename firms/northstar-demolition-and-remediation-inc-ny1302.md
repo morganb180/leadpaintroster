@@ -1,5 +1,5 @@
 ---
-title: "NorthStar Demolition and Remediation, Inc., Rochester, NY | Lead Roster"
+title: "NorthStar Demolition and Remediation, Inc., Rochester, NY | Lead Paint Roster"
 description: "NorthStar Demolition and Remediation, Inc.: Lead abatement in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/northstar-demolition-and-remediation-inc-ny1302/
 ---

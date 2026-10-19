@@ -1,5 +1,5 @@
 ---
-title: "Associated Speciality Con Inc., Glen Mills, PA | Lead Roster"
+title: "Associated Speciality Con Inc., Glen Mills, PA | Lead Paint Roster"
 description: "Associated Speciality Con Inc.: Lead abatement in Glen Mills, PA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/associated-speciality-con-inc-nj0197/
 ---

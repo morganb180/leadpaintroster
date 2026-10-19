@@ -1,5 +1,5 @@
 ---
-title: "KLG Contracting, Inc, Corona, NY | Lead Roster"
+title: "KLG Contracting, Inc, Corona, NY | Lead Paint Roster"
 description: "KLG Contracting, Inc: Lead abatement, Lead inspection / evaluation in Corona, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/klg-contracting-inc-ny0365/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Gregory's Home Improvement NYC INC, Staten Island, NY | Lead Roster"
+title: "Gregory's Home Improvement NYC INC, Staten Island, NY | Lead Paint Roster"
 description: "Gregory's Home Improvement NYC INC: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gregory-s-home-improvement-nyc-inc-ny1068/
 ---

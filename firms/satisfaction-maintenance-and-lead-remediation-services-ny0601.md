@@ -1,5 +1,5 @@
 ---
-title: "Satisfaction Maintenance and Lead Remediation Services, Bronx, NY | Lead Roster"
+title: "Satisfaction Maintenance and Lead Remediation Services, Bronx, NY | Lead Paint Roster"
 description: "Satisfaction Maintenance and Lead Remediation Services: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/satisfaction-maintenance-and-lead-remediation-services-ny0601/
 ---

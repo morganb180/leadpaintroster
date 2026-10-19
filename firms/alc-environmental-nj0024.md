@@ -1,5 +1,5 @@
 ---
-title: "Alc Environmental, New York, NY | Lead Roster"
+title: "Alc Environmental, New York, NY | Lead Paint Roster"
 description: "Alc Environmental: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/alc-environmental-nj0024/
 ---

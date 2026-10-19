@@ -1,5 +1,5 @@
 ---
-title: "Athenica Environmental Services Inc., Astoria, NY | Lead Roster"
+title: "Athenica Environmental Services Inc., Astoria, NY | Lead Paint Roster"
 description: "Athenica Environmental Services Inc.: Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/athenica-environmental-services-inc-ny0104/
 ---

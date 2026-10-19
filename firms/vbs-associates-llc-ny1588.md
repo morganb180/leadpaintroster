@@ -1,5 +1,5 @@
 ---
-title: "VBS Associates LLC, Brewster, NY | Lead Roster"
+title: "VBS Associates LLC, Brewster, NY | Lead Paint Roster"
 description: "VBS Associates LLC: Lead abatement in Brewster, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/vbs-associates-llc-ny1588/
 ---

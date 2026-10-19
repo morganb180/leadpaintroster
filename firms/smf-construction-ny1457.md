@@ -1,5 +1,5 @@
 ---
-title: "SMF Construction, Watertown, NY | Lead Roster"
+title: "SMF Construction, Watertown, NY | Lead Paint Roster"
 description: "SMF Construction: Lead abatement in Watertown, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/smf-construction-ny1457/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Twin Peaks Environmental, Oakland Gardens, NY | Lead Roster"
+title: "Twin Peaks Environmental, Oakland Gardens, NY | Lead Paint Roster"
 description: "Twin Peaks Environmental: Lead inspection / evaluation in Oakland Gardens, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/twin-peaks-environmental-ny0656/
 ---

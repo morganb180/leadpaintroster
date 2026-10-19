@@ -1,5 +1,5 @@
 ---
-title: "Tanzid Construction Corp, Brooklyn, NY | Lead Roster"
+title: "Tanzid Construction Corp, Brooklyn, NY | Lead Paint Roster"
 description: "Tanzid Construction Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tanzid-construction-corp-ny1542/
 ---

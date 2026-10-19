@@ -1,5 +1,5 @@
 ---
-title: "M & A Ochoa, Kingston, NY | Lead Roster"
+title: "M & A Ochoa, Kingston, NY | Lead Paint Roster"
 description: "M & A Ochoa: Lead abatement in Kingston, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/m-a-ochoa-ny1190/
 ---

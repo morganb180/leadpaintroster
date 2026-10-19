@@ -1,5 +1,5 @@
 ---
-title: "GN Home Improvement Corp, Brooklyn, NY | Lead Roster"
+title: "GN Home Improvement Corp, Brooklyn, NY | Lead Paint Roster"
 description: "GN Home Improvement Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gn-home-improvement-corp-ny1043/
 ---

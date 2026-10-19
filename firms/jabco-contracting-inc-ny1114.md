@@ -1,5 +1,5 @@
 ---
-title: "JABCO Contracting, Inc., Brooklyn, NY | Lead Roster"
+title: "JABCO Contracting, Inc., Brooklyn, NY | Lead Paint Roster"
 description: "JABCO Contracting, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jabco-contracting-inc-ny1114/
 ---

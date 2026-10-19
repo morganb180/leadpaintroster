@@ -1,5 +1,5 @@
 ---
-title: "A House Into A Home Real Estate Investing, Rochester, NY | Lead Roster"
+title: "A House Into A Home Real Estate Investing, Rochester, NY | Lead Paint Roster"
 description: "A House Into A Home Real Estate Investing: Lead abatement in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-house-into-a-home-real-estate-investing-ny0702/
 ---

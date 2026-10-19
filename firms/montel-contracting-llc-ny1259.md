@@ -1,5 +1,5 @@
 ---
-title: "Montel Contracting LLC, Buffalo, NY | Lead Roster"
+title: "Montel Contracting LLC, Buffalo, NY | Lead Paint Roster"
 description: "Montel Contracting LLC: Lead abatement in Buffalo, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/montel-contracting-llc-ny1259/
 ---

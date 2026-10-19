@@ -1,5 +1,5 @@
 ---
-title: "B and S Construction Inc., Brooklyn, NY | Lead Roster"
+title: "B and S Construction Inc., Brooklyn, NY | Lead Paint Roster"
 description: "B and S Construction Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/b-and-s-construction-inc-ny0112/
 ---

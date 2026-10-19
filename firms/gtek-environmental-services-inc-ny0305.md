@@ -1,5 +1,5 @@
 ---
-title: "Gtek Environmental Services, Inc., Jamaica, NY | Lead Roster"
+title: "Gtek Environmental Services, Inc., Jamaica, NY | Lead Paint Roster"
 description: "Gtek Environmental Services, Inc.: Lead abatement, Lead inspection / evaluation in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gtek-environmental-services-inc-ny0305/
 ---

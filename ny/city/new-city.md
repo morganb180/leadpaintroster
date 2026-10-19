@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in New City, NY: 7 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in New City, NY: 7 Listings | Lead Paint Roster"
 description: "7 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in New City, New York, plus 40 more in Rockland County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/new-city/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Jerry Urban, Beverly, MA | Lead Roster"
+title: "Jerry Urban, Beverly, MA | Lead Paint Roster"
 description: "Jerry Urban: Lead risk assessment in Beverly, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jerry-urban-ma0004/
 ---

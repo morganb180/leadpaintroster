@@ -1,5 +1,5 @@
 ---
-title: "Lozier Environmental Consulting, Inc., Rochester, NY | Lead Roster"
+title: "Lozier Environmental Consulting, Inc., Rochester, NY | Lead Paint Roster"
 description: "Lozier Environmental Consulting, Inc.: Lead inspection / evaluation in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lozier-environmental-consulting-inc-ny0425/
 ---

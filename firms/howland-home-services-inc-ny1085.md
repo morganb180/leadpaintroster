@@ -1,5 +1,5 @@
 ---
-title: "Howland Home Services, Inc., Spencerport, NY | Lead Roster"
+title: "Howland Home Services, Inc., Spencerport, NY | Lead Paint Roster"
 description: "Howland Home Services, Inc.: Lead abatement in Spencerport, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/howland-home-services-inc-ny1085/
 ---

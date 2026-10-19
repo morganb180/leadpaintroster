@@ -1,5 +1,5 @@
 ---
-title: "JC Contracting Mgmt LLC, Maspeth, NY | Lead Roster"
+title: "JC Contracting Mgmt LLC, Maspeth, NY | Lead Paint Roster"
 description: "JC Contracting Mgmt LLC: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jc-contracting-mgmt-llc-ny1117/
 ---

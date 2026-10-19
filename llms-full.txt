@@ -1,8 +1,8 @@
-# Lead Roster
+# Lead Paint Roster
 
-> Lead Roster is a free directory of certified lead-based paint inspectors, risk assessors and abatement firms in New Jersey, New York and Massachusetts, built from NJ DCA, US EPA and Massachusetts licence records.
+> Lead Paint Roster is a free directory of certified lead-based paint inspectors, risk assessors and abatement firms in New Jersey, New York and Massachusetts, built from NJ DCA, US EPA and Massachusetts licence records.
 
-Lead Roster is for landlords, tenants, buyers and parents who need a certified lead inspector, risk assessor or abatement contractor. Listings come from NJ DCA certified contractor lists, the US EPA lead-based paint firm locator (New York) and the Massachusetts licensed lead inspector list, retrieved 2026-10-12. Every page has a Markdown version: replace the trailing slash with `.md` (home: https://leadpaintroster.com/index.md).
+Lead Paint Roster is for landlords, tenants, buyers and parents who need a certified lead inspector, risk assessor or abatement contractor. Listings come from NJ DCA certified contractor lists, the US EPA lead-based paint firm locator (New York) and the Massachusetts licensed lead inspector list, retrieved 2026-10-12. Every page has a Markdown version: replace the trailing slash with `.md` (home: https://leadpaintroster.com/index.md).
 
 ## States
 - [New Jersey](https://leadpaintroster.com/nj/): New Jersey Department of Community Affairs licence records

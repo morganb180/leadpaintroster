@@ -1,5 +1,5 @@
 ---
-title: "Green Path Environmental, Inc., Staten Island, NY | Lead Roster"
+title: "Green Path Environmental, Inc., Staten Island, NY | Lead Paint Roster"
 description: "Green Path Environmental, Inc.: Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/green-path-environmental-inc-ny0304/
 ---

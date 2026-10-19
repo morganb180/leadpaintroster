@@ -1,5 +1,5 @@
 ---
-title: "Superstar Industries, New York, NY | Lead Roster"
+title: "Superstar Industries, New York, NY | Lead Paint Roster"
 description: "Superstar Industries: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/superstar-industries-ny1524/
 ---

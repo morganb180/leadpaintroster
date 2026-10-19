@@ -1,5 +1,5 @@
 ---
-title: "AMI Development LLC, Brooklyn, NY | Lead Roster"
+title: "AMI Development LLC, Brooklyn, NY | Lead Paint Roster"
 description: "AMI Development LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ami-development-llc-ny0732/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Stafford Painters, Stafford, NY | Lead Roster"
+title: "Stafford Painters, Stafford, NY | Lead Paint Roster"
 description: "Stafford Painters: Lead abatement in Stafford, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/stafford-painters-ny1508/
 ---

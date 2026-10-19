@@ -1,5 +1,5 @@
 ---
-title: "Nivicela Painting, Woodside, NY | Lead Roster"
+title: "Nivicela Painting, Woodside, NY | Lead Paint Roster"
 description: "Nivicela Painting: Lead abatement in Woodside, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nivicela-painting-ny1301/
 ---

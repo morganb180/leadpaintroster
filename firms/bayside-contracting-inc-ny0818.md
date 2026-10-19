@@ -1,5 +1,5 @@
 ---
-title: "Bayside Contracting, Inc., Astoria, NY | Lead Roster"
+title: "Bayside Contracting, Inc., Astoria, NY | Lead Paint Roster"
 description: "Bayside Contracting, Inc.: Lead abatement in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bayside-contracting-inc-ny0818/
 ---

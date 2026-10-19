@@ -1,5 +1,5 @@
 ---
-title: "Lilly & Snow Home Renovation LLC, Howard Beach, NY | Lead Roster"
+title: "Lilly & Snow Home Renovation LLC, Howard Beach, NY | Lead Paint Roster"
 description: "Lilly & Snow Home Renovation LLC: Lead abatement, Lead inspection / evaluation in Howard Beach, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lilly-snow-home-renovation-llc-ny0421/
 ---

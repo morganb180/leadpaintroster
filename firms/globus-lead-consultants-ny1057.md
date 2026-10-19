@@ -1,5 +1,5 @@
 ---
-title: "Globus Lead Consultants, Brooklyn, NY | Lead Roster"
+title: "Globus Lead Consultants, Brooklyn, NY | Lead Paint Roster"
 description: "Globus Lead Consultants: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/globus-lead-consultants-ny1057/
 ---

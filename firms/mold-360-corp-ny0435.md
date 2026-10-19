@@ -1,5 +1,5 @@
 ---
-title: "Mold 360 Corp., Brooklyn, NY | Lead Roster"
+title: "Mold 360 Corp., Brooklyn, NY | Lead Paint Roster"
 description: "Mold 360 Corp.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mold-360-corp-ny0435/
 ---

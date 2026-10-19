@@ -1,5 +1,5 @@
 ---
-title: "GAC Environmental, Inc., New York, NY | Lead Roster"
+title: "GAC Environmental, Inc., New York, NY | Lead Paint Roster"
 description: "GAC Environmental, Inc.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gac-environmental-inc-ny0278/
 ---

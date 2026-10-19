@@ -1,5 +1,5 @@
 ---
-title: "Vecchio Painters & Designers LTD., Brooklyn, NY | Lead Roster"
+title: "Vecchio Painters & Designers LTD., Brooklyn, NY | Lead Paint Roster"
 description: "Vecchio Painters & Designers LTD.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/vecchio-painters-designers-ltd-ny1595/
 ---

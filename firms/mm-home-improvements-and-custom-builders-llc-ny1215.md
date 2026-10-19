@@ -1,5 +1,5 @@
 ---
-title: "MM Home Improvements and Custom Builders LLC, Kingston, NY | Lead Roster"
+title: "MM Home Improvements and Custom Builders LLC, Kingston, NY | Lead Paint Roster"
 description: "MM Home Improvements and Custom Builders LLC: Lead abatement in Kingston, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mm-home-improvements-and-custom-builders-llc-ny1215/
 ---

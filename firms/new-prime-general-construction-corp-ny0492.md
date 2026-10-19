@@ -1,5 +1,5 @@
 ---
-title: "New Prime General Construction Corp., Bronx, NY | Lead Roster"
+title: "New Prime General Construction Corp., Bronx, NY | Lead Paint Roster"
 description: "New Prime General Construction Corp.: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/new-prime-general-construction-corp-ny0492/
 ---

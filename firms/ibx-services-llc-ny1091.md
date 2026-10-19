@@ -1,5 +1,5 @@
 ---
-title: "IBX Services LLC, Queens, NY | Lead Roster"
+title: "IBX Services LLC, Queens, NY | Lead Paint Roster"
 description: "IBX Services LLC: Lead abatement in Queens, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ibx-services-llc-ny1091/
 ---

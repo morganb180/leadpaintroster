@@ -1,5 +1,5 @@
 ---
-title: "Master Lead Paint Inspection, Weymouth, MA | Lead Roster"
+title: "Master Lead Paint Inspection, Weymouth, MA | Lead Paint Roster"
 description: "Master Lead Paint Inspection: Lead risk assessment in Weymouth, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/master-lead-paint-inspection-ma0056/
 ---

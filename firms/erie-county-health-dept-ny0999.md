@@ -1,5 +1,5 @@
 ---
-title: "Erie County Health Dept, Buffalo, NY | Lead Roster"
+title: "Erie County Health Dept, Buffalo, NY | Lead Paint Roster"
 description: "Erie County Health Dept: Lead abatement in Buffalo, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/erie-county-health-dept-ny0999/
 ---

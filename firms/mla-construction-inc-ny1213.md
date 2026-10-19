@@ -1,5 +1,5 @@
 ---
-title: "MLA Construction Inc., Glendale, NY | Lead Roster"
+title: "MLA Construction Inc., Glendale, NY | Lead Paint Roster"
 description: "MLA Construction Inc.: Lead abatement in Glendale, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mla-construction-inc-ny1213/
 ---

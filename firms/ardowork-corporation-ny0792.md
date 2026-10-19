@@ -1,5 +1,5 @@
 ---
-title: "Ardowork Corporation, Bronx, NY | Lead Roster"
+title: "Ardowork Corporation, Bronx, NY | Lead Paint Roster"
 description: "Ardowork Corporation: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ardowork-corporation-ny0792/
 ---

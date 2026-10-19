@@ -1,5 +1,5 @@
 ---
-title: "PV Construction, Glendale, NY | Lead Roster"
+title: "PV Construction, Glendale, NY | Lead Paint Roster"
 description: "PV Construction: Lead abatement in Glendale, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pv-construction-ny1336/
 ---

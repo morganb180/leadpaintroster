@@ -1,5 +1,5 @@
 ---
-title: "Lahifa Construction Corporation, Brooklyn, NY | Lead Roster"
+title: "Lahifa Construction Corporation, Brooklyn, NY | Lead Paint Roster"
 description: "Lahifa Construction Corporation: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lahifa-construction-corporation-ny1168/
 ---

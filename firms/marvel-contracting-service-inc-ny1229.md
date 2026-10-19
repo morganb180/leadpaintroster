@@ -1,5 +1,5 @@
 ---
-title: "Marvel Contracting Service Inc., Oakland Gardens, NY | Lead Roster"
+title: "Marvel Contracting Service Inc., Oakland Gardens, NY | Lead Paint Roster"
 description: "Marvel Contracting Service Inc.: Lead abatement in Oakland Gardens, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/marvel-contracting-service-inc-ny1229/
 ---

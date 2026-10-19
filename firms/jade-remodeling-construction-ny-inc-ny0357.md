@@ -1,5 +1,5 @@
 ---
-title: "Jade Remodeling & Construction NY, Inc., Brooklyn, NY | Lead Roster"
+title: "Jade Remodeling & Construction NY, Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Jade Remodeling & Construction NY, Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jade-remodeling-construction-ny-inc-ny0357/
 ---

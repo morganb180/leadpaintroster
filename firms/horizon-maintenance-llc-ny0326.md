@@ -1,5 +1,5 @@
 ---
-title: "Horizon Maintenance LLC, Flushing, NY | Lead Roster"
+title: "Horizon Maintenance LLC, Flushing, NY | Lead Paint Roster"
 description: "Horizon Maintenance LLC: Lead abatement, Lead inspection / evaluation in Flushing, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/horizon-maintenance-llc-ny0326/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Lamparelli Construction Co. Inc., Cheektowaga, NY | Lead Roster"
+title: "Lamparelli Construction Co. Inc., Cheektowaga, NY | Lead Paint Roster"
 description: "Lamparelli Construction Co. Inc.: Lead abatement in Cheektowaga, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lamparelli-construction-co-inc-ny1170/
 ---

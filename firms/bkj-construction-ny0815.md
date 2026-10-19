@@ -1,5 +1,5 @@
 ---
-title: "BKJ Construction, Schenectady, NY | Lead Roster"
+title: "BKJ Construction, Schenectady, NY | Lead Paint Roster"
 description: "BKJ Construction: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bkj-construction-ny0815/
 ---

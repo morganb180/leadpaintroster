@@ -1,5 +1,5 @@
 ---
-title: "Gaia Environmental Inspections LLC, Elmont, NY | Lead Roster"
+title: "Gaia Environmental Inspections LLC, Elmont, NY | Lead Paint Roster"
 description: "Gaia Environmental Inspections LLC: Lead inspection / evaluation in Elmont, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gaia-environmental-inspections-llc-ny0288/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Absolute Abatement Constr., Vauxhall, NJ | Lead Roster"
+title: "Absolute Abatement Constr., Vauxhall, NJ | Lead Paint Roster"
 description: "Absolute Abatement Constr.: Lead abatement in Vauxhall, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/absolute-abatement-constr-nj0185/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ali Fix It Construction, LLC, Syracuse, NY | Lead Roster"
+title: "Ali Fix It Construction, LLC, Syracuse, NY | Lead Paint Roster"
 description: "Ali Fix It Construction, LLC: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ali-fix-it-construction-llc-ny0762/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Rensselaer County Department of Health, Troy, NY | Lead Roster"
+title: "Rensselaer County Department of Health, Troy, NY | Lead Paint Roster"
 description: "Rensselaer County Department of Health: Lead inspection / evaluation in Troy, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rensselaer-county-department-of-health-ny0572/
 ---

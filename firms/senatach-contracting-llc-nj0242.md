@@ -1,5 +1,5 @@
 ---
-title: "Senatach Contracting, LLC, Newark, NJ | Lead Roster"
+title: "Senatach Contracting, LLC, Newark, NJ | Lead Paint Roster"
 description: "Senatach Contracting, LLC: Lead abatement in Newark, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/senatach-contracting-llc-nj0242/
 ---

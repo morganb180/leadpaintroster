@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Schenectady, NY: 18 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Schenectady, NY: 18 Listings | Lead Paint Roster"
 description: "18 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Schenectady, New York, plus 4 more in Schenectady County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/schenectady/
 ---

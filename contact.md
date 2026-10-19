@@ -1,12 +1,12 @@
 ---
-title: "Contact | Lead Roster"
-description: "How to contact Lead Roster, or claim, correct or remove a listing."
+title: "Contact | Lead Paint Roster"
+description: "How to contact Lead Paint Roster, or claim, correct or remove a listing."
 canonical: https://leadpaintroster.com/contact/
 ---
 
-# Contact Lead Roster
+# Contact Lead Paint Roster
 
-Lead Roster is a small independent directory and guide. We read every message. We aren't a contractor, inspector or government agency, and we can't do lead inspection or abatement work ourselves.
+Lead Paint Roster is a small independent directory and guide. We read every message. We aren't a contractor, inspector or government agency, and we can't do lead inspection or abatement work ourselves.
 
 ## Email
 

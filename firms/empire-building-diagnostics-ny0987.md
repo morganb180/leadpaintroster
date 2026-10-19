@@ -1,5 +1,5 @@
 ---
-title: "Empire Building Diagnostics, Lackawanna, NY | Lead Roster"
+title: "Empire Building Diagnostics, Lackawanna, NY | Lead Paint Roster"
 description: "Empire Building Diagnostics: Lead abatement in Lackawanna, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/empire-building-diagnostics-ny0987/
 ---

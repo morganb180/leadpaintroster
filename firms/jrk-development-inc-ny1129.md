@@ -1,5 +1,5 @@
 ---
-title: "JRK Development Inc, Staten Island, NY | Lead Roster"
+title: "JRK Development Inc, Staten Island, NY | Lead Paint Roster"
 description: "JRK Development Inc: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jrk-development-inc-ny1129/
 ---

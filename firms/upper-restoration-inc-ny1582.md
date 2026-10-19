@@ -1,5 +1,5 @@
 ---
-title: "Upper Restoration Inc., Farmingdale, NY | Lead Roster"
+title: "Upper Restoration Inc., Farmingdale, NY | Lead Paint Roster"
 description: "Upper Restoration Inc.: Lead abatement in Farmingdale, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/upper-restoration-inc-ny1582/
 ---

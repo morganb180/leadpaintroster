@@ -1,5 +1,5 @@
 ---
-title: "Schenectady Homes LLC, Albany, NY | Lead Roster"
+title: "Schenectady Homes LLC, Albany, NY | Lead Paint Roster"
 description: "Schenectady Homes LLC: Lead inspection / evaluation in Albany, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/schenectady-homes-llc-ny0604/
 ---

@@ -1,12 +1,12 @@
 ---
-title: "List, Claim, Correct or Remove a Listing | Lead Roster"
-description: "Licensed professionals can claim, correct, add or remove a Lead Roster listing. Requests are checked against the NJ DCA, EPA, MA record."
+title: "List, Claim, Correct or Remove a Listing | Lead Paint Roster"
+description: "Licensed professionals can claim, correct, add or remove a Lead Paint Roster listing. Requests are checked against the NJ DCA, EPA, MA record."
 canonical: https://leadpaintroster.com/claim-listing/
 ---
 
 # List, claim, correct or remove a listing
 
-Every listing on Lead Roster comes from official state licence or certification records (NJ DCA, EPA, MA). Use this form to claim your free listing (add a phone number, website or service area), fix an error, ask to be added, or ask for a listing to be removed.
+Every listing on Lead Paint Roster comes from official state licence or certification records (NJ DCA, EPA, MA). Use this form to claim your free listing (add a phone number, website or service area), fix an error, ask to be added, or ask for a listing to be removed.
 
 ## What happens next
 

@@ -1,5 +1,5 @@
 ---
-title: "Northeast Lead Inspections Inc, Everett, MA | Lead Roster"
+title: "Northeast Lead Inspections Inc, Everett, MA | Lead Paint Roster"
 description: "Northeast Lead Inspections Inc: Lead inspection / evaluation in Everett, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/northeast-lead-inspections-inc-ma0015/
 ---

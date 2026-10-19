@@ -1,5 +1,5 @@
 ---
-title: "Essex General Construction Inc., Bellerose, NY | Lead Roster"
+title: "Essex General Construction Inc., Bellerose, NY | Lead Paint Roster"
 description: "Essex General Construction Inc.: Lead inspection / evaluation in Bellerose, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/essex-general-construction-inc-ny0260/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Arctic Enterprises, Inc., Syracuse, NY | Lead Roster"
+title: "Arctic Enterprises, Inc., Syracuse, NY | Lead Paint Roster"
 description: "Arctic Enterprises, Inc.: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/arctic-enterprises-inc-ny0791/
 ---

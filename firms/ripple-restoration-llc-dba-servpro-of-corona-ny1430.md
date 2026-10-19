@@ -1,5 +1,5 @@
 ---
-title: "Ripple Restoration, LLC dba Servpro of Corona, Fresh Meadows, NY | Lead Roster"
+title: "Ripple Restoration, LLC dba Servpro of Corona, Fresh Meadows, NY | Lead Paint Roster"
 description: "Ripple Restoration, LLC dba Servpro of Corona: Lead abatement in Fresh Meadows, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ripple-restoration-llc-dba-servpro-of-corona-ny1430/
 ---

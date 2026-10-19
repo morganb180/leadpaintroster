@@ -1,5 +1,5 @@
 ---
-title: "Essential Restoration Inc., Staten Island, NY | Lead Roster"
+title: "Essential Restoration Inc., Staten Island, NY | Lead Paint Roster"
 description: "Essential Restoration Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/essential-restoration-inc-ny0973/
 ---

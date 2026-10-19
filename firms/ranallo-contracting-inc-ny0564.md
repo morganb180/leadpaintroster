@@ -1,5 +1,5 @@
 ---
-title: "Ranallo Contracting Inc., Dix Hills, NY | Lead Roster"
+title: "Ranallo Contracting Inc., Dix Hills, NY | Lead Paint Roster"
 description: "Ranallo Contracting Inc.: Lead abatement, Lead inspection / evaluation in Dix Hills, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ranallo-contracting-inc-ny0564/
 ---

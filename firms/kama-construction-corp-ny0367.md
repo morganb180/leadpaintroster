@@ -1,5 +1,5 @@
 ---
-title: "Kama Construction Corp, Roslyn, NY | Lead Roster"
+title: "Kama Construction Corp, Roslyn, NY | Lead Paint Roster"
 description: "Kama Construction Corp: Lead abatement, Lead inspection / evaluation in Roslyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kama-construction-corp-ny0367/
 ---

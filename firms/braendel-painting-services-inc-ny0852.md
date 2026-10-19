@@ -1,5 +1,5 @@
 ---
-title: "Braendel Painting & Services, Inc., Tonawanda, NY | Lead Roster"
+title: "Braendel Painting & Services, Inc., Tonawanda, NY | Lead Paint Roster"
 description: "Braendel Painting & Services, Inc.: Lead abatement in Tonawanda, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/braendel-painting-services-inc-ny0852/
 ---

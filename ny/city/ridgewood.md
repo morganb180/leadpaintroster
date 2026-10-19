@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Ridgewood, NY: 8 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Ridgewood, NY: 8 Listings | Lead Paint Roster"
 description: "8 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Ridgewood, New York, plus 316 more in Queens County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/ridgewood/
 ---

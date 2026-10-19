@@ -1,5 +1,5 @@
 ---
-title: "Servpro of Long Island City, Woodside, NY | Lead Roster"
+title: "Servpro of Long Island City, Woodside, NY | Lead Paint Roster"
 description: "Servpro of Long Island City: Lead abatement in Woodside, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/servpro-of-long-island-city-ny1484/
 ---

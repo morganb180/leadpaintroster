@@ -1,5 +1,5 @@
 ---
-title: "Milbrook Properties, Ltd, Manhasset, NY | Lead Roster"
+title: "Milbrook Properties, Ltd, Manhasset, NY | Lead Paint Roster"
 description: "Milbrook Properties, Ltd: Lead abatement in Manhasset, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/milbrook-properties-ltd-ny1252/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Staten Island, NY: 72 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Staten Island, NY: 72 Listings | Lead Paint Roster"
 description: "72 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Staten Island, New York, plus 0 more in Richmond County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/staten-island/
 ---

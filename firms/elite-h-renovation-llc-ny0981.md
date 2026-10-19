@@ -1,5 +1,5 @@
 ---
-title: "Elite H. Renovation, LLC, Yonkers, NY | Lead Roster"
+title: "Elite H. Renovation, LLC, Yonkers, NY | Lead Paint Roster"
 description: "Elite H. Renovation, LLC: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/elite-h-renovation-llc-ny0981/
 ---

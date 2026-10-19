@@ -1,5 +1,5 @@
 ---
-title: "The Bonvie Group Inc., Brooklyn, NY | Lead Roster"
+title: "The Bonvie Group Inc., Brooklyn, NY | Lead Paint Roster"
 description: "The Bonvie Group Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/the-bonvie-group-inc-ny0643/
 ---

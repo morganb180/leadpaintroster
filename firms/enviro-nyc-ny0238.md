@@ -1,5 +1,5 @@
 ---
-title: "Enviro NYC, Staten Island, NY | Lead Roster"
+title: "Enviro NYC, Staten Island, NY | Lead Paint Roster"
 description: "Enviro NYC: Lead abatement, Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/enviro-nyc-ny0238/
 ---

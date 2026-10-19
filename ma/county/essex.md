@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Essex County, MA: 7 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Essex County, MA: 7 Listings | Lead Paint Roster"
 description: "7 MA-licensed lead paint inspectors, risk assessors and abatement firms in Essex County, Massachusetts, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ma/county/essex/
 ---

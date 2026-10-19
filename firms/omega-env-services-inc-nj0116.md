@@ -1,5 +1,5 @@
 ---
-title: "Omega Env. Services, Inc., South Hackensack, NJ | Lead Roster"
+title: "Omega Env. Services, Inc., South Hackensack, NJ | Lead Paint Roster"
 description: "Omega Env. Services, Inc.: Lead inspection / evaluation in South Hackensack, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/omega-env-services-inc-nj0116/
 ---

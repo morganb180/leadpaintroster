@@ -1,5 +1,5 @@
 ---
-title: "General Home Systems Corp., Hillburn, NY | Lead Roster"
+title: "General Home Systems Corp., Hillburn, NY | Lead Paint Roster"
 description: "General Home Systems Corp.: Lead abatement, Lead inspection / evaluation in Hillburn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/general-home-systems-corp-ny0293/
 ---

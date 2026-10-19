@@ -1,5 +1,5 @@
 ---
-title: "Apache Legend Group Corp, Mount Kisco, NY | Lead Roster"
+title: "Apache Legend Group Corp, Mount Kisco, NY | Lead Paint Roster"
 description: "Apache Legend Group Corp: Lead abatement, Lead inspection / evaluation in Mount Kisco, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/apache-legend-group-corp-ny0092/
 ---

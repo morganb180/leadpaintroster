@@ -1,5 +1,5 @@
 ---
-title: "New Age Construction, Jamaica, NY | Lead Roster"
+title: "New Age Construction, Jamaica, NY | Lead Paint Roster"
 description: "New Age Construction: Lead abatement in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/new-age-construction-ny1287/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Abatetech, Lumberton, NJ | Lead Roster"
+title: "Abatetech, Lumberton, NJ | Lead Paint Roster"
 description: "Abatetech: Lead abatement in Lumberton, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abatetech-nj0184/
 ---

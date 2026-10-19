@@ -1,5 +1,5 @@
 ---
-title: "JB & JB Construction & Environmental Corp, South Richmond Hill, NY | Lead Roster"
+title: "JB & JB Construction & Environmental Corp, South Richmond Hill, NY | Lead Paint Roster"
 description: "JB & JB Construction & Environmental Corp: Lead abatement in South Richmond Hill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jb-jb-construction-environmental-corp-ny1115/
 ---

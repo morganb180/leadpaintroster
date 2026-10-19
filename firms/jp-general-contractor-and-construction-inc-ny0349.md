@@ -1,5 +1,5 @@
 ---
-title: "JP General Contractor and Construction Inc, Brooklyn, NY | Lead Roster"
+title: "JP General Contractor and Construction Inc, Brooklyn, NY | Lead Paint Roster"
 description: "JP General Contractor and Construction Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jp-general-contractor-and-construction-inc-ny0349/
 ---

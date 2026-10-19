@@ -1,5 +1,5 @@
 ---
-title: "Operation Restoration, Mount Vernon, NY | Lead Roster"
+title: "Operation Restoration, Mount Vernon, NY | Lead Paint Roster"
 description: "Operation Restoration: Lead abatement in Mount Vernon, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/operation-restoration-ny1318/
 ---

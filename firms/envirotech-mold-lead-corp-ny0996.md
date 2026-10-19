@@ -1,5 +1,5 @@
 ---
-title: "Envirotech Mold & Lead Corp, New City, NY | Lead Roster"
+title: "Envirotech Mold & Lead Corp, New City, NY | Lead Paint Roster"
 description: "Envirotech Mold & Lead Corp: Lead abatement in New City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/envirotech-mold-lead-corp-ny0996/
 ---

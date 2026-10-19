@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Auburn, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Auburn, NY | Lead Paint Roster"
 description: "Auburn, NY lead paint guide: 1 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/auburn/guide/
 ---

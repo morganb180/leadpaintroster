@@ -1,5 +1,5 @@
 ---
-title: "Rabideau Corp., Saranac Lake, NY | Lead Roster"
+title: "Rabideau Corp., Saranac Lake, NY | Lead Paint Roster"
 description: "Rabideau Corp.: Lead abatement in Saranac Lake, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rabideau-corp-ny1407/
 ---

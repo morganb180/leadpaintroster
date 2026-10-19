@@ -1,5 +1,5 @@
 ---
-title: "Exceptional Inspection Services, Brooklyn, NY | Lead Roster"
+title: "Exceptional Inspection Services, Brooklyn, NY | Lead Paint Roster"
 description: "Exceptional Inspection Services: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/exceptional-inspection-services-ny0262/
 ---

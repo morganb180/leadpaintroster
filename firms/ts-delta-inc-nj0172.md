@@ -1,5 +1,5 @@
 ---
-title: "Ts Delta, Inc, Clifton, NJ | Lead Roster"
+title: "Ts Delta, Inc, Clifton, NJ | Lead Paint Roster"
 description: "Ts Delta, Inc: Lead inspection / evaluation in Clifton, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ts-delta-inc-nj0172/
 ---

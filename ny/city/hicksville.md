@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Hicksville, NY: 6 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Hicksville, NY: 6 Listings | Lead Paint Roster"
 description: "6 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Hicksville, New York, plus 144 more in Nassau County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/hicksville/
 ---

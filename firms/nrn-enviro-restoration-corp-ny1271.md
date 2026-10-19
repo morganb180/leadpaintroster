@@ -1,5 +1,5 @@
 ---
-title: "NRN Enviro Restoration Corp., Astoria, NY | Lead Roster"
+title: "NRN Enviro Restoration Corp., Astoria, NY | Lead Paint Roster"
 description: "NRN Enviro Restoration Corp.: Lead abatement in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nrn-enviro-restoration-corp-ny1271/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Angstrom Testing Services, Oceanside, NY | Lead Roster"
+title: "Angstrom Testing Services, Oceanside, NY | Lead Paint Roster"
 description: "Angstrom Testing Services: Lead inspection / evaluation in Oceanside, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/angstrom-testing-services-ny0090/
 ---

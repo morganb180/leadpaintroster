@@ -1,5 +1,5 @@
 ---
-title: "DM NYC Home Improvement, White Plains, NY | Lead Roster"
+title: "DM NYC Home Improvement, White Plains, NY | Lead Paint Roster"
 description: "DM NYC Home Improvement: Lead abatement in White Plains, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dm-nyc-home-improvement-ny0923/
 ---

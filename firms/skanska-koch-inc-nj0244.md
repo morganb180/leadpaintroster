@@ -1,5 +1,5 @@
 ---
-title: "Skanska Koch, Inc, Carteret, NJ | Lead Roster"
+title: "Skanska Koch, Inc, Carteret, NJ | Lead Paint Roster"
 description: "Skanska Koch, Inc: Lead abatement in Carteret, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/skanska-koch-inc-nj0244/
 ---

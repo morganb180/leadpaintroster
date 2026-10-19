@@ -1,5 +1,5 @@
 ---
-title: "Ingt Lead Swipe, LLC, Swedesboro, NJ | Lead Roster"
+title: "Ingt Lead Swipe, LLC, Swedesboro, NJ | Lead Paint Roster"
 description: "Ingt Lead Swipe, LLC: Lead inspection / evaluation in Swedesboro, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ingt-lead-swipe-llc-nj0085/
 ---

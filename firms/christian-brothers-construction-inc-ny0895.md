@@ -1,5 +1,5 @@
 ---
-title: "Christian Brothers Construction, Inc., Oneonta, NY | Lead Roster"
+title: "Christian Brothers Construction, Inc., Oneonta, NY | Lead Paint Roster"
 description: "Christian Brothers Construction, Inc.: Lead abatement in Oneonta, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/christian-brothers-construction-inc-ny0895/
 ---

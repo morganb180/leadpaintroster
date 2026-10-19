@@ -1,5 +1,5 @@
 ---
-title: "E&S and Sons Corp, New York, NY | Lead Roster"
+title: "E&S and Sons Corp, New York, NY | Lead Paint Roster"
 description: "E&S and Sons Corp: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/e-s-and-sons-corp-ny0962/
 ---

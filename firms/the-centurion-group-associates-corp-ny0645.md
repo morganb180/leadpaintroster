@@ -1,5 +1,5 @@
 ---
-title: "The Centurion Group & Associates Corp., Brooklyn, NY | Lead Roster"
+title: "The Centurion Group & Associates Corp., Brooklyn, NY | Lead Paint Roster"
 description: "The Centurion Group & Associates Corp.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/the-centurion-group-associates-corp-ny0645/
 ---

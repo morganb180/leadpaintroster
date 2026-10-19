@@ -1,5 +1,5 @@
 ---
-title: "Proactive Environmental, Mahwah, NJ | Lead Roster"
+title: "Proactive Environmental, Mahwah, NJ | Lead Paint Roster"
 description: "Proactive Environmental: Lead inspection / evaluation in Mahwah, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/proactive-environmental-nj0133/
 ---

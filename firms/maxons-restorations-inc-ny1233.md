@@ -1,5 +1,5 @@
 ---
-title: "Maxons Restorations Inc, New York, NY | Lead Roster"
+title: "Maxons Restorations Inc, New York, NY | Lead Paint Roster"
 description: "Maxons Restorations Inc: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/maxons-restorations-inc-ny1233/
 ---

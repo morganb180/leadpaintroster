@@ -1,5 +1,5 @@
 ---
-title: "The Resource Mgt. Group, LLC, Trenton, NJ | Lead Roster"
+title: "The Resource Mgt. Group, LLC, Trenton, NJ | Lead Paint Roster"
 description: "The Resource Mgt. Group, LLC: Lead abatement in Trenton, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/the-resource-mgt-group-llc-nj0247/
 ---

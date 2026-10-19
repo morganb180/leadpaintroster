@@ -1,14 +1,14 @@
 ---
-title: "Privacy Policy | Lead Roster"
-description: "Privacy policy for Lead Roster: what quote requests collect, who receives them, and what we keep."
+title: "Privacy Policy | Lead Paint Roster"
+description: "Privacy policy for Lead Paint Roster: what quote requests collect, who receives them, and what we keep."
 canonical: https://leadpaintroster.com/privacy/
 ---
 
 # Privacy policy
 
-Updated Oct 18, 2026. This policy covers Lead Roster (leadpaintroster.com, "we"), operated by Lead Roster, 26141 Red Corral Rd, Laguna Hills, CA 92653.
+Updated Oct 18, 2026. This policy covers Lead Paint Roster (leadpaintroster.com, "we"), operated by Lead Paint Roster, 26141 Red Corral Rd, Laguna Hills, CA 92653.
 
-**What changed on Oct 18, 2026:** Lead Roster now takes quote requests. We keep a copy of each quote request (the details you submit, the pros it went to and the date) to run and improve the service. We don't sell it. The quote form also has a separate, optional box (unchecked by default) for lead-safety tips and offers from Lead Roster; we only send those to people who check it. See "Tips and offers" below.
+**What changed on Oct 18, 2026:** Lead Paint Roster now takes quote requests. We keep a copy of each quote request (the details you submit, the pros it went to and the date) to run and improve the service. We don't sell it. The quote form also has a separate, optional box (unchecked by default) for lead-safety tips and offers from Lead Paint Roster; we only send those to people who check it. See "Tips and offers" below.
 
 ## Quote requests
 
@@ -20,8 +20,8 @@ Updated Oct 18, 2026. This policy covers Lead Roster (leadpaintroster.com, "we")
 
 ## Tips and offers (optional)
 
-* **Only with your opt-in:** the quote form has a second, optional box, unchecked by default: "Also send me lead-safety tips and offers from Lead Roster." Your quote request goes through whether or not you check it.
-* **What we store if you opt in:** your name, email, phone (if you gave one), ZIP code, the service you asked about and the date you opted in, plus which pro you picked (if any), the page you used and the version of the opt-in wording you agreed to. We use it to send you lead-safety tips and offers from Lead Roster. We don't store your IP address with it.
+* **Only with your opt-in:** the quote form has a second, optional box, unchecked by default: "Also send me lead-safety tips and offers from Lead Paint Roster." Your quote request goes through whether or not you check it.
+* **What we store if you opt in:** your name, email, phone (if you gave one), ZIP code, the service you asked about and the date you opted in, plus which pro you picked (if any), the page you used and the version of the opt-in wording you agreed to. We use it to send you lead-safety tips and offers from Lead Paint Roster. We don't store your IP address with it.
 * **Unsubscribe or delete:** you can unsubscribe at any time, or ask us to delete your details, by emailing hello@leadpaintroster.com.
 * **Not sold:** we don't sell this list.
 

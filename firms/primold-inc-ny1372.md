@@ -1,5 +1,5 @@
 ---
-title: "Primold Inc., Highland Mills, NY | Lead Roster"
+title: "Primold Inc., Highland Mills, NY | Lead Paint Roster"
 description: "Primold Inc.: Lead abatement in Highland Mills, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/primold-inc-ny1372/
 ---

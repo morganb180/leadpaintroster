@@ -1,5 +1,5 @@
 ---
-title: "HansMore Groups LLC, White Plains, NY | Lead Roster"
+title: "HansMore Groups LLC, White Plains, NY | Lead Paint Roster"
 description: "HansMore Groups LLC: Lead abatement, Lead inspection / evaluation in White Plains, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/hansmore-groups-llc-ny0314/
 ---

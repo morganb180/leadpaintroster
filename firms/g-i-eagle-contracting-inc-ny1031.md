@@ -1,5 +1,5 @@
 ---
-title: "G&I Eagle Contracting Inc., Brooklyn, NY | Lead Roster"
+title: "G&I Eagle Contracting Inc., Brooklyn, NY | Lead Paint Roster"
 description: "G&I Eagle Contracting Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/g-i-eagle-contracting-inc-ny1031/
 ---

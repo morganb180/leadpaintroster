@@ -1,5 +1,5 @@
 ---
-title: "4 Corners Lead, LLC, New York City, NY | Lead Roster"
+title: "4 Corners Lead, LLC, New York City, NY | Lead Paint Roster"
 description: "4 Corners Lead, LLC: Lead abatement in New York City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/4-corners-lead-llc-ny0695/
 ---

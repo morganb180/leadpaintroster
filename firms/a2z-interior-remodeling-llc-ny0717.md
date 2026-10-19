@@ -1,5 +1,5 @@
 ---
-title: "A2Z Interior Remodeling LLC, Brooklyn, NY | Lead Roster"
+title: "A2Z Interior Remodeling LLC, Brooklyn, NY | Lead Paint Roster"
 description: "A2Z Interior Remodeling LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a2z-interior-remodeling-llc-ny0717/
 ---

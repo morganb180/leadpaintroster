@@ -1,5 +1,5 @@
 ---
-title: "Yellow Restoration Inc., Brooklyn, NY | Lead Roster"
+title: "Yellow Restoration Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Yellow Restoration Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/yellow-restoration-inc-ny1626/
 ---

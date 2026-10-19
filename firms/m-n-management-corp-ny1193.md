@@ -1,5 +1,5 @@
 ---
-title: "M & N Management Corp., New York, NY | Lead Roster"
+title: "M & N Management Corp., New York, NY | Lead Paint Roster"
 description: "M & N Management Corp.: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/m-n-management-corp-ny1193/
 ---

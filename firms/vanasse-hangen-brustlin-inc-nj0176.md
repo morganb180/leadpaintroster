@@ -1,5 +1,5 @@
 ---
-title: "Vanasse Hangen Brustlin, Inc., Manasquan, NJ | Lead Roster"
+title: "Vanasse Hangen Brustlin, Inc., Manasquan, NJ | Lead Paint Roster"
 description: "Vanasse Hangen Brustlin, Inc.: Lead inspection / evaluation in Manasquan, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/vanasse-hangen-brustlin-inc-nj0176/
 ---

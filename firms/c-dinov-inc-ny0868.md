@@ -1,5 +1,5 @@
 ---
-title: "C Dinov Inc, Brooklyn, NY | Lead Roster"
+title: "C Dinov Inc, Brooklyn, NY | Lead Paint Roster"
 description: "C Dinov Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/c-dinov-inc-ny0868/
 ---

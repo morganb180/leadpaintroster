@@ -1,5 +1,5 @@
 ---
-title: "Minos Construction Corp, Whitestone, NY | Lead Roster"
+title: "Minos Construction Corp, Whitestone, NY | Lead Paint Roster"
 description: "Minos Construction Corp: Lead abatement in Whitestone, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/minos-construction-corp-ny1257/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "J. William Restoration, Rochester, NY | Lead Roster"
+title: "J. William Restoration, Rochester, NY | Lead Paint Roster"
 description: "J. William Restoration: Lead abatement, Lead inspection / evaluation in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/j-william-restoration-ny0340/
 ---

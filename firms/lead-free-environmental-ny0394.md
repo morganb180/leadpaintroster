@@ -1,5 +1,5 @@
 ---
-title: "Lead Free Environmental, Brooklyn, NY | Lead Roster"
+title: "Lead Free Environmental, Brooklyn, NY | Lead Paint Roster"
 description: "Lead Free Environmental: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-free-environmental-ny0394/
 ---

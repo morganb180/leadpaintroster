@@ -1,5 +1,5 @@
 ---
-title: "Zeshan Construction Corp, Bronx, NY | Lead Roster"
+title: "Zeshan Construction Corp, Bronx, NY | Lead Paint Roster"
 description: "Zeshan Construction Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/zeshan-construction-corp-ny1634/
 ---

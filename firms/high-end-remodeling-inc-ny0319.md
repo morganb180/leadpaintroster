@@ -1,5 +1,5 @@
 ---
-title: "High End Remodeling Inc., Bronx, NY | Lead Roster"
+title: "High End Remodeling Inc., Bronx, NY | Lead Paint Roster"
 description: "High End Remodeling Inc.: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/high-end-remodeling-inc-ny0319/
 ---

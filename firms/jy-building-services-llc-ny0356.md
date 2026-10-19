@@ -1,5 +1,5 @@
 ---
-title: "JY Building Services LLC, Flushing, NY | Lead Roster"
+title: "JY Building Services LLC, Flushing, NY | Lead Paint Roster"
 description: "JY Building Services LLC: Lead inspection / evaluation in Flushing, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jy-building-services-llc-ny0356/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Energy Reduction Concepts, Rochester, NY | Lead Roster"
+title: "Energy Reduction Concepts, Rochester, NY | Lead Paint Roster"
 description: "Energy Reduction Concepts: Lead abatement, Lead inspection / evaluation in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/energy-reduction-concepts-ny0233/
 ---

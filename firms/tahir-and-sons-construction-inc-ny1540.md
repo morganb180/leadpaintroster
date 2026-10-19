@@ -1,5 +1,5 @@
 ---
-title: "Tahir and Sons Construction Inc, Yonkers, NY | Lead Roster"
+title: "Tahir and Sons Construction Inc, Yonkers, NY | Lead Paint Roster"
 description: "Tahir and Sons Construction Inc: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tahir-and-sons-construction-inc-ny1540/
 ---

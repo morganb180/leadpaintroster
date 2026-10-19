@@ -1,5 +1,5 @@
 ---
-title: "Vincent Lovegrove, New Bedford, MA | Lead Roster"
+title: "Vincent Lovegrove, New Bedford, MA | Lead Paint Roster"
 description: "Vincent Lovegrove: Lead risk assessment in New Bedford, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/vincent-lovegrove-ma0030/
 ---

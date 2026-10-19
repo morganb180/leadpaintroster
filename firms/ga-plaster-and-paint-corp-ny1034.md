@@ -1,5 +1,5 @@
 ---
-title: "GA Plaster And Paint Corp, Yonkers, NY | Lead Roster"
+title: "GA Plaster And Paint Corp, Yonkers, NY | Lead Paint Roster"
 description: "GA Plaster And Paint Corp: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ga-plaster-and-paint-corp-ny1034/
 ---

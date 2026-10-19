@@ -1,5 +1,5 @@
 ---
-title: "Sky Rise, Inc., Valley Stream, NY | Lead Roster"
+title: "Sky Rise, Inc., Valley Stream, NY | Lead Paint Roster"
 description: "Sky Rise, Inc.: Lead abatement, Lead inspection / evaluation in Valley Stream, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sky-rise-inc-ny0611/
 ---

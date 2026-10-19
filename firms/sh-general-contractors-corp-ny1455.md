@@ -1,5 +1,5 @@
 ---
-title: "SH General Contractors Corp, New York, NY | Lead Roster"
+title: "SH General Contractors Corp, New York, NY | Lead Paint Roster"
 description: "SH General Contractors Corp: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sh-general-contractors-corp-ny1455/
 ---

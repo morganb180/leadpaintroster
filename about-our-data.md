@@ -1,5 +1,5 @@
 ---
-title: "About Our Data | Lead Roster"
+title: "About Our Data | Lead Paint Roster"
 description: "Sources and cleanup method."
 canonical: https://leadpaintroster.com/about-our-data/
 ---

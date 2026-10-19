@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Long Island City, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Long Island City, NY | Lead Paint Roster"
 description: "Long Island City, NY lead paint guide: 12 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/long-island-city/guide/
 ---

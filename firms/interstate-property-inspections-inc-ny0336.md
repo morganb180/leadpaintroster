@@ -1,5 +1,5 @@
 ---
-title: "Interstate Property Inspections Inc, Brockport, NY | Lead Roster"
+title: "Interstate Property Inspections Inc, Brockport, NY | Lead Paint Roster"
 description: "Interstate Property Inspections Inc: Lead inspection / evaluation in Brockport, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/interstate-property-inspections-inc-ny0336/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Abracadabra Painting Co, Inc., Mamaroneck, NY | Lead Roster"
+title: "Abracadabra Painting Co, Inc., Mamaroneck, NY | Lead Paint Roster"
 description: "Abracadabra Painting Co, Inc.: Lead abatement in Mamaroneck, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abracadabra-painting-co-inc-ny0743/
 ---

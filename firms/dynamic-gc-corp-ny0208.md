@@ -1,5 +1,5 @@
 ---
-title: "Dynamic GC Corp, Bronx, NY | Lead Roster"
+title: "Dynamic GC Corp, Bronx, NY | Lead Paint Roster"
 description: "Dynamic GC Corp: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dynamic-gc-corp-ny0208/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "D'riviera Construction Corp., Yonkers, NY | Lead Roster"
+title: "D'riviera Construction Corp., Yonkers, NY | Lead Paint Roster"
 description: "D'riviera Construction Corp.: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/d-riviera-construction-corp-ny0916/
 ---

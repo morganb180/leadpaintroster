@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Jamaica, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Jamaica, NY | Lead Paint Roster"
 description: "Jamaica, NY lead paint guide: 8 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/jamaica/guide/
 ---

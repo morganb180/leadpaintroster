@@ -1,5 +1,5 @@
 ---
-title: "Bullay Shah Inc, Bronx, NY | Lead Roster"
+title: "Bullay Shah Inc, Bronx, NY | Lead Paint Roster"
 description: "Bullay Shah Inc: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bullay-shah-inc-ny0145/
 ---

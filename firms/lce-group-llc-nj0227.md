@@ -1,5 +1,5 @@
 ---
-title: "Lce Group LLC, Elizabeth, NJ | Lead Roster"
+title: "Lce Group LLC, Elizabeth, NJ | Lead Paint Roster"
 description: "Lce Group LLC: Lead abatement in Elizabeth, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lce-group-llc-nj0227/
 ---

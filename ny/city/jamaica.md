@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Jamaica, NY: 20 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Jamaica, NY: 20 Listings | Lead Paint Roster"
 description: "20 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Jamaica, New York, plus 304 more in Queens County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/jamaica/
 ---

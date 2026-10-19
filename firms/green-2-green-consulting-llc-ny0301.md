@@ -1,5 +1,5 @@
 ---
-title: "Green 2 Green Consulting LLC, Alexandria Bay, NY | Lead Roster"
+title: "Green 2 Green Consulting LLC, Alexandria Bay, NY | Lead Paint Roster"
 description: "Green 2 Green Consulting LLC: Lead inspection / evaluation in Alexandria Bay, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/green-2-green-consulting-llc-ny0301/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Daisy Ventures NY, Inc, Schenectady, NY | Lead Roster"
+title: "Daisy Ventures NY, Inc, Schenectady, NY | Lead Paint Roster"
 description: "Daisy Ventures NY, Inc: Lead abatement, Lead inspection / evaluation in Schenectady, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/daisy-ventures-ny-inc-ny0196/
 ---

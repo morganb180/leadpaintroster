@@ -1,5 +1,5 @@
 ---
-title: "Lee's Enterprise of WNY, Buffalo, NY | Lead Roster"
+title: "Lee's Enterprise of WNY, Buffalo, NY | Lead Paint Roster"
 description: "Lee's Enterprise of WNY: Lead abatement in Buffalo, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lee-s-enterprise-of-wny-ny1177/
 ---

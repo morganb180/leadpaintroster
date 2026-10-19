@@ -1,5 +1,5 @@
 ---
-title: "Damab Technologies & Services Inc., Cambria Heights, NY | Lead Roster"
+title: "Damab Technologies & Services Inc., Cambria Heights, NY | Lead Paint Roster"
 description: "Damab Technologies & Services Inc.: Lead abatement, Lead inspection / evaluation in Cambria Heights, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/damab-technologies-services-inc-ny0197/
 ---

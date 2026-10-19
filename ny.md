@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in New York | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in New York | Lead Paint Roster"
 description: "Find EPA-licensed lead paint inspectors, risk assessors and abatement firms in New York: 1636 listings by county and city, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/
 ---
@@ -130,7 +130,7 @@ New York State does not run its own lead-based paint activities certification. E
 
 **How many certified lead professionals are listed in New York?**
 
-Lead Roster lists 1,636 listings from EPA records retrieved 2026-10-12: 686 lead inspection / evaluation, 1401 lead abatement.
+Lead Paint Roster lists 1,636 listings from EPA records retrieved 2026-10-12: 686 lead inspection / evaluation, 1401 lead abatement.
 
 **How much does a lead inspection cost?**
 

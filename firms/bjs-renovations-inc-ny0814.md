@@ -1,5 +1,5 @@
 ---
-title: "BJS Renovations, Inc, Bronx, NY | Lead Roster"
+title: "BJS Renovations, Inc, Bronx, NY | Lead Paint Roster"
 description: "BJS Renovations, Inc: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bjs-renovations-inc-ny0814/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "D Davina LLC, Schenectady, NY | Lead Roster"
+title: "D Davina LLC, Schenectady, NY | Lead Paint Roster"
 description: "D Davina LLC: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/d-davina-llc-ny0914/
 ---

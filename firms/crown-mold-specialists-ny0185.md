@@ -1,5 +1,5 @@
 ---
-title: "Crown Mold Specialists, Brooklyn, NY | Lead Roster"
+title: "Crown Mold Specialists, Brooklyn, NY | Lead Paint Roster"
 description: "Crown Mold Specialists: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/crown-mold-specialists-ny0185/
 ---

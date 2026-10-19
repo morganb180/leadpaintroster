@@ -1,5 +1,5 @@
 ---
-title: "Rosario Home Improvement, Penfield, NY | Lead Roster"
+title: "Rosario Home Improvement, Penfield, NY | Lead Paint Roster"
 description: "Rosario Home Improvement: Lead abatement, Lead inspection / evaluation in Penfield, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rosario-home-improvement-ny0583/
 ---

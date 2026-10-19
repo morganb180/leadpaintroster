@@ -1,5 +1,5 @@
 ---
-title: "Rafalex Contracting Corp, Bronx, NY | Lead Roster"
+title: "Rafalex Contracting Corp, Bronx, NY | Lead Paint Roster"
 description: "Rafalex Contracting Corp: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rafalex-contracting-corp-ny0561/
 ---

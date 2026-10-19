@@ -1,5 +1,5 @@
 ---
-title: "ATKO Construction Corp, Brooklyn, NY | Lead Roster"
+title: "ATKO Construction Corp, Brooklyn, NY | Lead Paint Roster"
 description: "ATKO Construction Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/atko-construction-corp-ny0740/
 ---

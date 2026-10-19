@@ -1,5 +1,5 @@
 ---
-title: "Eastern Property Services Inc., Riverhead, NY | Lead Roster"
+title: "Eastern Property Services Inc., Riverhead, NY | Lead Paint Roster"
 description: "Eastern Property Services Inc.: Lead abatement in Riverhead, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/eastern-property-services-inc-ny0978/
 ---

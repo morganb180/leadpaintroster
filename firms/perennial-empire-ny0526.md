@@ -1,5 +1,5 @@
 ---
-title: "Perennial Empire, New York, NY | Lead Roster"
+title: "Perennial Empire, New York, NY | Lead Paint Roster"
 description: "Perennial Empire: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/perennial-empire-ny0526/
 ---

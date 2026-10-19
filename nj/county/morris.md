@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Morris County, NJ: 21 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Morris County, NJ: 21 Listings | Lead Paint Roster"
 description: "21 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms in Morris County, New Jersey, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/nj/county/morris/
 ---

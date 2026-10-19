@@ -1,5 +1,5 @@
 ---
-title: "Jahan Contracting Inc., Brooklyn, NY | Lead Roster"
+title: "Jahan Contracting Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Jahan Contracting Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jahan-contracting-inc-ny1134/
 ---

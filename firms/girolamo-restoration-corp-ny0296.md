@@ -1,5 +1,5 @@
 ---
-title: "Girolamo Restoration Corp, Ridgewood, NY | Lead Roster"
+title: "Girolamo Restoration Corp, Ridgewood, NY | Lead Paint Roster"
 description: "Girolamo Restoration Corp: Lead abatement, Lead inspection / evaluation in Ridgewood, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/girolamo-restoration-corp-ny0296/
 ---

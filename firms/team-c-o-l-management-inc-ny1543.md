@@ -1,5 +1,5 @@
 ---
-title: "Team C.O.L. Management Inc., Nyack, NY | Lead Roster"
+title: "Team C.O.L. Management Inc., Nyack, NY | Lead Paint Roster"
 description: "Team C.O.L. Management Inc.: Lead abatement in Nyack, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/team-c-o-l-management-inc-ny1543/
 ---

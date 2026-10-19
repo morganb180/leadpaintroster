@@ -1,5 +1,5 @@
 ---
-title: "NYC Apartment Building Solutions, Inc., Brooklyn, NY | Lead Roster"
+title: "NYC Apartment Building Solutions, Inc., Brooklyn, NY | Lead Paint Roster"
 description: "NYC Apartment Building Solutions, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nyc-apartment-building-solutions-inc-ny1276/
 ---

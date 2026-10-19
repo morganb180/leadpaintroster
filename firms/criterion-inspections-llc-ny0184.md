@@ -1,5 +1,5 @@
 ---
-title: "Criterion Inspections LLC, Brooklyn, NY | Lead Roster"
+title: "Criterion Inspections LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Criterion Inspections LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/criterion-inspections-llc-ny0184/
 ---

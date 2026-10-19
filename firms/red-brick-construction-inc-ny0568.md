@@ -1,5 +1,5 @@
 ---
-title: "Red Brick Construction Inc., Bronx, NY | Lead Roster"
+title: "Red Brick Construction Inc., Bronx, NY | Lead Paint Roster"
 description: "Red Brick Construction Inc.: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/red-brick-construction-inc-ny0568/
 ---

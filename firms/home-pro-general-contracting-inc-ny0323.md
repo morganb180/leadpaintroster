@@ -1,5 +1,5 @@
 ---
-title: "Home Pro General Contracting Inc, Flushing, NY | Lead Roster"
+title: "Home Pro General Contracting Inc, Flushing, NY | Lead Paint Roster"
 description: "Home Pro General Contracting Inc: Lead inspection / evaluation in Flushing, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/home-pro-general-contracting-inc-ny0323/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "CHA Consulting, Inc., Albany, NY | Lead Roster"
+title: "CHA Consulting, Inc., Albany, NY | Lead Paint Roster"
 description: "CHA Consulting, Inc.: Lead inspection / evaluation in Albany, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cha-consulting-inc-ny0150/
 ---

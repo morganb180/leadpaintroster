@@ -1,5 +1,5 @@
 ---
-title: "NYC Prime Construction Inc, Yonkers, NY | Lead Roster"
+title: "NYC Prime Construction Inc, Yonkers, NY | Lead Paint Roster"
 description: "NYC Prime Construction Inc: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nyc-prime-construction-inc-ny1278/
 ---

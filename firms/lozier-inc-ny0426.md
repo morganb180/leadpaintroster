@@ -1,5 +1,5 @@
 ---
-title: "Lozier, Inc., Whitestone, NY | Lead Roster"
+title: "Lozier, Inc., Whitestone, NY | Lead Paint Roster"
 description: "Lozier, Inc.: Lead abatement, Lead inspection / evaluation in Whitestone, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lozier-inc-ny0426/
 ---

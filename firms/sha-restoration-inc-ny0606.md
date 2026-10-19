@@ -1,5 +1,5 @@
 ---
-title: "Sha Restoration Inc., East Meadow, NY | Lead Roster"
+title: "Sha Restoration Inc., East Meadow, NY | Lead Paint Roster"
 description: "Sha Restoration Inc.: Lead abatement, Lead inspection / evaluation in East Meadow, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sha-restoration-inc-ny0606/
 ---

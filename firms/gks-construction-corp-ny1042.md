@@ -1,5 +1,5 @@
 ---
-title: "GKS Construction Corp, Valley Cottage, NY | Lead Roster"
+title: "GKS Construction Corp, Valley Cottage, NY | Lead Paint Roster"
 description: "GKS Construction Corp: Lead abatement in Valley Cottage, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gks-construction-corp-ny1042/
 ---

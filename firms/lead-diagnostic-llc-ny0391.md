@@ -1,5 +1,5 @@
 ---
-title: "Lead Diagnostic, LLC, Queens Village, NY | Lead Roster"
+title: "Lead Diagnostic, LLC, Queens Village, NY | Lead Paint Roster"
 description: "Lead Diagnostic, LLC: Lead abatement, Lead inspection / evaluation in Queens Village, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-diagnostic-llc-ny0391/
 ---

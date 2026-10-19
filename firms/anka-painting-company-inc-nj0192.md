@@ -1,5 +1,5 @@
 ---
-title: "Anka Painting Company, Inc., Palisades Park, NJ | Lead Roster"
+title: "Anka Painting Company, Inc., Palisades Park, NJ | Lead Paint Roster"
 description: "Anka Painting Company, Inc.: Lead abatement in Palisades Park, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/anka-painting-company-inc-nj0192/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "All Borough Painting Corp, Great Neck, NY | Lead Roster"
+title: "All Borough Painting Corp, Great Neck, NY | Lead Paint Roster"
 description: "All Borough Painting Corp: Lead abatement, Lead inspection / evaluation in Great Neck, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/all-borough-painting-corp-ny0078/
 ---

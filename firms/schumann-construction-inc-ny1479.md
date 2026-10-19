@@ -1,5 +1,5 @@
 ---
-title: "Schumann Construction, Inc., Macedon, NY | Lead Roster"
+title: "Schumann Construction, Inc., Macedon, NY | Lead Paint Roster"
 description: "Schumann Construction, Inc.: Lead abatement in Macedon, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/schumann-construction-inc-ny1479/
 ---

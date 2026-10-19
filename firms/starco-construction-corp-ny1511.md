@@ -1,5 +1,5 @@
 ---
-title: "Starco Construction Corp, Bronx, NY | Lead Roster"
+title: "Starco Construction Corp, Bronx, NY | Lead Paint Roster"
 description: "Starco Construction Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/starco-construction-corp-ny1511/
 ---

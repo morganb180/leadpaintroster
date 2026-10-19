@@ -1,5 +1,5 @@
 ---
-title: "Zandell Builders Inc, Brooklyn, NY | Lead Roster"
+title: "Zandell Builders Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Zandell Builders Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/zandell-builders-inc-ny1632/
 ---

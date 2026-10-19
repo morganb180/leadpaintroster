@@ -1,5 +1,5 @@
 ---
-title: "Neris LLC, New York, NY | Lead Roster"
+title: "Neris LLC, New York, NY | Lead Paint Roster"
 description: "Neris LLC: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/neris-llc-ny0490/
 ---

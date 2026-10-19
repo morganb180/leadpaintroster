@@ -1,5 +1,5 @@
 ---
-title: "Ryder Home Inspections, LLC, Brick, NJ | Lead Roster"
+title: "Ryder Home Inspections, LLC, Brick, NJ | Lead Paint Roster"
 description: "Ryder Home Inspections, LLC: Lead inspection / evaluation in Brick, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ryder-home-inspections-llc-nj0145/
 ---

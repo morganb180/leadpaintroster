@@ -1,5 +1,5 @@
 ---
-title: "H. A. Bader Consultants, New York, NY | Lead Roster"
+title: "H. A. Bader Consultants, New York, NY | Lead Paint Roster"
 description: "H. A. Bader Consultants: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/h-a-bader-consultants-ny0308/
 ---

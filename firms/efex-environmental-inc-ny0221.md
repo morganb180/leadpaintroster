@@ -1,5 +1,5 @@
 ---
-title: "Efex Environmental Inc., Yonkers, NY | Lead Roster"
+title: "Efex Environmental Inc., Yonkers, NY | Lead Paint Roster"
 description: "Efex Environmental Inc.: Lead abatement, Lead inspection / evaluation in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/efex-environmental-inc-ny0221/
 ---

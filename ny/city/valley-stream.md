@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Valley Stream, NY: 12 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Valley Stream, NY: 12 Listings | Lead Paint Roster"
 description: "12 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Valley Stream, New York, plus 138 more in Nassau County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/valley-stream/
 ---

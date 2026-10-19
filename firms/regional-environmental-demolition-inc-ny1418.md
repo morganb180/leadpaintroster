@@ -1,5 +1,5 @@
 ---
-title: "Regional Environmental Demolition, Inc., Niagara Falls, NY | Lead Roster"
+title: "Regional Environmental Demolition, Inc., Niagara Falls, NY | Lead Paint Roster"
 description: "Regional Environmental Demolition, Inc.: Lead abatement in Niagara Falls, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/regional-environmental-demolition-inc-ny1418/
 ---

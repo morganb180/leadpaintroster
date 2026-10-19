@@ -1,5 +1,5 @@
 ---
-title: "SBG Development, LLC, Brooklyn, NY | Lead Roster"
+title: "SBG Development, LLC, Brooklyn, NY | Lead Paint Roster"
 description: "SBG Development, LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sbg-development-llc-ny1453/
 ---

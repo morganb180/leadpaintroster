@@ -1,5 +1,5 @@
 ---
-title: "Amiantos, LLC, Long Island City, NY | Lead Roster"
+title: "Amiantos, LLC, Long Island City, NY | Lead Paint Roster"
 description: "Amiantos, LLC: Lead abatement, Lead inspection / evaluation in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/amiantos-llc-ny0087/
 ---

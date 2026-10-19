@@ -1,5 +1,5 @@
 ---
-title: "Job Done Perfect Inc, Brooklyn, NY | Lead Roster"
+title: "Job Done Perfect Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Job Done Perfect Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/job-done-perfect-inc-ny0360/
 ---

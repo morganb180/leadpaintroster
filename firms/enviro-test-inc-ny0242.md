@@ -1,5 +1,5 @@
 ---
-title: "Enviro-Test, Inc., Amityville, NY | Lead Roster"
+title: "Enviro-Test, Inc., Amityville, NY | Lead Paint Roster"
 description: "Enviro-Test, Inc.: Lead inspection / evaluation in Amityville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/enviro-test-inc-ny0242/
 ---

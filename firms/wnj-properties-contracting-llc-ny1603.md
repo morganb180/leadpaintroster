@@ -1,5 +1,5 @@
 ---
-title: "WNJ Properties Contracting LLC, Bronx, NY | Lead Roster"
+title: "WNJ Properties Contracting LLC, Bronx, NY | Lead Paint Roster"
 description: "WNJ Properties Contracting LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/wnj-properties-contracting-llc-ny1603/
 ---

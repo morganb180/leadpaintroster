@@ -1,5 +1,5 @@
 ---
-title: "Hi-Tech RRP Services LLC, Brooklyn, NY | Lead Roster"
+title: "Hi-Tech RRP Services LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Hi-Tech RRP Services LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/hi-tech-rrp-services-llc-ny1081/
 ---

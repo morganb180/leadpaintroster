@@ -1,5 +1,5 @@
 ---
-title: "Parkash Management, Jamaica, NY | Lead Roster"
+title: "Parkash Management, Jamaica, NY | Lead Paint Roster"
 description: "Parkash Management: Lead abatement in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/parkash-management-ny1345/
 ---

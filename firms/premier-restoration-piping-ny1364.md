@@ -1,5 +1,5 @@
 ---
-title: "Premier Restoration & Piping, Yonkers, NY | Lead Roster"
+title: "Premier Restoration & Piping, Yonkers, NY | Lead Paint Roster"
 description: "Premier Restoration & Piping: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/premier-restoration-piping-ny1364/
 ---

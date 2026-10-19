@@ -1,5 +1,5 @@
 ---
-title: "GRB Environmental Services, Inc., New York, NY | Lead Roster"
+title: "GRB Environmental Services, Inc., New York, NY | Lead Paint Roster"
 description: "GRB Environmental Services, Inc.: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/grb-environmental-services-inc-ny1045/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Green Genie LLC, Tonawanda, NY | Lead Roster"
+title: "Green Genie LLC, Tonawanda, NY | Lead Paint Roster"
 description: "Green Genie LLC: Lead abatement in Tonawanda, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/green-genie-llc-ny1064/
 ---

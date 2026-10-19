@@ -1,5 +1,5 @@
 ---
-title: "REO Lead Solutions LLC, Bronx, NY | Lead Roster"
+title: "REO Lead Solutions LLC, Bronx, NY | Lead Paint Roster"
 description: "REO Lead Solutions LLC: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/reo-lead-solutions-llc-ny0558/
 ---

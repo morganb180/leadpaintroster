@@ -1,5 +1,5 @@
 ---
-title: "Lead By Example Environmental LLC DBA LBE Environmental, Brooklyn, NY | Lead Roster"
+title: "Lead By Example Environmental LLC DBA LBE Environmental, Brooklyn, NY | Lead Paint Roster"
 description: "Lead By Example Environmental LLC DBA LBE Environmental: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-by-example-environmental-llc-dba-lbe-environmental-ny0389/
 ---

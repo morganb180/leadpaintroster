@@ -1,5 +1,5 @@
 ---
-title: "AltCity, Inc., Bronx, NY | Lead Roster"
+title: "AltCity, Inc., Bronx, NY | Lead Paint Roster"
 description: "AltCity, Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/altcity-inc-ny0773/
 ---

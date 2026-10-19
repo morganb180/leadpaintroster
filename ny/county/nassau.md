@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Nassau County, NY: 150 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Nassau County, NY: 150 Listings | Lead Paint Roster"
 description: "150 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Nassau County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/nassau/
 ---

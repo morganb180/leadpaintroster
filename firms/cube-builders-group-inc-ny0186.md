@@ -1,5 +1,5 @@
 ---
-title: "Cube Builders Group Inc, Brooklyn, NY | Lead Roster"
+title: "Cube Builders Group Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Cube Builders Group Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cube-builders-group-inc-ny0186/
 ---

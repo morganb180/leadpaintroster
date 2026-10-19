@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Tonawanda, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Tonawanda, NY | Lead Paint Roster"
 description: "Tonawanda, NY lead paint guide: 1 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/tonawanda/guide/
 ---

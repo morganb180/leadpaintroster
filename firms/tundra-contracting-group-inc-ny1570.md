@@ -1,5 +1,5 @@
 ---
-title: "Tundra Contracting Group, Inc., Staten Island, NY | Lead Roster"
+title: "Tundra Contracting Group, Inc., Staten Island, NY | Lead Paint Roster"
 description: "Tundra Contracting Group, Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tundra-contracting-group-inc-ny1570/
 ---

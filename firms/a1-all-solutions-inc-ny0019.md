@@ -1,5 +1,5 @@
 ---
-title: "A1 All Solutions Inc, Queens, NY | Lead Roster"
+title: "A1 All Solutions Inc, Queens, NY | Lead Paint Roster"
 description: "A1 All Solutions Inc: Lead inspection / evaluation in Queens, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a1-all-solutions-inc-ny0019/
 ---

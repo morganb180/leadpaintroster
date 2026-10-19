@@ -1,5 +1,5 @@
 ---
-title: "Compliance Concierge LLC, New York, NY | Lead Roster"
+title: "Compliance Concierge LLC, New York, NY | Lead Paint Roster"
 description: "Compliance Concierge LLC: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/compliance-concierge-llc-ny0177/
 ---

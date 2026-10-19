@@ -1,5 +1,5 @@
 ---
-title: "Sarah Spira Enviro, LLC, Brooklyn, NY | Lead Roster"
+title: "Sarah Spira Enviro, LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Sarah Spira Enviro, LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sarah-spira-enviro-llc-ny0600/
 ---

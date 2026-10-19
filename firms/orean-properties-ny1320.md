@@ -1,5 +1,5 @@
 ---
-title: "Orean Properties, Buffalo, NY | Lead Roster"
+title: "Orean Properties, Buffalo, NY | Lead Paint Roster"
 description: "Orean Properties: Lead abatement in Buffalo, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/orean-properties-ny1320/
 ---

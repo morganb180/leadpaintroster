@@ -1,5 +1,5 @@
 ---
-title: "Suraj Construction, Inc., Fresh Meadow, NY | Lead Roster"
+title: "Suraj Construction, Inc., Fresh Meadow, NY | Lead Paint Roster"
 description: "Suraj Construction, Inc.: Lead abatement in Fresh Meadow, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/suraj-construction-inc-ny1525/
 ---

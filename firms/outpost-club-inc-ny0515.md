@@ -1,5 +1,5 @@
 ---
-title: "Outpost Club Inc., New York, NY | Lead Roster"
+title: "Outpost Club Inc., New York, NY | Lead Paint Roster"
 description: "Outpost Club Inc.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/outpost-club-inc-ny0515/
 ---

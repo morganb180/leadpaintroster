@@ -1,5 +1,5 @@
 ---
-title: "Torybio Construction, Corp., Bronx, NY | Lead Roster"
+title: "Torybio Construction, Corp., Bronx, NY | Lead Paint Roster"
 description: "Torybio Construction, Corp.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/torybio-construction-corp-ny1556/
 ---

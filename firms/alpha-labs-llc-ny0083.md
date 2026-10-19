@@ -1,5 +1,5 @@
 ---
-title: "Alpha Labs LLC, Long Island City, NY | Lead Roster"
+title: "Alpha Labs LLC, Long Island City, NY | Lead Paint Roster"
 description: "Alpha Labs LLC: Lead inspection / evaluation in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/alpha-labs-llc-ny0083/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "SMB Victory Enterprises, Inc dba Northshore Patchmaster, Glen Head, NY | Lead Roster"
+title: "SMB Victory Enterprises, Inc dba Northshore Patchmaster, Glen Head, NY | Lead Paint Roster"
 description: "SMB Victory Enterprises, Inc dba Northshore Patchmaster: Lead abatement in Glen Head, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/smb-victory-enterprises-inc-dba-northshore-patchmaster-ny1456/
 ---

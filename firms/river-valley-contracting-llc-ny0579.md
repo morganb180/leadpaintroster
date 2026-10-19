@@ -1,5 +1,5 @@
 ---
-title: "River Valley Contracting LLC, Elmira, NY | Lead Roster"
+title: "River Valley Contracting LLC, Elmira, NY | Lead Paint Roster"
 description: "River Valley Contracting LLC: Lead abatement, Lead inspection / evaluation in Elmira, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/river-valley-contracting-llc-ny0579/
 ---

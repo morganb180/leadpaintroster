@@ -1,5 +1,5 @@
 ---
-title: "Northern Empire Land & Livestock Co, Hudson, NY | Lead Roster"
+title: "Northern Empire Land & Livestock Co, Hudson, NY | Lead Paint Roster"
 description: "Northern Empire Land & Livestock Co: Lead abatement in Hudson, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/northern-empire-land-livestock-co-ny1304/
 ---

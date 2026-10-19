@@ -1,5 +1,5 @@
 ---
-title: "Windsor Inspections LLC, Brooklyn, NY | Lead Roster"
+title: "Windsor Inspections LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Windsor Inspections LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/windsor-inspections-llc-ny0678/
 ---

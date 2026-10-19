@@ -1,5 +1,5 @@
 ---
-title: "Galiba General Construction Inc., Bronx, NY | Lead Roster"
+title: "Galiba General Construction Inc., Bronx, NY | Lead Paint Roster"
 description: "Galiba General Construction Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/galiba-general-construction-inc-ny1050/
 ---

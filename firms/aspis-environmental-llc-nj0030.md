@@ -1,5 +1,5 @@
 ---
-title: "Aspis Environmental, LLC, Newark, NJ | Lead Roster"
+title: "Aspis Environmental, LLC, Newark, NJ | Lead Paint Roster"
 description: "Aspis Environmental, LLC: Lead inspection / evaluation in Newark, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/aspis-environmental-llc-nj0030/
 ---

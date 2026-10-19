@@ -1,5 +1,5 @@
 ---
-title: "JP Restores, Inc., Valley Stream, NY | Lead Roster"
+title: "JP Restores, Inc., Valley Stream, NY | Lead Paint Roster"
 description: "JP Restores, Inc.: Lead abatement, Lead inspection / evaluation in Valley Stream, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jp-restores-inc-ny0350/
 ---

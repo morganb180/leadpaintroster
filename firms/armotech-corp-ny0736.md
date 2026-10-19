@@ -1,5 +1,5 @@
 ---
-title: "Armotech Corp, Astoria, NY | Lead Roster"
+title: "Armotech Corp, Astoria, NY | Lead Paint Roster"
 description: "Armotech Corp: Lead abatement in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/armotech-corp-ny0736/
 ---

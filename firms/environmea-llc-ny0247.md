@@ -1,5 +1,5 @@
 ---
-title: "Environmea, LLC, Poughkeepsie, NY | Lead Roster"
+title: "Environmea, LLC, Poughkeepsie, NY | Lead Paint Roster"
 description: "Environmea, LLC: Lead abatement, Lead inspection / evaluation in Poughkeepsie, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/environmea-llc-ny0247/
 ---

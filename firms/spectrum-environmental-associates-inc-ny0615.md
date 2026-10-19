@@ -1,5 +1,5 @@
 ---
-title: "Spectrum Environmental Associates, Inc., Schenectady, NY | Lead Roster"
+title: "Spectrum Environmental Associates, Inc., Schenectady, NY | Lead Paint Roster"
 description: "Spectrum Environmental Associates, Inc.: Lead inspection / evaluation in Schenectady, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/spectrum-environmental-associates-inc-ny0615/
 ---

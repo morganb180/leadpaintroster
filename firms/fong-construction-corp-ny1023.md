@@ -1,5 +1,5 @@
 ---
-title: "Fong Construction Corp, Long Island City, NY | Lead Roster"
+title: "Fong Construction Corp, Long Island City, NY | Lead Paint Roster"
 description: "Fong Construction Corp: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/fong-construction-corp-ny1023/
 ---

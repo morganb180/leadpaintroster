@@ -1,5 +1,5 @@
 ---
-title: "Seppe corp, Brooklyn, NY | Lead Roster"
+title: "Seppe corp, Brooklyn, NY | Lead Paint Roster"
 description: "Seppe corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/seppe-corp-ny1483/
 ---

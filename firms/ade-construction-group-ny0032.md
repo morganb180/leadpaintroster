@@ -1,5 +1,5 @@
 ---
-title: "ADE Construction Group, Brooklyn, NY | Lead Roster"
+title: "ADE Construction Group, Brooklyn, NY | Lead Paint Roster"
 description: "ADE Construction Group: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ade-construction-group-ny0032/
 ---

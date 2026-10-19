@@ -1,5 +1,5 @@
 ---
-title: "4MS Corporation, Brooklyn, NY | Lead Roster"
+title: "4MS Corporation, Brooklyn, NY | Lead Paint Roster"
 description: "4MS Corporation: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/4ms-corporation-ny0009/
 ---

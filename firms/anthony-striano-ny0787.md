@@ -1,5 +1,5 @@
 ---
-title: "Anthony Striano, Yorktown Heights, NY | Lead Roster"
+title: "Anthony Striano, Yorktown Heights, NY | Lead Paint Roster"
 description: "Anthony Striano: Lead abatement in Yorktown Heights, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/anthony-striano-ny0787/
 ---

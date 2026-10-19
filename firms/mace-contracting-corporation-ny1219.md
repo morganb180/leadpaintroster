@@ -1,5 +1,5 @@
 ---
-title: "Mace Contracting Corporation, New Rochelle, NY | Lead Roster"
+title: "Mace Contracting Corporation, New Rochelle, NY | Lead Paint Roster"
 description: "Mace Contracting Corporation: Lead abatement in New Rochelle, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mace-contracting-corporation-ny1219/
 ---

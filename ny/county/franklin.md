@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Franklin County, NY: 3 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Franklin County, NY: 3 Listings | Lead Paint Roster"
 description: "3 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Franklin County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/franklin/
 ---

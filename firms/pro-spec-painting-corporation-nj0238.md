@@ -1,5 +1,5 @@
 ---
-title: "Pro-Spec Painting Corporation, Vineland, NJ | Lead Roster"
+title: "Pro-Spec Painting Corporation, Vineland, NJ | Lead Paint Roster"
 description: "Pro-Spec Painting Corporation: Lead abatement in Vineland, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pro-spec-painting-corporation-nj0238/
 ---

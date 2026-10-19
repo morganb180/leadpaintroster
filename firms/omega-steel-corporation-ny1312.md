@@ -1,5 +1,5 @@
 ---
-title: "Omega Steel Corporation, Bronx, NY | Lead Roster"
+title: "Omega Steel Corporation, Bronx, NY | Lead Paint Roster"
 description: "Omega Steel Corporation: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/omega-steel-corporation-ny1312/
 ---

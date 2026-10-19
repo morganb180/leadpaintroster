@@ -1,5 +1,5 @@
 ---
-title: "RC Group, Inc., Rye, NY | Lead Roster"
+title: "RC Group, Inc., Rye, NY | Lead Paint Roster"
 description: "RC Group, Inc.: Lead abatement, Lead inspection / evaluation in Rye, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rc-group-inc-ny0554/
 ---

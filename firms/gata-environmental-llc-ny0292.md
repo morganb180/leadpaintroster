@@ -1,5 +1,5 @@
 ---
-title: "Gata Environmental LLC, Fayetteville, NY | Lead Roster"
+title: "Gata Environmental LLC, Fayetteville, NY | Lead Paint Roster"
 description: "Gata Environmental LLC: Lead inspection / evaluation in Fayetteville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gata-environmental-llc-ny0292/
 ---

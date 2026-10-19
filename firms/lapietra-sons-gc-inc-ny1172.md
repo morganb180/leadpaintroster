@@ -1,5 +1,5 @@
 ---
-title: "Lapietra & Sons GC Inc., Brooklyn, NY | Lead Roster"
+title: "Lapietra & Sons GC Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Lapietra & Sons GC Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lapietra-sons-gc-inc-ny1172/
 ---

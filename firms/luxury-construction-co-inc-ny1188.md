@@ -1,5 +1,5 @@
 ---
-title: "Luxury Construction Co. Inc., Ozone Park, NY | Lead Roster"
+title: "Luxury Construction Co. Inc., Ozone Park, NY | Lead Paint Roster"
 description: "Luxury Construction Co. Inc.: Lead abatement in Ozone Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/luxury-construction-co-inc-ny1188/
 ---

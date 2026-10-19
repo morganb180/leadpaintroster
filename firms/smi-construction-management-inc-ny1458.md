@@ -1,5 +1,5 @@
 ---
-title: "SMI Construction Management Inc, New York, NY | Lead Roster"
+title: "SMI Construction Management Inc, New York, NY | Lead Paint Roster"
 description: "SMI Construction Management Inc: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/smi-construction-management-inc-ny1458/
 ---

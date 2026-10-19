@@ -1,5 +1,5 @@
 ---
-title: "Guardian Lead LLC, Cedarhurst, NY | Lead Roster"
+title: "Guardian Lead LLC, Cedarhurst, NY | Lead Paint Roster"
 description: "Guardian Lead LLC: Lead inspection / evaluation in Cedarhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/guardian-lead-llc-ny0306/
 ---

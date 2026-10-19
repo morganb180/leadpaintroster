@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Cape May County, NJ: 1 Listing | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Cape May County, NJ: 1 Listing | Lead Paint Roster"
 description: "1 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms in Cape May County, New Jersey, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/nj/county/cape-may/
 ---

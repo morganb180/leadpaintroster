@@ -1,5 +1,5 @@
 ---
-title: "MG Decorations LTD, Jackson Heights, NY | Lead Roster"
+title: "MG Decorations LTD, Jackson Heights, NY | Lead Paint Roster"
 description: "MG Decorations LTD: Lead abatement, Lead inspection / evaluation in Jackson Heights, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mg-decorations-ltd-ny0433/
 ---

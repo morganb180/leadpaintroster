@@ -1,5 +1,5 @@
 ---
-title: "Scandinavian Design Of New York Inc., Brooklyn, NY | Lead Roster"
+title: "Scandinavian Design Of New York Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Scandinavian Design Of New York Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/scandinavian-design-of-new-york-inc-ny1478/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tahshin Construction, LLC, Egg Harbor Township, NJ | Lead Roster"
+title: "Tahshin Construction, LLC, Egg Harbor Township, NJ | Lead Paint Roster"
 description: "Tahshin Construction, LLC: Lead abatement, Lead inspection / evaluation in Egg Harbor Township, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tahshin-construction-llc-nj0165/
 ---

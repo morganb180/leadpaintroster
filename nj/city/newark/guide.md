@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Newark, NJ | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Newark, NJ | Lead Paint Roster"
 description: "Newark, NJ lead paint guide: 3 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/nj/city/newark/guide/
 ---

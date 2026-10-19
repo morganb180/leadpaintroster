@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Hampshire County, MA: 1 Listing | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Hampshire County, MA: 1 Listing | Lead Paint Roster"
 description: "1 MA-licensed lead paint inspectors, risk assessors and abatement firms in Hampshire County, Massachusetts, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ma/county/hampshire/
 ---

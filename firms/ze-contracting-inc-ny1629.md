@@ -1,5 +1,5 @@
 ---
-title: "ZE Contracting Inc, Flushing, NY | Lead Roster"
+title: "ZE Contracting Inc, Flushing, NY | Lead Paint Roster"
 description: "ZE Contracting Inc: Lead abatement in Flushing, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ze-contracting-inc-ny1629/
 ---

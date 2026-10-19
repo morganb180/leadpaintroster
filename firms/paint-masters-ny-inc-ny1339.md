@@ -1,5 +1,5 @@
 ---
-title: "Paint Masters NY Inc., Brooklyn, NY | Lead Roster"
+title: "Paint Masters NY Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Paint Masters NY Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/paint-masters-ny-inc-ny1339/
 ---

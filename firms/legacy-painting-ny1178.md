@@ -1,5 +1,5 @@
 ---
-title: "Legacy Painting, Greenvale, NY | Lead Roster"
+title: "Legacy Painting, Greenvale, NY | Lead Paint Roster"
 description: "Legacy Painting: Lead abatement in Greenvale, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/legacy-painting-ny1178/
 ---

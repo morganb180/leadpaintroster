@@ -1,5 +1,5 @@
 ---
-title: "Lead Away Abatements, Brooklyn, NY | Lead Roster"
+title: "Lead Away Abatements, Brooklyn, NY | Lead Paint Roster"
 description: "Lead Away Abatements: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-away-abatements-ny1173/
 ---

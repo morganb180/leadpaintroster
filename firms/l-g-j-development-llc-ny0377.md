@@ -1,5 +1,5 @@
 ---
-title: "L.G.J. Development, LLC, Syracuse, NY | Lead Roster"
+title: "L.G.J. Development, LLC, Syracuse, NY | Lead Paint Roster"
 description: "L.G.J. Development, LLC: Lead inspection / evaluation in Syracuse, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/l-g-j-development-llc-ny0377/
 ---

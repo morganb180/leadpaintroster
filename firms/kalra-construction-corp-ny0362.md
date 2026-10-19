@@ -1,5 +1,5 @@
 ---
-title: "KALRA Construction Corp, South Richmond Hill, NY | Lead Roster"
+title: "KALRA Construction Corp, South Richmond Hill, NY | Lead Paint Roster"
 description: "KALRA Construction Corp: Lead abatement, Lead inspection / evaluation in South Richmond Hill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kalra-construction-corp-ny0362/
 ---

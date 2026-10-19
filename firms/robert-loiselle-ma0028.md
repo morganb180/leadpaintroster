@@ -1,5 +1,5 @@
 ---
-title: "Robert Loiselle, Medford, MA | Lead Roster"
+title: "Robert Loiselle, Medford, MA | Lead Paint Roster"
 description: "Robert Loiselle: Lead inspection / evaluation in Medford, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/robert-loiselle-ma0028/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "RnB Enterprises LLC, Brooklyn, NY | Lead Roster"
+title: "RnB Enterprises LLC, Brooklyn, NY | Lead Paint Roster"
 description: "RnB Enterprises LLC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rnb-enterprises-llc-ny0581/
 ---

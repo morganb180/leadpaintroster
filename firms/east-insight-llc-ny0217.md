@@ -1,5 +1,5 @@
 ---
-title: "East Insight LLC, Franklin Square, NY | Lead Roster"
+title: "East Insight LLC, Franklin Square, NY | Lead Paint Roster"
 description: "East Insight LLC: Lead abatement, Lead inspection / evaluation in Franklin Square, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/east-insight-llc-ny0217/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Waltech Contracting Inc., Brooklyn, NY | Lead Roster"
+title: "Waltech Contracting Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Waltech Contracting Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/waltech-contracting-inc-ny1607/
 ---

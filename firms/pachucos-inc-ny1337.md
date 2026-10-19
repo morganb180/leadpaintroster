@@ -1,5 +1,5 @@
 ---
-title: "Pachucos Inc., Rochester, NY | Lead Roster"
+title: "Pachucos Inc., Rochester, NY | Lead Paint Roster"
 description: "Pachucos Inc.: Lead abatement in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pachucos-inc-ny1337/
 ---

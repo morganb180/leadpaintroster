@@ -1,5 +1,5 @@
 ---
-title: "Assured Property Solutions, Crompond, NY | Lead Roster"
+title: "Assured Property Solutions, Crompond, NY | Lead Paint Roster"
 description: "Assured Property Solutions: Lead inspection / evaluation in Crompond, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/assured-property-solutions-ny0101/
 ---

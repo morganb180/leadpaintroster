@@ -1,5 +1,5 @@
 ---
-title: "BNH Lead Examiner Corp., Brooklyn, NY | Lead Roster"
+title: "BNH Lead Examiner Corp., Brooklyn, NY | Lead Paint Roster"
 description: "BNH Lead Examiner Corp.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bnh-lead-examiner-corp-ny0117/
 ---

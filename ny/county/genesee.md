@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Genesee County, NY: 1 Listing | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Genesee County, NY: 1 Listing | Lead Paint Roster"
 description: "1 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Genesee County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/genesee/
 ---

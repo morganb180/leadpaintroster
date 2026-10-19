@@ -1,5 +1,5 @@
 ---
-title: "Extra Hands General Labor, Rochester, NY | Lead Roster"
+title: "Extra Hands General Labor, Rochester, NY | Lead Paint Roster"
 description: "Extra Hands General Labor: Lead abatement in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/extra-hands-general-labor-ny1007/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Anderson Shortell Inc., Olean, NY | Lead Roster"
+title: "Anderson Shortell Inc., Olean, NY | Lead Paint Roster"
 description: "Anderson Shortell Inc.: Lead abatement in Olean, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/anderson-shortell-inc-ny0783/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Pascual Innovations, LLC, Mount Kisco, NY | Lead Roster"
+title: "Pascual Innovations, LLC, Mount Kisco, NY | Lead Paint Roster"
 description: "Pascual Innovations, LLC: Lead abatement in Mount Kisco, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pascual-innovations-llc-ny1347/
 ---

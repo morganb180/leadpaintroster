@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in East Elmhurst, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in East Elmhurst, NY | Lead Paint Roster"
 description: "East Elmhurst, NY lead paint guide: 7 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/east-elmhurst/guide/
 ---

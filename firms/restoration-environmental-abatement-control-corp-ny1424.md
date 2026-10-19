@@ -1,5 +1,5 @@
 ---
-title: "Restoration Environmental Abatement Control Corp, Bayside, NY | Lead Roster"
+title: "Restoration Environmental Abatement Control Corp, Bayside, NY | Lead Paint Roster"
 description: "Restoration Environmental Abatement Control Corp: Lead abatement in Bayside, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/restoration-environmental-abatement-control-corp-ny1424/
 ---

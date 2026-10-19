@@ -1,5 +1,5 @@
 ---
-title: "Weber Enterprise, LLC, Latham, NY | Lead Roster"
+title: "Weber Enterprise, LLC, Latham, NY | Lead Paint Roster"
 description: "Weber Enterprise, LLC: Lead abatement in Latham, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/weber-enterprise-llc-ny1609/
 ---

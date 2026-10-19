@@ -1,5 +1,5 @@
 ---
-title: "JP Home Construction Corp, Floral Park, NY | Lead Roster"
+title: "JP Home Construction Corp, Floral Park, NY | Lead Paint Roster"
 description: "JP Home Construction Corp: Lead abatement in Floral Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jp-home-construction-corp-ny1126/
 ---

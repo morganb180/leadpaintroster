@@ -1,5 +1,5 @@
 ---
-title: "ALS Lead Inspections, Brooklyn, NY | Lead Roster"
+title: "ALS Lead Inspections, Brooklyn, NY | Lead Paint Roster"
 description: "ALS Lead Inspections: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/als-lead-inspections-ny0042/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Lead Test NYC, New York, NY | Lead Roster"
+title: "Lead Test NYC, New York, NY | Lead Paint Roster"
 description: "Lead Test NYC: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-test-nyc-ny0400/
 ---

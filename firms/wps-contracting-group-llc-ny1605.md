@@ -1,5 +1,5 @@
 ---
-title: "Wps Contracting Group LLC, West Babylon, NY | Lead Roster"
+title: "Wps Contracting Group LLC, West Babylon, NY | Lead Paint Roster"
 description: "Wps Contracting Group LLC: Lead abatement in West Babylon, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/wps-contracting-group-llc-ny1605/
 ---

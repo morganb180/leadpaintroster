@@ -1,5 +1,5 @@
 ---
-title: "GB Construction Design Incorporated, New York, NY | Lead Roster"
+title: "GB Construction Design Incorporated, New York, NY | Lead Paint Roster"
 description: "GB Construction Design Incorporated: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gb-construction-design-incorporated-ny1035/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Ja Scrimale's Property Service LLC, West Monroe, NY | Lead Roster"
+title: "Ja Scrimale's Property Service LLC, West Monroe, NY | Lead Paint Roster"
 description: "Ja Scrimale's Property Service LLC: Lead abatement in West Monroe, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ja-scrimale-s-property-service-llc-ny1132/
 ---

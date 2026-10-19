@@ -1,5 +1,5 @@
 ---
-title: "Fara Construction LLC, East Elmhurst, NY | Lead Roster"
+title: "Fara Construction LLC, East Elmhurst, NY | Lead Paint Roster"
 description: "Fara Construction LLC: Lead abatement, Lead inspection / evaluation in East Elmhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/fara-construction-llc-ny0271/
 ---

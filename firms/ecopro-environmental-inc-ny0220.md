@@ -1,5 +1,5 @@
 ---
-title: "EcoPro Environmental Inc., Woodside, NY | Lead Roster"
+title: "EcoPro Environmental Inc., Woodside, NY | Lead Paint Roster"
 description: "EcoPro Environmental Inc.: Lead inspection / evaluation in Woodside, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ecopro-environmental-inc-ny0220/
 ---

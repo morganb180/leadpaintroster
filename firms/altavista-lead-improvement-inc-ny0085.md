@@ -1,5 +1,5 @@
 ---
-title: "Altavista Lead Improvement Inc., White Plains, NY | Lead Roster"
+title: "Altavista Lead Improvement Inc., White Plains, NY | Lead Paint Roster"
 description: "Altavista Lead Improvement Inc.: Lead inspection / evaluation in White Plains, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/altavista-lead-improvement-inc-ny0085/
 ---

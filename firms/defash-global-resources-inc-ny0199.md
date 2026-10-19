@@ -1,5 +1,5 @@
 ---
-title: "DeFash Global Resources Inc., Bronx, NY | Lead Roster"
+title: "DeFash Global Resources Inc., Bronx, NY | Lead Paint Roster"
 description: "DeFash Global Resources Inc.: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/defash-global-resources-inc-ny0199/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Total Inspection Pros, Brooklyn, NY | Lead Roster"
+title: "Total Inspection Pros, Brooklyn, NY | Lead Paint Roster"
 description: "Total Inspection Pros: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/total-inspection-pros-ny0652/
 ---

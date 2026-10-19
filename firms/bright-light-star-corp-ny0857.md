@@ -1,5 +1,5 @@
 ---
-title: "Bright Light Star Corp, Yonkers, NY | Lead Roster"
+title: "Bright Light Star Corp, Yonkers, NY | Lead Paint Roster"
 description: "Bright Light Star Corp: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bright-light-star-corp-ny0857/
 ---

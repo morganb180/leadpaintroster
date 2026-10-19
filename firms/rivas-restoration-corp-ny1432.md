@@ -1,5 +1,5 @@
 ---
-title: "Rivas Restoration Corp, New York, NY | Lead Roster"
+title: "Rivas Restoration Corp, New York, NY | Lead Paint Roster"
 description: "Rivas Restoration Corp: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rivas-restoration-corp-ny1432/
 ---

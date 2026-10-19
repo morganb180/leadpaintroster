@@ -1,5 +1,5 @@
 ---
-title: "G-Star Enterprises, Inc., Brooklyn, NY | Lead Roster"
+title: "G-Star Enterprises, Inc., Brooklyn, NY | Lead Paint Roster"
 description: "G-Star Enterprises, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/g-star-enterprises-inc-ny1032/
 ---

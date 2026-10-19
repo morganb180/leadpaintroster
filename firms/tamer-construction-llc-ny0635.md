@@ -1,5 +1,5 @@
 ---
-title: "Tamer Construction LLC, New York, NY | Lead Roster"
+title: "Tamer Construction LLC, New York, NY | Lead Paint Roster"
 description: "Tamer Construction LLC: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tamer-construction-llc-ny0635/
 ---

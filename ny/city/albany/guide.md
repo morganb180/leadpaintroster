@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Albany, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Albany, NY | Lead Paint Roster"
 description: "Albany, NY lead paint guide: 12 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/albany/guide/
 ---

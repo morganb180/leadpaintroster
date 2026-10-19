@@ -1,5 +1,5 @@
 ---
-title: "D.V.F. Construction Corp, Bronx, NY | Lead Roster"
+title: "D.V.F. Construction Corp, Bronx, NY | Lead Paint Roster"
 description: "D.V.F. Construction Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/d-v-f-construction-corp-ny0919/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Regal Home Inspections, Brick, NJ | Lead Roster"
+title: "Regal Home Inspections, Brick, NJ | Lead Paint Roster"
 description: "Regal Home Inspections: Lead inspection / evaluation in Brick, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/regal-home-inspections-nj0137/
 ---

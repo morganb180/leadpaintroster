@@ -1,5 +1,5 @@
 ---
-title: "Niagara Frontier Construction, Buffalo, NY | Lead Roster"
+title: "Niagara Frontier Construction, Buffalo, NY | Lead Paint Roster"
 description: "Niagara Frontier Construction: Lead abatement, Lead inspection / evaluation in Buffalo, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/niagara-frontier-construction-ny0498/
 ---

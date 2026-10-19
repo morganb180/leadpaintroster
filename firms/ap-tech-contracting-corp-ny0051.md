@@ -1,5 +1,5 @@
 ---
-title: "AP-TECH Contracting, Corp., Brooklyn, NY | Lead Roster"
+title: "AP-TECH Contracting, Corp., Brooklyn, NY | Lead Paint Roster"
 description: "AP-TECH Contracting, Corp.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ap-tech-contracting-corp-ny0051/
 ---

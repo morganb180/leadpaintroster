@@ -1,5 +1,5 @@
 ---
-title: "Advance Lead Solutions Inc., Brooklyn, NY | Lead Roster"
+title: "Advance Lead Solutions Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Advance Lead Solutions Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/advance-lead-solutions-inc-ny0750/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Emtade Contracting, Inc., Laurelton, NY | Lead Roster"
+title: "Emtade Contracting, Inc., Laurelton, NY | Lead Paint Roster"
 description: "Emtade Contracting, Inc.: Lead abatement in Laurelton, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/emtade-contracting-inc-ny0991/
 ---

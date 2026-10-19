@@ -1,5 +1,5 @@
 ---
-title: "Affordable Lead Inspections, Raynham, MA | Lead Roster"
+title: "Affordable Lead Inspections, Raynham, MA | Lead Paint Roster"
 description: "Affordable Lead Inspections: Lead risk assessment in Raynham, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/affordable-lead-inspections-ma0039/
 ---

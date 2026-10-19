@@ -1,5 +1,5 @@
 ---
-title: "Shield Property Preservation Service LLC, Valley Stream, NY | Lead Roster"
+title: "Shield Property Preservation Service LLC, Valley Stream, NY | Lead Paint Roster"
 description: "Shield Property Preservation Service LLC: Lead abatement in Valley Stream, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/shield-property-preservation-service-llc-ny1492/
 ---

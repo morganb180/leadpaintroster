@@ -1,5 +1,5 @@
 ---
-title: "Through The Roof Construction, Groton, NY | Lead Roster"
+title: "Through The Roof Construction, Groton, NY | Lead Paint Roster"
 description: "Through The Roof Construction: Lead abatement, Lead inspection / evaluation in Groton, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/through-the-roof-construction-ny0647/
 ---

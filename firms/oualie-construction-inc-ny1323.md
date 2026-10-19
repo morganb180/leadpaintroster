@@ -1,5 +1,5 @@
 ---
-title: "Oualie Construction Inc., Bronx, NY | Lead Roster"
+title: "Oualie Construction Inc., Bronx, NY | Lead Paint Roster"
 description: "Oualie Construction Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/oualie-construction-inc-ny1323/
 ---

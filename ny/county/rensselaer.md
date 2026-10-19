@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Rensselaer County, NY: 12 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Rensselaer County, NY: 12 Listings | Lead Paint Roster"
 description: "12 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Rensselaer County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/rensselaer/
 ---

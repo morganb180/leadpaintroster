@@ -1,5 +1,5 @@
 ---
-title: "ABCZ Consulting Corporation, Brooklyn, NY | Lead Roster"
+title: "ABCZ Consulting Corporation, Brooklyn, NY | Lead Paint Roster"
 description: "ABCZ Consulting Corporation: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abcz-consulting-corporation-ny0028/
 ---

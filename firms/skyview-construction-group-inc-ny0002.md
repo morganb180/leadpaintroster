@@ -1,5 +1,5 @@
 ---
-title: "Skyview Construction Group Inc, Brooklyn, NY | Lead Roster"
+title: "Skyview Construction Group Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Skyview Construction Group Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/skyview-construction-group-inc-ny0002/
 ---

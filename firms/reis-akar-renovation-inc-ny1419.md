@@ -1,5 +1,5 @@
 ---
-title: "Reis Akar Renovation Inc, Maspeth, NY | Lead Roster"
+title: "Reis Akar Renovation Inc, Maspeth, NY | Lead Paint Roster"
 description: "Reis Akar Renovation Inc: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/reis-akar-renovation-inc-ny1419/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Goldenboy Contracting, Camillus, NY | Lead Roster"
+title: "Goldenboy Contracting, Camillus, NY | Lead Paint Roster"
 description: "Goldenboy Contracting: Lead abatement in Camillus, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/goldenboy-contracting-ny1060/
 ---

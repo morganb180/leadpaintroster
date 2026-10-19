@@ -1,5 +1,5 @@
 ---
-title: "P. Keane Inc., New York, NY | Lead Roster"
+title: "P. Keane Inc., New York, NY | Lead Paint Roster"
 description: "P. Keane Inc.: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/p-keane-inc-ny1327/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Bell & Son Contracting, LLC, Auburn, NY | Lead Roster"
+title: "Bell & Son Contracting, LLC, Auburn, NY | Lead Paint Roster"
 description: "Bell & Son Contracting, LLC: Lead abatement in Auburn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bell-son-contracting-llc-ny0823/
 ---

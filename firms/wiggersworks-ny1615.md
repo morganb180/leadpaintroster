@@ -1,5 +1,5 @@
 ---
-title: "WiggersWorks, Ancramdale, NY | Lead Roster"
+title: "WiggersWorks, Ancramdale, NY | Lead Paint Roster"
 description: "WiggersWorks: Lead abatement in Ancramdale, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/wiggersworks-ny1615/
 ---

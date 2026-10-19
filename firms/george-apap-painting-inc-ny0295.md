@@ -1,5 +1,5 @@
 ---
-title: "George Apap Painting Inc, Patterson, NY | Lead Roster"
+title: "George Apap Painting Inc, Patterson, NY | Lead Paint Roster"
 description: "George Apap Painting Inc: Lead abatement, Lead inspection / evaluation in Patterson, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/george-apap-painting-inc-ny0295/
 ---

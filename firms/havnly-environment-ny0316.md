@@ -1,5 +1,5 @@
 ---
-title: "Havnly Environment, Brooklyn, NY | Lead Roster"
+title: "Havnly Environment, Brooklyn, NY | Lead Paint Roster"
 description: "Havnly Environment: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/havnly-environment-ny0316/
 ---

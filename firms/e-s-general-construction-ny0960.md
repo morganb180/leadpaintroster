@@ -1,5 +1,5 @@
 ---
-title: "E & S General Construction, Brooklyn, NY | Lead Roster"
+title: "E & S General Construction, Brooklyn, NY | Lead Paint Roster"
 description: "E & S General Construction: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/e-s-general-construction-ny0960/
 ---

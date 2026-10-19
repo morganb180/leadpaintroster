@@ -1,5 +1,5 @@
 ---
-title: "ABC Environmental Consulting and Testing Inc, Astoria, NY | Lead Roster"
+title: "ABC Environmental Consulting and Testing Inc, Astoria, NY | Lead Paint Roster"
 description: "ABC Environmental Consulting and Testing Inc: Lead abatement, Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abc-environmental-consulting-and-testing-inc-ny0026/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Kb Environmental Corp., Toms River, NJ | Lead Roster"
+title: "Kb Environmental Corp., Toms River, NJ | Lead Paint Roster"
 description: "Kb Environmental Corp.: Lead inspection / evaluation in Toms River, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kb-environmental-corp-nj0089/
 ---

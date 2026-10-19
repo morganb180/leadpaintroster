@@ -1,5 +1,5 @@
 ---
-title: "Rajan Construction Company, Jamaica, NY | Lead Roster"
+title: "Rajan Construction Company, Jamaica, NY | Lead Paint Roster"
 description: "Rajan Construction Company: Lead abatement in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rajan-construction-company-ny1411/
 ---

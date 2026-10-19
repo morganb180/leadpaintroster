@@ -1,6 +1,6 @@
 ---
-title: "All listed pros | Lead Roster"
-description: "Every certified lead professional listed on Lead Roster, A to Z."
+title: "All listed pros | Lead Paint Roster"
+description: "Every certified lead professional listed on Lead Paint Roster, A to Z."
 canonical: https://leadpaintroster.com/firms/
 ---
 

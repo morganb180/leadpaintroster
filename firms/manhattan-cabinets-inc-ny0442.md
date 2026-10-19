@@ -1,5 +1,5 @@
 ---
-title: "Manhattan Cabinets Inc., New York, NY | Lead Roster"
+title: "Manhattan Cabinets Inc., New York, NY | Lead Paint Roster"
 description: "Manhattan Cabinets Inc.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/manhattan-cabinets-inc-ny0442/
 ---

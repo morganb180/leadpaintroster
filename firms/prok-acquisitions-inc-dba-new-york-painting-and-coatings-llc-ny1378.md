@@ -1,5 +1,5 @@
 ---
-title: "Prok Acquisitions Inc DBA New York Painting and Coatings LLC, Rochester, NY | Lead Roster"
+title: "Prok Acquisitions Inc DBA New York Painting and Coatings LLC, Rochester, NY | Lead Paint Roster"
 description: "Prok Acquisitions Inc DBA New York Painting and Coatings LLC: Lead abatement in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/prok-acquisitions-inc-dba-new-york-painting-and-coatings-llc-ny1378/
 ---

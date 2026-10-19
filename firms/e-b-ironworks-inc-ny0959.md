@@ -1,5 +1,5 @@
 ---
-title: "E & B Ironworks Inc., Staten Island, NY | Lead Roster"
+title: "E & B Ironworks Inc., Staten Island, NY | Lead Paint Roster"
 description: "E & B Ironworks Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/e-b-ironworks-inc-ny0959/
 ---

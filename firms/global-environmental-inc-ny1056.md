@@ -1,5 +1,5 @@
 ---
-title: "Global Environmental Inc., Queens Village, NY | Lead Roster"
+title: "Global Environmental Inc., Queens Village, NY | Lead Paint Roster"
 description: "Global Environmental Inc.: Lead abatement in Queens Village, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/global-environmental-inc-ny1056/
 ---

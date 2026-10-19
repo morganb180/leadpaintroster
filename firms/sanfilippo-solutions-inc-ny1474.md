@@ -1,5 +1,5 @@
 ---
-title: "Sanfilippo Solutions Inc, Falconer, NY | Lead Roster"
+title: "Sanfilippo Solutions Inc, Falconer, NY | Lead Paint Roster"
 description: "Sanfilippo Solutions Inc: Lead abatement in Falconer, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sanfilippo-solutions-inc-ny1474/
 ---

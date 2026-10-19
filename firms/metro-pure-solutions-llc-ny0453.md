@@ -1,5 +1,5 @@
 ---
-title: "Metro Pure Solutions LLC, Brooklyn, NY | Lead Roster"
+title: "Metro Pure Solutions LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Metro Pure Solutions LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/metro-pure-solutions-llc-ny0453/
 ---

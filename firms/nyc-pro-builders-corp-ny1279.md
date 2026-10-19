@@ -1,5 +1,5 @@
 ---
-title: "NYC Pro Builders Corp, Brooklyn, NY | Lead Roster"
+title: "NYC Pro Builders Corp, Brooklyn, NY | Lead Paint Roster"
 description: "NYC Pro Builders Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nyc-pro-builders-corp-ny1279/
 ---

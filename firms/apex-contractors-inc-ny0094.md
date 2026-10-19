@@ -1,5 +1,5 @@
 ---
-title: "Apex Contractors Inc, Bronx, NY | Lead Roster"
+title: "Apex Contractors Inc, Bronx, NY | Lead Paint Roster"
 description: "Apex Contractors Inc: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/apex-contractors-inc-ny0094/
 ---

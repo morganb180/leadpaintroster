@@ -1,5 +1,5 @@
 ---
-title: "Coverall Contracting Inc., Voorheesville, NY | Lead Roster"
+title: "Coverall Contracting Inc., Voorheesville, NY | Lead Paint Roster"
 description: "Coverall Contracting Inc.: Lead abatement in Voorheesville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/coverall-contracting-inc-ny0908/
 ---

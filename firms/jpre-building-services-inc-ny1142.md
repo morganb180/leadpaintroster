@@ -1,5 +1,5 @@
 ---
-title: "Jpre Building Services Inc., Brooklyn, NY | Lead Roster"
+title: "Jpre Building Services Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Jpre Building Services Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jpre-building-services-inc-ny1142/
 ---

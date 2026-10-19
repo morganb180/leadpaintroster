@@ -1,5 +1,5 @@
 ---
-title: "Shoreline Environmental Inc., Copiague, NY | Lead Roster"
+title: "Shoreline Environmental Inc., Copiague, NY | Lead Paint Roster"
 description: "Shoreline Environmental Inc.: Lead abatement in Copiague, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/shoreline-environmental-inc-ny1494/
 ---

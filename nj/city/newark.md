@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Newark, NJ: 8 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Newark, NJ: 8 Listings | Lead Paint Roster"
 description: "8 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms based in Newark, New Jersey, plus 16 more in Essex County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/nj/city/newark/
 ---

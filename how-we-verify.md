@@ -1,6 +1,6 @@
 ---
-title: "How We Verify Listings | Lead Roster"
-description: "How Lead Roster builds and checks its listings: official licence sources, retrieval dates, what we verify and what we don't."
+title: "How We Verify Listings | Lead Paint Roster"
+description: "How Lead Paint Roster builds and checks its listings: official licence sources, retrieval dates, what we verify and what we don't."
 canonical: https://leadpaintroster.com/how-we-verify/
 ---
 

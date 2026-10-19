@@ -1,5 +1,5 @@
 ---
-title: "Metex EL Inc., Brooklyn, NY | Lead Roster"
+title: "Metex EL Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Metex EL Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/metex-el-inc-ny1238/
 ---

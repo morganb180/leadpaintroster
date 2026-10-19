@@ -1,5 +1,5 @@
 ---
-title: "Bot Construction, Inc., Brooklyn, NY | Lead Roster"
+title: "Bot Construction, Inc., Brooklyn, NY | Lead Paint Roster"
 description: "Bot Construction, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bot-construction-inc-ny0849/
 ---

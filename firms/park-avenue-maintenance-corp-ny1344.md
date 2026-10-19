@@ -1,5 +1,5 @@
 ---
-title: "Park Avenue Maintenance Corp., Bronx, NY | Lead Roster"
+title: "Park Avenue Maintenance Corp., Bronx, NY | Lead Paint Roster"
 description: "Park Avenue Maintenance Corp.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/park-avenue-maintenance-corp-ny1344/
 ---

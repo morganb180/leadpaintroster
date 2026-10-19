@@ -1,5 +1,5 @@
 ---
-title: "DTM Projects Corp, Huntington, NY | Lead Roster"
+title: "DTM Projects Corp, Huntington, NY | Lead Paint Roster"
 description: "DTM Projects Corp: Lead abatement, Lead inspection / evaluation in Huntington, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dtm-projects-corp-ny0194/
 ---

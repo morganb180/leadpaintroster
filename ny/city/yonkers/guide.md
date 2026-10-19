@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Yonkers, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Yonkers, NY | Lead Paint Roster"
 description: "Yonkers, NY lead paint guide: 10 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/yonkers/guide/
 ---

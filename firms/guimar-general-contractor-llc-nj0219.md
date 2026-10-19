@@ -1,5 +1,5 @@
 ---
-title: "Guimar General Contractor LLC, Freehold, NJ | Lead Roster"
+title: "Guimar General Contractor LLC, Freehold, NJ | Lead Paint Roster"
 description: "Guimar General Contractor LLC: Lead abatement in Freehold, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/guimar-general-contractor-llc-nj0219/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "B&n&k Restoration Co., Inc., Clifton, NJ | Lead Roster"
+title: "B&n&k Restoration Co., Inc., Clifton, NJ | Lead Paint Roster"
 description: "B&n&k Restoration Co., Inc.: Lead abatement in Clifton, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/b-n-k-restoration-co-inc-nj0198/
 ---

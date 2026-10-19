@@ -1,5 +1,5 @@
 ---
-title: "Anderson Lead Inspections, Stow, MA | Lead Roster"
+title: "Anderson Lead Inspections, Stow, MA | Lead Paint Roster"
 description: "Anderson Lead Inspections: Lead risk assessment in Stow, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/anderson-lead-inspections-ma0045/
 ---

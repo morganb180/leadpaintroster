@@ -1,5 +1,5 @@
 ---
-title: "Langan Engineering, Environmental, Surveying, Landscape Architecture & Geology D.P.C., New York, NY | Lead Roster"
+title: "Langan Engineering, Environmental, Surveying, Landscape Architecture & Geology D.P.C., New York, NY | Lead Paint Roster"
 description: "Langan Engineering, Environmental, Surveying, Landscape Architecture & Geology D.P.C.: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/langan-engineering-environmental-surveying-landscape-archite-ny1171/
 ---

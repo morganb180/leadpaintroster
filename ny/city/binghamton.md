@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Binghamton, NY: 7 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Binghamton, NY: 7 Listings | Lead Paint Roster"
 description: "7 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Binghamton, New York, plus 4 more in Broome County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/binghamton/
 ---

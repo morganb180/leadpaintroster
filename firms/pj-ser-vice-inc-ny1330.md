@@ -1,5 +1,5 @@
 ---
-title: "PJ Ser Vice, Inc., Warwick, NY | Lead Roster"
+title: "PJ Ser Vice, Inc., Warwick, NY | Lead Paint Roster"
 description: "PJ Ser Vice, Inc.: Lead abatement in Warwick, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pj-ser-vice-inc-ny1330/
 ---

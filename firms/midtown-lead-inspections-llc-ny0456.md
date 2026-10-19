@@ -1,5 +1,5 @@
 ---
-title: "Midtown Lead Inspections LLC, Bronx, NY | Lead Roster"
+title: "Midtown Lead Inspections LLC, Bronx, NY | Lead Paint Roster"
 description: "Midtown Lead Inspections LLC: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/midtown-lead-inspections-llc-ny0456/
 ---

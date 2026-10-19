@@ -1,5 +1,5 @@
 ---
-title: "New York City Lead Defense Corp., Queens, NY | Lead Roster"
+title: "New York City Lead Defense Corp., Queens, NY | Lead Paint Roster"
 description: "New York City Lead Defense Corp.: Lead abatement in Queens, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/new-york-city-lead-defense-corp-ny1293/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Beverly Perez Painting, Brooklyn, NY | Lead Roster"
+title: "Beverly Perez Painting, Brooklyn, NY | Lead Paint Roster"
 description: "Beverly Perez Painting: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/beverly-perez-painting-ny0830/
 ---

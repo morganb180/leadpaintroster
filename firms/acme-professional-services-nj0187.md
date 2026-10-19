@@ -1,5 +1,5 @@
 ---
-title: "Acme Professional Services, Kinnelon, NJ | Lead Roster"
+title: "Acme Professional Services, Kinnelon, NJ | Lead Paint Roster"
 description: "Acme Professional Services: Lead abatement in Kinnelon, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/acme-professional-services-nj0187/
 ---

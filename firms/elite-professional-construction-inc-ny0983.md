@@ -1,5 +1,5 @@
 ---
-title: "Elite Professional Construction Inc., New York, NY | Lead Roster"
+title: "Elite Professional Construction Inc., New York, NY | Lead Paint Roster"
 description: "Elite Professional Construction Inc.: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/elite-professional-construction-inc-ny0983/
 ---

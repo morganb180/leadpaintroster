@@ -1,5 +1,5 @@
 ---
-title: "QA Lead Environmental, Inc., Jamaica, NY | Lead Roster"
+title: "QA Lead Environmental, Inc., Jamaica, NY | Lead Paint Roster"
 description: "QA Lead Environmental, Inc.: Lead inspection / evaluation in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/qa-lead-environmental-inc-ny0547/
 ---

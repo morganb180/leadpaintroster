@@ -1,5 +1,5 @@
 ---
-title: "Giorgi Contracting Inc., New Kingston, NY | Lead Roster"
+title: "Giorgi Contracting Inc., New Kingston, NY | Lead Paint Roster"
 description: "Giorgi Contracting Inc.: Lead abatement in New Kingston, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/giorgi-contracting-inc-ny1054/
 ---

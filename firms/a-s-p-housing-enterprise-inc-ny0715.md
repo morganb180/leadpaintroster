@@ -1,5 +1,5 @@
 ---
-title: "A.S.P. Housing Enterprise Inc., Maspeth, NY | Lead Roster"
+title: "A.S.P. Housing Enterprise Inc., Maspeth, NY | Lead Paint Roster"
 description: "A.S.P. Housing Enterprise Inc.: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-s-p-housing-enterprise-inc-ny0715/
 ---

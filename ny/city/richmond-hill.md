@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Richmond Hill, NY: 11 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Richmond Hill, NY: 11 Listings | Lead Paint Roster"
 description: "11 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Richmond Hill, New York, plus 313 more in Queens County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/richmond-hill/
 ---

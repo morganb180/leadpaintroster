@@ -1,5 +1,5 @@
 ---
-title: "E & C Lead Inspections LLC, Staten Island, NY | Lead Roster"
+title: "E & C Lead Inspections LLC, Staten Island, NY | Lead Paint Roster"
 description: "E & C Lead Inspections LLC: Lead abatement, Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/e-c-lead-inspections-llc-ny0210/
 ---

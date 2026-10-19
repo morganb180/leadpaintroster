@@ -1,5 +1,5 @@
 ---
-title: "Sandy's Environmental Services LLC, Bronx, NY | Lead Roster"
+title: "Sandy's Environmental Services LLC, Bronx, NY | Lead Paint Roster"
 description: "Sandy's Environmental Services LLC: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sandy-s-environmental-services-llc-ny0598/
 ---

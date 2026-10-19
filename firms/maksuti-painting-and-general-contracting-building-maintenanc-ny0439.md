@@ -1,5 +1,5 @@
 ---
-title: "Maksuti Painting And General Contracting, Building Maintenance, Delmar, NY | Lead Roster"
+title: "Maksuti Painting And General Contracting, Building Maintenance, Delmar, NY | Lead Paint Roster"
 description: "Maksuti Painting And General Contracting, Building Maintenance: Lead abatement, Lead inspection / evaluation in Delmar, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/maksuti-painting-and-general-contracting-building-maintenanc-ny0439/
 ---

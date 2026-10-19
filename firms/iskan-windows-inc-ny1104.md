@@ -1,5 +1,5 @@
 ---
-title: "Iskan Windows, Inc., Long Island City, NY | Lead Roster"
+title: "Iskan Windows, Inc., Long Island City, NY | Lead Paint Roster"
 description: "Iskan Windows, Inc.: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/iskan-windows-inc-ny1104/
 ---

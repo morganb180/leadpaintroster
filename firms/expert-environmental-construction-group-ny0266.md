@@ -1,5 +1,5 @@
 ---
-title: "Expert Environmental & Construction Group, Rochester, NY | Lead Roster"
+title: "Expert Environmental & Construction Group, Rochester, NY | Lead Paint Roster"
 description: "Expert Environmental & Construction Group: Lead inspection / evaluation in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/expert-environmental-construction-group-ny0266/
 ---

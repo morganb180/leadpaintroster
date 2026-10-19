@@ -1,5 +1,5 @@
 ---
-title: "JP Solutions, Jamaica, NY | Lead Roster"
+title: "JP Solutions, Jamaica, NY | Lead Paint Roster"
 description: "JP Solutions: Lead abatement in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jp-solutions-ny1127/
 ---

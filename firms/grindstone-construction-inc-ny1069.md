@@ -1,5 +1,5 @@
 ---
-title: "Grindstone Construction Inc., New York, NY | Lead Roster"
+title: "Grindstone Construction Inc., New York, NY | Lead Paint Roster"
 description: "Grindstone Construction Inc.: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/grindstone-construction-inc-ny1069/
 ---

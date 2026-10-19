@@ -1,5 +1,5 @@
 ---
-title: "Tai He Contracting, LLC, Boonton Township, NJ | Lead Roster"
+title: "Tai He Contracting, LLC, Boonton Township, NJ | Lead Paint Roster"
 description: "Tai He Contracting, LLC: Lead inspection / evaluation in Boonton Township, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tai-he-contracting-llc-nj0166/
 ---

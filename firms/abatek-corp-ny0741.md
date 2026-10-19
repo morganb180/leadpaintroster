@@ -1,5 +1,5 @@
 ---
-title: "Abatek Corp., Maspeth, NY | Lead Roster"
+title: "Abatek Corp., Maspeth, NY | Lead Paint Roster"
 description: "Abatek Corp.: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abatek-corp-ny0741/
 ---

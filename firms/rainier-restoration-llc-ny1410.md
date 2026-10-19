@@ -1,5 +1,5 @@
 ---
-title: "Rainier Restoration LLC, New York, NY | Lead Roster"
+title: "Rainier Restoration LLC, New York, NY | Lead Paint Roster"
 description: "Rainier Restoration LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rainier-restoration-llc-ny1410/
 ---

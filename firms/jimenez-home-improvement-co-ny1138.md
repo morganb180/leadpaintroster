@@ -1,5 +1,5 @@
 ---
-title: "Jimenez Home Improvement Co, Yonker, NY | Lead Roster"
+title: "Jimenez Home Improvement Co, Yonker, NY | Lead Paint Roster"
 description: "Jimenez Home Improvement Co: Lead abatement in Yonker, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jimenez-home-improvement-co-ny1138/
 ---

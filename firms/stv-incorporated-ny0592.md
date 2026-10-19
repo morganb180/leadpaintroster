@@ -1,5 +1,5 @@
 ---
-title: "STV Incorporated, New York, NY | Lead Roster"
+title: "STV Incorporated, New York, NY | Lead Paint Roster"
 description: "STV Incorporated: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/stv-incorporated-ny0592/
 ---

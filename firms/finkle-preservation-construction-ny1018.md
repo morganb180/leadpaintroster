@@ -1,5 +1,5 @@
 ---
-title: "Finkle Preservation & Construction, Youngstown, NY | Lead Roster"
+title: "Finkle Preservation & Construction, Youngstown, NY | Lead Paint Roster"
 description: "Finkle Preservation & Construction: Lead abatement in Youngstown, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/finkle-preservation-construction-ny1018/
 ---

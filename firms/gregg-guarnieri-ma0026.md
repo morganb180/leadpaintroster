@@ -1,5 +1,5 @@
 ---
-title: "Gregg Guarnieri, Malden, MA | Lead Roster"
+title: "Gregg Guarnieri, Malden, MA | Lead Paint Roster"
 description: "Gregg Guarnieri: Lead inspection / evaluation in Malden, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gregg-guarnieri-ma0026/
 ---

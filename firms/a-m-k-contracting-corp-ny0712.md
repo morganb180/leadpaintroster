@@ -1,5 +1,5 @@
 ---
-title: "A.M.K. Contracting Corp., Staten Island, NY | Lead Roster"
+title: "A.M.K. Contracting Corp., Staten Island, NY | Lead Paint Roster"
 description: "A.M.K. Contracting Corp.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-m-k-contracting-corp-ny0712/
 ---

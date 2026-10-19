@@ -1,5 +1,5 @@
 ---
-title: "Rosmil Tile & Painting Corp., New Rochelle, NY | Lead Roster"
+title: "Rosmil Tile & Painting Corp., New Rochelle, NY | Lead Paint Roster"
 description: "Rosmil Tile & Painting Corp.: Lead abatement in New Rochelle, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rosmil-tile-painting-corp-ny1444/
 ---

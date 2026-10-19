@@ -1,5 +1,5 @@
 ---
-title: "DV NY Contracting, White Plains, NY | Lead Roster"
+title: "DV NY Contracting, White Plains, NY | Lead Paint Roster"
 description: "DV NY Contracting: Lead abatement, Lead inspection / evaluation in White Plains, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dv-ny-contracting-ny0195/
 ---

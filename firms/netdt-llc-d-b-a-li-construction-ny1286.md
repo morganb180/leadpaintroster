@@ -1,5 +1,5 @@
 ---
-title: "Netdt LLC d/b/a li Construction, Rego Park, NY | Lead Roster"
+title: "Netdt LLC d/b/a li Construction, Rego Park, NY | Lead Paint Roster"
 description: "Netdt LLC d/b/a li Construction: Lead abatement in Rego Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/netdt-llc-d-b-a-li-construction-ny1286/
 ---

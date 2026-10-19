@@ -1,5 +1,5 @@
 ---
-title: "Berko Mold Abatement Corp, Brooklyn, NY | Lead Roster"
+title: "Berko Mold Abatement Corp, Brooklyn, NY | Lead Paint Roster"
 description: "Berko Mold Abatement Corp: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/berko-mold-abatement-corp-ny0127/
 ---

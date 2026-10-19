@@ -1,5 +1,5 @@
 ---
-title: "Proworks Construction, Brooklyn, NY | Lead Roster"
+title: "Proworks Construction, Brooklyn, NY | Lead Paint Roster"
 description: "Proworks Construction: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/proworks-construction-ny1383/
 ---

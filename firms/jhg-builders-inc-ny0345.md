@@ -1,5 +1,5 @@
 ---
-title: "Jhg Builders Inc, Far Rockaway, NY | Lead Roster"
+title: "Jhg Builders Inc, Far Rockaway, NY | Lead Paint Roster"
 description: "Jhg Builders Inc: Lead abatement, Lead inspection / evaluation in Far Rockaway, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jhg-builders-inc-ny0345/
 ---

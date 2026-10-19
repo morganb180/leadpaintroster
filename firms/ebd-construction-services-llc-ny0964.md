@@ -1,5 +1,5 @@
 ---
-title: "EBD Construction Services, LLC, Lackawanna, NY | Lead Roster"
+title: "EBD Construction Services, LLC, Lackawanna, NY | Lead Paint Roster"
 description: "EBD Construction Services, LLC: Lead abatement in Lackawanna, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ebd-construction-services-llc-ny0964/
 ---

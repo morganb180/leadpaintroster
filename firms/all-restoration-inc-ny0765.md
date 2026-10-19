@@ -1,5 +1,5 @@
 ---
-title: "All Restoration Inc, Howard Beach, NY | Lead Roster"
+title: "All Restoration Inc, Howard Beach, NY | Lead Paint Roster"
 description: "All Restoration Inc: Lead abatement in Howard Beach, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/all-restoration-inc-ny0765/
 ---

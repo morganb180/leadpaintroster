@@ -1,5 +1,5 @@
 ---
-title: "P & S Contracting NY, Corp., East Elmhurst, NY | Lead Roster"
+title: "P & S Contracting NY, Corp., East Elmhurst, NY | Lead Paint Roster"
 description: "P & S Contracting NY, Corp.: Lead abatement in East Elmhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/p-s-contracting-ny-corp-ny1325/
 ---

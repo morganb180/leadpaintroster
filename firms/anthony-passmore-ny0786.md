@@ -1,5 +1,5 @@
 ---
-title: "Anthony Passmore, Elmira, NY | Lead Roster"
+title: "Anthony Passmore, Elmira, NY | Lead Paint Roster"
 description: "Anthony Passmore: Lead abatement in Elmira, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/anthony-passmore-ny0786/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Mount Kisco, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Mount Kisco, NY | Lead Paint Roster"
 description: "Mount Kisco, NY lead paint guide: 3 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/mount-kisco/guide/
 ---

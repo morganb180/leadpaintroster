@@ -1,5 +1,5 @@
 ---
-title: "Hayco Corporation, New York, NY | Lead Roster"
+title: "Hayco Corporation, New York, NY | Lead Paint Roster"
 description: "Hayco Corporation: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/hayco-corporation-ny1078/
 ---

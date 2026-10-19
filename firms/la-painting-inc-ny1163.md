@@ -1,5 +1,5 @@
 ---
-title: "LA Painting Inc, Syracuse, NY | Lead Roster"
+title: "LA Painting Inc, Syracuse, NY | Lead Paint Roster"
 description: "LA Painting Inc: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/la-painting-inc-ny1163/
 ---

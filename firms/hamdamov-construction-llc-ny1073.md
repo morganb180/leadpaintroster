@@ -1,5 +1,5 @@
 ---
-title: "Hamdamov Construction LLC, Albany, NY | Lead Roster"
+title: "Hamdamov Construction LLC, Albany, NY | Lead Paint Roster"
 description: "Hamdamov Construction LLC: Lead abatement in Albany, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/hamdamov-construction-llc-ny1073/
 ---

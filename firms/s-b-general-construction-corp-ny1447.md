@@ -1,5 +1,5 @@
 ---
-title: "S & B General Construction Corp, Bellerose, NY | Lead Roster"
+title: "S & B General Construction Corp, Bellerose, NY | Lead Paint Roster"
 description: "S & B General Construction Corp: Lead abatement in Bellerose, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/s-b-general-construction-corp-ny1447/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Desired Home Inspections LLC, Brooklyn, NY | Lead Roster"
+title: "Desired Home Inspections LLC, Brooklyn, NY | Lead Paint Roster"
 description: "Desired Home Inspections LLC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/desired-home-inspections-llc-ny0188/
 ---

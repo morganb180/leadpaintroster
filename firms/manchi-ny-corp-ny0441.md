@@ -1,5 +1,5 @@
 ---
-title: "Manchi NY Corp, East Greenbush, NY | Lead Roster"
+title: "Manchi NY Corp, East Greenbush, NY | Lead Paint Roster"
 description: "Manchi NY Corp: Lead abatement, Lead inspection / evaluation in East Greenbush, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/manchi-ny-corp-ny0441/
 ---

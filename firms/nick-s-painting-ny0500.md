@@ -1,5 +1,5 @@
 ---
-title: "Nick's Painting, Yonkers, NY | Lead Roster"
+title: "Nick's Painting, Yonkers, NY | Lead Paint Roster"
 description: "Nick's Painting: Lead abatement, Lead inspection / evaluation in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nick-s-painting-ny0500/
 ---

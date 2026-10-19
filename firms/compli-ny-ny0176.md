@@ -1,5 +1,5 @@
 ---
-title: "Compli NY, Yonkers, NY | Lead Roster"
+title: "Compli NY, Yonkers, NY | Lead Paint Roster"
 description: "Compli NY: Lead abatement, Lead inspection / evaluation in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/compli-ny-ny0176/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Domi-American LLC, Bronx, NY | Lead Roster"
+title: "Domi-American LLC, Bronx, NY | Lead Paint Roster"
 description: "Domi-American LLC: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/domi-american-llc-ny0206/
 ---

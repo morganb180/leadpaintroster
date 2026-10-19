@@ -1,5 +1,5 @@
 ---
-title: "Tad's Home Improvement Corp., Brooklyn, NY | Lead Roster"
+title: "Tad's Home Improvement Corp., Brooklyn, NY | Lead Paint Roster"
 description: "Tad's Home Improvement Corp.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tad-s-home-improvement-corp-ny1539/
 ---

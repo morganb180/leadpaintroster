@@ -1,5 +1,5 @@
 ---
-title: "Raja Sahib Construction Inc, Queens, NY | Lead Roster"
+title: "Raja Sahib Construction Inc, Queens, NY | Lead Paint Roster"
 description: "Raja Sahib Construction Inc: Lead abatement, Lead inspection / evaluation in Queens, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/raja-sahib-construction-inc-ny0562/
 ---

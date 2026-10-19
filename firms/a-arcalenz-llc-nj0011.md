@@ -1,5 +1,5 @@
 ---
-title: "A-Arcalenz, LLC, West Orange, NJ | Lead Roster"
+title: "A-Arcalenz, LLC, West Orange, NJ | Lead Paint Roster"
 description: "A-Arcalenz, LLC: Lead abatement, Lead inspection / evaluation in West Orange, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-arcalenz-llc-nj0011/
 ---

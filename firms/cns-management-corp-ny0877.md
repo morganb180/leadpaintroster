@@ -1,5 +1,5 @@
 ---
-title: "CNS Management Corp., Plainview, NY | Lead Roster"
+title: "CNS Management Corp., Plainview, NY | Lead Paint Roster"
 description: "CNS Management Corp.: Lead abatement in Plainview, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cns-management-corp-ny0877/
 ---

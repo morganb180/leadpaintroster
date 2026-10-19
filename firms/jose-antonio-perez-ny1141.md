@@ -1,5 +1,5 @@
 ---
-title: "Jose Antonio Perez, Staten Island, NY | Lead Roster"
+title: "Jose Antonio Perez, Staten Island, NY | Lead Paint Roster"
 description: "Jose Antonio Perez: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jose-antonio-perez-ny1141/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Little Neck, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Little Neck, NY | Lead Paint Roster"
 description: "Little Neck, NY lead paint guide: 2 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/little-neck/guide/
 ---

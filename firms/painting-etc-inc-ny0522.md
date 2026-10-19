@@ -1,5 +1,5 @@
 ---
-title: "Painting ETC Inc., Colton, NY | Lead Roster"
+title: "Painting ETC Inc., Colton, NY | Lead Paint Roster"
 description: "Painting ETC Inc.: Lead abatement, Lead inspection / evaluation in Colton, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/painting-etc-inc-ny0522/
 ---

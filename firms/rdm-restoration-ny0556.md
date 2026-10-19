@@ -1,5 +1,5 @@
 ---
-title: "RDM Restoration, Jefferson Valley, NY | Lead Roster"
+title: "RDM Restoration, Jefferson Valley, NY | Lead Paint Roster"
 description: "RDM Restoration: Lead abatement, Lead inspection / evaluation in Jefferson Valley, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rdm-restoration-ny0556/
 ---

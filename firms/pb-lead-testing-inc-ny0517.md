@@ -1,5 +1,5 @@
 ---
-title: "PB Lead Testing Inc, Brooklyn, NY | Lead Roster"
+title: "PB Lead Testing Inc, Brooklyn, NY | Lead Paint Roster"
 description: "PB Lead Testing Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pb-lead-testing-inc-ny0517/
 ---

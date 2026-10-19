@@ -1,5 +1,5 @@
 ---
-title: "B&C Lead Consultants, LLC, Brooklyn, NY | Lead Roster"
+title: "B&C Lead Consultants, LLC, Brooklyn, NY | Lead Paint Roster"
 description: "B&C Lead Consultants, LLC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/b-c-lead-consultants-llc-ny0113/
 ---

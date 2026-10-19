@@ -1,5 +1,5 @@
 ---
-title: "Chautauqua Opportunities, Inc., Dunkirk, NY | Lead Roster"
+title: "Chautauqua Opportunities, Inc., Dunkirk, NY | Lead Paint Roster"
 description: "Chautauqua Opportunities, Inc.: Lead abatement in Dunkirk, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/chautauqua-opportunities-inc-ny0894/
 ---

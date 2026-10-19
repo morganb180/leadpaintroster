@@ -1,5 +1,5 @@
 ---
-title: "LeadGuard Environmental Inc., Brooklyn, NY | Lead Roster"
+title: "LeadGuard Environmental Inc., Brooklyn, NY | Lead Paint Roster"
 description: "LeadGuard Environmental Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/leadguard-environmental-inc-ny1176/
 ---

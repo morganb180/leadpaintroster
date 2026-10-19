@@ -1,5 +1,5 @@
 ---
-title: "Rodz Inc DBA Rigid Security, Franklin Square, NY | Lead Roster"
+title: "Rodz Inc DBA Rigid Security, Franklin Square, NY | Lead Paint Roster"
 description: "Rodz Inc DBA Rigid Security: Lead abatement in Franklin Square, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rodz-inc-dba-rigid-security-ny1440/
 ---

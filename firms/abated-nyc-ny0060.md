@@ -1,5 +1,5 @@
 ---
-title: "Abated NYC, Brooklyn, NY | Lead Roster"
+title: "Abated NYC, Brooklyn, NY | Lead Paint Roster"
 description: "Abated NYC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abated-nyc-ny0060/
 ---

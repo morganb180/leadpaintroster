@@ -1,5 +1,5 @@
 ---
-title: "Twelve Ton Rose, Inc, Brooklyn, NY | Lead Roster"
+title: "Twelve Ton Rose, Inc, Brooklyn, NY | Lead Paint Roster"
 description: "Twelve Ton Rose, Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/twelve-ton-rose-inc-ny1571/
 ---

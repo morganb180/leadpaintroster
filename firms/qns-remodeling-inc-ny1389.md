@@ -1,5 +1,5 @@
 ---
-title: "QNS Remodeling Inc., Glenville, NY | Lead Roster"
+title: "QNS Remodeling Inc., Glenville, NY | Lead Paint Roster"
 description: "QNS Remodeling Inc.: Lead abatement in Glenville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/qns-remodeling-inc-ny1389/
 ---

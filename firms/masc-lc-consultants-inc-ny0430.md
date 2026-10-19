@@ -1,5 +1,5 @@
 ---
-title: "MASC LC Consultants Inc, Brooklyn, NY | Lead Roster"
+title: "MASC LC Consultants Inc, Brooklyn, NY | Lead Paint Roster"
 description: "MASC LC Consultants Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/masc-lc-consultants-inc-ny0430/
 ---

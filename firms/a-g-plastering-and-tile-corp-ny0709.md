@@ -1,5 +1,5 @@
 ---
-title: "A&G Plastering and Tile, Corp., Bronx, NY | Lead Roster"
+title: "A&G Plastering and Tile, Corp., Bronx, NY | Lead Paint Roster"
 description: "A&G Plastering and Tile, Corp.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-g-plastering-and-tile-corp-ny0709/
 ---

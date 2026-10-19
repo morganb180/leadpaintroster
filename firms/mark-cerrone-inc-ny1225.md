@@ -1,5 +1,5 @@
 ---
-title: "Mark Cerrone, Inc., Niagara Falls, NY | Lead Roster"
+title: "Mark Cerrone, Inc., Niagara Falls, NY | Lead Paint Roster"
 description: "Mark Cerrone, Inc.: Lead abatement in Niagara Falls, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mark-cerrone-inc-ny1225/
 ---

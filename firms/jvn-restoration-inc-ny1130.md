@@ -1,5 +1,5 @@
 ---
-title: "Jvn Restoration Inc., Staten Island, NY | Lead Roster"
+title: "Jvn Restoration Inc., Staten Island, NY | Lead Paint Roster"
 description: "Jvn Restoration Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jvn-restoration-inc-ny1130/
 ---

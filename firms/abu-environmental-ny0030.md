@@ -1,5 +1,5 @@
 ---
-title: "Abu Environmental, Staten Island, NY | Lead Roster"
+title: "Abu Environmental, Staten Island, NY | Lead Paint Roster"
 description: "Abu Environmental: Lead abatement, Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/abu-environmental-ny0030/
 ---

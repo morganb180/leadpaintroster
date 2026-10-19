@@ -1,5 +1,5 @@
 ---
-title: "CNY Lead Testing, LLC, Syracuse, NY | Lead Roster"
+title: "CNY Lead Testing, LLC, Syracuse, NY | Lead Paint Roster"
 description: "CNY Lead Testing, LLC: Lead abatement, Lead inspection / evaluation in Syracuse, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cny-lead-testing-llc-ny0154/
 ---

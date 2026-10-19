@@ -1,5 +1,5 @@
 ---
-title: "Five Star Environmental, Inc., Howard Beach, NY | Lead Roster"
+title: "Five Star Environmental, Inc., Howard Beach, NY | Lead Paint Roster"
 description: "Five Star Environmental, Inc.: Lead inspection / evaluation in Howard Beach, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/five-star-environmental-inc-ny0275/
 ---

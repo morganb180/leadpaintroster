@@ -1,5 +1,5 @@
 ---
-title: "High Quality Home Improvement, Inc, East Elmhurst, NY | Lead Roster"
+title: "High Quality Home Improvement, Inc, East Elmhurst, NY | Lead Paint Roster"
 description: "High Quality Home Improvement, Inc: Lead abatement in East Elmhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/high-quality-home-improvement-inc-ny1082/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Marbec Environmental Services Corp., New York, NY | Lead Roster"
+title: "Marbec Environmental Services Corp., New York, NY | Lead Paint Roster"
 description: "Marbec Environmental Services Corp.: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/marbec-environmental-services-corp-ny0444/
 ---

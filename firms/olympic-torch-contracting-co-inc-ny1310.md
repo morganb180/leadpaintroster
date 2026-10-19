@@ -1,5 +1,5 @@
 ---
-title: "Olympic Torch Contracting Co. Inc., Woodside, NY | Lead Roster"
+title: "Olympic Torch Contracting Co. Inc., Woodside, NY | Lead Paint Roster"
 description: "Olympic Torch Contracting Co. Inc.: Lead abatement in Woodside, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/olympic-torch-contracting-co-inc-ny1310/
 ---

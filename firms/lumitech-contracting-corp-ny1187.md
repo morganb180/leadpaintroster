@@ -1,5 +1,5 @@
 ---
-title: "Lumitech Contracting Corp, Staten Island, NY | Lead Roster"
+title: "Lumitech Contracting Corp, Staten Island, NY | Lead Paint Roster"
 description: "Lumitech Contracting Corp: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lumitech-contracting-corp-ny1187/
 ---

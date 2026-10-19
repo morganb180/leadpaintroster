@@ -1,5 +1,5 @@
 ---
-title: "Ponns & Company Inc, Essington, PA | Lead Roster"
+title: "Ponns & Company Inc, Essington, PA | Lead Paint Roster"
 description: "Ponns & Company Inc: Lead abatement in Essington, PA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ponns-company-inc-nj0236/
 ---

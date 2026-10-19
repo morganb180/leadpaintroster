@@ -1,5 +1,5 @@
 ---
-title: "MHR Management, Inc., Long Island City, NY | Lead Roster"
+title: "MHR Management, Inc., Long Island City, NY | Lead Paint Roster"
 description: "MHR Management, Inc.: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mhr-management-inc-ny1210/
 ---

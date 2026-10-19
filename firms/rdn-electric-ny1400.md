@@ -1,5 +1,5 @@
 ---
-title: "RDN Electric, Brooklyn, NY | Lead Roster"
+title: "RDN Electric, Brooklyn, NY | Lead Paint Roster"
 description: "RDN Electric: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rdn-electric-ny1400/
 ---

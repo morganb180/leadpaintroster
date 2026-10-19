@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Valley Stream, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Valley Stream, NY | Lead Paint Roster"
 description: "Valley Stream, NY lead paint guide: 6 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/valley-stream/guide/
 ---

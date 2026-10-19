@@ -1,5 +1,5 @@
 ---
-title: "S & S Repair Inc., Bronx, NY | Lead Roster"
+title: "S & S Repair Inc., Bronx, NY | Lead Paint Roster"
 description: "S & S Repair Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/s-s-repair-inc-ny1448/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Apex Maintenance & Repairs Corp., Yorktown Heights, NY | Lead Roster"
+title: "Apex Maintenance & Repairs Corp., Yorktown Heights, NY | Lead Paint Roster"
 description: "Apex Maintenance & Repairs Corp.: Lead abatement in Yorktown Heights, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/apex-maintenance-repairs-corp-ny0788/
 ---

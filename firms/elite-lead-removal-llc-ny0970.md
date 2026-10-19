@@ -1,5 +1,5 @@
 ---
-title: "Elite Lead Removal LLC, Great Neck, NY | Lead Roster"
+title: "Elite Lead Removal LLC, Great Neck, NY | Lead Paint Roster"
 description: "Elite Lead Removal LLC: Lead abatement in Great Neck, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/elite-lead-removal-llc-ny0970/
 ---

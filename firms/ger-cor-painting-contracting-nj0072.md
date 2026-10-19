@@ -1,5 +1,5 @@
 ---
-title: "Ger-Cor Painting Contracting, Neptune, NJ | Lead Roster"
+title: "Ger-Cor Painting Contracting, Neptune, NJ | Lead Paint Roster"
 description: "Ger-Cor Painting Contracting: Lead inspection / evaluation in Neptune, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ger-cor-painting-contracting-nj0072/
 ---

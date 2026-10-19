@@ -1,5 +1,5 @@
 ---
-title: "Gibco Construction Corp, New York, NY | Lead Roster"
+title: "Gibco Construction Corp, New York, NY | Lead Paint Roster"
 description: "Gibco Construction Corp: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gibco-construction-corp-ny1053/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Milcon Construction, Corp., West Babylon, NY | Lead Roster"
+title: "Milcon Construction, Corp., West Babylon, NY | Lead Paint Roster"
 description: "Milcon Construction, Corp.: Lead abatement in West Babylon, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/milcon-construction-corp-ny1253/
 ---

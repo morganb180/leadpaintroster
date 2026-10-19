@@ -1,5 +1,5 @@
 ---
-title: "Lead Paint Inspection & Abatement Cost + Estimate Tool | Lead Roster"
+title: "Lead Paint Inspection & Abatement Cost + Estimate Tool | Lead Paint Roster"
 description: "Typical national costs for lead paint inspection and removal, with an estimate tool."
 canonical: https://leadpaintroster.com/lead-inspection-cost/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "PDQ Lead Inspectors, Inc., Valley Stream, NY | Lead Roster"
+title: "PDQ Lead Inspectors, Inc., Valley Stream, NY | Lead Paint Roster"
 description: "PDQ Lead Inspectors, Inc.: Lead inspection / evaluation in Valley Stream, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pdq-lead-inspectors-inc-ny0518/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tulenko Enterprises, LLC, Rockaway, NJ | Lead Roster"
+title: "Tulenko Enterprises, LLC, Rockaway, NJ | Lead Paint Roster"
 description: "Tulenko Enterprises, LLC: Lead abatement in Rockaway, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tulenko-enterprises-llc-nj0250/
 ---

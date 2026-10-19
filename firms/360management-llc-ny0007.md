@@ -1,5 +1,5 @@
 ---
-title: "360Management LLC, Niagara Falls, NY | Lead Roster"
+title: "360Management LLC, Niagara Falls, NY | Lead Paint Roster"
 description: "360Management LLC: Lead abatement, Lead inspection / evaluation in Niagara Falls, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/360management-llc-ny0007/
 ---

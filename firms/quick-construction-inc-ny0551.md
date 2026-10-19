@@ -1,5 +1,5 @@
 ---
-title: "Quick Construction, Inc., Candor, NY | Lead Roster"
+title: "Quick Construction, Inc., Candor, NY | Lead Paint Roster"
 description: "Quick Construction, Inc.: Lead abatement, Lead inspection / evaluation in Candor, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/quick-construction-inc-ny0551/
 ---

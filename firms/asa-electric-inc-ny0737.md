@@ -1,5 +1,5 @@
 ---
-title: "ASA Electric Inc, Rosedale, NY | Lead Roster"
+title: "ASA Electric Inc, Rosedale, NY | Lead Paint Roster"
 description: "ASA Electric Inc: Lead abatement in Rosedale, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/asa-electric-inc-ny0737/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Emerald Isle Construction & Flooring LLC, New York, NY | Lead Roster"
+title: "Emerald Isle Construction & Flooring LLC, New York, NY | Lead Paint Roster"
 description: "Emerald Isle Construction & Flooring LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/emerald-isle-construction-flooring-llc-ny0985/
 ---

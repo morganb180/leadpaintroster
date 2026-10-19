@@ -1,5 +1,5 @@
 ---
-title: "Northstar Contracting Group, East Hanover, NJ | Lead Roster"
+title: "Northstar Contracting Group, East Hanover, NJ | Lead Paint Roster"
 description: "Northstar Contracting Group: Lead abatement in East Hanover, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/northstar-contracting-group-nj0231/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Lead Testers Inc., Spring Valley, NY | Lead Roster"
+title: "Lead Testers Inc., Spring Valley, NY | Lead Paint Roster"
 description: "Lead Testers Inc.: Lead inspection / evaluation in Spring Valley, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lead-testers-inc-ny0401/
 ---

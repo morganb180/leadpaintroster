@@ -1,5 +1,5 @@
 ---
-title: "Job Site Resources, Pennsburg, PA | Lead Roster"
+title: "Job Site Resources, Pennsburg, PA | Lead Paint Roster"
 description: "Job Site Resources: Lead abatement in Pennsburg, PA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/job-site-resources-nj0223/
 ---

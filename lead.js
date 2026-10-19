@@ -1,4 +1,4 @@
-/* Lead Roster (ported from Radon Roster by tools/netport.py): quote form (progressive enhancement) + anonymous contact-link click counts. */
+/* Lead Paint Roster (ported from Radon Roster by tools/netport.py): quote form (progressive enhancement) + anonymous contact-link click counts. */
 (function(){var API="https://leads.radonroster.com",SITE="leadpaint";
 function beacon(f,t){try{var b=JSON.stringify({f:f,t:t,s:SITE});if(navigator.sendBeacon)navigator.sendBeacon(API+"/api/click?site="+SITE,new Blob([b],{type:"text/plain"}));else fetch(API+"/api/click?site="+SITE,{method:"POST",body:b,keepalive:true,mode:"no-cors"})}catch(e){}}
 document.addEventListener("click",function(e){var a=e.target.closest&&e.target.closest("a[data-fid]");if(a)beacon(a.getAttribute("data-fid"),a.getAttribute("data-ct"))},true);

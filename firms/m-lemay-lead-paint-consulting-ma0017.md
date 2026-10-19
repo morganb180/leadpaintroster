@@ -1,5 +1,5 @@
 ---
-title: "M.Lemay Lead Paint Consulting, Fitchburg, MA | Lead Roster"
+title: "M.Lemay Lead Paint Consulting, Fitchburg, MA | Lead Paint Roster"
 description: "M.Lemay Lead Paint Consulting: Lead inspection / evaluation in Fitchburg, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/m-lemay-lead-paint-consulting-ma0017/
 ---

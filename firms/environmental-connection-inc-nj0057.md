@@ -1,5 +1,5 @@
 ---
-title: "Environmental Connection Inc., Trenton, NJ | Lead Roster"
+title: "Environmental Connection Inc., Trenton, NJ | Lead Paint Roster"
 description: "Environmental Connection Inc.: Lead inspection / evaluation in Trenton, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/environmental-connection-inc-nj0057/
 ---

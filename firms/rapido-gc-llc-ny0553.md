@@ -1,5 +1,5 @@
 ---
-title: "Rapido Gc LLC, Long Islan City, NY | Lead Roster"
+title: "Rapido Gc LLC, Long Islan City, NY | Lead Paint Roster"
 description: "Rapido Gc LLC: Lead abatement, Lead inspection / evaluation in Long Islan City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rapido-gc-llc-ny0553/
 ---

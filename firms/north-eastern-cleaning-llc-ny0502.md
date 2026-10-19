@@ -1,5 +1,5 @@
 ---
-title: "North Eastern Cleaning LLC, Deer Park, NY | Lead Roster"
+title: "North Eastern Cleaning LLC, Deer Park, NY | Lead Paint Roster"
 description: "North Eastern Cleaning LLC: Lead abatement, Lead inspection / evaluation in Deer Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/north-eastern-cleaning-llc-ny0502/
 ---

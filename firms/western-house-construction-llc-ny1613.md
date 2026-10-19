@@ -1,5 +1,5 @@
 ---
-title: "Western House Construction LLC, Flushing, NY | Lead Roster"
+title: "Western House Construction LLC, Flushing, NY | Lead Paint Roster"
 description: "Western House Construction LLC: Lead abatement in Flushing, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/western-house-construction-llc-ny1613/
 ---

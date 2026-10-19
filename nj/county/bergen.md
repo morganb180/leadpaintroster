@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Bergen County, NJ: 28 Listings | Lead Roster"
+title: "Certified Lead Paint Inspection & Abatement in Bergen County, NJ: 28 Listings | Lead Paint Roster"
 description: "28 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms in Bergen County, New Jersey, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/nj/county/bergen/
 ---

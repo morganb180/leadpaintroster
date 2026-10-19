@@ -1,5 +1,5 @@
 ---
-title: "Dulcinium, LLC, Bronx, NY | Lead Roster"
+title: "Dulcinium, LLC, Bronx, NY | Lead Paint Roster"
 description: "Dulcinium, LLC: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dulcinium-llc-ny0207/
 ---

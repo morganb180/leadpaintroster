@@ -1,5 +1,5 @@
 ---
-title: "KM Solid Construction LLC, Brooklyn, NY | Lead Roster"
+title: "KM Solid Construction LLC, Brooklyn, NY | Lead Paint Roster"
 description: "KM Solid Construction LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/km-solid-construction-llc-ny1145/
 ---

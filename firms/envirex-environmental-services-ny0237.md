@@ -1,5 +1,5 @@
 ---
-title: "Envirex Environmental Services, New York, NY | Lead Roster"
+title: "Envirex Environmental Services, New York, NY | Lead Paint Roster"
 description: "Envirex Environmental Services: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/envirex-environmental-services-ny0237/
 ---

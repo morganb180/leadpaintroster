@@ -1,5 +1,5 @@
 ---
-title: "River Bank Properties, LLC, Hainesport, NJ | Lead Roster"
+title: "River Bank Properties, LLC, Hainesport, NJ | Lead Paint Roster"
 description: "River Bank Properties, LLC: Lead inspection / evaluation in Hainesport, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/river-bank-properties-llc-nj0141/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Brooklyn, NY | Lead Roster"
+title: "How to Hire a Lead Paint Inspector in Brooklyn, NY | Lead Paint Roster"
 description: "Brooklyn, NY lead paint guide: 112 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/brooklyn/guide/
 ---

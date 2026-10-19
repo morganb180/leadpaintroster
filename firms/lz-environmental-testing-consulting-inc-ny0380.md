@@ -1,5 +1,5 @@
 ---
-title: "LZ Environmental Testing & Consulting, Inc., Brooklyn, NY | Lead Roster"
+title: "LZ Environmental Testing & Consulting, Inc., Brooklyn, NY | Lead Paint Roster"
 description: "LZ Environmental Testing & Consulting, Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lz-environmental-testing-consulting-inc-ny0380/
 ---

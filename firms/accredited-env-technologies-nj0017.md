@@ -1,5 +1,5 @@
 ---
-title: "Accredited Env. Technologies, Media, PA | Lead Roster"
+title: "Accredited Env. Technologies, Media, PA | Lead Paint Roster"
 description: "Accredited Env. Technologies: Lead inspection / evaluation in Media, PA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/accredited-env-technologies-nj0017/
 ---

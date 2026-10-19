@@ -1,5 +1,5 @@
 ---
-title: "Precision Environmental Inc., Long Island City, NY | Lead Roster"
+title: "Precision Environmental Inc., Long Island City, NY | Lead Paint Roster"
 description: "Precision Environmental Inc.: Lead inspection / evaluation in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/precision-environmental-inc-ny0534/
 ---

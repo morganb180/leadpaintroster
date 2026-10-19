@@ -1,5 +1,5 @@
 ---
-title: "Tri Contracting Inc, New York, NY | Lead Roster"
+title: "Tri Contracting Inc, New York, NY | Lead Paint Roster"
 description: "Tri Contracting Inc: Lead abatement in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tri-contracting-inc-ny1560/
 ---

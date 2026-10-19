@@ -1,5 +1,5 @@
 ---
-title: "SFK Total LLC, Congers, NY | Lead Roster"
+title: "SFK Total LLC, Congers, NY | Lead Paint Roster"
 description: "SFK Total LLC: Lead inspection / evaluation in Congers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sfk-total-llc-ny0589/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Skos Contracing LLC, Staten Island, NY | Lead Roster"
+title: "Skos Contracing LLC, Staten Island, NY | Lead Paint Roster"
 description: "Skos Contracing LLC: Lead abatement, Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/skos-contracing-llc-ny0590/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Shamas Contracting Co., Inc., Bronx, NY | Lead Roster"
+title: "Shamas Contracting Co., Inc., Bronx, NY | Lead Paint Roster"
 description: "Shamas Contracting Co., Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/shamas-contracting-co-inc-ny1487/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "NOX Builders Inc., Hicksville, NY | Lead Roster"
+title: "NOX Builders Inc., Hicksville, NY | Lead Paint Roster"
 description: "NOX Builders Inc.: Lead abatement in Hicksville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nox-builders-inc-ny1270/
 ---

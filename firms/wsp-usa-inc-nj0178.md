@@ -1,5 +1,5 @@
 ---
-title: "Wsp USA, Inc., New York, NY | Lead Roster"
+title: "Wsp USA, Inc., New York, NY | Lead Paint Roster"
 description: "Wsp USA, Inc.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/wsp-usa-inc-nj0178/
 ---

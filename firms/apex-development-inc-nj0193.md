@@ -1,5 +1,5 @@
 ---
-title: "Apex Development Inc, Newark, NJ | Lead Roster"
+title: "Apex Development Inc, Newark, NJ | Lead Paint Roster"
 description: "Apex Development Inc: Lead abatement in Newark, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/apex-development-inc-nj0193/
 ---

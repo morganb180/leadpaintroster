@@ -1,5 +1,5 @@
 ---
-title: "RoyalBuildByte LLC, Jackson Heights, NY | Lead Roster"
+title: "RoyalBuildByte LLC, Jackson Heights, NY | Lead Paint Roster"
 description: "RoyalBuildByte LLC: Lead abatement in Jackson Heights, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/royalbuildbyte-llc-ny1446/
 ---

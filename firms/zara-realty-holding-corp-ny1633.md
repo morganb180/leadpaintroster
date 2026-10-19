@@ -1,5 +1,5 @@
 ---
-title: "Zara Realty Holding Corp, Jamaica, NY | Lead Roster"
+title: "Zara Realty Holding Corp, Jamaica, NY | Lead Paint Roster"
 description: "Zara Realty Holding Corp: Lead abatement in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/zara-realty-holding-corp-ny1633/
 ---

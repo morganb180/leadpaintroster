@@ -1,5 +1,5 @@
 ---
-title: "Asbestways Solutions Corp, Brooklyn, NY | Lead Roster"
+title: "Asbestways Solutions Corp, Brooklyn, NY | Lead Paint Roster"
 description: "Asbestways Solutions Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/asbestways-solutions-corp-ny0798/
 ---
