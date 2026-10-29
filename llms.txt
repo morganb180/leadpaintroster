@@ -29,5 +29,13 @@ Lead Paint Roster is for landlords, tenants, buyers and parents who need a certi
 - [How we verify listings](https://leadpaintroster.com/how-we-verify/): sources and retrieval dates
 - [Sitemap](https://leadpaintroster.com/sitemap.xml)
 
+## Agent API
+- [API catalog](https://leadpaintroster.com/.well-known/api-catalog): RFC 9727 linkset
+- [OpenAPI spec](https://leadpaintroster.com/openapi.json): search API and quote requests
+- [Feed index](https://leadpaintroster.com/api/index.json): data sources, last-updated date, county/city feeds
+- [All firms (JSON)](https://leadpaintroster.com/api/firms.json)
+- [MCP server card](https://leadpaintroster.com/.well-known/mcp.json): remote MCP at https://leads.radonroster.com/mcp?site=leadpaint
+- [Agent skills](https://leadpaintroster.com/.well-known/agent-skills/index.json)
+
 ## Optional
 - [llms-full.txt](https://leadpaintroster.com/llms-full.txt): every county, city and guide page

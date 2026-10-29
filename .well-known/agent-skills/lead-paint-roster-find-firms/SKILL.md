@@ -1,0 +1,25 @@
+---
+name: lead-paint-roster-find-firms
+description: Find certified lead inspectors, risk assessors and abatement firms in NJ, NY and MA on Lead Paint Roster by ZIP, city or county, with credentials and links to each listing.
+---
+
+# Find firms on Lead Paint Roster
+
+Use this when someone needs certified lead inspectors, risk assessors and abatement firms in NJ, NY and MA. Data is the public listing data from https://leadpaintroster.com/ (official licence records; retrieval dates are in each record). A listing is not an endorsement.
+
+## Options (pick one)
+
+1. **Search API**: `GET https://leads.radonroster.com/api/firms?site=leadpaint&zip=<5-digit ZIP>&service=<code>&limit=10`
+   - Location (one is required): `zip`, `city`, `county` (plus `state` = NJ/NY/MA).
+   - Service codes: `inspection` (Lead inspection / evaluation), `risk_assessment` (Lead risk assessment), `abatement` (Lead abatement).
+   - CORS is open. Spec: https://leadpaintroster.com/openapi.json
+2. **MCP**: streamable HTTP at `https://leads.radonroster.com/mcp?site=leadpaint`, with tools `search_firms`, `get_firm` and `list_areas`.
+3. **Static feeds** (no API call): https://leadpaintroster.com/api/index.json lists every county/city feed, for example `https://leadpaintroster.com/api/county/<slug>.json`. https://leadpaintroster.com/api/firms.json has every firm.
+
+## Using results
+
+- Each firm has: `id`, `name`, `certification`, `issuing_agency`, `credentials[]` (number, expiry), `services`, `city`, `state`, `counties`, `cities`, `firm_url`, `quote_url` and, where the site shows it, `google_rating`.
+- Area results have `match`: `local` means listed in that area's own section; `nearby` means listed under nearby/other firms.
+- Phone and contact details are not in the API. Send people to `firm_url`.
+- Mention that credentials should be confirmed with the issuing agency (link in `source.urls`).
+- Do not scrape the HTML pages; use the feeds.

@@ -1,0 +1,1627 @@
+{
+  "$comment": "Agent-facing feeds for Lead Paint Roster",
+  "site": "leadpaint",
+  "name": "Lead Paint Roster",
+  "url": "https://leadpaintroster.com/",
+  "description": "Public listing data for certified lead inspectors, risk assessors and abatement firms in NJ, NY and MA.",
+  "generated": "2026-10-29",
+  "last_updated": "2026-10-12",
+  "data_source": {
+    "description": "Official licence/certification records as published on the site; each firm record has its own source URL and retrieval date.",
+    "sources": [
+      {
+        "url": "https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download",
+        "agency": "Massachusetts Department of Labor Standards (MA DLS)",
+        "retrieved": "2026-10-12",
+        "firms": 60
+      },
+      {
+        "url": "https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf",
+        "agency": "New Jersey Department of Community Affairs (NJ DCA)",
+        "retrieved": "2026-10-12",
+        "firms": 180
+      },
+      {
+        "url": "https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat_c.pdf",
+        "agency": "New Jersey Department of Community Affairs (NJ DCA)",
+        "retrieved": "2026-10-12",
+        "firms": 76
+      },
+      {
+        "url": "https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search",
+        "agency": "US Environmental Protection Agency (EPA)",
+        "retrieved": "2026-10-12",
+        "firms": 1636
+      }
+    ]
+  },
+  "attribution": "Listing data from Lead Paint Roster (https://leadpaintroster.com/), built from public licence records. Not an endorsement.",
+  "counts": {
+    "firms": 1952,
+    "counties": 83,
+    "cities": 87,
+    "states": 3
+  },
+  "services": [
+    {
+      "code": "inspection",
+      "label": "Lead inspection / evaluation"
+    },
+    {
+      "code": "risk_assessment",
+      "label": "Lead risk assessment"
+    },
+    {
+      "code": "abatement",
+      "label": "Lead abatement"
+    }
+  ],
+  "fields_excluded": "Phone, email and street address are not included; see each firm_url.",
+  "endpoints": {
+    "firms": "https://leadpaintroster.com/api/firms.json",
+    "county": "https://leadpaintroster.com/api/county/{slug}.json",
+    "city": "https://leadpaintroster.com/api/city/{slug}.json",
+    "state": "https://leadpaintroster.com/api/state/{st}.json",
+    "search": "https://leads.radonroster.com/api/firms?site=leadpaint",
+    "quote": "https://leads.radonroster.com/api/agent/quote?site=leadpaint",
+    "mcp": "https://leads.radonroster.com/mcp?site=leadpaint",
+    "openapi": "https://leadpaintroster.com/openapi.json",
+    "api_catalog": "https://leadpaintroster.com/.well-known/api-catalog"
+  },
+  "search_by_zip": true,
+  "quote_requests": true,
+  "states": [
+    {
+      "slug": "nj",
+      "count": 256,
+      "page": "https://leadpaintroster.com/nj/",
+      "feed": "https://leadpaintroster.com/api/state/nj.json"
+    },
+    {
+      "slug": "ny",
+      "count": 1636,
+      "page": "https://leadpaintroster.com/ny/",
+      "feed": "https://leadpaintroster.com/api/state/ny.json"
+    },
+    {
+      "slug": "ma",
+      "count": 60,
+      "page": "https://leadpaintroster.com/ma/",
+      "feed": "https://leadpaintroster.com/api/state/ma.json"
+    }
+  ],
+  "counties": [
+    {
+      "slug": "ma-berkshire",
+      "name": "Certified lead paint inspectors & abatement firms in Berkshire County, MA",
+      "state": "MA",
+      "page": "https://leadpaintroster.com/ma/county/berkshire/",
+      "feed": "https://leadpaintroster.com/api/county/ma-berkshire.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ma-bristol",
+      "name": "Certified lead paint inspectors & abatement firms in Bristol County, MA",
+      "state": "MA",
+      "page": "https://leadpaintroster.com/ma/county/bristol/",
+      "feed": "https://leadpaintroster.com/api/county/ma-bristol.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "ma-essex",
+      "name": "Certified lead paint inspectors & abatement firms in Essex County, MA",
+      "state": "MA",
+      "page": "https://leadpaintroster.com/ma/county/essex/",
+      "feed": "https://leadpaintroster.com/api/county/ma-essex.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ma-hampden",
+      "name": "Certified lead paint inspectors & abatement firms in Hampden County, MA",
+      "state": "MA",
+      "page": "https://leadpaintroster.com/ma/county/hampden/",
+      "feed": "https://leadpaintroster.com/api/county/ma-hampden.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ma-hampshire",
+      "name": "Certified lead paint inspectors & abatement firms in Hampshire County, MA",
+      "state": "MA",
+      "page": "https://leadpaintroster.com/ma/county/hampshire/",
+      "feed": "https://leadpaintroster.com/api/county/ma-hampshire.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ma-middlesex",
+      "name": "Certified lead paint inspectors & abatement firms in Middlesex County, MA",
+      "state": "MA",
+      "page": "https://leadpaintroster.com/ma/county/middlesex/",
+      "feed": "https://leadpaintroster.com/api/county/ma-middlesex.json",
+      "count": 18,
+      "local_count": 18
+    },
+    {
+      "slug": "ma-norfolk",
+      "name": "Certified lead paint inspectors & abatement firms in Norfolk County, MA",
+      "state": "MA",
+      "page": "https://leadpaintroster.com/ma/county/norfolk/",
+      "feed": "https://leadpaintroster.com/api/county/ma-norfolk.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "ma-plymouth",
+      "name": "Certified lead paint inspectors & abatement firms in Plymouth County, MA",
+      "state": "MA",
+      "page": "https://leadpaintroster.com/ma/county/plymouth/",
+      "feed": "https://leadpaintroster.com/api/county/ma-plymouth.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ma-suffolk",
+      "name": "Certified lead paint inspectors & abatement firms in Suffolk County, MA",
+      "state": "MA",
+      "page": "https://leadpaintroster.com/ma/county/suffolk/",
+      "feed": "https://leadpaintroster.com/api/county/ma-suffolk.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ma-worcester",
+      "name": "Certified lead paint inspectors & abatement firms in Worcester County, MA",
+      "state": "MA",
+      "page": "https://leadpaintroster.com/ma/county/worcester/",
+      "feed": "https://leadpaintroster.com/api/county/ma-worcester.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "nj-atlantic",
+      "name": "Certified lead paint inspectors & abatement firms in Atlantic County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/atlantic/",
+      "feed": "https://leadpaintroster.com/api/county/nj-atlantic.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "nj-bergen",
+      "name": "Certified lead paint inspectors & abatement firms in Bergen County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/bergen/",
+      "feed": "https://leadpaintroster.com/api/county/nj-bergen.json",
+      "count": 28,
+      "local_count": 28
+    },
+    {
+      "slug": "nj-burlington",
+      "name": "Certified lead paint inspectors & abatement firms in Burlington County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/burlington/",
+      "feed": "https://leadpaintroster.com/api/county/nj-burlington.json",
+      "count": 13,
+      "local_count": 13
+    },
+    {
+      "slug": "nj-camden",
+      "name": "Certified lead paint inspectors & abatement firms in Camden County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/camden/",
+      "feed": "https://leadpaintroster.com/api/county/nj-camden.json",
+      "count": 13,
+      "local_count": 13
+    },
+    {
+      "slug": "nj-cape-may",
+      "name": "Certified lead paint inspectors & abatement firms in Cape May County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/cape-may/",
+      "feed": "https://leadpaintroster.com/api/county/nj-cape-may.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "nj-cumberland",
+      "name": "Certified lead paint inspectors & abatement firms in Cumberland County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/cumberland/",
+      "feed": "https://leadpaintroster.com/api/county/nj-cumberland.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "nj-essex",
+      "name": "Certified lead paint inspectors & abatement firms in Essex County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/essex/",
+      "feed": "https://leadpaintroster.com/api/county/nj-essex.json",
+      "count": 24,
+      "local_count": 24
+    },
+    {
+      "slug": "nj-gloucester",
+      "name": "Certified lead paint inspectors & abatement firms in Gloucester County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/gloucester/",
+      "feed": "https://leadpaintroster.com/api/county/nj-gloucester.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "nj-hudson",
+      "name": "Certified lead paint inspectors & abatement firms in Hudson County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/hudson/",
+      "feed": "https://leadpaintroster.com/api/county/nj-hudson.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "nj-mercer",
+      "name": "Certified lead paint inspectors & abatement firms in Mercer County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/mercer/",
+      "feed": "https://leadpaintroster.com/api/county/nj-mercer.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "nj-middlesex",
+      "name": "Certified lead paint inspectors & abatement firms in Middlesex County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/middlesex/",
+      "feed": "https://leadpaintroster.com/api/county/nj-middlesex.json",
+      "count": 15,
+      "local_count": 15
+    },
+    {
+      "slug": "nj-monmouth",
+      "name": "Certified lead paint inspectors & abatement firms in Monmouth County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/monmouth/",
+      "feed": "https://leadpaintroster.com/api/county/nj-monmouth.json",
+      "count": 16,
+      "local_count": 16
+    },
+    {
+      "slug": "nj-morris",
+      "name": "Certified lead paint inspectors & abatement firms in Morris County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/morris/",
+      "feed": "https://leadpaintroster.com/api/county/nj-morris.json",
+      "count": 21,
+      "local_count": 21
+    },
+    {
+      "slug": "nj-ocean",
+      "name": "Certified lead paint inspectors & abatement firms in Ocean County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/ocean/",
+      "feed": "https://leadpaintroster.com/api/county/nj-ocean.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "nj-passaic",
+      "name": "Certified lead paint inspectors & abatement firms in Passaic County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/passaic/",
+      "feed": "https://leadpaintroster.com/api/county/nj-passaic.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "nj-somerset",
+      "name": "Certified lead paint inspectors & abatement firms in Somerset County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/somerset/",
+      "feed": "https://leadpaintroster.com/api/county/nj-somerset.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "nj-sussex",
+      "name": "Certified lead paint inspectors & abatement firms in Sussex County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/sussex/",
+      "feed": "https://leadpaintroster.com/api/county/nj-sussex.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "nj-union",
+      "name": "Certified lead paint inspectors & abatement firms in Union County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/union/",
+      "feed": "https://leadpaintroster.com/api/county/nj-union.json",
+      "count": 20,
+      "local_count": 20
+    },
+    {
+      "slug": "nj-warren",
+      "name": "Certified lead paint inspectors & abatement firms in Warren County, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/county/warren/",
+      "feed": "https://leadpaintroster.com/api/county/nj-warren.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-albany",
+      "name": "Certified lead paint inspectors & abatement firms in Albany County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/albany/",
+      "feed": "https://leadpaintroster.com/api/county/ny-albany.json",
+      "count": 29,
+      "local_count": 29
+    },
+    {
+      "slug": "ny-allegany",
+      "name": "Certified lead paint inspectors & abatement firms in Allegany County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/allegany/",
+      "feed": "https://leadpaintroster.com/api/county/ny-allegany.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-bronx",
+      "name": "Certified lead paint inspectors & abatement firms in Bronx County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/bronx/",
+      "feed": "https://leadpaintroster.com/api/county/ny-bronx.json",
+      "count": 118,
+      "local_count": 118
+    },
+    {
+      "slug": "ny-broome",
+      "name": "Certified lead paint inspectors & abatement firms in Broome County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/broome/",
+      "feed": "https://leadpaintroster.com/api/county/ny-broome.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "ny-cattaraugus",
+      "name": "Certified lead paint inspectors & abatement firms in Cattaraugus County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/cattaraugus/",
+      "feed": "https://leadpaintroster.com/api/county/ny-cattaraugus.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-cayuga",
+      "name": "Certified lead paint inspectors & abatement firms in Cayuga County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/cayuga/",
+      "feed": "https://leadpaintroster.com/api/county/ny-cayuga.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-chautauqua",
+      "name": "Certified lead paint inspectors & abatement firms in Chautauqua County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/chautauqua/",
+      "feed": "https://leadpaintroster.com/api/county/ny-chautauqua.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "ny-chemung",
+      "name": "Certified lead paint inspectors & abatement firms in Chemung County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/chemung/",
+      "feed": "https://leadpaintroster.com/api/county/ny-chemung.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-clinton",
+      "name": "Certified lead paint inspectors & abatement firms in Clinton County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/clinton/",
+      "feed": "https://leadpaintroster.com/api/county/ny-clinton.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-columbia",
+      "name": "Certified lead paint inspectors & abatement firms in Columbia County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/columbia/",
+      "feed": "https://leadpaintroster.com/api/county/ny-columbia.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "ny-cortland",
+      "name": "Certified lead paint inspectors & abatement firms in Cortland County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/cortland/",
+      "feed": "https://leadpaintroster.com/api/county/ny-cortland.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "ny-delaware",
+      "name": "Certified lead paint inspectors & abatement firms in Delaware County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/delaware/",
+      "feed": "https://leadpaintroster.com/api/county/ny-delaware.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-dutchess",
+      "name": "Certified lead paint inspectors & abatement firms in Dutchess County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/dutchess/",
+      "feed": "https://leadpaintroster.com/api/county/ny-dutchess.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "ny-erie",
+      "name": "Certified lead paint inspectors & abatement firms in Erie County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/erie/",
+      "feed": "https://leadpaintroster.com/api/county/ny-erie.json",
+      "count": 47,
+      "local_count": 47
+    },
+    {
+      "slug": "ny-essex",
+      "name": "Certified lead paint inspectors & abatement firms in Essex County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/essex/",
+      "feed": "https://leadpaintroster.com/api/county/ny-essex.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-franklin",
+      "name": "Certified lead paint inspectors & abatement firms in Franklin County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/franklin/",
+      "feed": "https://leadpaintroster.com/api/county/ny-franklin.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "ny-fulton",
+      "name": "Certified lead paint inspectors & abatement firms in Fulton County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/fulton/",
+      "feed": "https://leadpaintroster.com/api/county/ny-fulton.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-genesee",
+      "name": "Certified lead paint inspectors & abatement firms in Genesee County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/genesee/",
+      "feed": "https://leadpaintroster.com/api/county/ny-genesee.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-greene",
+      "name": "Certified lead paint inspectors & abatement firms in Greene County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/greene/",
+      "feed": "https://leadpaintroster.com/api/county/ny-greene.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-herkimer",
+      "name": "Certified lead paint inspectors & abatement firms in Herkimer County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/herkimer/",
+      "feed": "https://leadpaintroster.com/api/county/ny-herkimer.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-jefferson",
+      "name": "Certified lead paint inspectors & abatement firms in Jefferson County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/jefferson/",
+      "feed": "https://leadpaintroster.com/api/county/ny-jefferson.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "ny-kings",
+      "name": "Certified lead paint inspectors & abatement firms in Kings County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/kings/",
+      "feed": "https://leadpaintroster.com/api/county/ny-kings.json",
+      "count": 254,
+      "local_count": 254
+    },
+    {
+      "slug": "ny-lewis",
+      "name": "Certified lead paint inspectors & abatement firms in Lewis County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/lewis/",
+      "feed": "https://leadpaintroster.com/api/county/ny-lewis.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-monroe",
+      "name": "Certified lead paint inspectors & abatement firms in Monroe County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/monroe/",
+      "feed": "https://leadpaintroster.com/api/county/ny-monroe.json",
+      "count": 45,
+      "local_count": 45
+    },
+    {
+      "slug": "ny-montgomery",
+      "name": "Certified lead paint inspectors & abatement firms in Montgomery County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/montgomery/",
+      "feed": "https://leadpaintroster.com/api/county/ny-montgomery.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-nassau",
+      "name": "Certified lead paint inspectors & abatement firms in Nassau County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/nassau/",
+      "feed": "https://leadpaintroster.com/api/county/ny-nassau.json",
+      "count": 150,
+      "local_count": 150
+    },
+    {
+      "slug": "ny-new-york",
+      "name": "Certified lead paint inspectors & abatement firms in New York County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/new-york/",
+      "feed": "https://leadpaintroster.com/api/county/ny-new-york.json",
+      "count": 120,
+      "local_count": 120
+    },
+    {
+      "slug": "ny-niagara",
+      "name": "Certified lead paint inspectors & abatement firms in Niagara County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/niagara/",
+      "feed": "https://leadpaintroster.com/api/county/ny-niagara.json",
+      "count": 17,
+      "local_count": 17
+    },
+    {
+      "slug": "ny-oneida",
+      "name": "Certified lead paint inspectors & abatement firms in Oneida County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/oneida/",
+      "feed": "https://leadpaintroster.com/api/county/ny-oneida.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "ny-onondaga",
+      "name": "Certified lead paint inspectors & abatement firms in Onondaga County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/onondaga/",
+      "feed": "https://leadpaintroster.com/api/county/ny-onondaga.json",
+      "count": 38,
+      "local_count": 38
+    },
+    {
+      "slug": "ny-ontario",
+      "name": "Certified lead paint inspectors & abatement firms in Ontario County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/ontario/",
+      "feed": "https://leadpaintroster.com/api/county/ny-ontario.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-orange",
+      "name": "Certified lead paint inspectors & abatement firms in Orange County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/orange/",
+      "feed": "https://leadpaintroster.com/api/county/ny-orange.json",
+      "count": 21,
+      "local_count": 21
+    },
+    {
+      "slug": "ny-orleans",
+      "name": "Certified lead paint inspectors & abatement firms in Orleans County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/orleans/",
+      "feed": "https://leadpaintroster.com/api/county/ny-orleans.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-oswego",
+      "name": "Certified lead paint inspectors & abatement firms in Oswego County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/oswego/",
+      "feed": "https://leadpaintroster.com/api/county/ny-oswego.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-otsego",
+      "name": "Certified lead paint inspectors & abatement firms in Otsego County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/otsego/",
+      "feed": "https://leadpaintroster.com/api/county/ny-otsego.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-putnam",
+      "name": "Certified lead paint inspectors & abatement firms in Putnam County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/putnam/",
+      "feed": "https://leadpaintroster.com/api/county/ny-putnam.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-queens",
+      "name": "Certified lead paint inspectors & abatement firms in Queens County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/queens/",
+      "feed": "https://leadpaintroster.com/api/county/ny-queens.json",
+      "count": 324,
+      "local_count": 324
+    },
+    {
+      "slug": "ny-rensselaer",
+      "name": "Certified lead paint inspectors & abatement firms in Rensselaer County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/rensselaer/",
+      "feed": "https://leadpaintroster.com/api/county/ny-rensselaer.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "ny-richmond",
+      "name": "Certified lead paint inspectors & abatement firms in Richmond County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/richmond/",
+      "feed": "https://leadpaintroster.com/api/county/ny-richmond.json",
+      "count": 72,
+      "local_count": 72
+    },
+    {
+      "slug": "ny-rockland",
+      "name": "Certified lead paint inspectors & abatement firms in Rockland County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/rockland/",
+      "feed": "https://leadpaintroster.com/api/county/ny-rockland.json",
+      "count": 47,
+      "local_count": 47
+    },
+    {
+      "slug": "ny-saratoga",
+      "name": "Certified lead paint inspectors & abatement firms in Saratoga County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/saratoga/",
+      "feed": "https://leadpaintroster.com/api/county/ny-saratoga.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-schenectady",
+      "name": "Certified lead paint inspectors & abatement firms in Schenectady County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/schenectady/",
+      "feed": "https://leadpaintroster.com/api/county/ny-schenectady.json",
+      "count": 22,
+      "local_count": 22
+    },
+    {
+      "slug": "ny-schoharie",
+      "name": "Certified lead paint inspectors & abatement firms in Schoharie County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/schoharie/",
+      "feed": "https://leadpaintroster.com/api/county/ny-schoharie.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-st-lawrence",
+      "name": "Certified lead paint inspectors & abatement firms in St. Lawrence County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/st-lawrence/",
+      "feed": "https://leadpaintroster.com/api/county/ny-st-lawrence.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "ny-steuben",
+      "name": "Certified lead paint inspectors & abatement firms in Steuben County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/steuben/",
+      "feed": "https://leadpaintroster.com/api/county/ny-steuben.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-suffolk",
+      "name": "Certified lead paint inspectors & abatement firms in Suffolk County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/suffolk/",
+      "feed": "https://leadpaintroster.com/api/county/ny-suffolk.json",
+      "count": 66,
+      "local_count": 66
+    },
+    {
+      "slug": "ny-sullivan",
+      "name": "Certified lead paint inspectors & abatement firms in Sullivan County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/sullivan/",
+      "feed": "https://leadpaintroster.com/api/county/ny-sullivan.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-tioga",
+      "name": "Certified lead paint inspectors & abatement firms in Tioga County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/tioga/",
+      "feed": "https://leadpaintroster.com/api/county/ny-tioga.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-tompkins",
+      "name": "Certified lead paint inspectors & abatement firms in Tompkins County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/tompkins/",
+      "feed": "https://leadpaintroster.com/api/county/ny-tompkins.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-ulster",
+      "name": "Certified lead paint inspectors & abatement firms in Ulster County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/ulster/",
+      "feed": "https://leadpaintroster.com/api/county/ny-ulster.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "ny-warren",
+      "name": "Certified lead paint inspectors & abatement firms in Warren County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/warren/",
+      "feed": "https://leadpaintroster.com/api/county/ny-warren.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ny-washington",
+      "name": "Certified lead paint inspectors & abatement firms in Washington County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/washington/",
+      "feed": "https://leadpaintroster.com/api/county/ny-washington.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "ny-wayne",
+      "name": "Certified lead paint inspectors & abatement firms in Wayne County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/wayne/",
+      "feed": "https://leadpaintroster.com/api/county/ny-wayne.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-westchester",
+      "name": "Certified lead paint inspectors & abatement firms in Westchester County, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/county/westchester/",
+      "feed": "https://leadpaintroster.com/api/county/ny-westchester.json",
+      "count": 123,
+      "local_count": 123
+    }
+  ],
+  "cities": [
+    {
+      "slug": "nj-cherry-hill",
+      "name": "Certified lead paint inspectors & abatement firms in Cherry Hill, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/city/cherry-hill/",
+      "feed": "https://leadpaintroster.com/api/city/nj-cherry-hill.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "nj-elizabeth",
+      "name": "Certified lead paint inspectors & abatement firms in Elizabeth, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/city/elizabeth/",
+      "feed": "https://leadpaintroster.com/api/city/nj-elizabeth.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "nj-lakewood",
+      "name": "Certified lead paint inspectors & abatement firms in Lakewood, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/city/lakewood/",
+      "feed": "https://leadpaintroster.com/api/city/nj-lakewood.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "nj-newark",
+      "name": "Certified lead paint inspectors & abatement firms in Newark, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/city/newark/",
+      "feed": "https://leadpaintroster.com/api/city/nj-newark.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "nj-union",
+      "name": "Certified lead paint inspectors & abatement firms in Union, NJ",
+      "state": "NJ",
+      "page": "https://leadpaintroster.com/nj/city/union/",
+      "feed": "https://leadpaintroster.com/api/city/nj-union.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-airmont",
+      "name": "Certified lead paint inspectors & abatement firms in Airmont, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/airmont/",
+      "feed": "https://leadpaintroster.com/api/city/ny-airmont.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-albany",
+      "name": "Certified lead paint inspectors & abatement firms in Albany, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/albany/",
+      "feed": "https://leadpaintroster.com/api/city/ny-albany.json",
+      "count": 22,
+      "local_count": 22
+    },
+    {
+      "slug": "ny-astoria",
+      "name": "Certified lead paint inspectors & abatement firms in Astoria, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/astoria/",
+      "feed": "https://leadpaintroster.com/api/city/ny-astoria.json",
+      "count": 34,
+      "local_count": 34
+    },
+    {
+      "slug": "ny-auburn",
+      "name": "Certified lead paint inspectors & abatement firms in Auburn, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/auburn/",
+      "feed": "https://leadpaintroster.com/api/city/ny-auburn.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-bayside",
+      "name": "Certified lead paint inspectors & abatement firms in Bayside, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/bayside/",
+      "feed": "https://leadpaintroster.com/api/city/ny-bayside.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-bellerose",
+      "name": "Certified lead paint inspectors & abatement firms in Bellerose, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/bellerose/",
+      "feed": "https://leadpaintroster.com/api/city/ny-bellerose.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-binghamton",
+      "name": "Certified lead paint inspectors & abatement firms in Binghamton, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/binghamton/",
+      "feed": "https://leadpaintroster.com/api/city/ny-binghamton.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-bohemia",
+      "name": "Certified lead paint inspectors & abatement firms in Bohemia, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/bohemia/",
+      "feed": "https://leadpaintroster.com/api/city/ny-bohemia.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-bronx",
+      "name": "Certified lead paint inspectors & abatement firms in Bronx, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/bronx/",
+      "feed": "https://leadpaintroster.com/api/city/ny-bronx.json",
+      "count": 116,
+      "local_count": 116
+    },
+    {
+      "slug": "ny-brooklyn",
+      "name": "Certified lead paint inspectors & abatement firms in Brooklyn, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/brooklyn/",
+      "feed": "https://leadpaintroster.com/api/city/ny-brooklyn.json",
+      "count": 249,
+      "local_count": 249
+    },
+    {
+      "slug": "ny-buffalo",
+      "name": "Certified lead paint inspectors & abatement firms in Buffalo, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/buffalo/",
+      "feed": "https://leadpaintroster.com/api/city/ny-buffalo.json",
+      "count": 17,
+      "local_count": 17
+    },
+    {
+      "slug": "ny-cedarhurst",
+      "name": "Certified lead paint inspectors & abatement firms in Cedarhurst, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/cedarhurst/",
+      "feed": "https://leadpaintroster.com/api/city/ny-cedarhurst.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-college-point",
+      "name": "Certified lead paint inspectors & abatement firms in College Point, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/college-point/",
+      "feed": "https://leadpaintroster.com/api/city/ny-college-point.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-corona",
+      "name": "Certified lead paint inspectors & abatement firms in Corona, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/corona/",
+      "feed": "https://leadpaintroster.com/api/city/ny-corona.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-east-elmhurst",
+      "name": "Certified lead paint inspectors & abatement firms in East Elmhurst, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/east-elmhurst/",
+      "feed": "https://leadpaintroster.com/api/city/ny-east-elmhurst.json",
+      "count": 13,
+      "local_count": 13
+    },
+    {
+      "slug": "ny-elmhurst",
+      "name": "Certified lead paint inspectors & abatement firms in Elmhurst, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/elmhurst/",
+      "feed": "https://leadpaintroster.com/api/city/ny-elmhurst.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-elmira",
+      "name": "Certified lead paint inspectors & abatement firms in Elmira, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/elmira/",
+      "feed": "https://leadpaintroster.com/api/city/ny-elmira.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-elmont",
+      "name": "Certified lead paint inspectors & abatement firms in Elmont, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/elmont/",
+      "feed": "https://leadpaintroster.com/api/city/ny-elmont.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-falconer",
+      "name": "Certified lead paint inspectors & abatement firms in Falconer, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/falconer/",
+      "feed": "https://leadpaintroster.com/api/city/ny-falconer.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-farmingdale",
+      "name": "Certified lead paint inspectors & abatement firms in Farmingdale, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/farmingdale/",
+      "feed": "https://leadpaintroster.com/api/city/ny-farmingdale.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-floral-park",
+      "name": "Certified lead paint inspectors & abatement firms in Floral Park, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/floral-park/",
+      "feed": "https://leadpaintroster.com/api/city/ny-floral-park.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-flushing",
+      "name": "Certified lead paint inspectors & abatement firms in Flushing, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/flushing/",
+      "feed": "https://leadpaintroster.com/api/city/ny-flushing.json",
+      "count": 22,
+      "local_count": 22
+    },
+    {
+      "slug": "ny-forest-hills",
+      "name": "Certified lead paint inspectors & abatement firms in Forest Hills, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/forest-hills/",
+      "feed": "https://leadpaintroster.com/api/city/ny-forest-hills.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-glendale",
+      "name": "Certified lead paint inspectors & abatement firms in Glendale, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/glendale/",
+      "feed": "https://leadpaintroster.com/api/city/ny-glendale.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-great-neck",
+      "name": "Certified lead paint inspectors & abatement firms in Great Neck, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/great-neck/",
+      "feed": "https://leadpaintroster.com/api/city/ny-great-neck.json",
+      "count": 15,
+      "local_count": 15
+    },
+    {
+      "slug": "ny-hempstead",
+      "name": "Certified lead paint inspectors & abatement firms in Hempstead, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/hempstead/",
+      "feed": "https://leadpaintroster.com/api/city/ny-hempstead.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-hicksville",
+      "name": "Certified lead paint inspectors & abatement firms in Hicksville, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/hicksville/",
+      "feed": "https://leadpaintroster.com/api/city/ny-hicksville.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-howard-beach",
+      "name": "Certified lead paint inspectors & abatement firms in Howard Beach, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/howard-beach/",
+      "feed": "https://leadpaintroster.com/api/city/ny-howard-beach.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-jackson-heights",
+      "name": "Certified lead paint inspectors & abatement firms in Jackson Heights, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/jackson-heights/",
+      "feed": "https://leadpaintroster.com/api/city/ny-jackson-heights.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-jamaica",
+      "name": "Certified lead paint inspectors & abatement firms in Jamaica, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/jamaica/",
+      "feed": "https://leadpaintroster.com/api/city/ny-jamaica.json",
+      "count": 20,
+      "local_count": 20
+    },
+    {
+      "slug": "ny-lackawanna",
+      "name": "Certified lead paint inspectors & abatement firms in Lackawanna, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/lackawanna/",
+      "feed": "https://leadpaintroster.com/api/city/ny-lackawanna.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-levittown",
+      "name": "Certified lead paint inspectors & abatement firms in Levittown, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/levittown/",
+      "feed": "https://leadpaintroster.com/api/city/ny-levittown.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-little-neck",
+      "name": "Certified lead paint inspectors & abatement firms in Little Neck, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/little-neck/",
+      "feed": "https://leadpaintroster.com/api/city/ny-little-neck.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-lockport",
+      "name": "Certified lead paint inspectors & abatement firms in Lockport, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/lockport/",
+      "feed": "https://leadpaintroster.com/api/city/ny-lockport.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-long-island-city",
+      "name": "Certified lead paint inspectors & abatement firms in Long Island City, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/long-island-city/",
+      "feed": "https://leadpaintroster.com/api/city/ny-long-island-city.json",
+      "count": 31,
+      "local_count": 31
+    },
+    {
+      "slug": "ny-maspeth",
+      "name": "Certified lead paint inspectors & abatement firms in Maspeth, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/maspeth/",
+      "feed": "https://leadpaintroster.com/api/city/ny-maspeth.json",
+      "count": 17,
+      "local_count": 17
+    },
+    {
+      "slug": "ny-medford",
+      "name": "Certified lead paint inspectors & abatement firms in Medford, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/medford/",
+      "feed": "https://leadpaintroster.com/api/city/ny-medford.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-melville",
+      "name": "Certified lead paint inspectors & abatement firms in Melville, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/melville/",
+      "feed": "https://leadpaintroster.com/api/city/ny-melville.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-middle-village",
+      "name": "Certified lead paint inspectors & abatement firms in Middle Village, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/middle-village/",
+      "feed": "https://leadpaintroster.com/api/city/ny-middle-village.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-monsey",
+      "name": "Certified lead paint inspectors & abatement firms in Monsey, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/monsey/",
+      "feed": "https://leadpaintroster.com/api/city/ny-monsey.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-mount-kisco",
+      "name": "Certified lead paint inspectors & abatement firms in Mount Kisco, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/mount-kisco/",
+      "feed": "https://leadpaintroster.com/api/city/ny-mount-kisco.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-mount-vernon",
+      "name": "Certified lead paint inspectors & abatement firms in Mount Vernon, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/mount-vernon/",
+      "feed": "https://leadpaintroster.com/api/city/ny-mount-vernon.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-new-city",
+      "name": "Certified lead paint inspectors & abatement firms in New City, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/new-city/",
+      "feed": "https://leadpaintroster.com/api/city/ny-new-city.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-new-hyde-park",
+      "name": "Certified lead paint inspectors & abatement firms in New Hyde Park, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/new-hyde-park/",
+      "feed": "https://leadpaintroster.com/api/city/ny-new-hyde-park.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-new-rochelle",
+      "name": "Certified lead paint inspectors & abatement firms in New Rochelle, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/new-rochelle/",
+      "feed": "https://leadpaintroster.com/api/city/ny-new-rochelle.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "ny-new-york",
+      "name": "Certified lead paint inspectors & abatement firms in New York, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/new-york/",
+      "feed": "https://leadpaintroster.com/api/city/ny-new-york.json",
+      "count": 121,
+      "local_count": 121
+    },
+    {
+      "slug": "ny-new-york-city",
+      "name": "Certified lead paint inspectors & abatement firms in New York City, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/new-york-city/",
+      "feed": "https://leadpaintroster.com/api/city/ny-new-york-city.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-niagara-falls",
+      "name": "Certified lead paint inspectors & abatement firms in Niagara Falls, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/niagara-falls/",
+      "feed": "https://leadpaintroster.com/api/city/ny-niagara-falls.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "ny-ozone-park",
+      "name": "Certified lead paint inspectors & abatement firms in Ozone Park, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/ozone-park/",
+      "feed": "https://leadpaintroster.com/api/city/ny-ozone-park.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "ny-plainview",
+      "name": "Certified lead paint inspectors & abatement firms in Plainview, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/plainview/",
+      "feed": "https://leadpaintroster.com/api/city/ny-plainview.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-port-washington",
+      "name": "Certified lead paint inspectors & abatement firms in Port Washington, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/port-washington/",
+      "feed": "https://leadpaintroster.com/api/city/ny-port-washington.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-poughkeepsie",
+      "name": "Certified lead paint inspectors & abatement firms in Poughkeepsie, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/poughkeepsie/",
+      "feed": "https://leadpaintroster.com/api/city/ny-poughkeepsie.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-queens",
+      "name": "Certified lead paint inspectors & abatement firms in Queens, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/queens/",
+      "feed": "https://leadpaintroster.com/api/city/ny-queens.json",
+      "count": 15,
+      "local_count": 15
+    },
+    {
+      "slug": "ny-queens-village",
+      "name": "Certified lead paint inspectors & abatement firms in Queens Village, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/queens-village/",
+      "feed": "https://leadpaintroster.com/api/city/ny-queens-village.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-rego-park",
+      "name": "Certified lead paint inspectors & abatement firms in Rego Park, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/rego-park/",
+      "feed": "https://leadpaintroster.com/api/city/ny-rego-park.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-richmond-hill",
+      "name": "Certified lead paint inspectors & abatement firms in Richmond Hill, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/richmond-hill/",
+      "feed": "https://leadpaintroster.com/api/city/ny-richmond-hill.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "ny-ridgewood",
+      "name": "Certified lead paint inspectors & abatement firms in Ridgewood, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/ridgewood/",
+      "feed": "https://leadpaintroster.com/api/city/ny-ridgewood.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "ny-rochester",
+      "name": "Certified lead paint inspectors & abatement firms in Rochester, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/rochester/",
+      "feed": "https://leadpaintroster.com/api/city/ny-rochester.json",
+      "count": 35,
+      "local_count": 35
+    },
+    {
+      "slug": "ny-ronkonkoma",
+      "name": "Certified lead paint inspectors & abatement firms in Ronkonkoma, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/ronkonkoma/",
+      "feed": "https://leadpaintroster.com/api/city/ny-ronkonkoma.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-roslyn-heights",
+      "name": "Certified lead paint inspectors & abatement firms in Roslyn Heights, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/roslyn-heights/",
+      "feed": "https://leadpaintroster.com/api/city/ny-roslyn-heights.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-scarsdale",
+      "name": "Certified lead paint inspectors & abatement firms in Scarsdale, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/scarsdale/",
+      "feed": "https://leadpaintroster.com/api/city/ny-scarsdale.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-schenectady",
+      "name": "Certified lead paint inspectors & abatement firms in Schenectady, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/schenectady/",
+      "feed": "https://leadpaintroster.com/api/city/ny-schenectady.json",
+      "count": 18,
+      "local_count": 18
+    },
+    {
+      "slug": "ny-south-ozone-park",
+      "name": "Certified lead paint inspectors & abatement firms in South Ozone Park, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/south-ozone-park/",
+      "feed": "https://leadpaintroster.com/api/city/ny-south-ozone-park.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-south-richmond-hill",
+      "name": "Certified lead paint inspectors & abatement firms in South Richmond Hill, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/south-richmond-hill/",
+      "feed": "https://leadpaintroster.com/api/city/ny-south-richmond-hill.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "ny-spring-valley",
+      "name": "Certified lead paint inspectors & abatement firms in Spring Valley, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/spring-valley/",
+      "feed": "https://leadpaintroster.com/api/city/ny-spring-valley.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-staten-island",
+      "name": "Certified lead paint inspectors & abatement firms in Staten Island, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/staten-island/",
+      "feed": "https://leadpaintroster.com/api/city/ny-staten-island.json",
+      "count": 72,
+      "local_count": 72
+    },
+    {
+      "slug": "ny-suffern",
+      "name": "Certified lead paint inspectors & abatement firms in Suffern, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/suffern/",
+      "feed": "https://leadpaintroster.com/api/city/ny-suffern.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-syracuse",
+      "name": "Certified lead paint inspectors & abatement firms in Syracuse, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/syracuse/",
+      "feed": "https://leadpaintroster.com/api/city/ny-syracuse.json",
+      "count": 21,
+      "local_count": 21
+    },
+    {
+      "slug": "ny-tonawanda",
+      "name": "Certified lead paint inspectors & abatement firms in Tonawanda, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/tonawanda/",
+      "feed": "https://leadpaintroster.com/api/city/ny-tonawanda.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-troy",
+      "name": "Certified lead paint inspectors & abatement firms in Troy, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/troy/",
+      "feed": "https://leadpaintroster.com/api/city/ny-troy.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "ny-valley-stream",
+      "name": "Certified lead paint inspectors & abatement firms in Valley Stream, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/valley-stream/",
+      "feed": "https://leadpaintroster.com/api/city/ny-valley-stream.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "ny-watertown",
+      "name": "Certified lead paint inspectors & abatement firms in Watertown, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/watertown/",
+      "feed": "https://leadpaintroster.com/api/city/ny-watertown.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-west-babylon",
+      "name": "Certified lead paint inspectors & abatement firms in West Babylon, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/west-babylon/",
+      "feed": "https://leadpaintroster.com/api/city/ny-west-babylon.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-west-hempstead",
+      "name": "Certified lead paint inspectors & abatement firms in West Hempstead, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/west-hempstead/",
+      "feed": "https://leadpaintroster.com/api/city/ny-west-hempstead.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-west-seneca",
+      "name": "Certified lead paint inspectors & abatement firms in West Seneca, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/west-seneca/",
+      "feed": "https://leadpaintroster.com/api/city/ny-west-seneca.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-westbury",
+      "name": "Certified lead paint inspectors & abatement firms in Westbury, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/westbury/",
+      "feed": "https://leadpaintroster.com/api/city/ny-westbury.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "ny-white-plains",
+      "name": "Certified lead paint inspectors & abatement firms in White Plains, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/white-plains/",
+      "feed": "https://leadpaintroster.com/api/city/ny-white-plains.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "ny-whitestone",
+      "name": "Certified lead paint inspectors & abatement firms in Whitestone, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/whitestone/",
+      "feed": "https://leadpaintroster.com/api/city/ny-whitestone.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "ny-woodmere",
+      "name": "Certified lead paint inspectors & abatement firms in Woodmere, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/woodmere/",
+      "feed": "https://leadpaintroster.com/api/city/ny-woodmere.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "ny-woodside",
+      "name": "Certified lead paint inspectors & abatement firms in Woodside, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/woodside/",
+      "feed": "https://leadpaintroster.com/api/city/ny-woodside.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "ny-yonkers",
+      "name": "Certified lead paint inspectors & abatement firms in Yonkers, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/yonkers/",
+      "feed": "https://leadpaintroster.com/api/city/ny-yonkers.json",
+      "count": 35,
+      "local_count": 35
+    },
+    {
+      "slug": "ny-yorktown-heights",
+      "name": "Certified lead paint inspectors & abatement firms in Yorktown Heights, NY",
+      "state": "NY",
+      "page": "https://leadpaintroster.com/ny/city/yorktown-heights/",
+      "feed": "https://leadpaintroster.com/api/city/ny-yorktown-heights.json",
+      "count": 5,
+      "local_count": 5
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "lead-paint-roster-find-firms",
+      "type": "skill-md",
+      "description": "Find certified lead inspectors, risk assessors and abatement firms in NJ, NY and MA on Lead Paint Roster by ZIP, city or county, with credentials and links to each listing.",
+      "url": "https://leadpaintroster.com/.well-known/agent-skills/lead-paint-roster-find-firms/SKILL.md",
+      "digest": "sha256:584a8a3ec9173bbc3fb05aeb5fc3e1ad88430f7acd33ff003b9985fc20e69e52"
+    },
+    {
+      "name": "lead-paint-roster-request-quote",
+      "type": "skill-md",
+      "description": "Request quotes from certified lead inspectors, risk assessors and abatement firms in NJ, NY and MA for a homeowner via Lead Paint Roster; the homeowner confirms by email before anything is sent.",
+      "url": "https://leadpaintroster.com/.well-known/agent-skills/lead-paint-roster-request-quote/SKILL.md",
+      "digest": "sha256:01bc73d23512b41ccb145fccef449d4fedd3bae826038418e7e30b8840f0e3c0"
+    }
+  ]
+}
