@@ -1,6 +1,6 @@
 ---
 title: "Upper Restoration Inc., Farmingdale, NY | Lead Paint Roster"
-description: "Upper Restoration Inc.: Lead abatement in Farmingdale, NY. Licence details, contact and quotes."
+description: "Upper Restoration Inc. in Farmingdale, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/upper-restoration-inc-ny1582/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Meridian Construction Group Inc, Astoria, NY | Lead Paint Roster"
-description: "Meridian Construction Group Inc: Lead abatement in Astoria, NY. Licence details, contact and quotes."
+title: "Meridian Construction Group Inc: Lead Abatement, Astoria NY"
+description: "Meridian Construction Group Inc in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/meridian-construction-group-inc-ny1237/
 ---
 

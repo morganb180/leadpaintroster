@@ -1,6 +1,6 @@
 ---
 title: "Sharan Construction Inc, Glen Oaks, NY | Lead Paint Roster"
-description: "Sharan Construction Inc: Lead abatement in Glen Oaks, NY. Licence details, contact and quotes."
+description: "Sharan Construction Inc in Glen Oaks, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sharan-construction-inc-ny1489/
 ---
 

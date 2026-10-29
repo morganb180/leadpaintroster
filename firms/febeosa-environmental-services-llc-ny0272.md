@@ -1,6 +1,6 @@
 ---
-title: "Febeosa Environmental Services LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Febeosa Environmental Services LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+title: "Febeosa Environmental Services: Lead Inspector, Brooklyn NY"
+description: "Febeosa Environmental Services LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/febeosa-environmental-services-llc-ny0272/
 ---
 

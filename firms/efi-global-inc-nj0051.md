@@ -1,6 +1,6 @@
 ---
 title: "Efi Global, Inc., Totowa, NJ | Lead Paint Roster"
-description: "Efi Global, Inc.: Lead inspection / evaluation in Totowa, NJ. Licence details, contact and quotes."
+description: "Efi Global, Inc. in Totowa, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/efi-global-inc-nj0051/
 ---
 

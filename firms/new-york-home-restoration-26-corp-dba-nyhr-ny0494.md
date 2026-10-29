@@ -1,5 +1,5 @@
 ---
-title: "New York Home Restoration 26 Corp, dba NYHR, New York, NY | Lead Paint Roster"
+title: "New York Home Restoration 26 Corp, dba NYHR, New York NY"
 description: "New York Home Restoration 26 Corp, dba NYHR: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/new-york-home-restoration-26-corp-dba-nyhr-ny0494/
 ---

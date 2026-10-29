@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Massachusetts | Lead Paint Roster"
+title: "Certified Lead Paint Inspection & Abatement in Massachusetts"
 description: "Find MA-licensed lead paint inspectors, risk assessors and abatement firms in Massachusetts: 60 listings by county and city, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ma/
 ---
@@ -18,7 +18,9 @@ canonical: https://leadpaintroster.com/ma/
 
 Massachusetts licenses private lead inspectors and risk assessors individually. The state list gives city, company, phone and email but no street address, so listings are placed by city.
 
-## Massachusetts lead paint rules in brief
+## What are Massachusetts' lead paint rules?
+
+Under the Massachusetts Lead Law, homes built before 1978 where a child under 6 lives must have lead hazards corrected, and a licensed lead inspector or risk assessor does the inspection.
 
 * Under the Massachusetts Lead Law, homes built before 1978 where a child under 6 lives must have lead hazards corrected. A licensed lead inspector or risk assessor does the inspection.
 * Inspectors and risk assessors are licensed individually; the state list gives their city, phone and email.
@@ -26,7 +28,7 @@ Massachusetts licenses private lead inspectors and risk assessors individually. 
 
 Sources: [Massachusetts Lead Law (M.G.L. c. 111, ss. 189A-199B)](https://www.mass.gov/info-details/deleading-and-lead-safety-links). Plain-language summary, not legal advice. Confirm with the agency.
 
-## Browse all 10 counties
+## Which Massachusetts counties have certified lead paint pros? (10 counties)
 
 * [Berkshire](https://leadpaintroster.com/ma/county/berkshire/) (1)
 * [Bristol](https://leadpaintroster.com/ma/county/bristol/) (8)
@@ -41,7 +43,7 @@ Sources: [Massachusetts Lead Law (M.G.L. c. 111, ss. 189A-199B)](https://www.mas
 
 [Licensed in MA but based elsewhere (2)](https://leadpaintroster.com/ma/out-of-state/)
 
-## What lead work typically costs
+## How much does a lead paint inspection cost in Massachusetts?
 
 | Item | Typical range (national) |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
-title: "Meticulous Homes Construction, Brewerton, NY | Lead Paint Roster"
-description: "Meticulous Homes Construction: Lead abatement in Brewerton, NY. Licence details, contact and quotes."
+title: "Meticulous Homes Construction: Lead Abatement, Brewerton NY"
+description: "Meticulous Homes Construction in Brewerton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/meticulous-homes-construction-ny1239/
 ---
 

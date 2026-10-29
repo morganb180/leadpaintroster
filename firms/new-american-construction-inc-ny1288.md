@@ -1,6 +1,6 @@
 ---
-title: "New American Construction Inc., Valley Stream, NY | Lead Paint Roster"
-description: "New American Construction Inc.: Lead abatement in Valley Stream, NY. Licence details, contact and quotes."
+title: "New American Construction: Lead Abatement, Valley Stream NY"
+description: "New American Construction Inc. in Valley Stream, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/new-american-construction-inc-ny1288/
 ---
 

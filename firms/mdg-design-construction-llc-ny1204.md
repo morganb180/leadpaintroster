@@ -1,6 +1,6 @@
 ---
-title: "MDG Design & Construction LLC, Woodbury, NY | Lead Paint Roster"
-description: "MDG Design & Construction LLC: Lead abatement in Woodbury, NY. Licence details, contact and quotes."
+title: "MDG Design & Construction LLC: Lead Abatement, Woodbury NY"
+description: "MDG Design & Construction LLC in Woodbury, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mdg-design-construction-llc-ny1204/
 ---
 

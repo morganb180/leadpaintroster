@@ -1,6 +1,6 @@
 ---
 title: "Guardian Lead LLC, Cedarhurst, NY | Lead Paint Roster"
-description: "Guardian Lead LLC: Lead inspection / evaluation in Cedarhurst, NY. Licence details, contact and quotes."
+description: "Guardian Lead LLC in Cedarhurst, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/guardian-lead-llc-ny0306/
 ---
 

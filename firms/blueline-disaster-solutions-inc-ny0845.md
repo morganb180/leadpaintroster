@@ -1,6 +1,6 @@
 ---
-title: "BlueLine Disaster Solutions, Inc., New Hartford, NY | Lead Paint Roster"
-description: "BlueLine Disaster Solutions, Inc.: Lead abatement in New Hartford, NY. Licence details, contact and quotes."
+title: "BlueLine Disaster Solutions: Lead Abatement, New Hartford NY"
+description: "BlueLine Disaster Solutions, Inc. in New Hartford, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/blueline-disaster-solutions-inc-ny0845/
 ---
 

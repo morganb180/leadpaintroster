@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Cape May County, NJ: 1 Listing | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Cape May County, NJ"
 description: "1 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms in Cape May County, New Jersey, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/nj/county/cape-may/
 ---
@@ -10,7 +10,9 @@ canonical: https://leadpaintroster.com/nj/county/cape-may/
 
 **1 NJ DCA-licensed listings** with an address of record in Cape May County (1 lead inspection / evaluation): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=cape-may&st=nj)
 
-## Lead inspection & evaluation firms (1)
+## Where can I get a lead paint inspection in Cape May County, NJ? (1)
+
+Lead Paint Roster lists 1 NJ DCA-licensed listing for lead inspection / evaluation with an address of record in Cape May County.
 
 ✔ Certified by NJ DCA Lead inspection / evaluation
 
@@ -26,13 +28,13 @@ NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00853 
 Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NJ0034)
 
-## Neighboring counties
+## Which counties border Cape May County, NJ?
 
 [Atlantic](https://leadpaintroster.com/nj/county/atlantic/) (3) · [Cumberland](https://leadpaintroster.com/nj/county/cumberland/) (7)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Cape May County: quick guide
+## How do I hire a lead inspector in Cape May County?
 
 1. Check the firm or person in the official list ([New Jersey Department of Community Affairs](https://www.nj.gov/dca/codes/offices/leadhazard_abatement.shtml)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

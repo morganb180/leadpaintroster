@@ -1,6 +1,6 @@
 ---
-title: "Safeway Home Inspections, LLC, New Providence, NJ | Lead Paint Roster"
-description: "Safeway Home Inspections, LLC: Lead inspection / evaluation in New Providence, NJ. Licence details, contact and quotes."
+title: "Safeway Home Inspections: Lead Inspector, New Providence NJ"
+description: "Safeway Home Inspections, LLC in New Providence, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/safeway-home-inspections-llc-nj0148/
 ---
 

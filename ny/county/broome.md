@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Broome County, NY: 11 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Broome County, NY"
 description: "11 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Broome County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/broome/
 ---
@@ -12,7 +12,9 @@ canonical: https://leadpaintroster.com/ny/county/broome/
 
 City pages: [Binghamton](https://leadpaintroster.com/ny/city/binghamton/)
 
-## Lead inspection & evaluation firms (5)
+## Where can I get a lead paint inspection in Broome County, NY? (5)
+
+Lead Paint Roster lists 5 EPA-licensed listings for lead inspection / evaluation with an address of record in Broome County.
 
 ✔ EPA-certified firm Lead inspection / evaluation
 
@@ -80,7 +82,9 @@ EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, c
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0155)
 
-## Lead abatement contractors (6)
+## Who does lead paint abatement in Broome County, NY? (6)
+
+6 EPA-licensed lead abatement listings have an address of record in Broome County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -160,13 +164,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F279199-1 (exp. 2027-12-23)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0800)
 
-## Neighboring counties
+## Which counties border Broome County, NY?
 
 Chenango (0) · [Cortland](https://leadpaintroster.com/ny/county/cortland/) (3) · [Delaware](https://leadpaintroster.com/ny/county/delaware/) (5) · [Tioga](https://leadpaintroster.com/ny/county/tioga/) (1)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Broome County: quick guide
+## How do I hire a lead inspector in Broome County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

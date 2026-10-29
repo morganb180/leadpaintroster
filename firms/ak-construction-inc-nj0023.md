@@ -1,6 +1,6 @@
 ---
-title: "Ak Construction, Inc, Egg Harbor Twp., NJ | Lead Paint Roster"
-description: "Ak Construction, Inc: Lead inspection / evaluation in Egg Harbor Twp., NJ. Licence details, contact and quotes."
+title: "Ak Construction: Lead Paint Inspector, Egg Harbor Twp. NJ"
+description: "Ak Construction, Inc in Egg Harbor Twp., NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ak-construction-inc-nj0023/
 ---
 

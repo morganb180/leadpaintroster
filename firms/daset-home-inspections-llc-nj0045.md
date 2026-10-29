@@ -1,6 +1,6 @@
 ---
-title: "Daset Home Inspections, LLC, Stewartsville, NJ | Lead Paint Roster"
-description: "Daset Home Inspections, LLC: Lead inspection / evaluation in Stewartsville, NJ. Licence details, contact and quotes."
+title: "Daset Home Inspections: Lead Inspector, Stewartsville NJ"
+description: "Daset Home Inspections, LLC in Stewartsville, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/daset-home-inspections-llc-nj0045/
 ---
 

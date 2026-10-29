@@ -1,6 +1,6 @@
 ---
 title: "McH Lead Inspections, LLC, Lakewood, NJ | Lead Paint Roster"
-description: "McH Lead Inspections, LLC: Lead inspection / evaluation in Lakewood, NJ. Licence details, contact and quotes."
+description: "McH Lead Inspections, LLC in Lakewood, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mch-lead-inspections-llc-nj0108/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "On Center Home Repair, Forestville, NY | Lead Paint Roster"
-description: "On Center Home Repair: Lead abatement in Forestville, NY. Licence details, contact and quotes."
+description: "On Center Home Repair in Forestville, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/on-center-home-repair-ny1314/
 ---
 

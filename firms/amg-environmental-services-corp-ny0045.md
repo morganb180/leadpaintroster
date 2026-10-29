@@ -1,5 +1,5 @@
 ---
-title: "AMG Environmental Services Corp, Whitestone, NY | Lead Paint Roster"
+title: "AMG Environmental Services: Lead Paint Pro, Whitestone NY"
 description: "AMG Environmental Services Corp: Lead abatement, Lead inspection / evaluation in Whitestone, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/amg-environmental-services-corp-ny0045/
 ---

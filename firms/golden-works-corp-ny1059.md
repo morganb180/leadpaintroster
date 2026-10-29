@@ -1,6 +1,6 @@
 ---
 title: "Golden Works Corp, Astoria, NY | Lead Paint Roster"
-description: "Golden Works Corp: Lead abatement in Astoria, NY. Licence details, contact and quotes."
+description: "Golden Works Corp in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/golden-works-corp-ny1059/
 ---
 

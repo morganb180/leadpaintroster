@@ -1,6 +1,6 @@
 ---
 title: "Partner Eng. and Science, Torrance, CA | Lead Paint Roster"
-description: "Partner Eng. and Science: Lead inspection / evaluation in Torrance, CA. Licence details, contact and quotes."
+description: "Partner Eng. and Science in Torrance, CA: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/partner-eng-and-science-nj0121/
 ---
 

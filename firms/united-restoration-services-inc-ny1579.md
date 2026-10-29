@@ -1,6 +1,6 @@
 ---
-title: "United Restoration Services, Inc., Briarcliff, NY | Lead Paint Roster"
-description: "United Restoration Services, Inc.: Lead abatement in Briarcliff, NY. Licence details, contact and quotes."
+title: "United Restoration Services: Lead Abatement, Briarcliff NY"
+description: "United Restoration Services, Inc. in Briarcliff, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/united-restoration-services-inc-ny1579/
 ---
 

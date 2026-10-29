@@ -1,6 +1,6 @@
 ---
 title: "Lead-Safe Services, Bronx, NY | Lead Paint Roster"
-description: "Lead-Safe Services: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
+description: "Lead-Safe Services in Bronx, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lead-safe-services-ny0407/
 ---
 

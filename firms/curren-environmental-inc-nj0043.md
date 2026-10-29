@@ -1,6 +1,6 @@
 ---
-title: "Curren Environmental, Inc., Cherry Hill, NJ | Lead Paint Roster"
-description: "Curren Environmental, Inc.: Lead inspection / evaluation in Cherry Hill, NJ. Licence details, contact and quotes."
+title: "Curren Environmental: Lead Paint Inspector, Cherry Hill NJ"
+description: "Curren Environmental, Inc. in Cherry Hill, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/curren-environmental-inc-nj0043/
 ---
 

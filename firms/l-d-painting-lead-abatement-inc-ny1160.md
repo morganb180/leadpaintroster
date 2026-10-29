@@ -1,6 +1,6 @@
 ---
-title: "L & D Painting & Lead Abatement Inc., Medford, NY | Lead Paint Roster"
-description: "L & D Painting & Lead Abatement Inc.: Lead abatement in Medford, NY. Licence details, contact and quotes."
+title: "L & D Painting & Lead Abatement: Lead Abatement, Medford NY"
+description: "L & D Painting & Lead Abatement Inc. in Medford, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/l-d-painting-lead-abatement-inc-ny1160/
 ---
 

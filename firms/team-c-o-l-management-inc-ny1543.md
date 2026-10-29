@@ -1,6 +1,6 @@
 ---
 title: "Team C.O.L. Management Inc., Nyack, NY | Lead Paint Roster"
-description: "Team C.O.L. Management Inc.: Lead abatement in Nyack, NY. Licence details, contact and quotes."
+description: "Team C.O.L. Management Inc. in Nyack, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/team-c-o-l-management-inc-ny1543/
 ---
 

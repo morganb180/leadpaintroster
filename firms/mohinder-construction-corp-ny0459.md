@@ -1,5 +1,5 @@
 ---
-title: "Mohinder Construction Corp, Queens Village, NY | Lead Paint Roster"
+title: "Mohinder Construction: Lead Paint Pro, Queens Village NY"
 description: "Mohinder Construction Corp: Lead abatement, Lead inspection / evaluation in Queens Village, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/mohinder-construction-corp-ny0459/
 ---

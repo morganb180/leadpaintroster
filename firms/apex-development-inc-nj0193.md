@@ -1,6 +1,6 @@
 ---
 title: "Apex Development Inc, Newark, NJ | Lead Paint Roster"
-description: "Apex Development Inc: Lead abatement in Newark, NJ. Licence details, contact and quotes."
+description: "Apex Development Inc in Newark, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/apex-development-inc-nj0193/
 ---
 

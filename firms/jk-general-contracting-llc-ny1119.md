@@ -1,6 +1,6 @@
 ---
 title: "JK General Contracting LLC, Syracuse, NY | Lead Paint Roster"
-description: "JK General Contracting LLC: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
+description: "JK General Contracting LLC in Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/jk-general-contracting-llc-ny1119/
 ---
 

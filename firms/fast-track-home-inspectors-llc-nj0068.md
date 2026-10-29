@@ -1,6 +1,6 @@
 ---
-title: "Fast Track Home Inspectors,llc, Demarest, NJ | Lead Paint Roster"
-description: "Fast Track Home Inspectors,llc: Lead inspection / evaluation in Demarest, NJ. Licence details, contact and quotes."
+title: "Fast Track Home Inspectors,llc: Lead Inspector, Demarest NJ"
+description: "Fast Track Home Inspectors,llc in Demarest, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/fast-track-home-inspectors-llc-nj0068/
 ---
 

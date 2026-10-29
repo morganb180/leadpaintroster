@@ -1,6 +1,6 @@
 ---
 title: "NY Contractor LLC, Staten Island, NY | Lead Paint Roster"
-description: "NY Contractor LLC: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+description: "NY Contractor LLC in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ny-contractor-llc-ny1275/
 ---
 

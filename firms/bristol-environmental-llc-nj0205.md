@@ -1,6 +1,6 @@
 ---
 title: "Bristol Environmental, LLC, Bristol, PA | Lead Paint Roster"
-description: "Bristol Environmental, LLC: Lead abatement in Bristol, PA. Licence details, contact and quotes."
+description: "Bristol Environmental, LLC in Bristol, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/bristol-environmental-llc-nj0205/
 ---
 

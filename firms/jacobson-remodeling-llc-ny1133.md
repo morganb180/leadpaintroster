@@ -1,6 +1,6 @@
 ---
 title: "Jacobson Remodeling, LLC, Tonawanda, NY | Lead Paint Roster"
-description: "Jacobson Remodeling, LLC: Lead abatement in Tonawanda, NY. Licence details, contact and quotes."
+description: "Jacobson Remodeling, LLC in Tonawanda, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/jacobson-remodeling-llc-ny1133/
 ---
 

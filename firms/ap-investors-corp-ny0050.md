@@ -1,6 +1,6 @@
 ---
 title: "AP Investors Corp, Baldwin, NY | Lead Paint Roster"
-description: "AP Investors Corp: Lead abatement, Lead inspection / evaluation in Baldwin, NY. Licence details, contact and quotes."
+description: "AP Investors Corp in Baldwin, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ap-investors-corp-ny0050/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "American Fire Restoration, LLC., Glendale, NY | Lead Paint Roster"
-description: "American Fire Restoration, LLC.: Lead abatement in Glendale, NY. Licence details, contact and quotes."
+title: "American Fire Restoration, LLC.: Lead Abatement, Glendale NY"
+description: "American Fire Restoration, LLC. in Glendale, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/american-fire-restoration-llc-ny0780/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Dream Home Remodeling, Niagara Falls, NY | Lead Paint Roster"
-description: "Dream Home Remodeling: Lead abatement in Niagara Falls, NY. Licence details, contact and quotes."
+description: "Dream Home Remodeling in Niagara Falls, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/dream-home-remodeling-ny0953/
 ---
 

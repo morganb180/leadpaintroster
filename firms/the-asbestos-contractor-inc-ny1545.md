@@ -1,6 +1,6 @@
 ---
-title: "The Asbestos Contractor, Inc., Staten Island, NY | Lead Paint Roster"
-description: "The Asbestos Contractor, Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+title: "The Asbestos Contractor: Lead Abatement, Staten Island NY"
+description: "The Asbestos Contractor, Inc. in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/the-asbestos-contractor-inc-ny1545/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Premchan Construction LLC, Schenectady, NY | Lead Paint Roster"
-description: "Premchan Construction LLC: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
+title: "Premchan Construction LLC: Lead Abatement, Schenectady NY"
+description: "Premchan Construction LLC in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/premchan-construction-llc-ny1361/
 ---
 

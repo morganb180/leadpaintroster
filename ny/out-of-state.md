@@ -1,5 +1,5 @@
 ---
-title: "Out-of-State Lead Paint Inspectors & Abatement Firms Licensed in New York | Lead Paint Roster"
+title: "Out-of-State Lead Paint Pros Licensed in New York"
 description: "1 EPA-licensed lead paint inspectors, risk assessors and abatement firms whose address of record is outside New York or has no county."
 canonical: https://leadpaintroster.com/ny/out-of-state/
 ---
@@ -10,7 +10,7 @@ canonical: https://leadpaintroster.com/ny/out-of-state/
 
 1 listings hold a EPA licence but give an address outside New York (or no county could be matched).
 
-## Lead abatement contractors (1)
+## Which out-of-state lead abatement contractors are certified in New York? (1)
 
 ✔ EPA-certified firm Lead abatement
 

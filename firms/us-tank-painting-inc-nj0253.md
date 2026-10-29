@@ -1,6 +1,6 @@
 ---
-title: "US Tank Painting Inc., Millstone Township, NJ | Lead Paint Roster"
-description: "US Tank Painting Inc.: Lead abatement in Millstone Township, NJ. Licence details, contact and quotes."
+title: "US Tank Painting Inc.: Lead Abatement, Millstone Township NJ"
+description: "US Tank Painting Inc. in Millstone Township, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/us-tank-painting-inc-nj0253/
 ---
 

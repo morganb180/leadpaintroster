@@ -1,6 +1,6 @@
 ---
 title: "Tri-West Steel Inc, Brooklyn, NY | Lead Paint Roster"
-description: "Tri-West Steel Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Tri-West Steel Inc in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/tri-west-steel-inc-ny1561/
 ---
 

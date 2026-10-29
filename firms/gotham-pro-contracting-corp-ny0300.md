@@ -1,5 +1,5 @@
 ---
-title: "Gotham Pro Contracting Corp., Bayside, NY | Lead Paint Roster"
+title: "Gotham Pro Contracting: Lead Paint Pro, Bayside NY"
 description: "Gotham Pro Contracting Corp.: Lead abatement, Lead inspection / evaluation in Bayside, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gotham-pro-contracting-corp-ny0300/
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Flatiron Klein Kitchen & Bath Corp, New York, NY | Lead Paint Roster"
-description: "Flatiron Klein Kitchen & Bath Corp: Lead abatement in New York, NY. Licence details, contact and quotes."
+title: "Flatiron Klein Kitchen & Bath: Lead Abatement, New York NY"
+description: "Flatiron Klein Kitchen & Bath Corp in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/flatiron-klein-kitchen-bath-corp-ny1022/
 ---
 

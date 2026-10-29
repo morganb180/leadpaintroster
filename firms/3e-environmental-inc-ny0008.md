@@ -1,6 +1,6 @@
 ---
-title: "3E Environmental, Inc., Staten Island, NY | Lead Paint Roster"
-description: "3E Environmental, Inc.: Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
+title: "3E Environmental: Lead Paint Inspector, Staten Island NY"
+description: "3E Environmental, Inc. in Staten Island, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/3e-environmental-inc-ny0008/
 ---
 

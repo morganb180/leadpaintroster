@@ -1,6 +1,6 @@
 ---
 title: "Zaman Construction Corp., Ozone Park, NY | Lead Paint Roster"
-description: "Zaman Construction Corp.: Lead abatement in Ozone Park, NY. Licence details, contact and quotes."
+description: "Zaman Construction Corp. in Ozone Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/zaman-construction-corp-ny1631/
 ---
 

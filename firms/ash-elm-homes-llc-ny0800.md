@@ -1,6 +1,6 @@
 ---
 title: "Ash & Elm Homes LLC, Windsor, NY | Lead Paint Roster"
-description: "Ash & Elm Homes LLC: Lead abatement in Windsor, NY. Licence details, contact and quotes."
+description: "Ash & Elm Homes LLC in Windsor, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ash-elm-homes-llc-ny0800/
 ---
 

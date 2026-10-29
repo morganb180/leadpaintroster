@@ -1,6 +1,6 @@
 ---
 title: "Angstrom Testing Services, Oceanside, NY | Lead Paint Roster"
-description: "Angstrom Testing Services: Lead inspection / evaluation in Oceanside, NY. Licence details, contact and quotes."
+description: "Angstrom Testing Services in Oceanside, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/angstrom-testing-services-ny0090/
 ---
 

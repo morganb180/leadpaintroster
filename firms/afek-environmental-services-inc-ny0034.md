@@ -1,5 +1,5 @@
 ---
-title: "AFEK Environmental Services, Inc., Jamaica, NY | Lead Paint Roster"
+title: "AFEK Environmental Services: Lead Paint Pro, Jamaica NY"
 description: "AFEK Environmental Services, Inc.: Lead abatement, Lead inspection / evaluation in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/afek-environmental-services-inc-ny0034/
 ---

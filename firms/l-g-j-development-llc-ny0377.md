@@ -1,6 +1,6 @@
 ---
 title: "L.G.J. Development, LLC, Syracuse, NY | Lead Paint Roster"
-description: "L.G.J. Development, LLC: Lead inspection / evaluation in Syracuse, NY. Licence details, contact and quotes."
+description: "L.G.J. Development, LLC in Syracuse, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/l-g-j-development-llc-ny0377/
 ---
 

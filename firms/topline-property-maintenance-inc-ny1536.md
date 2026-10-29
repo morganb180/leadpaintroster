@@ -1,6 +1,6 @@
 ---
-title: "Topline Property Maintenance Inc, Flushing, NY | Lead Paint Roster"
-description: "Topline Property Maintenance Inc: Lead abatement in Flushing, NY. Licence details, contact and quotes."
+title: "Topline Property Maintenance: Lead Abatement, Flushing NY"
+description: "Topline Property Maintenance Inc in Flushing, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/topline-property-maintenance-inc-ny1536/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Sean Caulfield, Leominster, MA | Lead Paint Roster"
-description: "Sean Caulfield: Lead inspection / evaluation in Leominster, MA. Licence details, contact and quotes."
+description: "Sean Caulfield in Leominster, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/sean-caulfield-ma0023/
 ---
 

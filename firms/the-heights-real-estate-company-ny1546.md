@@ -1,6 +1,6 @@
 ---
-title: "The Heights Real Estate Company, New York, NY | Lead Paint Roster"
-description: "The Heights Real Estate Company: Lead abatement in New York, NY. Licence details, contact and quotes."
+title: "The Heights Real Estate Company: Lead Abatement, New York NY"
+description: "The Heights Real Estate Company in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/the-heights-real-estate-company-ny1546/
 ---
 

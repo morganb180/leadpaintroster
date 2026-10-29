@@ -1,6 +1,6 @@
 ---
 title: "DM Exteriors, Solvay, NY | Lead Paint Roster"
-description: "DM Exteriors: Lead abatement in Solvay, NY. Licence details, contact and quotes."
+description: "DM Exteriors in Solvay, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/dm-exteriors-ny0922/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "718 Renovations Inc., Douglaston, NY | Lead Paint Roster"
-description: "718 Renovations Inc.: Lead abatement in Douglaston, NY. Licence details, contact and quotes."
+description: "718 Renovations Inc. in Douglaston, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/718-renovations-inc-ny0698/
 ---
 

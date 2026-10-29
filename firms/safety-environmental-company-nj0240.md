@@ -1,6 +1,6 @@
 ---
-title: "Safety Environmental Company, Cream - Ridge, NJ | Lead Paint Roster"
-description: "Safety Environmental Company: Lead abatement in Cream - Ridge, NJ. Licence details, contact and quotes."
+title: "Safety Environmental: Lead Abatement, Cream - Ridge NJ"
+description: "Safety Environmental Company in Cream - Ridge, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/safety-environmental-company-nj0240/
 ---
 

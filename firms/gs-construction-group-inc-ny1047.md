@@ -1,6 +1,6 @@
 ---
-title: "GS Construction Group Inc., Long Island City, NY | Lead Paint Roster"
-description: "GS Construction Group Inc.: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
+title: "GS Construction Group: Lead Abatement, Long Island City NY"
+description: "GS Construction Group Inc. in Long Island City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/gs-construction-group-inc-ny1047/
 ---
 

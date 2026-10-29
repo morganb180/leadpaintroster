@@ -1,6 +1,6 @@
 ---
 title: "BSB Construction, Inc., Milton, NY | Lead Paint Roster"
-description: "BSB Construction, Inc.: Lead abatement in Milton, NY. Licence details, contact and quotes."
+description: "BSB Construction, Inc. in Milton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/bsb-construction-inc-ny0816/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Integral Inspection, Troy, NY | Lead Paint Roster"
-description: "Integral Inspection: Lead inspection / evaluation in Troy, NY. Licence details, contact and quotes."
+description: "Integral Inspection in Troy, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/integral-inspection-ny0335/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Blue Kangaroo Packoutz of Newburgh/Albany, Newburgh, NY | Lead Paint Roster"
-description: "Blue Kangaroo Packoutz of Newburgh/Albany: Lead abatement in Newburgh, NY. Licence details, contact and quotes."
+title: "Blue Kangaroo Packoutz of Newburgh/Albany, Newburgh NY"
+description: "Blue Kangaroo Packoutz of Newburgh/Albany in Newburgh, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/blue-kangaroo-packoutz-of-newburgh-albany-ny0844/
 ---
 

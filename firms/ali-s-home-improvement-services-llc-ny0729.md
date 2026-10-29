@@ -1,6 +1,6 @@
 ---
-title: "ALI’S Home Improvement Services LLC, Tonawanda, NY | Lead Paint Roster"
-description: "ALI’S Home Improvement Services LLC: Lead abatement in Tonawanda, NY. Licence details, contact and quotes."
+title: "ALI’S Home Improvement Services, Tonawanda NY"
+description: "ALI’S Home Improvement Services LLC in Tonawanda, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ali-s-home-improvement-services-llc-ny0729/
 ---
 

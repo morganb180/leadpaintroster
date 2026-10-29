@@ -1,6 +1,6 @@
 ---
-title: "ARCO General Contractor Inc., Brooklyn, NY | Lead Paint Roster"
-description: "ARCO General Contractor Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "ARCO General Contractor Inc.: Lead Abatement, Brooklyn NY"
+description: "ARCO General Contractor Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/arco-general-contractor-inc-ny0734/
 ---
 

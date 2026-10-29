@@ -1,6 +1,6 @@
 ---
 title: "ARK Builders Corp., Brooklyn, NY | Lead Paint Roster"
-description: "ARK Builders Corp.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "ARK Builders Corp. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ark-builders-corp-ny0735/
 ---
 

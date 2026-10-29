@@ -1,6 +1,6 @@
 ---
 title: "ASAP ENV, Dorchester, MA | Lead Paint Roster"
-description: "ASAP ENV: Lead risk assessment in Dorchester, MA. Licence details, contact and quotes."
+description: "ASAP ENV in Dorchester, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/asap-env-ma0013/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Department of Health and Mental Hygiene, New York City, NY | Lead Paint Roster"
-description: "Department of Health and Mental Hygiene: Lead abatement in New York City, NY. Licence details, contact and quotes."
+title: "Department of Health and Mental Hygiene, New York City NY"
+description: "Department of Health and Mental Hygiene in New York City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/department-of-health-and-mental-hygiene-ny0942/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "EP Services NY LLC, Brooklyn, NY | Lead Paint Roster"
-description: "EP Services NY LLC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "EP Services NY LLC in Brooklyn, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ep-services-ny-llc-ny0215/
 ---
 

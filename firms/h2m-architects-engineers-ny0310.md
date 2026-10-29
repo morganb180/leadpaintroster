@@ -1,6 +1,6 @@
 ---
 title: "H2M Architects + Engineers, Melville, NY | Lead Paint Roster"
-description: "H2M Architects + Engineers: Lead inspection / evaluation in Melville, NY. Licence details, contact and quotes."
+description: "H2M Architects + Engineers in Melville, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/h2m-architects-engineers-ny0310/
 ---
 

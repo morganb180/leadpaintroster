@@ -1,6 +1,6 @@
 ---
 title: "MyCrew2, Jamaica, NY | Lead Paint Roster"
-description: "MyCrew2: Lead abatement, Lead inspection / evaluation in Jamaica, NY. Licence details, contact and quotes."
+description: "MyCrew2 in Jamaica, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mycrew2-ny0462/
 ---
 

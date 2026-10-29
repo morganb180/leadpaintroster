@@ -1,6 +1,6 @@
 ---
-title: "Coastal Environmental Group, Inc., East Patchogue, NY | Lead Paint Roster"
-description: "Coastal Environmental Group, Inc.: Lead abatement in East Patchogue, NY. Licence details, contact and quotes."
+title: "Coastal Environmental Group, East Patchogue NY"
+description: "Coastal Environmental Group, Inc. in East Patchogue, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/coastal-environmental-group-inc-ny0903/
 ---
 

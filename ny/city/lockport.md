@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Lockport, NY: 4 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Lockport, NY"
 description: "4 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Lockport, New York, plus 13 more in Niagara County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/lockport/
 ---
@@ -8,13 +8,17 @@ canonical: https://leadpaintroster.com/ny/city/lockport/
 
 # Certified lead paint inspectors & abatement firms in Lockport, NY
 
+**Quick answer:** For landlords, owners, buyers and parents in Lockport, NY: Lead Paint Roster lists 4 EPA-licensed lead paint listings with an address in Lockport (4 lead abatement) and 13 more elsewhere in Niagara County. Licensed pros often travel, so ask whether they cover your address. Check each licence with EPA before you hire, and read the [Lockport hiring guide](https://leadpaintroster.com/ny/city/lockport/guide/) for questions to ask and typical costs.
+
 4 EPA-licensed listings give an address in Lockport (4 lead abatement), and 13 more are elsewhere in Niagara County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Lockport hiring guide →**](https://leadpaintroster.com/ny/city/lockport/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Lockport](https://leadpaintroster.com/get-quotes/?city=lockport&st=ny)
 
-## Based in Lockport
+## Which certified lead paint firms are based in Lockport, NY?
+
+Lead Paint Roster lists 4 EPA-licensed listings with an address in Lockport: 4 lead abatement contractors. Each listing appears once below, even if it holds both licences.
 
 ### Lead abatement contractors (4)
 
@@ -70,11 +74,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-117659-4 (exp. 2029-11-09)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1297)
 
-## Elsewhere in Niagara County (13)
+## Which other certified lead paint firms are in Niagara County? (13)
+
+13 more listings have an address elsewhere in Niagara County. Licensed pros often travel, so ask whether they cover your address in Lockport.
 
 [See all 17 Niagara County listings →](https://leadpaintroster.com/ny/county/niagara/)
 
-## More cities in Niagara County
+## Which other Niagara County cities have lead paint pages?
 
 [Niagara Falls](https://leadpaintroster.com/ny/city/niagara-falls/)
 

@@ -1,6 +1,6 @@
 ---
-title: "Wedge Wood Building Services Inc., Bohemia, NY | Lead Paint Roster"
-description: "Wedge Wood Building Services Inc.: Lead abatement in Bohemia, NY. Licence details, contact and quotes."
+title: "Wedge Wood Building Services: Lead Abatement, Bohemia NY"
+description: "Wedge Wood Building Services Inc. in Bohemia, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/wedge-wood-building-services-inc-ny1610/
 ---
 

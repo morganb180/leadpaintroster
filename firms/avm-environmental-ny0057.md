@@ -1,6 +1,6 @@
 ---
 title: "AVM Environmental, Bronx, NY | Lead Paint Roster"
-description: "AVM Environmental: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
+description: "AVM Environmental in Bronx, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/avm-environmental-ny0057/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Lead Away Abatements, Brooklyn, NY | Lead Paint Roster"
-description: "Lead Away Abatements: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Lead Away Abatements in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lead-away-abatements-ny1173/
 ---
 

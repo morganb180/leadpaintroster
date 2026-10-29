@@ -1,6 +1,6 @@
 ---
 title: "Day & Zimmermann Nps, Lancaster, PA | Lead Paint Roster"
-description: "Day & Zimmermann Nps: Lead abatement in Lancaster, PA. Licence details, contact and quotes."
+description: "Day & Zimmermann Nps in Lancaster, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/day-zimmermann-nps-nj0211/
 ---
 

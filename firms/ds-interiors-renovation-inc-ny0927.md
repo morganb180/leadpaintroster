@@ -1,6 +1,6 @@
 ---
-title: "DS Interiors Renovation Inc, Rego Park, NY | Lead Paint Roster"
-description: "DS Interiors Renovation Inc: Lead abatement in Rego Park, NY. Licence details, contact and quotes."
+title: "DS Interiors Renovation Inc: Lead Abatement, Rego Park NY"
+description: "DS Interiors Renovation Inc in Rego Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ds-interiors-renovation-inc-ny0927/
 ---
 

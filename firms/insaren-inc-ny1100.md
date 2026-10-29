@@ -1,6 +1,6 @@
 ---
 title: "Insaren Inc., Staten Island, NY | Lead Paint Roster"
-description: "Insaren Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+description: "Insaren Inc. in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/insaren-inc-ny1100/
 ---
 

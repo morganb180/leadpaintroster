@@ -1,6 +1,6 @@
 ---
 title: "Spes Contracting, LLC, Paterson, NJ | Lead Paint Roster"
-description: "Spes Contracting, LLC: Lead abatement in Paterson, NJ. Licence details, contact and quotes."
+description: "Spes Contracting, LLC in Paterson, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/spes-contracting-llc-nj0245/
 ---
 

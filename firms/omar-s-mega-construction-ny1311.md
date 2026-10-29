@@ -1,6 +1,6 @@
 ---
 title: "Omar’s Mega Construction, Rego Park, NY | Lead Paint Roster"
-description: "Omar’s Mega Construction: Lead abatement in Rego Park, NY. Licence details, contact and quotes."
+description: "Omar’s Mega Construction in Rego Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/omar-s-mega-construction-ny1311/
 ---
 

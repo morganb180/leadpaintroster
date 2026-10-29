@@ -1,5 +1,5 @@
 ---
-title: "Jerome Environmental Services, LLC, Bronx, NY | Lead Paint Roster"
+title: "Jerome Environmental Services: Lead Paint Pro, Bronx NY"
 description: "Jerome Environmental Services, LLC: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jerome-environmental-services-llc-ny0359/
 ---

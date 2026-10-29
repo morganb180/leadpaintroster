@@ -1,6 +1,6 @@
 ---
 title: "Nyhi LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Nyhi LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "Nyhi LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/nyhi-llc-ny0482/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "H&H Telecom Construction Inc, Forest Hills, NY | Lead Paint Roster"
+title: "H&H Telecom Construction: Lead Paint Pro, Forest Hills NY"
 description: "H&H Telecom Construction Inc: Lead abatement, Lead inspection / evaluation in Forest Hills, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/h-h-telecom-construction-inc-ny0307/
 ---

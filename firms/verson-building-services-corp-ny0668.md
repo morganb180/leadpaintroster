@@ -1,5 +1,5 @@
 ---
-title: "Verson Building Services Corp, New York, NY | Lead Paint Roster"
+title: "Verson Building Services: Lead Paint Pro, New York NY"
 description: "Verson Building Services Corp: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/verson-building-services-corp-ny0668/
 ---

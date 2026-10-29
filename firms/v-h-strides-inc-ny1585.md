@@ -1,6 +1,6 @@
 ---
 title: "V.H. Strides, Inc., Albany, NY | Lead Paint Roster"
-description: "V.H. Strides, Inc.: Lead abatement in Albany, NY. Licence details, contact and quotes."
+description: "V.H. Strides, Inc. in Albany, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/v-h-strides-inc-ny1585/
 ---
 

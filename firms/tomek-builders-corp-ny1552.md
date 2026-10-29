@@ -1,6 +1,6 @@
 ---
 title: "Tomek Builders Corp, Glendale, NY | Lead Paint Roster"
-description: "Tomek Builders Corp: Lead abatement in Glendale, NY. Licence details, contact and quotes."
+description: "Tomek Builders Corp in Glendale, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/tomek-builders-corp-ny1552/
 ---
 

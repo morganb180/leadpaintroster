@@ -1,6 +1,6 @@
 ---
 title: "AV Family Properties LLC, Monroe, NY | Lead Paint Roster"
-description: "AV Family Properties LLC: Lead inspection / evaluation in Monroe, NY. Licence details, contact and quotes."
+description: "AV Family Properties LLC in Monroe, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/av-family-properties-llc-ny0056/
 ---
 

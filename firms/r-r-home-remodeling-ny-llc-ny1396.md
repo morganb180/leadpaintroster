@@ -1,6 +1,6 @@
 ---
-title: "R&R Home Remodeling NY, LLC, Schenectady, NY | Lead Paint Roster"
-description: "R&R Home Remodeling NY, LLC: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
+title: "R&R Home Remodeling NY, LLC: Lead Abatement, Schenectady NY"
+description: "R&R Home Remodeling NY, LLC in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/r-r-home-remodeling-ny-llc-ny1396/
 ---
 

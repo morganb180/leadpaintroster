@@ -1,6 +1,6 @@
 ---
-title: "C.K. & B. Environmental, Inc., Ridgewood, NY | Lead Paint Roster"
-description: "C.K. & B. Environmental, Inc.: Lead abatement in Ridgewood, NY. Licence details, contact and quotes."
+title: "C.K. & B. Environmental, Inc.: Lead Abatement, Ridgewood NY"
+description: "C.K. & B. Environmental, Inc. in Ridgewood, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/c-k-b-environmental-inc-ny0871/
 ---
 

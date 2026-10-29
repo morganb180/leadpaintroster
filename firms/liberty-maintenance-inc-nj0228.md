@@ -1,6 +1,6 @@
 ---
-title: "Liberty Maintenance, Inc., Youngstown, OH | Lead Paint Roster"
-description: "Liberty Maintenance, Inc.: Lead abatement in Youngstown, OH. Licence details, contact and quotes."
+title: "Liberty Maintenance, Inc.: Lead Abatement, Youngstown OH"
+description: "Liberty Maintenance, Inc. in Youngstown, OH: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/liberty-maintenance-inc-nj0228/
 ---
 

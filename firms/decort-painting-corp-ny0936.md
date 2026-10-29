@@ -1,6 +1,6 @@
 ---
 title: "Decort Painting Corp, Bay Shore, NY | Lead Paint Roster"
-description: "Decort Painting Corp: Lead abatement in Bay Shore, NY. Licence details, contact and quotes."
+description: "Decort Painting Corp in Bay Shore, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/decort-painting-corp-ny0936/
 ---
 

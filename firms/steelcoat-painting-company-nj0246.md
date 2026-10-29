@@ -1,6 +1,6 @@
 ---
-title: "Steelcoat Painting Company, Elizabeth, NJ | Lead Paint Roster"
-description: "Steelcoat Painting Company: Lead abatement in Elizabeth, NJ. Licence details, contact and quotes."
+title: "Steelcoat Painting Company: Lead Abatement, Elizabeth NJ"
+description: "Steelcoat Painting Company in Elizabeth, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/steelcoat-painting-company-nj0246/
 ---
 

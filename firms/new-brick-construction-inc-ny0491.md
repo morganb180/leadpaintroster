@@ -1,5 +1,5 @@
 ---
-title: "New Brick Construction, Inc., Richmond Hill, NY | Lead Paint Roster"
+title: "New Brick Construction: Lead Paint Pro, Richmond Hill NY"
 description: "New Brick Construction, Inc.: Lead abatement, Lead inspection / evaluation in Richmond Hill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/new-brick-construction-inc-ny0491/
 ---

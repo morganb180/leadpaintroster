@@ -1,6 +1,6 @@
 ---
 title: "VP Renovations LLC, Rochester, NY | Lead Paint Roster"
-description: "VP Renovations LLC: Lead abatement, Lead inspection / evaluation in Rochester, NY. Licence details, contact and quotes."
+description: "VP Renovations LLC in Rochester, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/vp-renovations-llc-ny0664/
 ---
 

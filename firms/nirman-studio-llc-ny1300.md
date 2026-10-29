@@ -1,6 +1,6 @@
 ---
 title: "Nirman Studio LLC, New Rochelle, NY | Lead Paint Roster"
-description: "Nirman Studio LLC: Lead abatement in New Rochelle, NY. Licence details, contact and quotes."
+description: "Nirman Studio LLC in New Rochelle, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/nirman-studio-llc-ny1300/
 ---
 

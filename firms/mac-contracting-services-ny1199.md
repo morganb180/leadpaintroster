@@ -1,6 +1,6 @@
 ---
 title: "MAC Contracting Services, Rome, NY | Lead Paint Roster"
-description: "MAC Contracting Services: Lead abatement in Rome, NY. Licence details, contact and quotes."
+description: "MAC Contracting Services in Rome, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/mac-contracting-services-ny1199/
 ---
 

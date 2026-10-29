@@ -1,6 +1,6 @@
 ---
 title: "G-Air, LLC, Greenwich, NJ | Lead Paint Roster"
-description: "G-Air, LLC: Lead inspection / evaluation in Greenwich, NJ. Licence details, contact and quotes."
+description: "G-Air, LLC in Greenwich, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/g-air-llc-nj0071/
 ---
 

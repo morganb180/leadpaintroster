@@ -1,5 +1,5 @@
 ---
-title: "Out-of-State Lead Paint Inspectors & Abatement Firms Licensed in New Jersey | Lead Paint Roster"
+title: "Out-of-State Lead Paint Pros Licensed in New Jersey"
 description: "44 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms whose address of record is outside New Jersey or has no county."
 canonical: https://leadpaintroster.com/nj/out-of-state/
 ---
@@ -10,7 +10,7 @@ canonical: https://leadpaintroster.com/nj/out-of-state/
 
 44 listings hold a NJ DCA licence but give an address outside New Jersey (or no county could be matched).
 
-## Lead inspection & evaluation firms (23)
+## Which out-of-state lead inspection firms are certified in New Jersey? (23)
 
 ✔ Certified by NJ DCA Lead inspection / evaluation
 
@@ -335,7 +335,7 @@ NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commer
 Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NJ0121)
 
-## Lead abatement contractors (21)
+## Which out-of-state lead abatement contractors are certified in New Jersey? (21)
 
 ✔ Certified by NJ DCA Lead abatement
 

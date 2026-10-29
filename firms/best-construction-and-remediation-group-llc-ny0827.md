@@ -1,6 +1,6 @@
 ---
-title: "Best Construction and Remediation Group LLC, Rochester, NY | Lead Paint Roster"
-description: "Best Construction and Remediation Group LLC: Lead abatement in Rochester, NY. Licence details, contact and quotes."
+title: "Best Construction and Remediation Group, Rochester NY"
+description: "Best Construction and Remediation Group LLC in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/best-construction-and-remediation-group-llc-ny0827/
 ---
 

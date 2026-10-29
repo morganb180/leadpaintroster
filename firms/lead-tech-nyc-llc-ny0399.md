@@ -1,6 +1,6 @@
 ---
 title: "Lead Tech NYC, LLC, New York, NY | Lead Paint Roster"
-description: "Lead Tech NYC, LLC: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+description: "Lead Tech NYC, LLC in New York, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/lead-tech-nyc-llc-ny0399/
 ---
 

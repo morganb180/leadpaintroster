@@ -24,6 +24,10 @@ Lead Paint Roster is for landlords, tenants, buyers and parents who need a certi
 * Rules and cost guides link the statute, regulation, agency page or official fee schedule they rely on. Where we couldn't confirm something from an official source, we say so or leave it out.
 * Nothing here is legal advice. Requirements change, so confirm with the agency or town before you act.
 
+## Who operates Lead Paint Roster
+
+Lead Paint Roster (leadpaintroster.com) is operated by Lead Paint Roster, the same operator named in our [privacy policy](https://leadpaintroster.com/privacy/). Contact us through the [contact page](https://leadpaintroster.com/contact/).
+
 ## Independence
 
 Lead Paint Roster is independent. It isn't affiliated with any government agency, licensing board or contractor, and a listing is not an endorsement. See [how we make money](https://leadpaintroster.com/how-we-make-money/), [how we verify listings](https://leadpaintroster.com/how-we-verify/) and [about our data](https://leadpaintroster.com/about-our-data/).

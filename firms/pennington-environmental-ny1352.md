@@ -1,6 +1,6 @@
 ---
 title: "Pennington Environmental, Bronx, NY | Lead Paint Roster"
-description: "Pennington Environmental: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Pennington Environmental in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/pennington-environmental-ny1352/
 ---
 

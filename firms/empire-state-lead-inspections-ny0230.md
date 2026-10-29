@@ -1,6 +1,6 @@
 ---
-title: "Empire State Lead Inspections, Little Neck, NY | Lead Paint Roster"
-description: "Empire State Lead Inspections: Lead inspection / evaluation in Little Neck, NY. Licence details, contact and quotes."
+title: "Empire State Lead Inspections, Little Neck NY"
+description: "Empire State Lead Inspections in Little Neck, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/empire-state-lead-inspections-ny0230/
 ---
 

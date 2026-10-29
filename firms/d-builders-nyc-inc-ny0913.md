@@ -1,6 +1,6 @@
 ---
 title: "D Builders NYC Inc, West Harrison, NY | Lead Paint Roster"
-description: "D Builders NYC Inc: Lead abatement in West Harrison, NY. Licence details, contact and quotes."
+description: "D Builders NYC Inc in West Harrison, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/d-builders-nyc-inc-ny0913/
 ---
 

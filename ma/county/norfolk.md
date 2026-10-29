@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Norfolk County, MA: 9 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Norfolk County, MA"
 description: "9 MA-licensed lead paint inspectors, risk assessors and abatement firms in Norfolk County, Massachusetts, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ma/county/norfolk/
 ---
@@ -10,7 +10,9 @@ canonical: https://leadpaintroster.com/ma/county/norfolk/
 
 **9 MA-licensed listings** with an address of record in Norfolk County (4 lead inspection / evaluation, 5 lead risk assessment): 4 firms and 5 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=norfolk&st=ma)
 
-## Licensed lead inspectors / risk assessors (5)
+## Which licensed lead inspectors and risk assessors are in Norfolk County, MA? (5)
+
+5 listings in Norfolk County hold a Massachusetts lead inspector or risk assessor licence.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -97,7 +99,9 @@ MA DLS Inspector/Risk Assessor #3722 (exp. 2027-07-23)
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0041)
 
-## Lead inspection & evaluation firms (4)
+## Where can I get a lead paint inspection in Norfolk County, MA? (4)
+
+Lead Paint Roster lists 4 Massachusetts-licensed listings for lead inspection / evaluation with an address of record in Norfolk County.
 
 ✔ Licensed MA lead inspector Lead inspection / evaluation
 
@@ -164,13 +168,13 @@ MA DLS Inspector #4214 (exp. 2026-11-04)
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0043)
 
-## Neighboring counties
+## Which counties border Norfolk County, MA?
 
 [Bristol](https://leadpaintroster.com/ma/county/bristol/) (8) · [Middlesex](https://leadpaintroster.com/ma/county/middlesex/) (18) · [Plymouth](https://leadpaintroster.com/ma/county/plymouth/) (2) · [Suffolk](https://leadpaintroster.com/ma/county/suffolk/) (2) · [Worcester](https://leadpaintroster.com/ma/county/worcester/) (8)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Norfolk County: quick guide
+## How do I hire a lead inspector in Norfolk County?
 
 1. Check the firm or person in the official list ([Commonwealth of Massachusetts (licensed private lead inspector list)](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

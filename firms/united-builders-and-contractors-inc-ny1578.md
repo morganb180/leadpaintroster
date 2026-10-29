@@ -1,6 +1,6 @@
 ---
-title: "United Builders And Contractors, Inc., Westbury, NY | Lead Paint Roster"
-description: "United Builders And Contractors, Inc.: Lead abatement in Westbury, NY. Licence details, contact and quotes."
+title: "United Builders And Contractors: Lead Abatement, Westbury NY"
+description: "United Builders And Contractors, Inc. in Westbury, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/united-builders-and-contractors-inc-ny1578/
 ---
 

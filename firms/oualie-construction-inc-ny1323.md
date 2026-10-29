@@ -1,6 +1,6 @@
 ---
 title: "Oualie Construction Inc., Bronx, NY | Lead Paint Roster"
-description: "Oualie Construction Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Oualie Construction Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/oualie-construction-inc-ny1323/
 ---
 

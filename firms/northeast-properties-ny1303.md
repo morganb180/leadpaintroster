@@ -1,6 +1,6 @@
 ---
 title: "Northeast Properties, Cohoes, NY | Lead Paint Roster"
-description: "Northeast Properties: Lead abatement in Cohoes, NY. Licence details, contact and quotes."
+description: "Northeast Properties in Cohoes, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/northeast-properties-ny1303/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Jefferson County Code Enforcement, Watertown, NY | Lead Paint Roster"
-description: "Jefferson County Code Enforcement: Lead abatement in Watertown, NY. Licence details, contact and quotes."
+title: "Jefferson County Code Enforcement, Watertown NY"
+description: "Jefferson County Code Enforcement in Watertown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/jefferson-county-code-enforcement-ny1137/
 ---
 

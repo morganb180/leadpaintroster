@@ -1,6 +1,6 @@
 ---
 title: "H. A. Bader Consultants, New York, NY | Lead Paint Roster"
-description: "H. A. Bader Consultants: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+description: "H. A. Bader Consultants in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/h-a-bader-consultants-ny0308/
 ---
 

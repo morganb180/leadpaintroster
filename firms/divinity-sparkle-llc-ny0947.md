@@ -1,6 +1,6 @@
 ---
 title: "Divinity Sparkle LLC, Arverne, NY | Lead Paint Roster"
-description: "Divinity Sparkle LLC: Lead abatement in Arverne, NY. Licence details, contact and quotes."
+description: "Divinity Sparkle LLC in Arverne, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/divinity-sparkle-llc-ny0947/
 ---
 

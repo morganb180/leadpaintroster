@@ -1,6 +1,6 @@
 ---
 title: "M-Azad Construction Inc, Brooklyn, NY | Lead Paint Roster"
-description: "M-Azad Construction Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "M-Azad Construction Inc in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/m-azad-construction-inc-ny1197/
 ---
 

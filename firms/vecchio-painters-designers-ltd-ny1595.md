@@ -1,6 +1,6 @@
 ---
-title: "Vecchio Painters & Designers LTD., Brooklyn, NY | Lead Paint Roster"
-description: "Vecchio Painters & Designers LTD.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Vecchio Painters & Designers: Lead Abatement, Brooklyn NY"
+description: "Vecchio Painters & Designers LTD. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/vecchio-painters-designers-ltd-ny1595/
 ---
 

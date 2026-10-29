@@ -1,5 +1,5 @@
 ---
-title: "Bullseye Safety Consultants LLC, Lindenhurst, NY | Lead Paint Roster"
+title: "Bullseye Safety Consultants: Lead Paint Pro, Lindenhurst NY"
 description: "Bullseye Safety Consultants LLC: Lead abatement, Lead inspection / evaluation in Lindenhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bullseye-safety-consultants-llc-ny0146/
 ---

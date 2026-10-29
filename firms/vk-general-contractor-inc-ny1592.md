@@ -1,6 +1,6 @@
 ---
 title: "VK General Contractor, Inc, Astoria, NY | Lead Paint Roster"
-description: "VK General Contractor, Inc: Lead abatement in Astoria, NY. Licence details, contact and quotes."
+description: "VK General Contractor, Inc in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/vk-general-contractor-inc-ny1592/
 ---
 

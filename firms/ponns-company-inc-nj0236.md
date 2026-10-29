@@ -1,6 +1,6 @@
 ---
 title: "Ponns & Company Inc, Essington, PA | Lead Paint Roster"
-description: "Ponns & Company Inc: Lead abatement in Essington, PA. Licence details, contact and quotes."
+description: "Ponns & Company Inc in Essington, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ponns-company-inc-nj0236/
 ---
 

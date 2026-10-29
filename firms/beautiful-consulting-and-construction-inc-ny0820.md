@@ -1,6 +1,6 @@
 ---
-title: "Beautiful Consulting and Construction, Inc., Great Neck, NY | Lead Paint Roster"
-description: "Beautiful Consulting and Construction, Inc.: Lead abatement in Great Neck, NY. Licence details, contact and quotes."
+title: "Beautiful Consulting and Construction, Great Neck NY"
+description: "Beautiful Consulting and Construction, Inc. in Great Neck, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/beautiful-consulting-and-construction-inc-ny0820/
 ---
 

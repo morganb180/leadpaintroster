@@ -1,6 +1,6 @@
 ---
 title: "Pure Environmental, Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Pure Environmental, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Pure Environmental, Inc. in Brooklyn, NY: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/pure-environmental-inc-nj0239/
 ---
 

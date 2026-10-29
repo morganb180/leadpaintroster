@@ -1,6 +1,6 @@
 ---
-title: "1st Responders Restoration Corp., Brooklyn, NY | Lead Paint Roster"
-description: "1st Responders Restoration Corp.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "1st Responders Restoration: Lead Abatement, Brooklyn NY"
+description: "1st Responders Restoration Corp. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/1st-responders-restoration-corp-ny0689/
 ---
 

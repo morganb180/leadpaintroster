@@ -1,6 +1,6 @@
 ---
 title: "JRJ Painting LLC, Syracuse, NY | Lead Paint Roster"
-description: "JRJ Painting LLC: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
+description: "JRJ Painting LLC in Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/jrj-painting-llc-ny1128/
 ---
 

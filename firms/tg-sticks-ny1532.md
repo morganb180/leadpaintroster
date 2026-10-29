@@ -1,6 +1,6 @@
 ---
 title: "TG Sticks, Dewitt, NY | Lead Paint Roster"
-description: "TG Sticks: Lead abatement in Dewitt, NY. Licence details, contact and quotes."
+description: "TG Sticks in Dewitt, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/tg-sticks-ny1532/
 ---
 

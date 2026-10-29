@@ -1,6 +1,6 @@
 ---
-title: "Stoney Construction and Removal LLC, Buffalo, NY | Lead Paint Roster"
-description: "Stoney Construction and Removal LLC: Lead abatement in Buffalo, NY. Licence details, contact and quotes."
+title: "Stoney Construction and Removal: Lead Abatement, Buffalo NY"
+description: "Stoney Construction and Removal LLC in Buffalo, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/stoney-construction-and-removal-llc-ny1515/
 ---
 

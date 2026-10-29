@@ -1,6 +1,6 @@
 ---
-title: "McS Advance Home Services, LLC, Collingswood, NJ | Lead Paint Roster"
-description: "McS Advance Home Services, LLC: Lead inspection / evaluation in Collingswood, NJ. Licence details, contact and quotes."
+title: "McS Advance Home Services: Lead Inspector, Collingswood NJ"
+description: "McS Advance Home Services, LLC in Collingswood, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mcs-advance-home-services-llc-nj0109/
 ---
 

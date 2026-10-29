@@ -1,6 +1,6 @@
 ---
 title: "Operation Restoration, Mount Vernon, NY | Lead Paint Roster"
-description: "Operation Restoration: Lead abatement in Mount Vernon, NY. Licence details, contact and quotes."
+description: "Operation Restoration in Mount Vernon, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/operation-restoration-ny1318/
 ---
 

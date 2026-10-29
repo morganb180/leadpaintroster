@@ -1,6 +1,6 @@
 ---
-title: "Heading Home Property Services LLC, Liverpool, NY | Lead Paint Roster"
-description: "Heading Home Property Services LLC: Lead abatement in Liverpool, NY. Licence details, contact and quotes."
+title: "Heading Home Property Services: Lead Abatement, Liverpool NY"
+description: "Heading Home Property Services LLC in Liverpool, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/heading-home-property-services-llc-ny1079/
 ---
 

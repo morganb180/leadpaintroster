@@ -1,6 +1,6 @@
 ---
 title: "Lewis Cg, Inc, Wall, NJ | Lead Paint Roster"
-description: "Lewis Cg, Inc: Lead inspection / evaluation in Wall, NJ. Licence details, contact and quotes."
+description: "Lewis Cg, Inc in Wall, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lewis-cg-inc-nj0102/
 ---
 

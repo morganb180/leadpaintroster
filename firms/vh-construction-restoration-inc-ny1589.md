@@ -1,6 +1,6 @@
 ---
-title: "VH Construction & Restoration Inc, Woodhaven, NY | Lead Paint Roster"
-description: "VH Construction & Restoration Inc: Lead abatement in Woodhaven, NY. Licence details, contact and quotes."
+title: "VH Construction & Restoration: Lead Abatement, Woodhaven NY"
+description: "VH Construction & Restoration Inc in Woodhaven, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/vh-construction-restoration-inc-ny1589/
 ---
 

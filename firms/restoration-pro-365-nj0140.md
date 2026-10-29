@@ -1,6 +1,6 @@
 ---
 title: "Restoration Pro 365, Ewing, NJ | Lead Paint Roster"
-description: "Restoration Pro 365: Lead inspection / evaluation in Ewing, NJ. Licence details, contact and quotes."
+description: "Restoration Pro 365 in Ewing, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/restoration-pro-365-nj0140/
 ---
 

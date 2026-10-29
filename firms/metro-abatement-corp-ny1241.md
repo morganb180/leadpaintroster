@@ -1,6 +1,6 @@
 ---
 title: "Metro Abatement Corp, Brooklyn, NY | Lead Paint Roster"
-description: "Metro Abatement Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Metro Abatement Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/metro-abatement-corp-ny1241/
 ---
 

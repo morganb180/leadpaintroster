@@ -1,6 +1,6 @@
 ---
 title: "Bot Construction, Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Bot Construction, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Bot Construction, Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/bot-construction-inc-ny0849/
 ---
 

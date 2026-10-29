@@ -1,5 +1,5 @@
 ---
-title: "Chautauqua County Health Department, Jamestown, NY | Lead Paint Roster"
+title: "Chautauqua County Health Department, Jamestown NY"
 description: "Chautauqua County Health Department: Lead inspection / evaluation in Jamestown, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/chautauqua-county-health-department-ny0163/
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Michael's Remodeling, Selkirk, NY | Lead Paint Roster"
-description: "Michael's Remodeling: Lead abatement in Selkirk, NY. Licence details, contact and quotes."
+description: "Michael's Remodeling in Selkirk, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/michael-s-remodeling-ny1246/
 ---
 

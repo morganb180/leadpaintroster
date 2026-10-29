@@ -1,6 +1,6 @@
 ---
 title: "YUGO Construction Corp., New York, NY | Lead Paint Roster"
-description: "YUGO Construction Corp.: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "YUGO Construction Corp. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/yugo-construction-corp-ny1625/
 ---
 

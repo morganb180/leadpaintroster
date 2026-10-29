@@ -1,6 +1,6 @@
 ---
 title: "AJB Brothers Inc, Fleischmanns, NY | Lead Paint Roster"
-description: "AJB Brothers Inc: Lead abatement in Fleischmanns, NY. Licence details, contact and quotes."
+description: "AJB Brothers Inc in Fleischmanns, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ajb-brothers-inc-ny0728/
 ---
 

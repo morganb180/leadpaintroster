@@ -1,6 +1,6 @@
 ---
-title: "Urban Restoration General Contracting LLC, Jewett, NY | Lead Paint Roster"
-description: "Urban Restoration General Contracting LLC: Lead abatement in Jewett, NY. Licence details, contact and quotes."
+title: "Urban Restoration General Contracting, Jewett NY"
+description: "Urban Restoration General Contracting LLC in Jewett, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/urban-restoration-general-contracting-llc-ny1583/
 ---
 

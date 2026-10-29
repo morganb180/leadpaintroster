@@ -1,6 +1,6 @@
 ---
 title: "JP Environmental, Mamaroneck, NY | Lead Paint Roster"
-description: "JP Environmental: Lead abatement, Lead inspection / evaluation in Mamaroneck, NY. Licence details, contact and quotes."
+description: "JP Environmental in Mamaroneck, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/jp-environmental-ny0348/
 ---
 

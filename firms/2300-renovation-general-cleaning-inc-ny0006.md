@@ -1,5 +1,5 @@
 ---
-title: "2300 Renovation & General Cleaning Inc, Bronx, NY | Lead Paint Roster"
+title: "2300 Renovation & General Cleaning: Lead Paint Pro, Bronx NY"
 description: "2300 Renovation & General Cleaning Inc: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/2300-renovation-general-cleaning-inc-ny0006/
 ---

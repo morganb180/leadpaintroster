@@ -1,6 +1,6 @@
 ---
 title: "Greenhill Mgmt., LLC, Elmhurst, NY | Lead Paint Roster"
-description: "Greenhill Mgmt., LLC: Lead abatement in Elmhurst, NY. Licence details, contact and quotes."
+description: "Greenhill Mgmt., LLC in Elmhurst, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/greenhill-mgmt-llc-ny1067/
 ---
 

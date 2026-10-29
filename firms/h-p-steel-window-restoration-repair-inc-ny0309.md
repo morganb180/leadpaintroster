@@ -1,5 +1,5 @@
 ---
-title: "H.P. Steel Window Restoration & Repair, Inc., Wappingers Falls, NY | Lead Paint Roster"
+title: "H.P. Steel Window Restoration & Repair, Wappingers Falls NY"
 description: "H.P. Steel Window Restoration & Repair, Inc.: Lead abatement, Lead inspection / evaluation in Wappingers Falls, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/h-p-steel-window-restoration-repair-inc-ny0309/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Acon Environmental & Const, Inc., Bronx, NY | Lead Paint Roster"
+title: "Acon Environmental & Const: Lead Paint Pro, Bronx NY"
 description: "Acon Environmental & Const, Inc.: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/acon-environmental-const-inc-ny0067/
 ---

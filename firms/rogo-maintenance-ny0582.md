@@ -1,6 +1,6 @@
 ---
 title: "Rogo Maintenance, Brooklyn, NY | Lead Paint Roster"
-description: "Rogo Maintenance: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "Rogo Maintenance in Brooklyn, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/rogo-maintenance-ny0582/
 ---
 

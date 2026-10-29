@@ -1,5 +1,5 @@
 ---
-title: "NY Lead Paint Experts, Inc., Glen Oaks, NY | Lead Paint Roster"
+title: "NY Lead Paint Experts: Lead Paint Pro, Glen Oaks NY"
 description: "NY Lead Paint Experts, Inc.: Lead abatement, Lead inspection / evaluation in Glen Oaks, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/ny-lead-paint-experts-inc-ny0468/
 ---

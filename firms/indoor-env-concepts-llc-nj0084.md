@@ -1,6 +1,6 @@
 ---
 title: "Indoor Env. Concepts, LLC, Runnemede, NJ | Lead Paint Roster"
-description: "Indoor Env. Concepts, LLC: Lead inspection / evaluation in Runnemede, NJ. Licence details, contact and quotes."
+description: "Indoor Env. Concepts, LLC in Runnemede, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/indoor-env-concepts-llc-nj0084/
 ---
 

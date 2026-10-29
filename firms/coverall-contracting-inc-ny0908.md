@@ -1,6 +1,6 @@
 ---
-title: "Coverall Contracting Inc., Voorheesville, NY | Lead Paint Roster"
-description: "Coverall Contracting Inc.: Lead abatement in Voorheesville, NY. Licence details, contact and quotes."
+title: "Coverall Contracting Inc.: Lead Abatement, Voorheesville NY"
+description: "Coverall Contracting Inc. in Voorheesville, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/coverall-contracting-inc-ny0908/
 ---
 

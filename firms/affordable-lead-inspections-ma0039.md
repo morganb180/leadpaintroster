@@ -1,6 +1,6 @@
 ---
 title: "Affordable Lead Inspections, Raynham, MA | Lead Paint Roster"
-description: "Affordable Lead Inspections: Lead risk assessment in Raynham, MA. Licence details, contact and quotes."
+description: "Affordable Lead Inspections in Raynham, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/affordable-lead-inspections-ma0039/
 ---
 

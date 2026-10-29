@@ -1,6 +1,6 @@
 ---
-title: "Patriot Sons USA, LLC, North Syracuse, NY | Lead Paint Roster"
-description: "Patriot Sons USA, LLC: Lead abatement in North Syracuse, NY. Licence details, contact and quotes."
+title: "Patriot Sons USA, LLC: Lead Abatement, North Syracuse NY"
+description: "Patriot Sons USA, LLC in North Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/patriot-sons-usa-llc-ny1348/
 ---
 

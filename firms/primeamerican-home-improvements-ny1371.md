@@ -1,6 +1,6 @@
 ---
-title: "Primeamerican Home Improvements, Tivoli, NY | Lead Paint Roster"
-description: "Primeamerican Home Improvements: Lead abatement in Tivoli, NY. Licence details, contact and quotes."
+title: "Primeamerican Home Improvements: Lead Abatement, Tivoli NY"
+description: "Primeamerican Home Improvements in Tivoli, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/primeamerican-home-improvements-ny1371/
 ---
 

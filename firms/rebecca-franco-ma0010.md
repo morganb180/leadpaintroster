@@ -1,6 +1,6 @@
 ---
 title: "Rebecca Franco, Canton, MA | Lead Paint Roster"
-description: "Rebecca Franco: Lead inspection / evaluation in Canton, MA. Licence details, contact and quotes."
+description: "Rebecca Franco in Canton, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/rebecca-franco-ma0010/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in West Seneca, NY | Lead Paint Roster"
+title: "How to Hire a Lead Paint Inspector in West Seneca, NY"
 description: "West Seneca, NY lead paint guide: 1 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/ny/city/west-seneca/guide/
 ---
@@ -8,18 +8,20 @@ canonical: https://leadpaintroster.com/ny/city/west-seneca/guide/
 
 # How to hire a certified lead inspector in West Seneca, NY
 
+**Quick answer:** To hire a lead inspector in West Seneca, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 4 listings with a West Seneca address (1 inspection/risk-assessment, 3 abatement) and 43 more in Erie County. A national cost guide on this page puts a lead paint inspection at $239-$437.
+
 4 listings give an address in West Seneca: 1 inspection/risk-assessment and 3 abatement. Another 43 are elsewhere in Erie County.
 
 [Get quotes](https://leadpaintroster.com/get-quotes/?city=west-seneca&st=ny) [All West Seneca listings](https://leadpaintroster.com/ny/city/west-seneca/)
 
-## Questions to ask
+## What should I ask a lead inspector in West Seneca before hiring?
 
 * Will the report meet the requirements of the local rental-inspection or lead law?
 * How soon will I get the written report and any lead-safe certificate?
 * If hazards are found, can you do clearance testing after the repairs?
 * Are you independent of the abatement contractor?
 
-## New York lead paint rules in brief
+## What are New York's lead paint rules?
 
 * New York State does not run its own lead-based paint activities certification. EPA certifies firms and individuals there, and EPA's locator is the official lookup.
 * In New York City, Local Law 1 of 2004 places lead-paint duties on landlords of older multiple dwellings where young children live. NYC HPD explains the current inspection and XRF-testing requirements.
@@ -27,7 +29,9 @@ canonical: https://leadpaintroster.com/ny/city/west-seneca/guide/
 
 Sources: [EPA lead-based paint program](https://www.epa.gov/lead), [NYC HPD lead-based paint](https://www.nyc.gov/site/hpd/services-and-information/lead-based-paint.page). Plain-language summary, not legal advice. Confirm with the agency.
 
-## Certified pros based in West Seneca
+## Which certified lead pros are based in West Seneca?
+
+Lead Paint Roster lists 4 listings with an address in West Seneca: 1 inspection/risk-assessment and 3 abatement.
 
 ✔ EPA-certified firm Lead inspection / evaluation
 
@@ -68,7 +72,9 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F265401-1 (exp. 2027-06-21)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1169)
 
-## What lead work typically costs
+## How much does a lead paint inspection cost in West Seneca?
+
+A national HomeAdvisor guide puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520 (about $3,499). Lead Paint Roster has no West Seneca-specific prices, so get written quotes.
 
 | Item | Typical range (national) |
 | --- | --- |
@@ -77,7 +83,9 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 National figures, not local quotes. Large homes and multi-unit buildings cost more. Try the [estimate tool](https://leadpaintroster.com/lead-inspection-cost/).
 
-## How to verify a West Seneca lead inspector
+## How do I verify a lead inspector's certification in West Seneca?
+
+Look the firm up in the official EPA list, then ask for the firm's certification number and the individual inspector's own credential in writing. Our copy of the list was retrieved 2026-10-12.
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

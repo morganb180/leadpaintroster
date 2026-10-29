@@ -1,6 +1,6 @@
 ---
 title: "Wsp USA, Inc., New York, NY | Lead Paint Roster"
-description: "Wsp USA, Inc.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+description: "Wsp USA, Inc. in New York, NY: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/wsp-usa-inc-nj0178/
 ---
 

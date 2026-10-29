@@ -1,6 +1,6 @@
 ---
 title: "STM Interiors LLC, Yonkers, NY | Lead Paint Roster"
-description: "STM Interiors LLC: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
+description: "STM Interiors LLC in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/stm-interiors-llc-ny1464/
 ---
 

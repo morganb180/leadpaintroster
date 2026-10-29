@@ -1,6 +1,6 @@
 ---
 title: "Rrp Lead Solutions, LLC, Marlton, NJ | Lead Paint Roster"
-description: "Rrp Lead Solutions, LLC: Lead inspection / evaluation in Marlton, NJ. Licence details, contact and quotes."
+description: "Rrp Lead Solutions, LLC in Marlton, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/rrp-lead-solutions-llc-nj0144/
 ---
 

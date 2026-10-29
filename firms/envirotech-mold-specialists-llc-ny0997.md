@@ -1,6 +1,6 @@
 ---
-title: "Envirotech Mold Specialists LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Envirotech Mold Specialists LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Envirotech Mold Specialists LLC: Lead Abatement, Brooklyn NY"
+description: "Envirotech Mold Specialists LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/envirotech-mold-specialists-llc-ny0997/
 ---
 

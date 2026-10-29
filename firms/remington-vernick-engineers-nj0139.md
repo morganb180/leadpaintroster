@@ -1,6 +1,6 @@
 ---
-title: "Remington & Vernick Engineers, Cherry Hill, NJ | Lead Paint Roster"
-description: "Remington & Vernick Engineers: Lead inspection / evaluation in Cherry Hill, NJ. Licence details, contact and quotes."
+title: "Remington & Vernick Engineers, Cherry Hill NJ"
+description: "Remington & Vernick Engineers in Cherry Hill, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/remington-vernick-engineers-nj0139/
 ---
 

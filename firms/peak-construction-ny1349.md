@@ -1,6 +1,6 @@
 ---
 title: "Peak Construction, Fishkill, NY | Lead Paint Roster"
-description: "Peak Construction: Lead abatement in Fishkill, NY. Licence details, contact and quotes."
+description: "Peak Construction in Fishkill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/peak-construction-ny1349/
 ---
 

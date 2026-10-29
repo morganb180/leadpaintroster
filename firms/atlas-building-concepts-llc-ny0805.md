@@ -1,6 +1,6 @@
 ---
-title: "Atlas Building Concepts LLC, Ausable Forks, NY | Lead Paint Roster"
-description: "Atlas Building Concepts LLC: Lead abatement in Ausable Forks, NY. Licence details, contact and quotes."
+title: "Atlas Building Concepts: Lead Abatement, Ausable Forks NY"
+description: "Atlas Building Concepts LLC in Ausable Forks, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/atlas-building-concepts-llc-ny0805/
 ---
 

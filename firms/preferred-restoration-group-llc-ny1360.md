@@ -1,6 +1,6 @@
 ---
-title: "Preferred Restoration Group LLC, Airmont, NY | Lead Paint Roster"
-description: "Preferred Restoration Group LLC: Lead abatement in Airmont, NY. Licence details, contact and quotes."
+title: "Preferred Restoration Group LLC: Lead Abatement, Airmont NY"
+description: "Preferred Restoration Group LLC in Airmont, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/preferred-restoration-group-llc-ny1360/
 ---
 

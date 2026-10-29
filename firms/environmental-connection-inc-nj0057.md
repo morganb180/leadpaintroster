@@ -1,6 +1,6 @@
 ---
-title: "Environmental Connection Inc., Trenton, NJ | Lead Paint Roster"
-description: "Environmental Connection Inc.: Lead inspection / evaluation in Trenton, NJ. Licence details, contact and quotes."
+title: "Environmental Connection: Lead Paint Inspector, Trenton NJ"
+description: "Environmental Connection Inc. in Trenton, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/environmental-connection-inc-nj0057/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "ANT Contracting, Queens, NY | Lead Paint Roster"
-description: "ANT Contracting: Lead abatement, Lead inspection / evaluation in Queens, NY. Licence details, contact and quotes."
+description: "ANT Contracting in Queens, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ant-contracting-ny0049/
 ---
 

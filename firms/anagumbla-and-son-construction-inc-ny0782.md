@@ -1,6 +1,6 @@
 ---
-title: "Anagumbla and Son Construction, Inc., Bronx, NY | Lead Paint Roster"
-description: "Anagumbla and Son Construction, Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+title: "Anagumbla and Son Construction: Lead Abatement, Bronx NY"
+description: "Anagumbla and Son Construction, Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/anagumbla-and-son-construction-inc-ny0782/
 ---
 

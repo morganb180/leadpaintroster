@@ -1,6 +1,6 @@
 ---
-title: "Enviroscience Consultants, LLC, Ronkonkoma, NY | Lead Paint Roster"
-description: "Enviroscience Consultants, LLC: Lead inspection / evaluation in Ronkonkoma, NY. Licence details, contact and quotes."
+title: "Enviroscience Consultants: Lead Inspector, Ronkonkoma NY"
+description: "Enviroscience Consultants, LLC in Ronkonkoma, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/enviroscience-consultants-llc-ny0257/
 ---
 

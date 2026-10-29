@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Delaware County, NY: 5 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Delaware County, NY"
 description: "5 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Delaware County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/delaware/
 ---
@@ -10,7 +10,9 @@ canonical: https://leadpaintroster.com/ny/county/delaware/
 
 **5 EPA-licensed listings** with an address of record in Delaware County (5 lead abatement): 5 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=delaware&st=ny)
 
-## Lead abatement contractors (5)
+## Who does lead paint abatement in Delaware County, NY? (5)
+
+5 EPA-licensed lead abatement listings have an address of record in Delaware County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -77,13 +79,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F279365-1 (exp. 2028-01-27)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0836)
 
-## Neighboring counties
+## Which counties border Delaware County, NY?
 
 [Broome](https://leadpaintroster.com/ny/county/broome/) (11) · Chenango (0) · [Greene](https://leadpaintroster.com/ny/county/greene/) (1) · [Otsego](https://leadpaintroster.com/ny/county/otsego/) (1) · [Schoharie](https://leadpaintroster.com/ny/county/schoharie/) (1) · [Sullivan](https://leadpaintroster.com/ny/county/sullivan/) (2) · [Ulster](https://leadpaintroster.com/ny/county/ulster/) (10)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Delaware County: quick guide
+## How do I hire a lead inspector in Delaware County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

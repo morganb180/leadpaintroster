@@ -1,6 +1,6 @@
 ---
 title: "Pluto Environmental LLC, Mahopac, NY | Lead Paint Roster"
-description: "Pluto Environmental LLC: Lead abatement in Mahopac, NY. Licence details, contact and quotes."
+description: "Pluto Environmental LLC in Mahopac, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/pluto-environmental-llc-ny1332/
 ---
 

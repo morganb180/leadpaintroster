@@ -1,6 +1,6 @@
 ---
 title: "Rocks & Gravel LLC, Howard Beach, NY | Lead Paint Roster"
-description: "Rocks & Gravel LLC: Lead abatement in Howard Beach, NY. Licence details, contact and quotes."
+description: "Rocks & Gravel LLC in Howard Beach, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/rocks-gravel-llc-ny1439/
 ---
 

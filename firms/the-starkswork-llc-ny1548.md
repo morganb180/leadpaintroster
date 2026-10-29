@@ -1,6 +1,6 @@
 ---
 title: "The Starkswork, LLC, Flushing, NY | Lead Paint Roster"
-description: "The Starkswork, LLC: Lead abatement in Flushing, NY. Licence details, contact and quotes."
+description: "The Starkswork, LLC in Flushing, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/the-starkswork-llc-ny1548/
 ---
 

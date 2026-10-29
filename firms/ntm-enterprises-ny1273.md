@@ -1,6 +1,6 @@
 ---
 title: "NTM Enterprises, Maspeth, NY | Lead Paint Roster"
-description: "NTM Enterprises: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
+description: "NTM Enterprises in Maspeth, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ntm-enterprises-ny1273/
 ---
 

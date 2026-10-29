@@ -1,6 +1,6 @@
 ---
 title: "East Coast Lead Paint Inspect, Ayer, MA | Lead Paint Roster"
-description: "East Coast Lead Paint Inspect: Lead inspection / evaluation in Ayer, MA. Licence details, contact and quotes."
+description: "East Coast Lead Paint Inspect in Ayer, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/east-coast-lead-paint-inspect-ma0003/
 ---
 

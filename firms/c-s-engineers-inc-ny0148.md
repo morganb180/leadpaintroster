@@ -1,6 +1,6 @@
 ---
 title: "C & S Engineers, Inc., Syracuse, NY | Lead Paint Roster"
-description: "C & S Engineers, Inc.: Lead inspection / evaluation in Syracuse, NY. Licence details, contact and quotes."
+description: "C & S Engineers, Inc. in Syracuse, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/c-s-engineers-inc-ny0148/
 ---
 

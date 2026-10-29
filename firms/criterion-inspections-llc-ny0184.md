@@ -1,6 +1,6 @@
 ---
 title: "Criterion Inspections LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Criterion Inspections LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "Criterion Inspections LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/criterion-inspections-llc-ny0184/
 ---
 

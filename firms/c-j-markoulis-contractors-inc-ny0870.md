@@ -1,6 +1,6 @@
 ---
-title: "C.J. Markoulis Contractors Inc, Astoria, NY | Lead Paint Roster"
-description: "C.J. Markoulis Contractors Inc: Lead abatement in Astoria, NY. Licence details, contact and quotes."
+title: "C.J. Markoulis Contractors Inc: Lead Abatement, Astoria NY"
+description: "C.J. Markoulis Contractors Inc in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/c-j-markoulis-contractors-inc-ny0870/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Advanced Lead Testing & Environmental Services, LLC., Bronx, NY | Lead Paint Roster"
+title: "Advanced Lead Testing & Environmental Services, LLC."
 description: "Advanced Lead Testing & Environmental Services, LLC.: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/advanced-lead-testing-environmental-services-llc-ny0071/
 ---

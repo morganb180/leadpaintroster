@@ -1,6 +1,6 @@
 ---
-title: "J/j Abatement of New York LLC, Brooklyn, NY | Lead Paint Roster"
-description: "J/j Abatement of New York LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "J/j Abatement of New York LLC: Lead Abatement, Brooklyn NY"
+description: "J/j Abatement of New York LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/j-j-abatement-of-new-york-llc-ny1113/
 ---
 

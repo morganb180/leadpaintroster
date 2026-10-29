@@ -1,6 +1,6 @@
 ---
-title: "Precision Construction & Design LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Precision Construction & Design LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Precision Construction & Design: Lead Abatement, Brooklyn NY"
+description: "Precision Construction & Design LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/precision-construction-design-llc-ny1359/
 ---
 

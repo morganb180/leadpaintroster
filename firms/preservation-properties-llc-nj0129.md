@@ -1,6 +1,6 @@
 ---
-title: "Preservation Properties, LLC, Newtown, PA | Lead Paint Roster"
-description: "Preservation Properties, LLC: Lead inspection / evaluation in Newtown, PA. Licence details, contact and quotes."
+title: "Preservation Properties: Lead Paint Inspector, Newtown PA"
+description: "Preservation Properties, LLC in Newtown, PA: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/preservation-properties-llc-nj0129/
 ---
 

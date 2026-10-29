@@ -1,6 +1,6 @@
 ---
 title: "MKNK Waste Removal, Inc., Brooklyn, NY | Lead Paint Roster"
-description: "MKNK Waste Removal, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "MKNK Waste Removal, Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/mknk-waste-removal-inc-ny1212/
 ---
 

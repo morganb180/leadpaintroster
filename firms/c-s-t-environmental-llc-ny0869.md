@@ -1,6 +1,6 @@
 ---
-title: "C S T Environmental LLC, East Elmhurst, NY | Lead Paint Roster"
-description: "C S T Environmental LLC: Lead abatement in East Elmhurst, NY. Licence details, contact and quotes."
+title: "C S T Environmental LLC: Lead Abatement, East Elmhurst NY"
+description: "C S T Environmental LLC in East Elmhurst, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/c-s-t-environmental-llc-ny0869/
 ---
 

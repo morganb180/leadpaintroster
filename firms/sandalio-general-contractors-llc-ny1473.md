@@ -1,6 +1,6 @@
 ---
-title: "Sandalio General Contractors, LLC, Staten Island, NY | Lead Paint Roster"
-description: "Sandalio General Contractors, LLC: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+title: "Sandalio General Contractors, Staten Island NY"
+description: "Sandalio General Contractors, LLC in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/sandalio-general-contractors-llc-ny1473/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Swift Works, Webster, NY | Lead Paint Roster"
-description: "Swift Works: Lead abatement in Webster, NY. Licence details, contact and quotes."
+description: "Swift Works in Webster, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/swift-works-ny1527/
 ---
 

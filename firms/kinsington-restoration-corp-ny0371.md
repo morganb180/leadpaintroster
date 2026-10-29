@@ -1,5 +1,5 @@
 ---
-title: "Kinsington Restoration Corp, Staten Island, NY | Lead Paint Roster"
+title: "Kinsington Restoration: Lead Paint Pro, Staten Island NY"
 description: "Kinsington Restoration Corp: Lead abatement, Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kinsington-restoration-corp-ny0371/
 ---

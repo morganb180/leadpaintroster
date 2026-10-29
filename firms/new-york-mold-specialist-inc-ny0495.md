@@ -1,5 +1,5 @@
 ---
-title: "New York Mold Specialist Inc, Brooklyn, NY | Lead Paint Roster"
+title: "New York Mold Specialist: Lead Paint Pro, Brooklyn NY"
 description: "New York Mold Specialist Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/new-york-mold-specialist-inc-ny0495/
 ---

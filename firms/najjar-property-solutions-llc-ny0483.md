@@ -1,5 +1,5 @@
 ---
-title: "Najjar Property Solutions LLC, Staten Island, NY | Lead Paint Roster"
+title: "Najjar Property Solutions: Lead Paint Pro, Staten Island NY"
 description: "Najjar Property Solutions LLC: Lead abatement, Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/najjar-property-solutions-llc-ny0483/
 ---

@@ -1,6 +1,6 @@
 ---
-title: "GSD Environmental Services, Inc., Tuxedo Park, NY | Lead Paint Roster"
-description: "GSD Environmental Services, Inc.: Lead abatement in Tuxedo Park, NY. Licence details, contact and quotes."
+title: "GSD Environmental Services: Lead Abatement, Tuxedo Park NY"
+description: "GSD Environmental Services, Inc. in Tuxedo Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/gsd-environmental-services-inc-ny1048/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Hillmann Consulting, LLC, Union, NJ | Lead Paint Roster"
-description: "Hillmann Consulting, LLC: Lead inspection / evaluation in Union, NJ. Licence details, contact and quotes."
+description: "Hillmann Consulting, LLC in Union, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/hillmann-consulting-llc-nj0079/
 ---
 

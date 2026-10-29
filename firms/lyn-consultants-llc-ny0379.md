@@ -1,6 +1,6 @@
 ---
 title: "LYN Consultants LLC, Staten Island, NY | Lead Paint Roster"
-description: "LYN Consultants LLC: Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
+description: "LYN Consultants LLC in Staten Island, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/lyn-consultants-llc-ny0379/
 ---
 

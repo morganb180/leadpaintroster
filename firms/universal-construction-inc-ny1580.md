@@ -1,6 +1,6 @@
 ---
-title: "Universal Construction Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Universal Construction Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Universal Construction Inc.: Lead Abatement, Brooklyn NY"
+description: "Universal Construction Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/universal-construction-inc-ny1580/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Smyler & Smyler Inc, Jackson Heights, NY | Lead Paint Roster"
-description: "Smyler & Smyler Inc: Lead abatement in Jackson Heights, NY. Licence details, contact and quotes."
+description: "Smyler & Smyler Inc in Jackson Heights, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/smyler-smyler-inc-ny1503/
 ---
 

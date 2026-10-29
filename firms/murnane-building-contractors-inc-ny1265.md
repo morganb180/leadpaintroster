@@ -1,6 +1,6 @@
 ---
-title: "Murnane Building Contractors, Inc., Plattsburgh, NY | Lead Paint Roster"
-description: "Murnane Building Contractors, Inc.: Lead abatement in Plattsburgh, NY. Licence details, contact and quotes."
+title: "Murnane Building Contractors: Lead Abatement, Plattsburgh NY"
+description: "Murnane Building Contractors, Inc. in Plattsburgh, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/murnane-building-contractors-inc-ny1265/
 ---
 

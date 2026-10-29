@@ -1,6 +1,6 @@
 ---
-title: "NAJO Consulting, LLC, Yorktown Heights, NY | Lead Paint Roster"
-description: "NAJO Consulting, LLC: Lead inspection / evaluation in Yorktown Heights, NY. Licence details, contact and quotes."
+title: "NAJO Consulting: Lead Paint Inspector, Yorktown Heights NY"
+description: "NAJO Consulting, LLC in Yorktown Heights, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/najo-consulting-llc-ny0463/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "I-AM-Construction Of NY LLC., East Greenbush, NY | Lead Paint Roster"
-description: "I-AM-Construction Of NY LLC.: Lead abatement in East Greenbush, NY. Licence details, contact and quotes."
+title: "I-AM-Construction Of NY LLC., East Greenbush NY"
+description: "I-AM-Construction Of NY LLC. in East Greenbush, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/i-am-construction-of-ny-llc-ny1090/
 ---
 

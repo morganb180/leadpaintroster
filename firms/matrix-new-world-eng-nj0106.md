@@ -1,6 +1,6 @@
 ---
 title: "Matrix New World Eng., Florham Park, NJ | Lead Paint Roster"
-description: "Matrix New World Eng.: Lead inspection / evaluation in Florham Park, NJ. Licence details, contact and quotes."
+description: "Matrix New World Eng. in Florham Park, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/matrix-new-world-eng-nj0106/
 ---
 

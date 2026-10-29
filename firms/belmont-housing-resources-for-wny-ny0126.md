@@ -1,6 +1,6 @@
 ---
-title: "Belmont Housing Resources for WNY, Buffalo, NY | Lead Paint Roster"
-description: "Belmont Housing Resources for WNY: Lead inspection / evaluation in Buffalo, NY. Licence details, contact and quotes."
+title: "Belmont Housing Resources for WNY, Buffalo NY"
+description: "Belmont Housing Resources for WNY in Buffalo, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/belmont-housing-resources-for-wny-ny0126/
 ---
 

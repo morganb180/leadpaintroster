@@ -1,6 +1,6 @@
 ---
 title: "Gc Zarnas & Co. Inc-Nj, Bethlehem, PA | Lead Paint Roster"
-description: "Gc Zarnas & Co. Inc-Nj: Lead abatement in Bethlehem, PA. Licence details, contact and quotes."
+description: "Gc Zarnas & Co. Inc-Nj in Bethlehem, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/gc-zarnas-co-inc-nj-nj0216/
 ---
 

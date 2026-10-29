@@ -1,6 +1,6 @@
 ---
 title: "S & T Corp, Blauvelt, NY | Lead Paint Roster"
-description: "S & T Corp: Lead abatement, Lead inspection / evaluation in Blauvelt, NY. Licence details, contact and quotes."
+description: "S & T Corp in Blauvelt, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/s-t-corp-ny0586/
 ---
 

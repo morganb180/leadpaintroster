@@ -1,6 +1,6 @@
 ---
-title: "Bangir Construction & Supplies, Pompton Lakes, NJ | Lead Paint Roster"
-description: "Bangir Construction & Supplies: Lead abatement in Pompton Lakes, NJ. Licence details, contact and quotes."
+title: "Bangir Construction & Supplies, Pompton Lakes NJ"
+description: "Bangir Construction & Supplies in Pompton Lakes, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/bangir-construction-supplies-nj0200/
 ---
 

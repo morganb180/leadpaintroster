@@ -1,6 +1,6 @@
 ---
 title: "Making Look Good Corp., Brooklyn, NY | Lead Paint Roster"
-description: "Making Look Good Corp.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Making Look Good Corp. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/making-look-good-corp-ny1220/
 ---
 

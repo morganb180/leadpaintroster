@@ -1,6 +1,6 @@
 ---
 title: "EnviroTrac, Ltd., Yaphank, NY | Lead Paint Roster"
-description: "EnviroTrac, Ltd.: Lead abatement, Lead inspection / evaluation in Yaphank, NY. Licence details, contact and quotes."
+description: "EnviroTrac, Ltd. in Yaphank, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/envirotrac-ltd-ny0245/
 ---
 

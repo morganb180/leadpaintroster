@@ -1,6 +1,6 @@
 ---
 title: "Ketai Construction LLC, New York, NY | Lead Paint Roster"
-description: "Ketai Construction LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "Ketai Construction LLC in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ketai-construction-llc-ny1154/
 ---
 

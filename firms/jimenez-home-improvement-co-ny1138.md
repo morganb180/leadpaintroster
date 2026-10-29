@@ -1,6 +1,6 @@
 ---
 title: "Jimenez Home Improvement Co, Yonker, NY | Lead Paint Roster"
-description: "Jimenez Home Improvement Co: Lead abatement in Yonker, NY. Licence details, contact and quotes."
+description: "Jimenez Home Improvement Co in Yonker, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/jimenez-home-improvement-co-ny1138/
 ---
 

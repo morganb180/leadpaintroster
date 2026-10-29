@@ -1,6 +1,6 @@
 ---
 title: "Paint Masters NY Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Paint Masters NY Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Paint Masters NY Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/paint-masters-ny-inc-ny1339/
 ---
 

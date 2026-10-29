@@ -1,6 +1,6 @@
 ---
 title: "Shirel Construction, Inc., Flushing, NY | Lead Paint Roster"
-description: "Shirel Construction, Inc.: Lead abatement in Flushing, NY. Licence details, contact and quotes."
+description: "Shirel Construction, Inc. in Flushing, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/shirel-construction-inc-ny1493/
 ---
 

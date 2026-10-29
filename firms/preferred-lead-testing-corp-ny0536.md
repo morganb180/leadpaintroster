@@ -1,6 +1,6 @@
 ---
-title: "Preferred Lead Testing Corp., Airmont, NY | Lead Paint Roster"
-description: "Preferred Lead Testing Corp.: Lead inspection / evaluation in Airmont, NY. Licence details, contact and quotes."
+title: "Preferred Lead Testing: Lead Paint Inspector, Airmont NY"
+description: "Preferred Lead Testing Corp. in Airmont, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/preferred-lead-testing-corp-ny0536/
 ---
 

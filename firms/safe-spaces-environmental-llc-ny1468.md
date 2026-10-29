@@ -1,6 +1,6 @@
 ---
 title: "Safe Spaces Environmental LLC, Bronx, NY | Lead Paint Roster"
-description: "Safe Spaces Environmental LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Safe Spaces Environmental LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/safe-spaces-environmental-llc-ny1468/
 ---
 

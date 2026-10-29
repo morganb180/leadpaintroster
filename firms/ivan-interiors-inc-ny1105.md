@@ -1,6 +1,6 @@
 ---
 title: "Ivan Interiors, Inc., Astoria, NY | Lead Paint Roster"
-description: "Ivan Interiors, Inc.: Lead abatement in Astoria, NY. Licence details, contact and quotes."
+description: "Ivan Interiors, Inc. in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ivan-interiors-inc-ny1105/
 ---
 

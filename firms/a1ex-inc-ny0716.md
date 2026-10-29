@@ -1,6 +1,6 @@
 ---
 title: "A1EX Inc., Brooklyn, NY | Lead Paint Roster"
-description: "A1EX Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "A1EX Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/a1ex-inc-ny0716/
 ---
 

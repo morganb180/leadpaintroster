@@ -1,6 +1,6 @@
 ---
-title: "North Shore Lead Paint Testing Service, Beverly, MA | Lead Paint Roster"
-description: "North Shore Lead Paint Testing Service: Lead risk assessment in Beverly, MA. Licence details, contact and quotes."
+title: "North Shore Lead Paint Testing Service, Beverly MA"
+description: "North Shore Lead Paint Testing Service in Beverly, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/north-shore-lead-paint-testing-service-ma0005/
 ---
 

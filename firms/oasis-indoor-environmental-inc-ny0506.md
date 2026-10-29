@@ -1,6 +1,6 @@
 ---
-title: "Oasis Indoor Environmental, Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Oasis Indoor Environmental, Inc.: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+title: "Oasis Indoor Environmental: Lead Inspector, Brooklyn NY"
+description: "Oasis Indoor Environmental, Inc. in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/oasis-indoor-environmental-inc-ny0506/
 ---
 

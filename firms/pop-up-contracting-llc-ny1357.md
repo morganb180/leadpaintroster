@@ -1,6 +1,6 @@
 ---
 title: "Pop Up Contracting, LLC, Ridgewood, NY | Lead Paint Roster"
-description: "Pop Up Contracting, LLC: Lead abatement in Ridgewood, NY. Licence details, contact and quotes."
+description: "Pop Up Contracting, LLC in Ridgewood, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/pop-up-contracting-llc-ny1357/
 ---
 

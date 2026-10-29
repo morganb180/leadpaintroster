@@ -1,6 +1,6 @@
 ---
 title: "Freedom GS Inc, Woodside, NY | Lead Paint Roster"
-description: "Freedom GS Inc: Lead abatement in Woodside, NY. Licence details, contact and quotes."
+description: "Freedom GS Inc in Woodside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/freedom-gs-inc-ny1027/
 ---
 

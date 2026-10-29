@@ -1,6 +1,6 @@
 ---
 title: "US ABC Construction Corp, Bellerose, NY | Lead Paint Roster"
-description: "US ABC Construction Corp: Lead abatement in Bellerose, NY. Licence details, contact and quotes."
+description: "US ABC Construction Corp in Bellerose, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/us-abc-construction-corp-ny1574/
 ---
 

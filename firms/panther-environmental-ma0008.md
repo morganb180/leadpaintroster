@@ -1,6 +1,6 @@
 ---
 title: "Panther Environmental, Braintree, MA | Lead Paint Roster"
-description: "Panther Environmental: Lead risk assessment in Braintree, MA. Licence details, contact and quotes."
+description: "Panther Environmental in Braintree, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/panther-environmental-ma0008/
 ---
 

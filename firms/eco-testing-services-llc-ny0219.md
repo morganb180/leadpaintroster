@@ -1,6 +1,6 @@
 ---
 title: "Eco-Testing Services, LLC, Newfield, NY | Lead Paint Roster"
-description: "Eco-Testing Services, LLC: Lead inspection / evaluation in Newfield, NY. Licence details, contact and quotes."
+description: "Eco-Testing Services, LLC in Newfield, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/eco-testing-services-llc-ny0219/
 ---
 

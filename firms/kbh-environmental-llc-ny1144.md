@@ -1,6 +1,6 @@
 ---
 title: "KBH Environmental LLC, Scottsville, NY | Lead Paint Roster"
-description: "KBH Environmental LLC: Lead abatement in Scottsville, NY. Licence details, contact and quotes."
+description: "KBH Environmental LLC in Scottsville, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/kbh-environmental-llc-ny1144/
 ---
 

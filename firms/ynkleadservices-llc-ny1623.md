@@ -1,6 +1,6 @@
 ---
 title: "Ynkleadservices LLC, Staten Island, NY | Lead Paint Roster"
-description: "Ynkleadservices LLC: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+description: "Ynkleadservices LLC in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ynkleadservices-llc-ny1623/
 ---
 

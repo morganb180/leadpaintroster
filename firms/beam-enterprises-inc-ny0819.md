@@ -1,6 +1,6 @@
 ---
 title: "Beam Enterprises Inc., Chester, NY | Lead Paint Roster"
-description: "Beam Enterprises Inc.: Lead abatement in Chester, NY. Licence details, contact and quotes."
+description: "Beam Enterprises Inc. in Chester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/beam-enterprises-inc-ny0819/
 ---
 

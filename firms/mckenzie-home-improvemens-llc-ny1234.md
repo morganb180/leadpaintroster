@@ -1,6 +1,6 @@
 ---
 title: "McKenzie Home Improvemens LLC, Bronx, NY | Lead Paint Roster"
-description: "McKenzie Home Improvemens LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "McKenzie Home Improvemens LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mckenzie-home-improvemens-llc-ny1234/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Hasan Demolition & Flooring LLC, Buffalo, NY | Lead Paint Roster"
-description: "Hasan Demolition & Flooring LLC: Lead abatement in Buffalo, NY. Licence details, contact and quotes."
+title: "Hasan Demolition & Flooring LLC: Lead Abatement, Buffalo NY"
+description: "Hasan Demolition & Flooring LLC in Buffalo, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/hasan-demolition-flooring-llc-ny1076/
 ---
 

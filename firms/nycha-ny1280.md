@@ -1,6 +1,6 @@
 ---
 title: "Nycha, Long Island City, NY | Lead Paint Roster"
-description: "Nycha: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
+description: "Nycha in Long Island City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/nycha-ny1280/
 ---
 

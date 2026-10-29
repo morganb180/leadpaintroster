@@ -1,6 +1,6 @@
 ---
-title: "Empire Lead Inspectors, New York, NY | Lead Paint Roster"
-description: "Empire Lead Inspectors: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+title: "Empire Lead Inspectors (228 Park Ave S), New York NY"
+description: "Empire Lead Inspectors in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/empire-lead-inspectors-ny0228/
 ---
 

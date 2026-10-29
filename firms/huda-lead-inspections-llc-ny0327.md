@@ -1,6 +1,6 @@
 ---
 title: "Huda Lead Inspections LLC, Astoria, NY | Lead Paint Roster"
-description: "Huda Lead Inspections LLC: Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
+description: "Huda Lead Inspections LLC in Astoria, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/huda-lead-inspections-llc-ny0327/
 ---
 

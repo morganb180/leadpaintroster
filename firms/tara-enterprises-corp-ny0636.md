@@ -1,5 +1,5 @@
 ---
-title: "Tara Enterprises Corp., Port Washington, NY | Lead Paint Roster"
+title: "Tara Enterprises: Lead Paint Pro, Port Washington NY"
 description: "Tara Enterprises Corp.: Lead abatement, Lead inspection / evaluation in Port Washington, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tara-enterprises-corp-ny0636/
 ---

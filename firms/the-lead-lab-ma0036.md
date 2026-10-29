@@ -1,6 +1,6 @@
 ---
 title: "The Lead Lab, Pittsfield, MA | Lead Paint Roster"
-description: "The Lead Lab: Lead risk assessment in Pittsfield, MA. Licence details, contact and quotes."
+description: "The Lead Lab in Pittsfield, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/the-lead-lab-ma0036/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Lemle & Wolff Construction Corp, Bronx, NY | Lead Paint Roster"
-description: "Lemle & Wolff Construction Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+title: "Lemle & Wolff Construction Corp: Lead Abatement, Bronx NY"
+description: "Lemle & Wolff Construction Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/lemle-wolff-construction-corp-ny1180/
 ---
 

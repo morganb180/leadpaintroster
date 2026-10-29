@@ -1,6 +1,6 @@
 ---
-title: "A Lead Professionals Group LLC, Montclair, NJ | Lead Paint Roster"
-description: "A Lead Professionals Group LLC: Lead abatement in Montclair, NJ. Licence details, contact and quotes."
+title: "A Lead Professionals Group LLC: Lead Abatement, Montclair NJ"
+description: "A Lead Professionals Group LLC in Montclair, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/a-lead-professionals-group-llc-nj0181/
 ---
 

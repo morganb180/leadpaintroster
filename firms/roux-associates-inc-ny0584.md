@@ -1,6 +1,6 @@
 ---
-title: "Roux Associates, Inc., Islandia, NY | Lead Paint Roster"
-description: "Roux Associates, Inc.: Lead inspection / evaluation in Islandia, NY. Licence details, contact and quotes."
+title: "Roux Associates (EPA listing), Islandia NY"
+description: "Roux Associates, Inc. in Islandia, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/roux-associates-inc-ny0584/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Asbestways Solutions Corp, Brooklyn, NY | Lead Paint Roster"
-description: "Asbestways Solutions Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Asbestways Solutions Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/asbestways-solutions-corp-ny0798/
 ---
 

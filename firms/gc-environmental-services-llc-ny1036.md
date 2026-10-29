@@ -1,6 +1,6 @@
 ---
 title: "Gc Environmental Services LLC, Bronx, NY | Lead Paint Roster"
-description: "Gc Environmental Services LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Gc Environmental Services LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/gc-environmental-services-llc-ny1036/
 ---
 

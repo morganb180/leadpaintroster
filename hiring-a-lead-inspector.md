@@ -14,7 +14,9 @@ canonical: https://leadpaintroster.com/hiring-a-lead-inspector/
 * If hazards are found, can you do clearance testing after the repairs?
 * Are you independent of the abatement contractor?
 
-## What lead work typically costs
+## How much do lead paint inspection and abatement cost?
+
+A national HomeAdvisor guide puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520 (about $3,499).
 
 | Item | Typical range (national) |
 | --- | --- |
@@ -23,6 +25,8 @@ canonical: https://leadpaintroster.com/hiring-a-lead-inspector/
 
 National figures, not local quotes. Large homes and multi-unit buildings cost more. Try the [estimate tool](https://leadpaintroster.com/lead-inspection-cost/).
 
-## Find a licensed pro
+## Where can I find a certified lead paint pro near me?
+
+Browse Lead Paint Roster by state: [New Jersey](https://leadpaintroster.com/nj/), [New York](https://leadpaintroster.com/ny/) or [Massachusetts](https://leadpaintroster.com/ma/). Every listing shows its licence numbers and links the official source list.
 
 [New Jersey](https://leadpaintroster.com/nj/) · [New York](https://leadpaintroster.com/ny/) · [Massachusetts](https://leadpaintroster.com/ma/)

@@ -1,6 +1,6 @@
 ---
-title: "A.I.C General Contracting Inc dba RENOV8, Farmingdale, NY | Lead Paint Roster"
-description: "A.I.C General Contracting Inc dba RENOV8: Lead abatement in Farmingdale, NY. Licence details, contact and quotes."
+title: "A.I.C General Contracting Inc dba RENOV8, Farmingdale NY"
+description: "A.I.C General Contracting Inc dba RENOV8 in Farmingdale, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/a-i-c-general-contracting-inc-dba-renov8-ny0711/
 ---
 

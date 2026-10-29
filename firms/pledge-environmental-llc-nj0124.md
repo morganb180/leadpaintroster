@@ -1,6 +1,6 @@
 ---
 title: "Pledge Environmental, LLC, Elizabeth, NJ | Lead Paint Roster"
-description: "Pledge Environmental, LLC: Lead inspection / evaluation in Elizabeth, NJ. Licence details, contact and quotes."
+description: "Pledge Environmental, LLC in Elizabeth, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/pledge-environmental-llc-nj0124/
 ---
 

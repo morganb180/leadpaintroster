@@ -1,6 +1,6 @@
 ---
-title: "A.D. Peterson Enterprises Inc., Bridgeton, NJ | Lead Paint Roster"
-description: "A.D. Peterson Enterprises Inc.: Lead abatement in Bridgeton, NJ. Licence details, contact and quotes."
+title: "A.D. Peterson Enterprises Inc.: Lead Abatement, Bridgeton NJ"
+description: "A.D. Peterson Enterprises Inc. in Bridgeton, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/a-d-peterson-enterprises-inc-nj0182/
 ---
 

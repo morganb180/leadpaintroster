@@ -1,6 +1,6 @@
 ---
-title: "Three Rivers Environmental, Mullica Hill, NJ | Lead Paint Roster"
-description: "Three Rivers Environmental: Lead inspection / evaluation in Mullica Hill, NJ. Licence details, contact and quotes."
+title: "Three Rivers Environmental: Lead Inspector, Mullica Hill NJ"
+description: "Three Rivers Environmental in Mullica Hill, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/three-rivers-environmental-nj0171/
 ---
 

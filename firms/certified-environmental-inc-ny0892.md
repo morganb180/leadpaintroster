@@ -1,6 +1,6 @@
 ---
 title: "Certified Environmental Inc, Monsey, NY | Lead Paint Roster"
-description: "Certified Environmental Inc: Lead abatement in Monsey, NY. Licence details, contact and quotes."
+description: "Certified Environmental Inc in Monsey, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/certified-environmental-inc-ny0892/
 ---
 

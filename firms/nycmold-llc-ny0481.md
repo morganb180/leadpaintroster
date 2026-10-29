@@ -1,6 +1,6 @@
 ---
 title: "Nycmold LLC, Roslyn Heights, NY | Lead Paint Roster"
-description: "Nycmold LLC: Lead abatement, Lead inspection / evaluation in Roslyn Heights, NY. Licence details, contact and quotes."
+description: "Nycmold LLC in Roslyn Heights, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/nycmold-llc-ny0481/
 ---
 

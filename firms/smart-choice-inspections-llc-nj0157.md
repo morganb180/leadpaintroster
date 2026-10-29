@@ -1,6 +1,6 @@
 ---
-title: "Smart Choice Inspections, LLC, Cedar Grove, NJ | Lead Paint Roster"
-description: "Smart Choice Inspections, LLC: Lead inspection / evaluation in Cedar Grove, NJ. Licence details, contact and quotes."
+title: "Smart Choice Inspections: Lead Inspector, Cedar Grove NJ"
+description: "Smart Choice Inspections, LLC in Cedar Grove, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/smart-choice-inspections-llc-nj0157/
 ---
 

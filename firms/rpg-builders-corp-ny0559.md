@@ -1,6 +1,6 @@
 ---
 title: "RPG Builders Corp, Astoria, NY | Lead Paint Roster"
-description: "RPG Builders Corp: Lead abatement, Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
+description: "RPG Builders Corp in Astoria, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/rpg-builders-corp-ny0559/
 ---
 

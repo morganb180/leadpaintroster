@@ -1,6 +1,6 @@
 ---
 title: "Northern NYC Resolution Inc., Bronx, NY | Lead Paint Roster"
-description: "Northern NYC Resolution Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Northern NYC Resolution Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/northern-nyc-resolution-inc-ny1306/
 ---
 

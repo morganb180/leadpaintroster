@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Niagara County, NY: 17 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Niagara County, NY"
 description: "17 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Niagara County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/niagara/
 ---
@@ -12,7 +12,9 @@ canonical: https://leadpaintroster.com/ny/county/niagara/
 
 City pages: [Lockport](https://leadpaintroster.com/ny/city/lockport/) · [Niagara Falls](https://leadpaintroster.com/ny/city/niagara-falls/)
 
-## Lead inspection & evaluation firms (3)
+## Where can I get a lead paint inspection in Niagara County, NY? (3)
+
+Lead Paint Roster lists 3 EPA-licensed listings for lead inspection / evaluation with an address of record in Niagara County.
 
 ✔ EPA-certified firm Lead abatementLead inspection / evaluation
 
@@ -56,7 +58,9 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F279133-1 (exp. 2027-12-23)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0513)
 
-## Lead abatement contractors (14)
+## Who does lead paint abatement in Niagara County, NY? (14)
+
+14 EPA-licensed lead abatement listings have an address of record in Niagara County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -240,13 +244,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F332092-1 (exp. 2029-05-04)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1018)
 
-## Neighboring counties
+## Which counties border Niagara County, NY?
 
 [Erie](https://leadpaintroster.com/ny/county/erie/) (47) · [Genesee](https://leadpaintroster.com/ny/county/genesee/) (1) · [Orleans](https://leadpaintroster.com/ny/county/orleans/) (1)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Niagara County: quick guide
+## How do I hire a lead inspector in Niagara County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

@@ -1,6 +1,6 @@
 ---
 title: "Montesano General Contracting, Troy, NY | Lead Paint Roster"
-description: "Montesano General Contracting: Lead abatement in Troy, NY. Licence details, contact and quotes."
+description: "Montesano General Contracting in Troy, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/montesano-general-contracting-ny1260/
 ---
 

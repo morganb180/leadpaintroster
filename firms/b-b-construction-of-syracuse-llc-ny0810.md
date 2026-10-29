@@ -1,6 +1,6 @@
 ---
-title: "B B Construction of Syracuse LLC, Syracuse, NY | Lead Paint Roster"
-description: "B B Construction of Syracuse LLC: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
+title: "B B Construction of Syracuse: Lead Abatement, Syracuse NY"
+description: "B B Construction of Syracuse LLC in Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/b-b-construction-of-syracuse-llc-ny0810/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Lead Safe Inspections, Somerville, MA | Lead Paint Roster"
-description: "Lead Safe Inspections: Lead inspection / evaluation in Somerville, MA. Licence details, contact and quotes."
+description: "Lead Safe Inspections in Somerville, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/lead-safe-inspections-ma0042/
 ---
 

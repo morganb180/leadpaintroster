@@ -1,6 +1,6 @@
 ---
-title: "Bako Construction & Rest. Inc., East Hanover, NJ | Lead Paint Roster"
-description: "Bako Construction & Rest. Inc.: Lead abatement in East Hanover, NJ. Licence details, contact and quotes."
+title: "Bako Construction & Rest.: Lead Abatement, East Hanover NJ"
+description: "Bako Construction & Rest. Inc. in East Hanover, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/bako-construction-rest-inc-nj0199/
 ---
 

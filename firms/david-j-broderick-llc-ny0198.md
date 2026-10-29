@@ -1,6 +1,6 @@
 ---
-title: "David J. Broderick, LLC, Forest Hills, NY | Lead Paint Roster"
-description: "David J. Broderick, LLC: Lead inspection / evaluation in Forest Hills, NY. Licence details, contact and quotes."
+title: "David J. Broderick: Lead Paint Inspector, Forest Hills NY"
+description: "David J. Broderick, LLC in Forest Hills, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/david-j-broderick-llc-ny0198/
 ---
 

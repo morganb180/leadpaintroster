@@ -1,6 +1,6 @@
 ---
-title: "Env. Strategies & Applications, Middlesex, NJ | Lead Paint Roster"
-description: "Env. Strategies & Applications: Lead inspection / evaluation in Middlesex, NJ. Licence details, contact and quotes."
+title: "Env. Strategies & Applications: Lead Inspector, Middlesex NJ"
+description: "Env. Strategies & Applications in Middlesex, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/env-strategies-applications-nj0055/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Metro Building Compliance Inc., Little Neck, NY | Lead Paint Roster"
-description: "Metro Building Compliance Inc.: Lead abatement in Little Neck, NY. Licence details, contact and quotes."
+title: "Metro Building Compliance: Lead Abatement, Little Neck NY"
+description: "Metro Building Compliance Inc. in Little Neck, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/metro-building-compliance-inc-ny1243/
 ---
 

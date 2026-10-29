@@ -1,6 +1,6 @@
 ---
 title: "L and H Builders LLC, New Hartford, NY | Lead Paint Roster"
-description: "L and H Builders LLC: Lead abatement in New Hartford, NY. Licence details, contact and quotes."
+description: "L and H Builders LLC in New Hartford, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/l-and-h-builders-llc-ny1162/
 ---
 

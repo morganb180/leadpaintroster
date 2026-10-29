@@ -1,6 +1,6 @@
 ---
-title: "Asbestos Lead Mold Abatement LLC, Albany, NY | Lead Paint Roster"
-description: "Asbestos Lead Mold Abatement LLC: Lead abatement in Albany, NY. Licence details, contact and quotes."
+title: "Asbestos Lead Mold Abatement LLC: Lead Abatement, Albany NY"
+description: "Asbestos Lead Mold Abatement LLC in Albany, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/asbestos-lead-mold-abatement-llc-ny0797/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Hi-Tech Environmental, Brooklyn, NY | Lead Paint Roster"
-description: "Hi-Tech Environmental: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Hi-Tech Environmental in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/hi-tech-environmental-ny1080/
 ---
 

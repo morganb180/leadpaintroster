@@ -1,6 +1,6 @@
 ---
 title: "FZ Contracting, Brooklyn, NY | Lead Paint Roster"
-description: "FZ Contracting: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "FZ Contracting in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/fz-contracting-ny1010/
 ---
 

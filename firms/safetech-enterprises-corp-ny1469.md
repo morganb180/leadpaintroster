@@ -1,6 +1,6 @@
 ---
-title: "Safetech Enterprises Corp, Valley Stream, NY | Lead Paint Roster"
-description: "Safetech Enterprises Corp: Lead abatement in Valley Stream, NY. Licence details, contact and quotes."
+title: "Safetech Enterprises Corp: Lead Abatement, Valley Stream NY"
+description: "Safetech Enterprises Corp in Valley Stream, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/safetech-enterprises-corp-ny1469/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Travani Construction, Watertown, NY | Lead Paint Roster"
-description: "Travani Construction: Lead abatement in Watertown, NY. Licence details, contact and quotes."
+description: "Travani Construction in Watertown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/travani-construction-ny1559/
 ---
 

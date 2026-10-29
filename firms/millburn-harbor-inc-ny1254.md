@@ -1,6 +1,6 @@
 ---
 title: "Millburn Harbor Inc., New York, NY | Lead Paint Roster"
-description: "Millburn Harbor Inc.: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "Millburn Harbor Inc. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/millburn-harbor-inc-ny1254/
 ---
 

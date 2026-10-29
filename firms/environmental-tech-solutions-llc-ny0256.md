@@ -1,5 +1,5 @@
 ---
-title: "Environmental Tech Solutions, LLC, Mount Kisco, NY | Lead Paint Roster"
+title: "Environmental Tech Solutions: Lead Paint Pro, Mount Kisco NY"
 description: "Environmental Tech Solutions, LLC: Lead abatement, Lead inspection / evaluation in Mount Kisco, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/environmental-tech-solutions-llc-ny0256/
 ---

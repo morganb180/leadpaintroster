@@ -1,6 +1,6 @@
 ---
 title: "Lead Testers Inc., Spring Valley, NY | Lead Paint Roster"
-description: "Lead Testers Inc.: Lead inspection / evaluation in Spring Valley, NY. Licence details, contact and quotes."
+description: "Lead Testers Inc. in Spring Valley, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lead-testers-inc-ny0401/
 ---
 

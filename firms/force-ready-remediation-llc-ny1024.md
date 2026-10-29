@@ -1,6 +1,6 @@
 ---
-title: "Force Ready Remediation LLC, New York, NY | Lead Paint Roster"
-description: "Force Ready Remediation LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
+title: "Force Ready Remediation LLC: Lead Abatement, New York NY"
+description: "Force Ready Remediation LLC in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/force-ready-remediation-llc-ny1024/
 ---
 

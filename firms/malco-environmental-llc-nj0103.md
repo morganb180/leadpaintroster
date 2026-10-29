@@ -1,6 +1,6 @@
 ---
 title: "Malco Environmental, LLC, Cranford, NJ | Lead Paint Roster"
-description: "Malco Environmental, LLC: Lead inspection / evaluation in Cranford, NJ. Licence details, contact and quotes."
+description: "Malco Environmental, LLC in Cranford, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/malco-environmental-llc-nj0103/
 ---
 

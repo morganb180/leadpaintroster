@@ -1,6 +1,6 @@
 ---
-title: "A Plus Complete Restoration, Garrison, NY | Lead Paint Roster"
-description: "A Plus Complete Restoration: Lead abatement in Garrison, NY. Licence details, contact and quotes."
+title: "A Plus Complete Restoration: Lead Abatement, Garrison NY"
+description: "A Plus Complete Restoration in Garrison, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/a-plus-complete-restoration-ny0704/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Sahai Development Corp, South Ozone Park, NY | Lead Paint Roster"
+title: "Sahai Development: Lead Paint Pro, South Ozone Park NY"
 description: "Sahai Development Corp: Lead abatement, Lead inspection / evaluation in South Ozone Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sahai-development-corp-ny0597/
 ---

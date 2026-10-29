@@ -1,6 +1,6 @@
 ---
 title: "Zandell Builders Inc, Brooklyn, NY | Lead Paint Roster"
-description: "Zandell Builders Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Zandell Builders Inc in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/zandell-builders-inc-ny1632/
 ---
 

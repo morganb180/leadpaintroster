@@ -1,6 +1,6 @@
 ---
-title: "A2Z Interior Remodeling LLC, Brooklyn, NY | Lead Paint Roster"
-description: "A2Z Interior Remodeling LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "A2Z Interior Remodeling LLC: Lead Abatement, Brooklyn NY"
+description: "A2Z Interior Remodeling LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/a2z-interior-remodeling-llc-ny0717/
 ---
 

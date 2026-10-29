@@ -1,6 +1,6 @@
 ---
-title: "Haven Property Solutions, LLC, Slate Hill, NY | Lead Paint Roster"
-description: "Haven Property Solutions, LLC: Lead abatement in Slate Hill, NY. Licence details, contact and quotes."
+title: "Haven Property Solutions, LLC: Lead Abatement, Slate Hill NY"
+description: "Haven Property Solutions, LLC in Slate Hill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/haven-property-solutions-llc-ny1077/
 ---
 

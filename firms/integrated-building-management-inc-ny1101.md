@@ -1,6 +1,6 @@
 ---
-title: "Integrated Building Management, Inc., Rye Brook, NY | Lead Paint Roster"
-description: "Integrated Building Management, Inc.: Lead abatement in Rye Brook, NY. Licence details, contact and quotes."
+title: "Integrated Building Management: Lead Abatement, Rye Brook NY"
+description: "Integrated Building Management, Inc. in Rye Brook, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/integrated-building-management-inc-ny1101/
 ---
 

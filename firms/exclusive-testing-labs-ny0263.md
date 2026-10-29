@@ -1,5 +1,5 @@
 ---
-title: "Exclusive Testing Labs, Croton-on-hudson, NY | Lead Paint Roster"
+title: "Exclusive Testing Labs: Lead Paint Pro, Croton-on-hudson NY"
 description: "Exclusive Testing Labs: Lead abatement, Lead inspection / evaluation in Croton-on-hudson, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/exclusive-testing-labs-ny0263/
 ---

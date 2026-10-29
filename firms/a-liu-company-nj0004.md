@@ -1,6 +1,6 @@
 ---
 title: "A Liu Company, Montclair, NJ | Lead Paint Roster"
-description: "A Liu Company: Lead inspection / evaluation in Montclair, NJ. Licence details, contact and quotes."
+description: "A Liu Company in Montclair, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/a-liu-company-nj0004/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "XYZ Lead Paint Testing LLC, Lawrence, MA | Lead Paint Roster"
-description: "XYZ Lead Paint Testing LLC: Lead risk assessment in Lawrence, MA. Licence details, contact and quotes."
+description: "XYZ Lead Paint Testing LLC in Lawrence, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/xyz-lead-paint-testing-llc-ma0022/
 ---
 

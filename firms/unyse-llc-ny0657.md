@@ -1,6 +1,6 @@
 ---
 title: "Unyse, LLC, Buffalo, NY | Lead Paint Roster"
-description: "Unyse, LLC: Lead inspection / evaluation in Buffalo, NY. Licence details, contact and quotes."
+description: "Unyse, LLC in Buffalo, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/unyse-llc-ny0657/
 ---
 

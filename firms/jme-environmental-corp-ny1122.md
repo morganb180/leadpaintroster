@@ -1,6 +1,6 @@
 ---
 title: "JME Environmental Corp, Bronx, NY | Lead Paint Roster"
-description: "JME Environmental Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "JME Environmental Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/jme-environmental-corp-ny1122/
 ---
 

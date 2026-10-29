@@ -1,6 +1,6 @@
 ---
-title: "GEO Environmental Co., Inc., Yorktown Heights, NY | Lead Paint Roster"
-description: "GEO Environmental Co., Inc.: Lead inspection / evaluation in Yorktown Heights, NY. Licence details, contact and quotes."
+title: "GEO Environmental Co.: Lead Inspector, Yorktown Heights NY"
+description: "GEO Environmental Co., Inc. in Yorktown Heights, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/geo-environmental-co-inc-ny0281/
 ---
 

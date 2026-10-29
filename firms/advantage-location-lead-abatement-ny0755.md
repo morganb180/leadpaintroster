@@ -1,6 +1,6 @@
 ---
-title: "Advantage Location Lead Abatement, Brooklyn, NY | Lead Paint Roster"
-description: "Advantage Location Lead Abatement: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Advantage Location Lead Abatement, Brooklyn NY"
+description: "Advantage Location Lead Abatement in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/advantage-location-lead-abatement-ny0755/
 ---
 

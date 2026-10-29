@@ -1,6 +1,6 @@
 ---
-title: "TRC, Woburn, MA | Lead Paint Roster"
-description: "TRC: Lead inspection / evaluation in Woburn, MA. Licence details, contact and quotes."
+title: "TRC (Thomas Roche): Lead Paint Inspector, Woburn MA"
+description: "TRC (Thomas Roche) in Woburn, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/trc-ma0059/
 ---
 

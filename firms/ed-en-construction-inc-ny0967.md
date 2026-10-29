@@ -1,6 +1,6 @@
 ---
 title: "ED.EN Construction, Inc., Yonkers, NY | Lead Paint Roster"
-description: "ED.EN Construction, Inc.: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
+description: "ED.EN Construction, Inc. in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ed-en-construction-inc-ny0967/
 ---
 

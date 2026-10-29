@@ -1,6 +1,6 @@
 ---
-title: "Black Mountain Renovations LLC, Bronx, NY | Lead Paint Roster"
-description: "Black Mountain Renovations LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+title: "Black Mountain Renovations LLC: Lead Abatement, Bronx NY"
+description: "Black Mountain Renovations LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/black-mountain-renovations-llc-ny0840/
 ---
 

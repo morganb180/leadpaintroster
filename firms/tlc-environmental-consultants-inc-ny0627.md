@@ -1,5 +1,5 @@
 ---
-title: "TLC Environmental Consultants Inc., Great Neck, NY | Lead Paint Roster"
+title: "TLC Environmental Consultants: Lead Inspector, Great Neck NY"
 description: "TLC Environmental Consultants Inc.: Lead inspection / evaluation in Great Neck, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/tlc-environmental-consultants-inc-ny0627/
 ---

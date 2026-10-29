@@ -1,5 +1,5 @@
 ---
-title: "Bald Eagle Inspection Services, LLC, Schaghticoke, NY | Lead Paint Roster"
+title: "Bald Eagle Inspection Services, Schaghticoke NY"
 description: "Bald Eagle Inspection Services, LLC: Lead inspection / evaluation in Schaghticoke, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bald-eagle-inspection-services-llc-ny0122/
 ---

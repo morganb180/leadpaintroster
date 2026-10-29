@@ -1,5 +1,5 @@
 ---
-title: "YMA Environmental Services Inc, New York, NY | Lead Paint Roster"
+title: "YMA Environmental Services: Lead Paint Pro, New York NY"
 description: "YMA Environmental Services Inc: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/yma-environmental-services-inc-ny0681/
 ---

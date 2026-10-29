@@ -1,6 +1,6 @@
 ---
 title: "Sup-Tech Construction Corp, Brooklyn, NY | Lead Paint Roster"
-description: "Sup-Tech Construction Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Sup-Tech Construction Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/sup-tech-construction-corp-ny1522/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Trade Contracting, Carmel, NY | Lead Paint Roster"
-description: "Trade Contracting: Lead abatement in Carmel, NY. Licence details, contact and quotes."
+description: "Trade Contracting in Carmel, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/trade-contracting-ny1558/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Linear Environmental Corp, Long Island City, NY | Lead Paint Roster"
+title: "Linear Environmental: Lead Paint Pro, Long Island City NY"
 description: "Linear Environmental Corp: Lead abatement, Lead inspection / evaluation in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/linear-environmental-corp-ny0422/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Gamma Solutions LLC, Long Island City, NY | Lead Paint Roster"
+title: "Gamma Solutions: Lead Paint Pro, Long Island City NY"
 description: "Gamma Solutions LLC: Lead abatement, Lead inspection / evaluation in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gamma-solutions-llc-ny0291/
 ---

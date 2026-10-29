@@ -1,6 +1,6 @@
 ---
-title: "Env. Testing Consultants, LLC, Runnemede, NJ | Lead Paint Roster"
-description: "Env. Testing Consultants, LLC: Lead inspection / evaluation in Runnemede, NJ. Licence details, contact and quotes."
+title: "Env. Testing Consultants: Lead Paint Inspector, Runnemede NJ"
+description: "Env. Testing Consultants, LLC in Runnemede, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/env-testing-consultants-llc-nj0056/
 ---
 

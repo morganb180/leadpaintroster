@@ -1,5 +1,5 @@
 ---
-title: "Bloom Construction, Inc., New Hyde Park, NY | Lead Paint Roster"
+title: "Bloom Construction: Lead Paint Pro, New Hyde Park NY"
 description: "Bloom Construction, Inc.: Lead abatement, Lead inspection / evaluation in New Hyde Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/bloom-construction-inc-ny0134/
 ---

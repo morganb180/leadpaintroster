@@ -1,6 +1,6 @@
 ---
-title: "Property Solutions Contracting Corp., Mount Sinai, NY | Lead Paint Roster"
-description: "Property Solutions Contracting Corp.: Lead abatement in Mount Sinai, NY. Licence details, contact and quotes."
+title: "Property Solutions Contracting, Mount Sinai NY"
+description: "Property Solutions Contracting Corp. in Mount Sinai, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/property-solutions-contracting-corp-ny1381/
 ---
 

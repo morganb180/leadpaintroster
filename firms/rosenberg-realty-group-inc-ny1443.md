@@ -1,6 +1,6 @@
 ---
 title: "Rosenberg Realty Group, Inc, Bronx, NY | Lead Paint Roster"
-description: "Rosenberg Realty Group, Inc: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Rosenberg Realty Group, Inc in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/rosenberg-realty-group-inc-ny1443/
 ---
 

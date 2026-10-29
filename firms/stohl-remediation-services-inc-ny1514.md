@@ -1,6 +1,6 @@
 ---
-title: "Stohl Remediation Services, Inc., Orchard Park, NY | Lead Paint Roster"
-description: "Stohl Remediation Services, Inc.: Lead abatement in Orchard Park, NY. Licence details, contact and quotes."
+title: "Stohl Remediation Services: Lead Abatement, Orchard Park NY"
+description: "Stohl Remediation Services, Inc. in Orchard Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/stohl-remediation-services-inc-ny1514/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Setanta Environmental Inc., New York, NY | Lead Paint Roster"
-description: "Setanta Environmental Inc.: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "Setanta Environmental Inc. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/setanta-environmental-inc-ny1486/
 ---
 

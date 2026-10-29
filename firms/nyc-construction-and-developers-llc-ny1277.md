@@ -1,6 +1,6 @@
 ---
-title: "NYC Construction And Developers LLC, Bronx, NY | Lead Paint Roster"
-description: "NYC Construction And Developers LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+title: "NYC Construction And Developers: Lead Abatement, Bronx NY"
+description: "NYC Construction And Developers LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/nyc-construction-and-developers-llc-ny1277/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "ICJ Services Corp, Medford, NY | Lead Paint Roster"
-description: "ICJ Services Corp: Lead abatement in Medford, NY. Licence details, contact and quotes."
+description: "ICJ Services Corp in Medford, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/icj-services-corp-ny1092/
 ---
 

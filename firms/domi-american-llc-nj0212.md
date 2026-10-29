@@ -1,6 +1,6 @@
 ---
 title: "Domi-American, LLC, Hackensack, NJ | Lead Paint Roster"
-description: "Domi-American, LLC: Lead abatement in Hackensack, NJ. Licence details, contact and quotes."
+description: "Domi-American, LLC in Hackensack, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/domi-american-llc-nj0212/
 ---
 

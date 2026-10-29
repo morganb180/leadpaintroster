@@ -1,6 +1,6 @@
 ---
 title: "PL Window Service, Inc., Maspeth, NY | Lead Paint Roster"
-description: "PL Window Service, Inc.: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
+description: "PL Window Service, Inc. in Maspeth, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/pl-window-service-inc-ny1331/
 ---
 

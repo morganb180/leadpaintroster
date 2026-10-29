@@ -1,5 +1,5 @@
 ---
-title: "A Plus Property Inspectors Inc., Brooklyn, NY | Lead Paint Roster"
+title: "A Plus Property Inspectors: Lead Paint Pro, Brooklyn NY"
 description: "A Plus Property Inspectors Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/a-plus-property-inspectors-inc-ny0012/
 ---

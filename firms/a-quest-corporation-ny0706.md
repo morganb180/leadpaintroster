@@ -1,6 +1,6 @@
 ---
 title: "A Quest Corporation, Brooklyn, NY | Lead Paint Roster"
-description: "A Quest Corporation: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "A Quest Corporation in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/a-quest-corporation-ny0706/
 ---
 

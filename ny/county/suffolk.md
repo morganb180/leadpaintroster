@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Suffolk County, NY: 66 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Suffolk County, NY"
 description: "66 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Suffolk County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/suffolk/
 ---
@@ -12,7 +12,9 @@ canonical: https://leadpaintroster.com/ny/county/suffolk/
 
 City pages: [Bohemia](https://leadpaintroster.com/ny/city/bohemia/) · [Medford](https://leadpaintroster.com/ny/city/medford/) · [Melville](https://leadpaintroster.com/ny/city/melville/) · [Ronkonkoma](https://leadpaintroster.com/ny/city/ronkonkoma/) · [West Babylon](https://leadpaintroster.com/ny/city/west-babylon/)
 
-## Lead inspection & evaluation firms (24)
+## Where can I get a lead paint inspection in Suffolk County, NY? (24)
+
+Lead Paint Roster lists 24 EPA-licensed listings for lead inspection / evaluation with an address of record in Suffolk County.
 
 ✔ EPA-certified firm Lead inspection / evaluation
 
@@ -343,7 +345,9 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-74249-3 (exp. 2027-07-17)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0245)
 
-## Lead abatement contractors (42)
+## Who does lead paint abatement in Suffolk County, NY? (42)
+
+42 EPA-licensed lead abatement listings have an address of record in Suffolk County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -893,13 +897,13 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Show all 42 listings
 
-## Neighboring counties
+## Which counties border Suffolk County, NY?
 
 [Nassau](https://leadpaintroster.com/ny/county/nassau/) (150)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Suffolk County: quick guide
+## How do I hire a lead inspector in Suffolk County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

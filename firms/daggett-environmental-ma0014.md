@@ -1,6 +1,6 @@
 ---
 title: "Daggett Environmental, Dudley, MA | Lead Paint Roster"
-description: "Daggett Environmental: Lead inspection / evaluation in Dudley, MA. Licence details, contact and quotes."
+description: "Daggett Environmental in Dudley, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/daggett-environmental-ma0014/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Legend J Construction Inc, New York, NY | Lead Paint Roster"
-description: "Legend J Construction Inc: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "Legend J Construction Inc in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/legend-j-construction-inc-ny1179/
 ---
 

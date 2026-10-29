@@ -1,6 +1,6 @@
 ---
-title: "Turning Point Contracting Corp, Union, NJ | Lead Paint Roster"
-description: "Turning Point Contracting Corp: Lead abatement in Union, NJ. Licence details, contact and quotes."
+title: "Turning Point Contracting Corp: Lead Abatement, Union NJ"
+description: "Turning Point Contracting Corp in Union, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/turning-point-contracting-corp-nj0251/
 ---
 

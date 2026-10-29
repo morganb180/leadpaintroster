@@ -1,6 +1,6 @@
 ---
-title: "ABL Construction Group LLC, New Rochelle, NY | Lead Paint Roster"
-description: "ABL Construction Group LLC: Lead abatement in New Rochelle, NY. Licence details, contact and quotes."
+title: "ABL Construction Group LLC: Lead Abatement, New Rochelle NY"
+description: "ABL Construction Group LLC in New Rochelle, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/abl-construction-group-llc-ny0722/
 ---
 

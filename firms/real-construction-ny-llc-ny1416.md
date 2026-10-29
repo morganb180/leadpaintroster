@@ -1,6 +1,6 @@
 ---
 title: "Real Construction NY LLC, Suffern, NY | Lead Paint Roster"
-description: "Real Construction NY LLC: Lead abatement in Suffern, NY. Licence details, contact and quotes."
+description: "Real Construction NY LLC in Suffern, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/real-construction-ny-llc-ny1416/
 ---
 

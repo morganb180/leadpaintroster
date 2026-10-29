@@ -1,5 +1,5 @@
 ---
-title: "Construction Company of the Future, Bronx, NY | Lead Paint Roster"
+title: "Construction Company of the Future: Lead Paint Pro, Bronx NY"
 description: "Construction Company of the Future: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/construction-company-of-the-future-ny0179/
 ---

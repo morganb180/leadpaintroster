@@ -1,5 +1,5 @@
 ---
-title: "AGT Renovation Services Corp., East Elmhurst, NY | Lead Paint Roster"
+title: "AGT Renovation Services: Lead Paint Pro, East Elmhurst NY"
 description: "AGT Renovation Services Corp.: Lead abatement, Lead inspection / evaluation in East Elmhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/agt-renovation-services-corp-ny0035/
 ---

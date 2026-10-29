@@ -1,6 +1,6 @@
 ---
-title: "Private I Home Inspection, LLC, Randolph, NJ | Lead Paint Roster"
-description: "Private I Home Inspection, LLC: Lead inspection / evaluation in Randolph, NJ. Licence details, contact and quotes."
+title: "Private I Home Inspection: Lead Paint Inspector, Randolph NJ"
+description: "Private I Home Inspection, LLC in Randolph, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/private-i-home-inspection-llc-nj0131/
 ---
 

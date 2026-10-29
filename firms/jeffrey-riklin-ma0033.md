@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Riklin, Newton Upper Falls, MA | Lead Paint Roster"
-description: "Jeffrey Riklin: Lead inspection / evaluation in Newton Upper Falls, MA. Licence details, contact and quotes."
+description: "Jeffrey Riklin in Newton Upper Falls, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/jeffrey-riklin-ma0033/
 ---
 

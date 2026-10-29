@@ -1,6 +1,6 @@
 ---
-title: "Advanced Management US Inc., Spring Valley, NY | Lead Paint Roster"
-description: "Advanced Management US Inc.: Lead abatement in Spring Valley, NY. Licence details, contact and quotes."
+title: "Advanced Management US: Lead Abatement, Spring Valley NY"
+description: "Advanced Management US Inc. in Spring Valley, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/advanced-management-us-inc-ny0754/
 ---
 

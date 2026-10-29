@@ -1,6 +1,6 @@
 ---
 title: "Mknk Corp., Brooklyn, NY | Lead Paint Roster"
-description: "Mknk Corp.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "Mknk Corp. in Brooklyn, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mknk-corp-ny0434/
 ---
 

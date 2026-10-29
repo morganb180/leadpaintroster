@@ -1,6 +1,6 @@
 ---
 title: "Aim Environmental LLC, Fort Lee, NJ | Lead Paint Roster"
-description: "Aim Environmental LLC: Lead inspection / evaluation in Fort Lee, NJ. Licence details, contact and quotes."
+description: "Aim Environmental LLC in Fort Lee, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/aim-environmental-llc-nj0022/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "On Call Restoration Corp, Massapequa, NY | Lead Paint Roster"
-description: "On Call Restoration Corp: Lead abatement in Massapequa, NY. Licence details, contact and quotes."
+description: "On Call Restoration Corp in Massapequa, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/on-call-restoration-corp-ny1313/
 ---
 

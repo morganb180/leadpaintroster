@@ -1,6 +1,6 @@
 ---
 title: "Rbs Environmental Solutions, Media, PA | Lead Paint Roster"
-description: "Rbs Environmental Solutions: Lead inspection / evaluation in Media, PA. Licence details, contact and quotes."
+description: "Rbs Environmental Solutions in Media, PA: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/rbs-environmental-solutions-nj0135/
 ---
 

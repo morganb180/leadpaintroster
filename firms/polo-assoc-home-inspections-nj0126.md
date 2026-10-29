@@ -1,6 +1,6 @@
 ---
-title: "Polo & Assoc. Home Inspections, Morris Plains, NJ | Lead Paint Roster"
-description: "Polo & Assoc. Home Inspections: Lead inspection / evaluation in Morris Plains, NJ. Licence details, contact and quotes."
+title: "Polo & Assoc. Home Inspections, Morris Plains NJ"
+description: "Polo & Assoc. Home Inspections in Morris Plains, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/polo-assoc-home-inspections-nj0126/
 ---
 

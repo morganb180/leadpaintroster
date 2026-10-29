@@ -1,5 +1,5 @@
 ---
-title: "Connecticut Environmental Services, Inc. DBA Envirocheck, Inc., Brooklyn, NY | Lead Paint Roster"
+title: "Connecticut Environmental Services, Inc. DBA Envirocheck"
 description: "Connecticut Environmental Services, Inc. DBA Envirocheck, Inc.: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/connecticut-environmental-services-inc-dba-envirocheck-inc-ny0178/
 ---

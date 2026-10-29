@@ -1,6 +1,6 @@
 ---
 title: "Jons Construction, Schenectady, NY | Lead Paint Roster"
-description: "Jons Construction: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
+description: "Jons Construction in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/jons-construction-ny1140/
 ---
 

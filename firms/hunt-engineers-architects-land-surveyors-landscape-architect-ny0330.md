@@ -1,5 +1,5 @@
 ---
-title: "Hunt Engineers, Architects, Land Surveyors & Landscape Architect, DPC, Binghamton, NY | Lead Paint Roster"
+title: "Hunt Engineers, Architects, Land Surveyors & Landscape"
 description: "Hunt Engineers, Architects, Land Surveyors & Landscape Architect, DPC: Lead inspection / evaluation in Binghamton, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/hunt-engineers-architects-land-surveyors-landscape-architect-ny0330/
 ---

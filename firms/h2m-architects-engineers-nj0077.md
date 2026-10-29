@@ -1,6 +1,6 @@
 ---
-title: "H2m Architects & Engineers, Parsippany, NJ | Lead Paint Roster"
-description: "H2m Architects & Engineers: Lead inspection / evaluation in Parsippany, NJ. Licence details, contact and quotes."
+title: "H2m Architects & Engineers: Lead Inspector, Parsippany NJ"
+description: "H2m Architects & Engineers in Parsippany, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/h2m-architects-engineers-nj0077/
 ---
 

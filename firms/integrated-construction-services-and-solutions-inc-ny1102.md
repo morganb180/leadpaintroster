@@ -1,5 +1,5 @@
 ---
-title: "Integrated Construction Services and Solutions, Inc., Buffalo, NY | Lead Paint Roster"
+title: "Integrated Construction Services and Solutions, Buffalo NY"
 description: "Integrated Construction Services and Solutions, Inc.: Lead abatement in Buffalo, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/integrated-construction-services-and-solutions-inc-ny1102/
 ---

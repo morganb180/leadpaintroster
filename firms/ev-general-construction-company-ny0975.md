@@ -1,6 +1,6 @@
 ---
-title: "EV General Construction Company, Syracuse, Ny 13206, NY | Lead Paint Roster"
-description: "EV General Construction Company: Lead abatement in Syracuse, Ny 13206, NY. Licence details, contact and quotes."
+title: "EV General Construction, Syracuse, Ny 13206 NY"
+description: "EV General Construction Company in Syracuse, Ny 13206, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ev-general-construction-company-ny0975/
 ---
 

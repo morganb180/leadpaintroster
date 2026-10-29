@@ -1,6 +1,6 @@
 ---
 title: "Nichibi Organization Inc, Great Neck, NY | Lead Paint Roster"
-description: "Nichibi Organization Inc: Lead abatement in Great Neck, NY. Licence details, contact and quotes."
+description: "Nichibi Organization Inc in Great Neck, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/nichibi-organization-inc-ny1298/
 ---
 

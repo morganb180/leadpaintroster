@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Bronx, NY: 116 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Bronx, NY"
 description: "116 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Bronx, New York, plus 2 more in Bronx County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/bronx/
 ---
@@ -8,13 +8,17 @@ canonical: https://leadpaintroster.com/ny/city/bronx/
 
 # Certified lead paint inspectors & abatement firms in Bronx, NY
 
+**Quick answer:** For landlords, owners, buyers and parents in Bronx, NY: Lead Paint Roster lists 116 EPA-licensed lead paint listings with an address in Bronx (47 lead inspection / evaluation, 103 lead abatement) and 2 more elsewhere in Bronx County. Licensed pros often travel, so ask whether they cover your address. Check each licence with EPA before you hire, and read the [Bronx hiring guide](https://leadpaintroster.com/ny/city/bronx/guide/) for questions to ask and typical costs.
+
 116 EPA-licensed listings give an address in Bronx (47 lead inspection / evaluation, 103 lead abatement), and 2 more are elsewhere in Bronx County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Bronx hiring guide →**](https://leadpaintroster.com/ny/city/bronx/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Bronx](https://leadpaintroster.com/get-quotes/?city=bronx&st=ny)
 
-## Based in Bronx
+## Which certified lead paint firms are based in Bronx, NY?
+
+Lead Paint Roster lists 116 EPA-licensed listings with an address in Bronx: 47 lead inspection & evaluation firms and 69 lead abatement contractors. Each listing appears once below, even if it holds both licences.
 
 ### Lead inspection & evaluation firms (47)
 
@@ -1566,7 +1570,9 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Show all 69 listings
 
-## Elsewhere in Bronx County (2)
+## Which other certified lead paint firms are in Bronx County? (2)
+
+2 more listings have an address elsewhere in Bronx County. Licensed pros often travel, so ask whether they cover your address in Bronx.
 
 [See all 118 Bronx County listings →](https://leadpaintroster.com/ny/county/bronx/)
 

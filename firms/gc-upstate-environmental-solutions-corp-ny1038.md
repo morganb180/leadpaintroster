@@ -1,6 +1,6 @@
 ---
-title: "GC Upstate Environmental Solutions Corp, East Northport, NY | Lead Paint Roster"
-description: "GC Upstate Environmental Solutions Corp: Lead abatement in East Northport, NY. Licence details, contact and quotes."
+title: "GC Upstate Environmental Solutions, East Northport NY"
+description: "GC Upstate Environmental Solutions Corp in East Northport, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/gc-upstate-environmental-solutions-corp-ny1038/
 ---
 

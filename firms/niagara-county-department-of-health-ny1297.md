@@ -1,6 +1,6 @@
 ---
-title: "Niagara County Department of Health, Lockport, NY | Lead Paint Roster"
-description: "Niagara County Department of Health: Lead abatement in Lockport, NY. Licence details, contact and quotes."
+title: "Niagara County Department of Health, Lockport NY"
+description: "Niagara County Department of Health in Lockport, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/niagara-county-department-of-health-ny1297/
 ---
 

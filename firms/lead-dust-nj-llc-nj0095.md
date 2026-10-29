@@ -1,6 +1,6 @@
 ---
 title: "Lead Dust NJ, LLC, Staten Island, NY | Lead Paint Roster"
-description: "Lead Dust NJ, LLC: Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
+description: "Lead Dust NJ, LLC in Staten Island, NY: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lead-dust-nj-llc-nj0095/
 ---
 

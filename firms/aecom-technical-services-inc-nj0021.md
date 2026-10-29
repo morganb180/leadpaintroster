@@ -1,6 +1,6 @@
 ---
-title: "Aecom Technical Services, Inc., Piscataway, NJ | Lead Paint Roster"
-description: "Aecom Technical Services, Inc.: Lead inspection / evaluation in Piscataway, NJ. Licence details, contact and quotes."
+title: "Aecom Technical Services: Lead Inspector, Piscataway NJ"
+description: "Aecom Technical Services, Inc. in Piscataway, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/aecom-technical-services-inc-nj0021/
 ---
 

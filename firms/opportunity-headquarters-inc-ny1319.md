@@ -1,6 +1,6 @@
 ---
-title: "Opportunity HeadQuarters, Inc., Syracuse, NY | Lead Paint Roster"
-description: "Opportunity HeadQuarters, Inc.: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
+title: "Opportunity HeadQuarters, Inc.: Lead Abatement, Syracuse NY"
+description: "Opportunity HeadQuarters, Inc. in Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/opportunity-headquarters-inc-ny1319/
 ---
 

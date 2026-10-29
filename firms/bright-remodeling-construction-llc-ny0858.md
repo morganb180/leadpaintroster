@@ -1,6 +1,6 @@
 ---
-title: "Bright Remodeling & Construction LLC, Staten Island, NY | Lead Paint Roster"
-description: "Bright Remodeling & Construction LLC: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+title: "Bright Remodeling & Construction, Staten Island NY"
+description: "Bright Remodeling & Construction LLC in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/bright-remodeling-construction-llc-ny0858/
 ---
 

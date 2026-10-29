@@ -1,5 +1,5 @@
 ---
-title: "JTC Painting & Decorating Corp., Staten Island, NY | Lead Paint Roster"
+title: "JTC Painting & Decorating: Lead Paint Pro, Staten Island NY"
 description: "JTC Painting & Decorating Corp.: Lead abatement, Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/jtc-painting-decorating-corp-ny0353/
 ---

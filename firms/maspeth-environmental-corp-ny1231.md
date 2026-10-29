@@ -1,6 +1,6 @@
 ---
 title: "Maspeth Environmental Corp, Maspeth, NY | Lead Paint Roster"
-description: "Maspeth Environmental Corp: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
+description: "Maspeth Environmental Corp in Maspeth, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/maspeth-environmental-corp-ny1231/
 ---
 

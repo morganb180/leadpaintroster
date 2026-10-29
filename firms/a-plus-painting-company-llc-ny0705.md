@@ -1,6 +1,6 @@
 ---
 title: "A Plus Painting Company,LLC, Newyork, NY | Lead Paint Roster"
-description: "A Plus Painting Company,LLC: Lead abatement in Newyork, NY. Licence details, contact and quotes."
+description: "A Plus Painting Company,LLC in Newyork, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/a-plus-painting-company-llc-ny0705/
 ---
 

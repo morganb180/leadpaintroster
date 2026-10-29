@@ -1,6 +1,6 @@
 ---
 title: "Arthur Engineering DPC, Rochester, NY | Lead Paint Roster"
-description: "Arthur Engineering DPC: Lead inspection / evaluation in Rochester, NY. Licence details, contact and quotes."
+description: "Arthur Engineering DPC in Rochester, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/arthur-engineering-dpc-ny0098/
 ---
 

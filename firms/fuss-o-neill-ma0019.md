@@ -1,6 +1,6 @@
 ---
 title: "Fuss & O'Neill, Hartford, CT | Lead Paint Roster"
-description: "Fuss & O'Neill: Lead risk assessment in Hartford, CT. Licence details, contact and quotes."
+description: "Fuss & O'Neill in Hartford, CT: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/fuss-o-neill-ma0019/
 ---
 

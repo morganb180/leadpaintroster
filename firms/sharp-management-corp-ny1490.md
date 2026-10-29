@@ -1,6 +1,6 @@
 ---
 title: "Sharp Management, Corp., Brooklyn, NY | Lead Paint Roster"
-description: "Sharp Management, Corp.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Sharp Management, Corp. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sharp-management-corp-ny1490/
 ---
 

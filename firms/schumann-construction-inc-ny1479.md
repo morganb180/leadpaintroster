@@ -1,6 +1,6 @@
 ---
 title: "Schumann Construction, Inc., Macedon, NY | Lead Paint Roster"
-description: "Schumann Construction, Inc.: Lead abatement in Macedon, NY. Licence details, contact and quotes."
+description: "Schumann Construction, Inc. in Macedon, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/schumann-construction-inc-ny1479/
 ---
 

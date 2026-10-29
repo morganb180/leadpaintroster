@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Columbia County, NY: 3 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Columbia County, NY"
 description: "3 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Columbia County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/columbia/
 ---
@@ -10,7 +10,9 @@ canonical: https://leadpaintroster.com/ny/county/columbia/
 
 **3 EPA-licensed listings** with an address of record in Columbia County (3 lead abatement): 3 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=columbia&st=ny)
 
-## Lead abatement contractors (3)
+## Who does lead paint abatement in Columbia County, NY? (3)
+
+3 EPA-licensed lead abatement listings have an address of record in Columbia County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -51,13 +53,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F307465-1 (exp. 2028-09-11)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1472)
 
-## Neighboring counties
+## Which counties border Columbia County, NY?
 
 [Albany](https://leadpaintroster.com/ny/county/albany/) (29) · [Dutchess](https://leadpaintroster.com/ny/county/dutchess/) (10) · [Greene](https://leadpaintroster.com/ny/county/greene/) (1) · [Rensselaer](https://leadpaintroster.com/ny/county/rensselaer/) (12) · [Ulster](https://leadpaintroster.com/ny/county/ulster/) (10)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Columbia County: quick guide
+## How do I hire a lead inspector in Columbia County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

@@ -1,6 +1,6 @@
 ---
-title: "Brotherly Builds Construction Corp, Bronx, NY | Lead Paint Roster"
-description: "Brotherly Builds Construction Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+title: "Brotherly Builds Construction Corp: Lead Abatement, Bronx NY"
+description: "Brotherly Builds Construction Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/brotherly-builds-construction-corp-ny0859/
 ---
 

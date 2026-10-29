@@ -1,6 +1,6 @@
 ---
 title: "LBP Solutions, Dighton, MA | Lead Paint Roster"
-description: "LBP Solutions: Lead risk assessment in Dighton, MA. Licence details, contact and quotes."
+description: "LBP Solutions in Dighton, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lbp-solutions-ma0011/
 ---
 

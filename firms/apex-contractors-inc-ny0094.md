@@ -1,6 +1,6 @@
 ---
 title: "Apex Contractors Inc, Bronx, NY | Lead Paint Roster"
-description: "Apex Contractors Inc: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
+description: "Apex Contractors Inc in Bronx, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/apex-contractors-inc-ny0094/
 ---
 

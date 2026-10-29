@@ -1,6 +1,6 @@
 ---
 title: "Fcs Group, Springfield, NJ | Lead Paint Roster"
-description: "Fcs Group: Lead abatement in Springfield, NJ. Licence details, contact and quotes."
+description: "Fcs Group in Springfield, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/fcs-group-nj0215/
 ---
 

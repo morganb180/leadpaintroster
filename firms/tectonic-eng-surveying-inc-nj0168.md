@@ -1,6 +1,6 @@
 ---
-title: "Tectonic Eng.& Surveying,inc., Millburn, NJ | Lead Paint Roster"
-description: "Tectonic Eng.& Surveying,inc.: Lead inspection / evaluation in Millburn, NJ. Licence details, contact and quotes."
+title: "Tectonic Eng.& Surveying,inc.: Lead Inspector, Millburn NJ"
+description: "Tectonic Eng.& Surveying,inc. in Millburn, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/tectonic-eng-surveying-inc-nj0168/
 ---
 

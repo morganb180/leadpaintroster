@@ -1,6 +1,6 @@
 ---
 title: "Pow/r/save, Inc., Cedar Grove, NJ | Lead Paint Roster"
-description: "Pow/r/save, Inc.: Lead abatement in Cedar Grove, NJ. Licence details, contact and quotes."
+description: "Pow/r/save, Inc. in Cedar Grove, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/pow-r-save-inc-nj0237/
 ---
 

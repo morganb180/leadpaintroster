@@ -1,6 +1,6 @@
 ---
 title: "Markaj Inc, Valley Cottage, NY | Lead Paint Roster"
-description: "Markaj Inc: Lead abatement, Lead inspection / evaluation in Valley Cottage, NY. Licence details, contact and quotes."
+description: "Markaj Inc in Valley Cottage, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/markaj-inc-ny0445/
 ---
 

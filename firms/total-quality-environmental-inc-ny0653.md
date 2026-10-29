@@ -1,6 +1,6 @@
 ---
-title: "Total Quality Environmental Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Total Quality Environmental Inc.: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+title: "Total Quality Environmental: Lead Inspector, Brooklyn NY"
+description: "Total Quality Environmental Inc. in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/total-quality-environmental-inc-ny0653/
 ---
 

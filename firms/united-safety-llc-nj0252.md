@@ -1,6 +1,6 @@
 ---
 title: "United Safety, LLC, Pompton Plains, NJ | Lead Paint Roster"
-description: "United Safety, LLC: Lead abatement in Pompton Plains, NJ. Licence details, contact and quotes."
+description: "United Safety, LLC in Pompton Plains, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/united-safety-llc-nj0252/
 ---
 

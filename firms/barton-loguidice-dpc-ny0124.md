@@ -1,6 +1,6 @@
 ---
 title: "Barton & Loguidice, DPC, Liverpool, NY | Lead Paint Roster"
-description: "Barton & Loguidice, DPC: Lead inspection / evaluation in Liverpool, NY. Licence details, contact and quotes."
+description: "Barton & Loguidice, DPC in Liverpool, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/barton-loguidice-dpc-ny0124/
 ---
 

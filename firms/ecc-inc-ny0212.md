@@ -1,6 +1,6 @@
 ---
 title: "ECC Inc., New York, NY | Lead Paint Roster"
-description: "ECC Inc.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+description: "ECC Inc. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ecc-inc-ny0212/
 ---
 

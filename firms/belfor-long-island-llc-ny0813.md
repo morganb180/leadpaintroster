@@ -1,6 +1,6 @@
 ---
 title: "BELFOR Long Island, LLC., Ronkonkoma, NY | Lead Paint Roster"
-description: "BELFOR Long Island, LLC.: Lead abatement in Ronkonkoma, NY. Licence details, contact and quotes."
+description: "BELFOR Long Island, LLC. in Ronkonkoma, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/belfor-long-island-llc-ny0813/
 ---
 

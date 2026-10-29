@@ -1,6 +1,6 @@
 ---
 title: "JHR Environmental Testing, Newton, MA | Lead Paint Roster"
-description: "JHR Environmental Testing: Lead risk assessment in Newton, MA. Licence details, contact and quotes."
+description: "JHR Environmental Testing in Newton, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/jhr-environmental-testing-ma0031/
 ---
 

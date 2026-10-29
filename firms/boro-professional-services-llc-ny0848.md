@@ -1,6 +1,6 @@
 ---
-title: "Boro Professional Services LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Boro Professional Services LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Boro Professional Services LLC: Lead Abatement, Brooklyn NY"
+description: "Boro Professional Services LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/boro-professional-services-llc-ny0848/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Precision Construction, East Syracuse, NY | Lead Paint Roster"
-description: "Precision Construction: Lead abatement in East Syracuse, NY. Licence details, contact and quotes."
+title: "Precision Construction: Lead Abatement, East Syracuse NY"
+description: "Precision Construction in East Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/precision-construction-ny1358/
 ---
 

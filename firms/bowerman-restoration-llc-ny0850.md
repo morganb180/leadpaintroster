@@ -1,6 +1,6 @@
 ---
 title: "Bowerman Restoration LLC, Elmsford, NY | Lead Paint Roster"
-description: "Bowerman Restoration LLC: Lead abatement in Elmsford, NY. Licence details, contact and quotes."
+description: "Bowerman Restoration LLC in Elmsford, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/bowerman-restoration-llc-ny0850/
 ---
 

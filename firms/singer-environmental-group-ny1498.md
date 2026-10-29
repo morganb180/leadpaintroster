@@ -1,6 +1,6 @@
 ---
 title: "Singer Environmental Group, Brooklyn, NY | Lead Paint Roster"
-description: "Singer Environmental Group: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Singer Environmental Group in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/singer-environmental-group-ny1498/
 ---
 

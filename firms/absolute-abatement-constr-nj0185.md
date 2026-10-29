@@ -1,6 +1,6 @@
 ---
 title: "Absolute Abatement Constr., Vauxhall, NJ | Lead Paint Roster"
-description: "Absolute Abatement Constr.: Lead abatement in Vauxhall, NJ. Licence details, contact and quotes."
+description: "Absolute Abatement Constr. in Vauxhall, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/absolute-abatement-constr-nj0185/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Stateline Home Inspection, LLC, Montvale, NJ | Lead Paint Roster"
-description: "Stateline Home Inspection, LLC: Lead inspection / evaluation in Montvale, NJ. Licence details, contact and quotes."
+title: "Stateline Home Inspection: Lead Paint Inspector, Montvale NJ"
+description: "Stateline Home Inspection, LLC in Montvale, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/stateline-home-inspection-llc-nj0160/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Resurrecture, LLC, New York, NY | Lead Paint Roster"
-description: "Resurrecture, LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "Resurrecture, LLC in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/resurrecture-llc-ny1426/
 ---
 

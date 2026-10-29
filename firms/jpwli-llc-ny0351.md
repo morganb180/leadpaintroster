@@ -1,6 +1,6 @@
 ---
 title: "Jpwli LLC, Flushing, NY | Lead Paint Roster"
-description: "Jpwli LLC: Lead abatement, Lead inspection / evaluation in Flushing, NY. Licence details, contact and quotes."
+description: "Jpwli LLC in Flushing, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/jpwli-llc-ny0351/
 ---
 

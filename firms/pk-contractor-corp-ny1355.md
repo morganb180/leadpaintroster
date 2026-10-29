@@ -1,6 +1,6 @@
 ---
 title: "Pk Contractor Corp, Hicksville, NY | Lead Paint Roster"
-description: "Pk Contractor Corp: Lead abatement in Hicksville, NY. Licence details, contact and quotes."
+description: "Pk Contractor Corp in Hicksville, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/pk-contractor-corp-ny1355/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Cartvall Construction Inc., Flushing, NY | Lead Paint Roster"
-description: "Cartvall Construction Inc.: Lead abatement in Flushing, NY. Licence details, contact and quotes."
+description: "Cartvall Construction Inc. in Flushing, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/cartvall-construction-inc-ny0886/
 ---
 

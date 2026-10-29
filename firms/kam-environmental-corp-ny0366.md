@@ -1,5 +1,5 @@
 ---
-title: "Kam Environmental Corp, Cambria Heights, NY | Lead Paint Roster"
+title: "Kam Environmental: Lead Paint Pro, Cambria Heights NY"
 description: "Kam Environmental Corp: Lead abatement, Lead inspection / evaluation in Cambria Heights, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/kam-environmental-corp-ny0366/
 ---

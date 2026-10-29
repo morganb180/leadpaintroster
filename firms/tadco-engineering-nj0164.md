@@ -1,6 +1,6 @@
 ---
 title: "Tadco Engineering, Lyndhurst, NJ | Lead Paint Roster"
-description: "Tadco Engineering: Lead inspection / evaluation in Lyndhurst, NJ. Licence details, contact and quotes."
+description: "Tadco Engineering in Lyndhurst, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/tadco-engineering-nj0164/
 ---
 

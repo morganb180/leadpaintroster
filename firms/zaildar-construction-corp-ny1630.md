@@ -1,6 +1,6 @@
 ---
-title: "Zaildar Construction Corp, Floral Park, NY | Lead Paint Roster"
-description: "Zaildar Construction Corp: Lead abatement in Floral Park, NY. Licence details, contact and quotes."
+title: "Zaildar Construction Corp: Lead Abatement, Floral Park NY"
+description: "Zaildar Construction Corp in Floral Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/zaildar-construction-corp-ny1630/
 ---
 

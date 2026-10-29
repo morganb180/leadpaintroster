@@ -1,6 +1,6 @@
 ---
-title: "MGO Construction Services, Inc., Brooklyn, NY | Lead Paint Roster"
-description: "MGO Construction Services, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "MGO Construction Services, Inc.: Lead Abatement, Brooklyn NY"
+description: "MGO Construction Services, Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mgo-construction-services-inc-ny1209/
 ---
 

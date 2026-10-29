@@ -1,6 +1,6 @@
 ---
 title: "Tti Environmental, Inc., Moorestown, NJ | Lead Paint Roster"
-description: "Tti Environmental, Inc.: Lead inspection / evaluation in Moorestown, NJ. Licence details, contact and quotes."
+description: "Tti Environmental, Inc. in Moorestown, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/tti-environmental-inc-nj0173/
 ---
 

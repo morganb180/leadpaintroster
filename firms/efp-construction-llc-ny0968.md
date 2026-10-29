@@ -1,6 +1,6 @@
 ---
 title: "EFP Construction, LLC, Bronx, NY | Lead Paint Roster"
-description: "EFP Construction, LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "EFP Construction, LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/efp-construction-llc-ny0968/
 ---
 

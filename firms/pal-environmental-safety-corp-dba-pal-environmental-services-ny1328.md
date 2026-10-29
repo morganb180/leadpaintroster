@@ -1,5 +1,5 @@
 ---
-title: "PAL Environmental Safety Corp. DBA PAL Environmental Services, Long Island City, NY | Lead Paint Roster"
+title: "PAL Environmental Safety Corp. DBA PAL Environmental"
 description: "PAL Environmental Safety Corp. DBA PAL Environmental Services: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/pal-environmental-safety-corp-dba-pal-environmental-services-ny1328/
 ---

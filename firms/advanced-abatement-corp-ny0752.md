@@ -1,6 +1,6 @@
 ---
 title: "Advanced Abatement Corp, Brooklyn, NY | Lead Paint Roster"
-description: "Advanced Abatement Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Advanced Abatement Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/advanced-abatement-corp-ny0752/
 ---
 

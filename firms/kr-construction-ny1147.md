@@ -1,6 +1,6 @@
 ---
 title: "KR Construction, Schenectady, NY | Lead Paint Roster"
-description: "KR Construction: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
+description: "KR Construction in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/kr-construction-ny1147/
 ---
 

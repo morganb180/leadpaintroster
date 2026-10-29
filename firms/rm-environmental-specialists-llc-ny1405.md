@@ -1,6 +1,6 @@
 ---
-title: "RM Environmental Specialists LLC, Kew Gardens, NY | Lead Paint Roster"
-description: "RM Environmental Specialists LLC: Lead abatement in Kew Gardens, NY. Licence details, contact and quotes."
+title: "RM Environmental Specialists: Lead Abatement, Kew Gardens NY"
+description: "RM Environmental Specialists LLC in Kew Gardens, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/rm-environmental-specialists-llc-ny1405/
 ---
 

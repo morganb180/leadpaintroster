@@ -1,6 +1,6 @@
 ---
-title: "Atlantic Sun Construction Corp, Maspeth, NY | Lead Paint Roster"
-description: "Atlantic Sun Construction Corp: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
+title: "Atlantic Sun Construction Corp: Lead Abatement, Maspeth NY"
+description: "Atlantic Sun Construction Corp in Maspeth, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/atlantic-sun-construction-corp-ny0804/
 ---
 

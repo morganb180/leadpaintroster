@@ -1,6 +1,6 @@
 ---
-title: "WNY First Choice Construction, Inc., West Seneca, NY | Lead Paint Roster"
-description: "WNY First Choice Construction, Inc.: Lead abatement in West Seneca, NY. Licence details, contact and quotes."
+title: "WNY First Choice Construction, West Seneca NY"
+description: "WNY First Choice Construction, Inc. in West Seneca, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/wny-first-choice-construction-inc-ny1604/
 ---
 

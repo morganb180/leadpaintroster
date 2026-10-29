@@ -1,6 +1,6 @@
 ---
-title: "Angad Renovations, Corp., South Ozone Park, NY | Lead Paint Roster"
-description: "Angad Renovations, Corp.: Lead abatement in South Ozone Park, NY. Licence details, contact and quotes."
+title: "Angad Renovations: Lead Abatement, South Ozone Park NY"
+description: "Angad Renovations, Corp. in South Ozone Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/angad-renovations-corp-ny0784/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "3S Renovations, LLC, Rochester, NY | Lead Paint Roster"
-description: "3S Renovations, LLC: Lead abatement in Rochester, NY. Licence details, contact and quotes."
+description: "3S Renovations, LLC in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/3s-renovations-llc-ny0694/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Cid Construction Services LLC, Paramus, NJ | Lead Paint Roster"
-description: "Cid Construction Services LLC: Lead abatement in Paramus, NJ. Licence details, contact and quotes."
+title: "Cid Construction Services LLC: Lead Abatement, Paramus NJ"
+description: "Cid Construction Services LLC in Paramus, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/cid-construction-services-llc-nj0208/
 ---
 

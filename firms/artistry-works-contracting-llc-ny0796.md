@@ -1,6 +1,6 @@
 ---
-title: "Artistry Works Contracting LLC, Wantagh, NY | Lead Paint Roster"
-description: "Artistry Works Contracting LLC: Lead abatement in Wantagh, NY. Licence details, contact and quotes."
+title: "Artistry Works Contracting LLC: Lead Abatement, Wantagh NY"
+description: "Artistry Works Contracting LLC in Wantagh, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/artistry-works-contracting-llc-ny0796/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Telos Consulting Services LLC, New York, NY | Lead Paint Roster"
+title: "Telos Consulting Services: Lead Paint Pro, New York NY"
 description: "Telos Consulting Services LLC: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/telos-consulting-services-llc-ny0640/
 ---

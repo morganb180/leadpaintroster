@@ -1,6 +1,6 @@
 ---
 title: "Renpro LLC, Constantia, NY | Lead Paint Roster"
-description: "Renpro LLC: Lead abatement in Constantia, NY. Licence details, contact and quotes."
+description: "Renpro LLC in Constantia, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/renpro-llc-ny1422/
 ---
 

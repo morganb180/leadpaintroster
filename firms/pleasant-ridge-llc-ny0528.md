@@ -1,6 +1,6 @@
 ---
 title: "Pleasant Ridge LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Pleasant Ridge LLC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "Pleasant Ridge LLC in Brooklyn, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/pleasant-ridge-llc-ny0528/
 ---
 

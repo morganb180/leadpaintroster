@@ -1,6 +1,6 @@
 ---
 title: "Renewal with Grace Inc, Levittown, NY | Lead Paint Roster"
-description: "Renewal with Grace Inc: Lead abatement in Levittown, NY. Licence details, contact and quotes."
+description: "Renewal with Grace Inc in Levittown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/renewal-with-grace-inc-ny1420/
 ---
 

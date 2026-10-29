@@ -1,6 +1,6 @@
 ---
-title: "Prime Home Improvements, Inc., Armonk, NY | Lead Paint Roster"
-description: "Prime Home Improvements, Inc.: Lead abatement in Armonk, NY. Licence details, contact and quotes."
+title: "Prime Home Improvements, Inc.: Lead Abatement, Armonk NY"
+description: "Prime Home Improvements, Inc. in Armonk, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/prime-home-improvements-inc-ny1369/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Fast Track MK, LLC, Yonkers, NY | Lead Paint Roster"
-description: "Fast Track MK, LLC: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
+description: "Fast Track MK, LLC in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/fast-track-mk-llc-ny1012/
 ---
 

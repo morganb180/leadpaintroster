@@ -1,6 +1,6 @@
 ---
 title: "GRF Home Improvements, Oceanside, NY | Lead Paint Roster"
-description: "GRF Home Improvements: Lead abatement in Oceanside, NY. Licence details, contact and quotes."
+description: "GRF Home Improvements in Oceanside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/grf-home-improvements-ny1046/
 ---
 

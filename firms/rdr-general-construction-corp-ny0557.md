@@ -1,5 +1,5 @@
 ---
-title: "RDR General Construction Corp, New York, NY | Lead Paint Roster"
+title: "RDR General Construction: Lead Paint Pro, New York NY"
 description: "RDR General Construction Corp: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rdr-general-construction-corp-ny0557/
 ---

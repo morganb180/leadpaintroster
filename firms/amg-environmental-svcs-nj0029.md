@@ -1,6 +1,6 @@
 ---
 title: "Amg Environmental Svcs., Branchburg, NJ | Lead Paint Roster"
-description: "Amg Environmental Svcs.: Lead inspection / evaluation in Branchburg, NJ. Licence details, contact and quotes."
+description: "Amg Environmental Svcs. in Branchburg, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/amg-environmental-svcs-nj0029/
 ---
 

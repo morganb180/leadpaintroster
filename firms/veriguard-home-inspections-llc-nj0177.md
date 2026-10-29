@@ -1,6 +1,6 @@
 ---
-title: "Veriguard Home Inspections,llc, Hackensack, NJ | Lead Paint Roster"
-description: "Veriguard Home Inspections,llc: Lead inspection / evaluation in Hackensack, NJ. Licence details, contact and quotes."
+title: "Veriguard Home Inspections,llc, Hackensack NJ"
+description: "Veriguard Home Inspections,llc in Hackensack, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/veriguard-home-inspections-llc-nj0177/
 ---
 

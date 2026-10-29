@@ -1,6 +1,6 @@
 ---
 title: "Mitigation Solutions, LLC, Plainview, NY | Lead Paint Roster"
-description: "Mitigation Solutions, LLC: Lead abatement in Plainview, NY. Licence details, contact and quotes."
+description: "Mitigation Solutions, LLC in Plainview, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mitigation-solutions-llc-ny1258/
 ---
 

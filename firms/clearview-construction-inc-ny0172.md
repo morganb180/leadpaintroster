@@ -1,6 +1,6 @@
 ---
-title: "Clearview Construction Inc., Valley Stream, NY | Lead Paint Roster"
-description: "Clearview Construction Inc.: Lead inspection / evaluation in Valley Stream, NY. Licence details, contact and quotes."
+title: "Clearview Construction: Lead Inspector, Valley Stream NY"
+description: "Clearview Construction Inc. in Valley Stream, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/clearview-construction-inc-ny0172/
 ---
 

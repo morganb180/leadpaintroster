@@ -1,6 +1,6 @@
 ---
-title: "Procraft Design & Construction, Huntington Station, NY | Lead Paint Roster"
-description: "Procraft Design & Construction: Lead abatement in Huntington Station, NY. Licence details, contact and quotes."
+title: "Procraft Design & Construction, Huntington Station NY"
+description: "Procraft Design & Construction in Huntington Station, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/procraft-design-construction-ny1373/
 ---
 

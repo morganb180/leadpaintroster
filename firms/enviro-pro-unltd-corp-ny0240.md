@@ -1,6 +1,6 @@
 ---
 title: "Enviro-Pro UnLTD Corp., New York, NY | Lead Paint Roster"
-description: "Enviro-Pro UnLTD Corp.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+description: "Enviro-Pro UnLTD Corp. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/enviro-pro-unltd-corp-ny0240/
 ---
 

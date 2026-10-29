@@ -1,6 +1,6 @@
 ---
 title: "VITO Enterprises Ltd, Forest Hills, NY | Lead Paint Roster"
-description: "VITO Enterprises Ltd: Lead abatement in Forest Hills, NY. Licence details, contact and quotes."
+description: "VITO Enterprises Ltd in Forest Hills, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/vito-enterprises-ltd-ny1591/
 ---
 

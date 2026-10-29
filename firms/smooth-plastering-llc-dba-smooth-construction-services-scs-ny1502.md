@@ -1,5 +1,5 @@
 ---
-title: "Smooth Plastering LLC dba Smooth Construction Services (SCS), Brooklyn, NY | Lead Paint Roster"
+title: "Smooth Plastering LLC dba Smooth Construction Services (SCS)"
 description: "Smooth Plastering LLC dba Smooth Construction Services (SCS): Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/smooth-plastering-llc-dba-smooth-construction-services-scs-ny1502/
 ---

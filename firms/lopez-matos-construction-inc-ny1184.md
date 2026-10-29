@@ -1,6 +1,6 @@
 ---
 title: "Lopez Matos Construction Inc, Bronx, NY | Lead Paint Roster"
-description: "Lopez Matos Construction Inc: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Lopez Matos Construction Inc in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/lopez-matos-construction-inc-ny1184/
 ---
 

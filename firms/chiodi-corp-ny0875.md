@@ -1,6 +1,6 @@
 ---
 title: "Chiodi Corp, Chestnut Ridge, NY | Lead Paint Roster"
-description: "Chiodi Corp: Lead abatement in Chestnut Ridge, NY. Licence details, contact and quotes."
+description: "Chiodi Corp in Chestnut Ridge, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/chiodi-corp-ny0875/
 ---
 

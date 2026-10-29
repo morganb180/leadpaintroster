@@ -1,6 +1,6 @@
 ---
-title: "JNM Home Improvement Inc., West Hempstead, NY | Lead Paint Roster"
-description: "JNM Home Improvement Inc.: Lead abatement in West Hempstead, NY. Licence details, contact and quotes."
+title: "JNM Home Improvement Inc.: Lead Abatement, West Hempstead NY"
+description: "JNM Home Improvement Inc. in West Hempstead, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/jnm-home-improvement-inc-ny1124/
 ---
 

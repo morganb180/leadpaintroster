@@ -1,6 +1,6 @@
 ---
 title: "Hardrock Construction Corp, Brooklyn, NY | Lead Paint Roster"
-description: "Hardrock Construction Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Hardrock Construction Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/hardrock-construction-corp-ny1075/
 ---
 

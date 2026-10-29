@@ -1,6 +1,6 @@
 ---
 title: "ABC Environmental, Brooklyn, NY | Lead Paint Roster"
-description: "ABC Environmental: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "ABC Environmental in Brooklyn, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/abc-environmental-ny0025/
 ---
 

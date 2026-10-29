@@ -1,6 +1,6 @@
 ---
 title: "Painting ETC Inc., Colton, NY | Lead Paint Roster"
-description: "Painting ETC Inc.: Lead abatement, Lead inspection / evaluation in Colton, NY. Licence details, contact and quotes."
+description: "Painting ETC Inc. in Colton, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/painting-etc-inc-ny0522/
 ---
 

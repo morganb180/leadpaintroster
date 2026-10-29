@@ -1,6 +1,6 @@
 ---
-title: "Asbestos & Mold Services Corp, Lumberton, NJ | Lead Paint Roster"
-description: "Asbestos & Mold Services Corp: Lead abatement in Lumberton, NJ. Licence details, contact and quotes."
+title: "Asbestos & Mold Services Corp: Lead Abatement, Lumberton NJ"
+description: "Asbestos & Mold Services Corp in Lumberton, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/asbestos-mold-services-corp-nj0196/
 ---
 

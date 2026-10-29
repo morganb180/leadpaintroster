@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in South Ozone Park, NY: 7 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in South Ozone Park, NY"
 description: "7 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in South Ozone Park, New York, plus 317 more in Queens County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/south-ozone-park/
 ---
@@ -8,13 +8,17 @@ canonical: https://leadpaintroster.com/ny/city/south-ozone-park/
 
 # Certified lead paint inspectors & abatement firms in South Ozone Park, NY
 
+**Quick answer:** For landlords, owners, buyers and parents in South Ozone Park, NY: Lead Paint Roster lists 7 EPA-licensed lead paint listings with an address in South Ozone Park (4 lead inspection / evaluation, 7 lead abatement) and 317 more elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address. Check each licence with EPA before you hire, and read the [South Ozone Park hiring guide](https://leadpaintroster.com/ny/city/south-ozone-park/guide/) for questions to ask and typical costs.
+
 7 EPA-licensed listings give an address in South Ozone Park (4 lead inspection / evaluation, 7 lead abatement), and 317 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the South Ozone Park hiring guide →**](https://leadpaintroster.com/ny/city/south-ozone-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in South Ozone Park](https://leadpaintroster.com/get-quotes/?city=south-ozone-park&st=ny)
 
-## Based in South Ozone Park
+## Which certified lead paint firms are based in South Ozone Park, NY?
+
+Lead Paint Roster lists 7 EPA-licensed listings with an address in South Ozone Park: 4 lead inspection & evaluation firms and 3 lead abatement contractors. Each listing appears once below, even if it holds both licences.
 
 ### Lead inspection & evaluation firms (4)
 
@@ -115,11 +119,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F256911-1 (exp. 2026-12-06)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1206)
 
-## Elsewhere in Queens County (317)
+## Which other certified lead paint firms are in Queens County? (317)
+
+317 more listings have an address elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address in South Ozone Park.
 
 [See all 324 Queens County listings →](https://leadpaintroster.com/ny/county/queens/)
 
-## More cities in Queens County
+## Which other Queens County cities have lead paint pages?
 
 [Astoria](https://leadpaintroster.com/ny/city/astoria/) · [Long Island City](https://leadpaintroster.com/ny/city/long-island-city/) · [Flushing](https://leadpaintroster.com/ny/city/flushing/) · [Jamaica](https://leadpaintroster.com/ny/city/jamaica/) · [Maspeth](https://leadpaintroster.com/ny/city/maspeth/) · [Queens](https://leadpaintroster.com/ny/city/queens/)
 

@@ -1,6 +1,6 @@
 ---
 title: "Leadsafe Inspections NYC, Ridgewood, NY | Lead Paint Roster"
-description: "Leadsafe Inspections NYC: Lead inspection / evaluation in Ridgewood, NY. Licence details, contact and quotes."
+description: "Leadsafe Inspections NYC in Ridgewood, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/leadsafe-inspections-nyc-ny0412/
 ---
 

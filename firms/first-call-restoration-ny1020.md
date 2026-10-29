@@ -1,6 +1,6 @@
 ---
 title: "First Call Restoration, Poughkeepsie, NY | Lead Paint Roster"
-description: "First Call Restoration: Lead abatement in Poughkeepsie, NY. Licence details, contact and quotes."
+description: "First Call Restoration in Poughkeepsie, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/first-call-restoration-ny1020/
 ---
 

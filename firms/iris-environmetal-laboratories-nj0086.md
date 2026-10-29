@@ -1,6 +1,6 @@
 ---
-title: "Iris Environmetal Laboratories, Union, NJ | Lead Paint Roster"
-description: "Iris Environmetal Laboratories: Lead inspection / evaluation in Union, NJ. Licence details, contact and quotes."
+title: "Iris Environmetal Laboratories: Lead Inspector, Union NJ"
+description: "Iris Environmetal Laboratories in Union, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/iris-environmetal-laboratories-nj0086/
 ---
 

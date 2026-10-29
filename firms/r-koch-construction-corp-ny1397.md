@@ -1,6 +1,6 @@
 ---
 title: "R. Koch Construction Corp., Syracuse, NY | Lead Paint Roster"
-description: "R. Koch Construction Corp.: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
+description: "R. Koch Construction Corp. in Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/r-koch-construction-corp-ny1397/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "RJS Electrical Contracting Corp, Brooklyn, NY | Lead Paint Roster"
-description: "RJS Electrical Contracting Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "RJS Electrical Contracting Corp: Lead Abatement, Brooklyn NY"
+description: "RJS Electrical Contracting Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/rjs-electrical-contracting-corp-ny1403/
 ---
 

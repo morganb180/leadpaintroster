@@ -1,6 +1,6 @@
 ---
-title: "Renzi’s Home Improvements, Inc., Yonkers, NY | Lead Paint Roster"
-description: "Renzi’s Home Improvements, Inc.: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
+title: "Renzi’s Home Improvements, Inc.: Lead Abatement, Yonkers NY"
+description: "Renzi’s Home Improvements, Inc. in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/renzi-s-home-improvements-inc-ny1423/
 ---
 

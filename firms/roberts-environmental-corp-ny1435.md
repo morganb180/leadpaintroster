@@ -1,6 +1,6 @@
 ---
 title: "Roberts Environmental Corp., Bohemia, NY | Lead Paint Roster"
-description: "Roberts Environmental Corp.: Lead abatement in Bohemia, NY. Licence details, contact and quotes."
+description: "Roberts Environmental Corp. in Bohemia, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/roberts-environmental-corp-ny1435/
 ---
 

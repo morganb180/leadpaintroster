@@ -1,6 +1,6 @@
 ---
 title: "Parkash Management, Jamaica, NY | Lead Paint Roster"
-description: "Parkash Management: Lead abatement in Jamaica, NY. Licence details, contact and quotes."
+description: "Parkash Management in Jamaica, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/parkash-management-ny1345/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Trinity Property Preservation, East Orange, NJ | Lead Paint Roster"
-description: "Trinity Property Preservation: Lead abatement in East Orange, NJ. Licence details, contact and quotes."
+title: "Trinity Property Preservation, East Orange NJ"
+description: "Trinity Property Preservation in East Orange, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/trinity-property-preservation-nj0249/
 ---
 

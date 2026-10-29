@@ -1,5 +1,5 @@
 ---
-title: "Stohl Environmental, LLC, Orchard Park, NY | Lead Paint Roster"
+title: "Stohl Environmental: Lead Paint Pro, Orchard Park NY"
 description: "Stohl Environmental, LLC: Lead abatement, Lead inspection / evaluation in Orchard Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/stohl-environmental-llc-ny0619/
 ---

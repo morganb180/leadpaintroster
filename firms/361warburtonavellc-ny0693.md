@@ -1,6 +1,6 @@
 ---
 title: "361WarburtonAveLLC, Yonkers, NY | Lead Paint Roster"
-description: "361WarburtonAveLLC: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
+description: "361WarburtonAveLLC in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/361warburtonavellc-ny0693/
 ---
 

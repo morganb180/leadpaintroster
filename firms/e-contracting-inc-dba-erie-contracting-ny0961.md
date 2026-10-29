@@ -1,6 +1,6 @@
 ---
-title: "E Contracting Inc. DBA Erie Contracting, Lancaster, NY | Lead Paint Roster"
-description: "E Contracting Inc. DBA Erie Contracting: Lead abatement in Lancaster, NY. Licence details, contact and quotes."
+title: "E Contracting Inc. DBA Erie Contracting, Lancaster NY"
+description: "E Contracting Inc. DBA Erie Contracting in Lancaster, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/e-contracting-inc-dba-erie-contracting-ny0961/
 ---
 

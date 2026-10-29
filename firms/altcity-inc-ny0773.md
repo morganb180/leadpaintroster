@@ -1,6 +1,6 @@
 ---
 title: "AltCity, Inc., Bronx, NY | Lead Paint Roster"
-description: "AltCity, Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "AltCity, Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/altcity-inc-ny0773/
 ---
 

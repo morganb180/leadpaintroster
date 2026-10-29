@@ -1,6 +1,6 @@
 ---
-title: "Manka Construction Inc., East Elmhurst, NY | Lead Paint Roster"
-description: "Manka Construction Inc.: Lead abatement in East Elmhurst, NY. Licence details, contact and quotes."
+title: "Manka Construction Inc.: Lead Abatement, East Elmhurst NY"
+description: "Manka Construction Inc. in East Elmhurst, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/manka-construction-inc-ny1200/
 ---
 

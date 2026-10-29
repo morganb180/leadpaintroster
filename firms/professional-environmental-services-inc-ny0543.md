@@ -1,5 +1,5 @@
 ---
-title: "Professional Environmental Services, Inc., Bronx, NY | Lead Paint Roster"
+title: "Professional Environmental Services, Bronx NY"
 description: "Professional Environmental Services, Inc.: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/professional-environmental-services-inc-ny0543/
 ---

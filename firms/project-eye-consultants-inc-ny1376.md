@@ -1,6 +1,6 @@
 ---
-title: "Project Eye Consultants Inc, Staten Island, NY | Lead Paint Roster"
-description: "Project Eye Consultants Inc: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+title: "Project Eye Consultants: Lead Abatement, Staten Island NY"
+description: "Project Eye Consultants Inc in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/project-eye-consultants-inc-ny1376/
 ---
 

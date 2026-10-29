@@ -1,5 +1,5 @@
 ---
-title: "Brian Hommel Home Improvement, Saugerties, NY | Lead Paint Roster"
+title: "Brian Hommel Home Improvement: Lead Paint Pro, Saugerties NY"
 description: "Brian Hommel Home Improvement: Lead abatement, Lead inspection / evaluation in Saugerties, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/brian-hommel-home-improvement-ny0140/
 ---

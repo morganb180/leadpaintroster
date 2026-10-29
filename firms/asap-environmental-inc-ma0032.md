@@ -1,6 +1,6 @@
 ---
 title: "ASAP Environmental Inc, Newton, MA | Lead Paint Roster"
-description: "ASAP Environmental Inc: Lead risk assessment in Newton, MA. Licence details, contact and quotes."
+description: "ASAP Environmental Inc in Newton, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/asap-environmental-inc-ma0032/
 ---
 

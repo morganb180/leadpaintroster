@@ -1,5 +1,5 @@
 ---
-title: "South Bronx Restoration, LLC, Oyster Bay, NY | Lead Paint Roster"
+title: "South Bronx Restoration: Lead Paint Pro, Oyster Bay NY"
 description: "South Bronx Restoration, LLC: Lead abatement, Lead inspection / evaluation in Oyster Bay, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/south-bronx-restoration-llc-ny0613/
 ---

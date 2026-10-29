@@ -1,6 +1,6 @@
 ---
 title: "Paredes Floor Covering Ltd, Brooklyn, NY | Lead Paint Roster"
-description: "Paredes Floor Covering Ltd: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Paredes Floor Covering Ltd in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/paredes-floor-covering-ltd-ny1343/
 ---
 

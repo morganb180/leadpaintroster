@@ -1,5 +1,5 @@
 ---
-title: "Westside Construction Group LLC, Churchville, NY | Lead Paint Roster"
+title: "Westside Construction Group: Lead Paint Pro, Churchville NY"
 description: "Westside Construction Group LLC: Lead abatement, Lead inspection / evaluation in Churchville, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/westside-construction-group-llc-ny0677/
 ---

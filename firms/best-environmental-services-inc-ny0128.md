@@ -1,6 +1,6 @@
 ---
-title: "Best Environmental Services Inc., Bronx, NY | Lead Paint Roster"
-description: "Best Environmental Services Inc.: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
+title: "Best Environmental Services: Lead Paint Inspector, Bronx NY"
+description: "Best Environmental Services Inc. in Bronx, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/best-environmental-services-inc-ny0128/
 ---
 

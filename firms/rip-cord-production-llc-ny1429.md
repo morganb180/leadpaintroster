@@ -1,6 +1,6 @@
 ---
 title: "Rip cord production LLC, New York, NY | Lead Paint Roster"
-description: "Rip cord production LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "Rip cord production LLC in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/rip-cord-production-llc-ny1429/
 ---
 

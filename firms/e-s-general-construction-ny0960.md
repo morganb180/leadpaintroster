@@ -1,6 +1,6 @@
 ---
 title: "E & S General Construction, Brooklyn, NY | Lead Paint Roster"
-description: "E & S General Construction: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "E & S General Construction in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/e-s-general-construction-ny0960/
 ---
 

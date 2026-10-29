@@ -1,6 +1,6 @@
 ---
-title: "FT Enterprise Group Inc, East Elmhurst, NY | Lead Paint Roster"
-description: "FT Enterprise Group Inc: Lead abatement in East Elmhurst, NY. Licence details, contact and quotes."
+title: "FT Enterprise Group Inc: Lead Abatement, East Elmhurst NY"
+description: "FT Enterprise Group Inc in East Elmhurst, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ft-enterprise-group-inc-ny1008/
 ---
 

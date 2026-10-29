@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Onondaga County, NY: 38 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Onondaga County, NY"
 description: "38 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Onondaga County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/onondaga/
 ---
@@ -12,7 +12,9 @@ canonical: https://leadpaintroster.com/ny/county/onondaga/
 
 City pages: [Syracuse](https://leadpaintroster.com/ny/city/syracuse/)
 
-## Lead inspection & evaluation firms (13)
+## Where can I get a lead paint inspection in Onondaga County, NY? (13)
+
+Lead Paint Roster lists 13 EPA-licensed listings for lead inspection / evaluation with an address of record in Onondaga County.
 
 ✔ EPA-certified firm Lead abatementLead inspection / evaluation
 
@@ -188,7 +190,9 @@ EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, c
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0563)
 
-## Lead abatement contractors (25)
+## Who does lead paint abatement in Onondaga County, NY? (25)
+
+25 EPA-licensed lead abatement listings have an address of record in Onondaga County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -515,13 +519,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F287796-1 (exp. 2028-03-18)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0975)
 
-## Neighboring counties
+## Which counties border Onondaga County, NY?
 
 [Cayuga](https://leadpaintroster.com/ny/county/cayuga/) (4) · [Cortland](https://leadpaintroster.com/ny/county/cortland/) (3) · Madison (0) · [Oswego](https://leadpaintroster.com/ny/county/oswego/) (2)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Onondaga County: quick guide
+## How do I hire a lead inspector in Onondaga County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

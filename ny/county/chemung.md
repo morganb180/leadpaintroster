@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Chemung County, NY: 6 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Chemung County, NY"
 description: "6 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Chemung County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/chemung/
 ---
@@ -12,7 +12,9 @@ canonical: https://leadpaintroster.com/ny/county/chemung/
 
 City pages: [Elmira](https://leadpaintroster.com/ny/city/elmira/)
 
-## Lead inspection & evaluation firms (3)
+## Where can I get a lead paint inspection in Chemung County, NY? (3)
+
+Lead Paint Roster lists 3 EPA-licensed listings for lead inspection / evaluation with an address of record in Chemung County.
 
 ✔ EPA-certified firm Lead abatementLead inspection / evaluation
 
@@ -56,7 +58,9 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F301630-1 (exp. 2028-07-22)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0614)
 
-## Lead abatement contractors (3)
+## Who does lead paint abatement in Chemung County, NY? (3)
+
+3 EPA-licensed lead abatement listings have an address of record in Chemung County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -97,13 +101,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F212445-3 (exp. 2029-03-09)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0935)
 
-## Neighboring counties
+## Which counties border Chemung County, NY?
 
 Schuyler (0) · [Steuben](https://leadpaintroster.com/ny/county/steuben/) (2) · [Tioga](https://leadpaintroster.com/ny/county/tioga/) (1) · [Tompkins](https://leadpaintroster.com/ny/county/tompkins/) (2)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Chemung County: quick guide
+## How do I hire a lead inspector in Chemung County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

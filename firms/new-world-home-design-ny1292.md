@@ -1,6 +1,6 @@
 ---
 title: "New World Home Design, Niagara Falls, NY | Lead Paint Roster"
-description: "New World Home Design: Lead abatement in Niagara Falls, NY. Licence details, contact and quotes."
+description: "New World Home Design in Niagara Falls, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/new-world-home-design-ny1292/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Carnation Realty, Katonah, NY | Lead Paint Roster"
-description: "Carnation Realty: Lead abatement in Katonah, NY. Licence details, contact and quotes."
+description: "Carnation Realty in Katonah, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/carnation-realty-ny0884/
 ---
 

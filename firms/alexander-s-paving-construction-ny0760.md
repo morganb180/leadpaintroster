@@ -1,6 +1,6 @@
 ---
-title: "Alexander’s Paving & Construction, Liverpool, NY | Lead Paint Roster"
-description: "Alexander’s Paving & Construction: Lead abatement in Liverpool, NY. Licence details, contact and quotes."
+title: "Alexander’s Paving & Construction, Liverpool NY"
+description: "Alexander’s Paving & Construction in Liverpool, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/alexander-s-paving-construction-ny0760/
 ---
 

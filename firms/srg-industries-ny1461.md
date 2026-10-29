@@ -1,6 +1,6 @@
 ---
 title: "SRG Industries, Buffalo, NY | Lead Paint Roster"
-description: "SRG Industries: Lead abatement in Buffalo, NY. Licence details, contact and quotes."
+description: "SRG Industries in Buffalo, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/srg-industries-ny1461/
 ---
 

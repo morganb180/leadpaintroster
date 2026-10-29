@@ -1,6 +1,6 @@
 ---
 title: "Allure Mgmt & Dev, Inc, Ozone Park, NY | Lead Paint Roster"
-description: "Allure Mgmt & Dev, Inc: Lead abatement in Ozone Park, NY. Licence details, contact and quotes."
+description: "Allure Mgmt & Dev, Inc in Ozone Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/allure-mgmt-dev-inc-ny0770/
 ---
 

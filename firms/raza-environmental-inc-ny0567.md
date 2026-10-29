@@ -1,6 +1,6 @@
 ---
 title: "Raza Environmental Inc., Yonkers, NY | Lead Paint Roster"
-description: "Raza Environmental Inc.: Lead inspection / evaluation in Yonkers, NY. Licence details, contact and quotes."
+description: "Raza Environmental Inc. in Yonkers, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/raza-environmental-inc-ny0567/
 ---
 

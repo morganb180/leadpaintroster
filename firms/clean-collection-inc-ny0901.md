@@ -1,6 +1,6 @@
 ---
 title: "Clean Collection Inc, Brooklyn, NY | Lead Paint Roster"
-description: "Clean Collection Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Clean Collection Inc in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/clean-collection-inc-ny0901/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Yonkers, NY: 35 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Yonkers, NY"
 description: "35 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Yonkers, New York, plus 88 more in Westchester County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/yonkers/
 ---
@@ -8,13 +8,17 @@ canonical: https://leadpaintroster.com/ny/city/yonkers/
 
 # Certified lead paint inspectors & abatement firms in Yonkers, NY
 
+**Quick answer:** For landlords, owners, buyers and parents in Yonkers, NY: Lead Paint Roster lists 35 EPA-licensed lead paint listings with an address in Yonkers (10 lead inspection / evaluation, 33 lead abatement) and 88 more elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address. Check each licence with EPA before you hire, and read the [Yonkers hiring guide](https://leadpaintroster.com/ny/city/yonkers/guide/) for questions to ask and typical costs.
+
 35 EPA-licensed listings give an address in Yonkers (10 lead inspection / evaluation, 33 lead abatement), and 88 more are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Yonkers hiring guide →**](https://leadpaintroster.com/ny/city/yonkers/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Yonkers](https://leadpaintroster.com/get-quotes/?city=yonkers&st=ny)
 
-## Based in Yonkers
+## Which certified lead paint firms are based in Yonkers, NY?
+
+Lead Paint Roster lists 35 EPA-licensed listings with an address in Yonkers: 10 lead inspection & evaluation firms and 25 lead abatement contractors. Each listing appears once below, even if it holds both licences.
 
 ### Lead inspection & evaluation firms (10)
 
@@ -483,11 +487,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F121961-2 (exp. 2029-07-01)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1540)
 
-## Elsewhere in Westchester County (88)
+## Which other certified lead paint firms are in Westchester County? (88)
+
+88 more listings have an address elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address in Yonkers.
 
 [See all 123 Westchester County listings →](https://leadpaintroster.com/ny/county/westchester/)
 
-## More cities in Westchester County
+## Which other Westchester County cities have lead paint pages?
 
 [New Rochelle](https://leadpaintroster.com/ny/city/new-rochelle/) · [White Plains](https://leadpaintroster.com/ny/city/white-plains/) · [Mount Vernon](https://leadpaintroster.com/ny/city/mount-vernon/) · [Scarsdale](https://leadpaintroster.com/ny/city/scarsdale/) · [Mount Kisco](https://leadpaintroster.com/ny/city/mount-kisco/) · [Yorktown Heights](https://leadpaintroster.com/ny/city/yorktown-heights/)
 

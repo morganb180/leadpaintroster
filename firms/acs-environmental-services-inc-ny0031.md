@@ -1,6 +1,6 @@
 ---
-title: "ACS Environmental Services, Inc., Brooklyn, NY | Lead Paint Roster"
-description: "ACS Environmental Services, Inc.: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+title: "ACS Environmental Services: Lead Inspector, Brooklyn NY"
+description: "ACS Environmental Services, Inc. in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/acs-environmental-services-inc-ny0031/
 ---
 

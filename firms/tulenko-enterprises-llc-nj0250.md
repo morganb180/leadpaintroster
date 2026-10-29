@@ -1,6 +1,6 @@
 ---
 title: "Tulenko Enterprises, LLC, Rockaway, NJ | Lead Paint Roster"
-description: "Tulenko Enterprises, LLC: Lead abatement in Rockaway, NJ. Licence details, contact and quotes."
+description: "Tulenko Enterprises, LLC in Rockaway, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/tulenko-enterprises-llc-nj0250/
 ---
 

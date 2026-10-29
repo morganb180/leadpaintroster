@@ -1,6 +1,6 @@
 ---
-title: "I Home Inspections, LLC, Englewood Cliffs, NJ | Lead Paint Roster"
-description: "I Home Inspections, LLC: Lead inspection / evaluation in Englewood Cliffs, NJ. Licence details, contact and quotes."
+title: "I Home Inspections: Lead Inspector, Englewood Cliffs NJ"
+description: "I Home Inspections, LLC in Englewood Cliffs, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/i-home-inspections-llc-nj0082/
 ---
 

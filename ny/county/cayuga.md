@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Cayuga County, NY: 4 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Cayuga County, NY"
 description: "4 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Cayuga County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/cayuga/
 ---
@@ -12,7 +12,9 @@ canonical: https://leadpaintroster.com/ny/county/cayuga/
 
 City pages: [Auburn](https://leadpaintroster.com/ny/city/auburn/)
 
-## Lead inspection & evaluation firms (1)
+## Where can I get a lead paint inspection in Cayuga County, NY? (1)
+
+Lead Paint Roster lists 1 EPA-licensed listing for lead inspection / evaluation with an address of record in Cayuga County.
 
 ✔ EPA-certified firm Lead inspection / evaluation
 
@@ -27,7 +29,9 @@ EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, c
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0125)
 
-## Lead abatement contractors (3)
+## Who does lead paint abatement in Cayuga County, NY? (3)
+
+3 EPA-licensed lead abatement listings have an address of record in Cayuga County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -68,13 +72,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-20020-1 (exp. 2027-03-20)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1533)
 
-## Neighboring counties
+## Which counties border Cayuga County, NY?
 
 [Cortland](https://leadpaintroster.com/ny/county/cortland/) (3) · [Jefferson](https://leadpaintroster.com/ny/county/jefferson/) (8) · [Onondaga](https://leadpaintroster.com/ny/county/onondaga/) (38) · [Oswego](https://leadpaintroster.com/ny/county/oswego/) (2) · Seneca (0) · [Tompkins](https://leadpaintroster.com/ny/county/tompkins/) (2) · [Wayne](https://leadpaintroster.com/ny/county/wayne/) (4)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Cayuga County: quick guide
+## How do I hire a lead inspector in Cayuga County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

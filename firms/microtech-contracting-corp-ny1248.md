@@ -1,6 +1,6 @@
 ---
-title: "Microtech Contracting Corp., West Babylon, NY | Lead Paint Roster"
-description: "Microtech Contracting Corp.: Lead abatement in West Babylon, NY. Licence details, contact and quotes."
+title: "Microtech Contracting Corp.: Lead Abatement, West Babylon NY"
+description: "Microtech Contracting Corp. in West Babylon, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/microtech-contracting-corp-ny1248/
 ---
 

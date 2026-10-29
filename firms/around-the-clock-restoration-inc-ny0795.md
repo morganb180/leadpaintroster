@@ -1,6 +1,6 @@
 ---
-title: "Around The Clock Restoration Inc, Melville, NY | Lead Paint Roster"
-description: "Around The Clock Restoration Inc: Lead abatement in Melville, NY. Licence details, contact and quotes."
+title: "Around The Clock Restoration: Lead Abatement, Melville NY"
+description: "Around The Clock Restoration Inc in Melville, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/around-the-clock-restoration-inc-ny0795/
 ---
 

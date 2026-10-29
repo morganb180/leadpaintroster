@@ -1,5 +1,5 @@
 ---
-title: "Consulting and Testing Services, Inc., New York, NY | Lead Paint Roster"
+title: "Consulting and Testing Services: Lead Inspector, New York NY"
 description: "Consulting and Testing Services, Inc.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/consulting-and-testing-services-inc-ny0180/
 ---

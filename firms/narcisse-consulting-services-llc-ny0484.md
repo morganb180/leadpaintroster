@@ -1,6 +1,6 @@
 ---
-title: "Narcisse Consulting Services LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Narcisse Consulting Services LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+title: "Narcisse Consulting Services: Lead Inspector, Brooklyn NY"
+description: "Narcisse Consulting Services LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/narcisse-consulting-services-llc-ny0484/
 ---
 

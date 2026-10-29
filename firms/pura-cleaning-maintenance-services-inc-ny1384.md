@@ -1,6 +1,6 @@
 ---
-title: "Pura Cleaning & Maintenance Services, Inc., Bronx, NY | Lead Paint Roster"
-description: "Pura Cleaning & Maintenance Services, Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+title: "Pura Cleaning & Maintenance Services, Bronx NY"
+description: "Pura Cleaning & Maintenance Services, Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/pura-cleaning-maintenance-services-inc-ny1384/
 ---
 

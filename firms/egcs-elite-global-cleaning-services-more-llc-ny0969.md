@@ -1,5 +1,5 @@
 ---
-title: "EGCS. Elite Global Cleaning Services & More, LLC, Middle Village, NY | Lead Paint Roster"
+title: "EGCS. Elite Global Cleaning Services & More"
 description: "EGCS. Elite Global Cleaning Services & More, LLC: Lead abatement in Middle Village, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/egcs-elite-global-cleaning-services-more-llc-ny0969/
 ---

@@ -1,6 +1,6 @@
 ---
-title: "LaBella Associates, D.P.C., Rochester, NY | Lead Paint Roster"
-description: "LaBella Associates, D.P.C.: Lead inspection / evaluation in Rochester, NY. Licence details, contact and quotes."
+title: "LaBella Associates, D.P.C.: Lead Inspector, Rochester NY"
+description: "LaBella Associates, D.P.C. in Rochester, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/labella-associates-d-p-c-ny0381/
 ---
 

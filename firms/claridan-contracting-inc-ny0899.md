@@ -1,6 +1,6 @@
 ---
 title: "Claridan Contracting, Inc., New York, NY | Lead Paint Roster"
-description: "Claridan Contracting, Inc.: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "Claridan Contracting, Inc. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/claridan-contracting-inc-ny0899/
 ---
 

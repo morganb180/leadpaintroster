@@ -1,6 +1,6 @@
 ---
-title: "Central Five Home Improvement Corp, Hicksville, NY | Lead Paint Roster"
-description: "Central Five Home Improvement Corp: Lead abatement in Hicksville, NY. Licence details, contact and quotes."
+title: "Central Five Home Improvement: Lead Abatement, Hicksville NY"
+description: "Central Five Home Improvement Corp in Hicksville, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/central-five-home-improvement-corp-ny0891/
 ---
 

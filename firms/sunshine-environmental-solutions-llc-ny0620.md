@@ -1,5 +1,5 @@
 ---
-title: "Sunshine Environmental Solutions LLC, Deer Park, NY | Lead Paint Roster"
+title: "Sunshine Environmental Solutions, Deer Park NY"
 description: "Sunshine Environmental Solutions LLC: Lead abatement, Lead inspection / evaluation in Deer Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sunshine-environmental-solutions-llc-ny0620/
 ---

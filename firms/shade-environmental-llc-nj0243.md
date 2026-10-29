@@ -1,6 +1,6 @@
 ---
-title: "Shade Environmental, LLC, Maple Shade, NJ | Lead Paint Roster"
-description: "Shade Environmental, LLC: Lead abatement in Maple Shade, NJ. Licence details, contact and quotes."
+title: "Shade Environmental, LLC: Lead Abatement, Maple Shade NJ"
+description: "Shade Environmental, LLC in Maple Shade, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/shade-environmental-llc-nj0243/
 ---
 

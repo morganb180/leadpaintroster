@@ -1,6 +1,6 @@
 ---
-title: "Hugh Chrysler Engineering Co, East Elmhurst, NY | Lead Paint Roster"
-description: "Hugh Chrysler Engineering Co: Lead abatement in East Elmhurst, NY. Licence details, contact and quotes."
+title: "Hugh Chrysler Engineering Co, East Elmhurst NY"
+description: "Hugh Chrysler Engineering Co in East Elmhurst, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/hugh-chrysler-engineering-co-ny1088/
 ---
 

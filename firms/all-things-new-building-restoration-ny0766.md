@@ -1,6 +1,6 @@
 ---
-title: "All Things New Building & Restoration, Binghamton, NY | Lead Paint Roster"
-description: "All Things New Building & Restoration: Lead abatement in Binghamton, NY. Licence details, contact and quotes."
+title: "All Things New Building & Restoration, Binghamton NY"
+description: "All Things New Building & Restoration in Binghamton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/all-things-new-building-restoration-ny0766/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Gza Geoenvironmental, Inc., Fairfield, NJ | Lead Paint Roster"
-description: "Gza Geoenvironmental, Inc.: Lead inspection / evaluation in Fairfield, NJ. Licence details, contact and quotes."
+title: "Gza Geoenvironmental: Lead Paint Inspector, Fairfield NJ"
+description: "Gza Geoenvironmental, Inc. in Fairfield, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/gza-geoenvironmental-inc-nj0076/
 ---
 

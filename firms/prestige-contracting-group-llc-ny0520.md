@@ -1,5 +1,5 @@
 ---
-title: "Prestige Contracting Group LLC, Brooklyn, NY | Lead Paint Roster"
+title: "Prestige Contracting Group: Lead Paint Pro, Brooklyn NY"
 description: "Prestige Contracting Group LLC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/prestige-contracting-group-llc-ny0520/
 ---

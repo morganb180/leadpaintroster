@@ -1,6 +1,6 @@
 ---
-title: "AllSafe Environmental , LLC, Croton On The Hudson, NY | Lead Paint Roster"
-description: "AllSafe Environmental , LLC: Lead abatement in Croton On The Hudson, NY. Licence details, contact and quotes."
+title: "AllSafe Environmental, Croton On The Hudson NY"
+description: "AllSafe Environmental , LLC in Croton On The Hudson, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/allsafe-environmental-llc-ny0768/
 ---
 

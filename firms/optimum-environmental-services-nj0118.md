@@ -1,6 +1,6 @@
 ---
-title: "Optimum Environmental Services, Freehold, NJ | Lead Paint Roster"
-description: "Optimum Environmental Services: Lead inspection / evaluation in Freehold, NJ. Licence details, contact and quotes."
+title: "Optimum Environmental Services: Lead Inspector, Freehold NJ"
+description: "Optimum Environmental Services in Freehold, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/optimum-environmental-services-nj0118/
 ---
 

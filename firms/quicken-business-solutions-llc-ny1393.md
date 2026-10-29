@@ -1,6 +1,6 @@
 ---
-title: "Quicken Business Solutions LLC, Syracuse, NY | Lead Paint Roster"
-description: "Quicken Business Solutions LLC: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
+title: "Quicken Business Solutions LLC: Lead Abatement, Syracuse NY"
+description: "Quicken Business Solutions LLC in Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/quicken-business-solutions-llc-ny1393/
 ---
 

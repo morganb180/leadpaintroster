@@ -1,6 +1,6 @@
 ---
-title: "Redwood Restoration & Builders Inc., Staten Island, NY | Lead Paint Roster"
-description: "Redwood Restoration & Builders Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+title: "Redwood Restoration & Builders, Staten Island NY"
+description: "Redwood Restoration & Builders Inc. in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/redwood-restoration-builders-inc-ny1417/
 ---
 

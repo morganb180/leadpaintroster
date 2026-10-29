@@ -1,6 +1,6 @@
 ---
 title: "Premier Euro Finishes, LLC, Astoria, NY | Lead Paint Roster"
-description: "Premier Euro Finishes, LLC: Lead abatement in Astoria, NY. Licence details, contact and quotes."
+description: "Premier Euro Finishes, LLC in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/premier-euro-finishes-llc-ny1363/
 ---
 

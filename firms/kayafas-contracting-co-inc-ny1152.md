@@ -1,6 +1,6 @@
 ---
-title: "Kayafas Contracting Co., Inc., Bayside, NY | Lead Paint Roster"
-description: "Kayafas Contracting Co., Inc.: Lead abatement in Bayside, NY. Licence details, contact and quotes."
+title: "Kayafas Contracting Co., Inc.: Lead Abatement, Bayside NY"
+description: "Kayafas Contracting Co., Inc. in Bayside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/kayafas-contracting-co-inc-ny1152/
 ---
 

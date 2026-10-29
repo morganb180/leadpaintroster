@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Sandblasting, Eatontown, NJ | Lead Paint Roster"
-description: "Dynamic Sandblasting: Lead abatement in Eatontown, NJ. Licence details, contact and quotes."
+description: "Dynamic Sandblasting in Eatontown, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/dynamic-sandblasting-nj0213/
 ---
 

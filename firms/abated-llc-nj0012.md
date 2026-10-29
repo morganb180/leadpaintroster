@@ -1,6 +1,6 @@
 ---
 title: "Abated, LLC, Elizabeth, NJ | Lead Paint Roster"
-description: "Abated, LLC: Lead abatement, Lead inspection / evaluation in Elizabeth, NJ. Licence details, contact and quotes."
+description: "Abated, LLC in Elizabeth, NJ: NJ DCA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/abated-llc-nj0012/
 ---
 

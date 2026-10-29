@@ -1,5 +1,5 @@
 ---
-title: "Residential Construction Services, Inc., Grand Island, NY | Lead Paint Roster"
+title: "Residential Construction Services, Grand Island NY"
 description: "Residential Construction Services, Inc.: Lead abatement, Lead inspection / evaluation in Grand Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/residential-construction-services-inc-ny0575/
 ---

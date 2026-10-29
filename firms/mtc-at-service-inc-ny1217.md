@@ -1,6 +1,6 @@
 ---
 title: "MTC At Service Inc, Yonkers, NY | Lead Paint Roster"
-description: "MTC At Service Inc: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
+description: "MTC At Service Inc in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/mtc-at-service-inc-ny1217/
 ---
 

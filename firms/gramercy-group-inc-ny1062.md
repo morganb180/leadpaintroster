@@ -1,6 +1,6 @@
 ---
 title: "Gramercy Group, Inc., Wantagh, NY | Lead Paint Roster"
-description: "Gramercy Group, Inc.: Lead abatement in Wantagh, NY. Licence details, contact and quotes."
+description: "Gramercy Group, Inc. in Wantagh, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/gramercy-group-inc-ny1062/
 ---
 

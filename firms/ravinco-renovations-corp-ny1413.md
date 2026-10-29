@@ -1,6 +1,6 @@
 ---
-title: "Ravinco Renovations Corp., East Patchogue, NY | Lead Paint Roster"
-description: "Ravinco Renovations Corp.: Lead abatement in East Patchogue, NY. Licence details, contact and quotes."
+title: "Ravinco Renovations Corp.: Lead Abatement, East Patchogue NY"
+description: "Ravinco Renovations Corp. in East Patchogue, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ravinco-renovations-corp-ny1413/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "McCabe Environmental Services, Lyndhurst, NJ | Lead Paint Roster"
-description: "McCabe Environmental Services: Lead inspection / evaluation in Lyndhurst, NJ. Licence details, contact and quotes."
+title: "McCabe Environmental Services: Lead Inspector, Lyndhurst NJ"
+description: "McCabe Environmental Services in Lyndhurst, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mccabe-environmental-services-nj0107/
 ---
 

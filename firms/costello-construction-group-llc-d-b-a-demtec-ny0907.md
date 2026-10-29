@@ -1,6 +1,6 @@
 ---
-title: "Costello Construction Group LLC d/b/a DEMTEC, Thornwood, NY | Lead Paint Roster"
-description: "Costello Construction Group LLC d/b/a DEMTEC: Lead abatement in Thornwood, NY. Licence details, contact and quotes."
+title: "Costello Construction Group LLC d/b/a DEMTEC, Thornwood NY"
+description: "Costello Construction Group LLC d/b/a DEMTEC in Thornwood, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/costello-construction-group-llc-d-b-a-demtec-ny0907/
 ---
 

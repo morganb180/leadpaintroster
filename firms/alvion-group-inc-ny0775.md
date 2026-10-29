@@ -1,6 +1,6 @@
 ---
 title: "Alvion Group Inc., Menands, NY | Lead Paint Roster"
-description: "Alvion Group Inc.: Lead abatement in Menands, NY. Licence details, contact and quotes."
+description: "Alvion Group Inc. in Menands, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/alvion-group-inc-ny0775/
 ---
 

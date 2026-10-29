@@ -1,6 +1,6 @@
 ---
 title: "Maye Development, Spencerport, NY | Lead Paint Roster"
-description: "Maye Development: Lead abatement, Lead inspection / evaluation in Spencerport, NY. Licence details, contact and quotes."
+description: "Maye Development in Spencerport, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/maye-development-ny0447/
 ---
 

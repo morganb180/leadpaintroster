@@ -1,6 +1,6 @@
 ---
 title: "DSA Environmental LLC, Staten Island, NY | Lead Paint Roster"
-description: "DSA Environmental LLC: Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
+description: "DSA Environmental LLC in Staten Island, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/dsa-environmental-llc-ny0192/
 ---
 

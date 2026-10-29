@@ -1,5 +1,5 @@
 ---
-title: "GIGI Environmental LLC, Middle Village, NY | Lead Paint Roster"
+title: "GIGI Environmental: Lead Paint Pro, Middle Village NY"
 description: "GIGI Environmental LLC: Lead abatement, Lead inspection / evaluation in Middle Village, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gigi-environmental-llc-ny0285/
 ---

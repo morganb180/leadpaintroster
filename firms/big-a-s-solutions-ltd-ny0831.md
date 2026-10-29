@@ -1,6 +1,6 @@
 ---
-title: "Big A's Solutions LTD, Rockville Center, NY | Lead Paint Roster"
-description: "Big A's Solutions LTD: Lead abatement in Rockville Center, NY. Licence details, contact and quotes."
+title: "Big A's Solutions LTD: Lead Abatement, Rockville Center NY"
+description: "Big A's Solutions LTD in Rockville Center, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/big-a-s-solutions-ltd-ny0831/
 ---
 

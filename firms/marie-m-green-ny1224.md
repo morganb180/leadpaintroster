@@ -1,6 +1,6 @@
 ---
 title: "Marie M Green, Averill Park, NY | Lead Paint Roster"
-description: "Marie M Green: Lead abatement in Averill Park, NY. Licence details, contact and quotes."
+description: "Marie M Green in Averill Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/marie-m-green-ny1224/
 ---
 

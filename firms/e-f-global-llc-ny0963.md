@@ -1,6 +1,6 @@
 ---
 title: "E.F.Global LLC, Astoria, NY | Lead Paint Roster"
-description: "E.F.Global LLC: Lead abatement in Astoria, NY. Licence details, contact and quotes."
+description: "E.F.Global LLC in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/e-f-global-llc-ny0963/
 ---
 

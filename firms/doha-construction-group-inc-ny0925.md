@@ -1,6 +1,6 @@
 ---
-title: "DOHA Construction Group Inc., Ozone Park, NY | Lead Paint Roster"
-description: "DOHA Construction Group Inc.: Lead abatement in Ozone Park, NY. Licence details, contact and quotes."
+title: "DOHA Construction Group Inc.: Lead Abatement, Ozone Park NY"
+description: "DOHA Construction Group Inc. in Ozone Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/doha-construction-group-inc-ny0925/
 ---
 

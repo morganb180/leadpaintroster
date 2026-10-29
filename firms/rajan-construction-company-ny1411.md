@@ -1,6 +1,6 @@
 ---
 title: "Rajan Construction Company, Jamaica, NY | Lead Paint Roster"
-description: "Rajan Construction Company: Lead abatement in Jamaica, NY. Licence details, contact and quotes."
+description: "Rajan Construction Company in Jamaica, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/rajan-construction-company-ny1411/
 ---
 

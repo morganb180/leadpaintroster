@@ -1,5 +1,5 @@
 ---
-title: "Liberty NY Restoration Inc., Brooklyn, NY | Lead Paint Roster"
+title: "Liberty NY Restoration: Lead Paint Pro, Brooklyn NY"
 description: "Liberty NY Restoration Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/liberty-ny-restoration-inc-ny0419/
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Kemp Group Corp, Brooklyn, NY | Lead Paint Roster"
-description: "Kemp Group Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Kemp Group Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/kemp-group-corp-ny1153/
 ---
 

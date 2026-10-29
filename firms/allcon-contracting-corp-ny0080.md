@@ -1,6 +1,6 @@
 ---
 title: "Allcon Contracting Corp, Westbury, NY | Lead Paint Roster"
-description: "Allcon Contracting Corp: Lead inspection / evaluation in Westbury, NY. Licence details, contact and quotes."
+description: "Allcon Contracting Corp in Westbury, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/allcon-contracting-corp-ny0080/
 ---
 

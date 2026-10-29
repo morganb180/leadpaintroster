@@ -1,6 +1,6 @@
 ---
 title: "Crystal Correia, Swansea, MA | Lead Paint Roster"
-description: "Crystal Correia: Lead inspection / evaluation in Swansea, MA. Licence details, contact and quotes."
+description: "Crystal Correia in Swansea, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/crystal-correia-ma0047/
 ---
 

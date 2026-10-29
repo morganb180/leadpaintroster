@@ -1,6 +1,6 @@
 ---
 title: "MS Enviro Corp, Brooklyn, NY | Lead Paint Roster"
-description: "MS Enviro Corp: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "MS Enviro Corp in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ms-enviro-corp-ny0436/
 ---
 

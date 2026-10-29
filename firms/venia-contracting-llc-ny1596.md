@@ -1,6 +1,6 @@
 ---
 title: "Venia Contracting LLC, Woodbury, NY | Lead Paint Roster"
-description: "Venia Contracting LLC: Lead abatement in Woodbury, NY. Licence details, contact and quotes."
+description: "Venia Contracting LLC in Woodbury, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/venia-contracting-llc-ny1596/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "G&B Home Improvements Inc., Jericho, NY | Lead Paint Roster"
-description: "G&B Home Improvements Inc.: Lead abatement in Jericho, NY. Licence details, contact and quotes."
+description: "G&B Home Improvements Inc. in Jericho, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/g-b-home-improvements-inc-ny1030/
 ---
 

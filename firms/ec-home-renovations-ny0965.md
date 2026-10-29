@@ -1,6 +1,6 @@
 ---
 title: "EC Home Renovations, Rochester, NY | Lead Paint Roster"
-description: "EC Home Renovations: Lead abatement in Rochester, NY. Licence details, contact and quotes."
+description: "EC Home Renovations in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ec-home-renovations-ny0965/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "CRAL Contracting, Inc., Syracuse, NY | Lead Paint Roster"
-description: "CRAL Contracting, Inc.: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
+description: "CRAL Contracting, Inc. in Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/cral-contracting-inc-ny0878/
 ---
 

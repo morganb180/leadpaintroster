@@ -1,6 +1,6 @@
 ---
-title: "D-Best Industries, Corp., West Hempstead, NY | Lead Paint Roster"
-description: "D-Best Industries, Corp.: Lead abatement in West Hempstead, NY. Licence details, contact and quotes."
+title: "D-Best Industries, Corp.: Lead Abatement, West Hempstead NY"
+description: "D-Best Industries, Corp. in West Hempstead, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/d-best-industries-corp-ny0917/
 ---
 

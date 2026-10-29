@@ -1,6 +1,6 @@
 ---
-title: "Advanced Environmental, Corp., New York, NY | Lead Paint Roster"
-description: "Advanced Environmental, Corp.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+title: "Advanced Environmental: Lead Paint Inspector, New York NY"
+description: "Advanced Environmental, Corp. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/advanced-environmental-corp-ny0070/
 ---
 

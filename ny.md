@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in New York | Lead Paint Roster"
+title: "Certified Lead Paint Inspection & Abatement in New York"
 description: "Find EPA-licensed lead paint inspectors, risk assessors and abatement firms in New York: 1636 listings by county and city, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/
 ---
@@ -18,7 +18,9 @@ canonical: https://leadpaintroster.com/ny/
 
 EPA runs lead-based paint activities certification directly in New York, including New York City. Listings are EPA-certified firms for evaluation (inspection, risk assessment, clearance) and abatement. EPA doesn't publish certified individuals as a list.
 
-## New York lead paint rules in brief
+## What are New York's lead paint rules?
+
+New York State has no lead-based paint certification of its own, so EPA certifies the firms and individuals who inspect, assess or abate lead paint in pre-1978 housing there. In New York City, Local Law 1 of 2004 adds duties for landlords of older multiple dwellings where young children live.
 
 * New York State does not run its own lead-based paint activities certification. EPA certifies firms and individuals there, and EPA's locator is the official lookup.
 * In New York City, Local Law 1 of 2004 places lead-paint duties on landlords of older multiple dwellings where young children live. NYC HPD explains the current inspection and XRF-testing requirements.
@@ -26,7 +28,7 @@ EPA runs lead-based paint activities certification directly in New York, includi
 
 Sources: [EPA lead-based paint program](https://www.epa.gov/lead), [NYC HPD lead-based paint](https://www.nyc.gov/site/hpd/services-and-information/lead-based-paint.page). Plain-language summary, not legal advice. Confirm with the agency.
 
-## Cities
+## Which New York cities have lead paint inspector pages?
 
 [**Brooklyn**  
 249 listings](https://leadpaintroster.com/ny/city/brooklyn/)[**New York**  
@@ -54,7 +56,7 @@ Sources: [EPA lead-based paint program](https://www.epa.gov/lead), [NYC HPD lead
 9 listings](https://leadpaintroster.com/ny/city/south-richmond-hill/)[**Ozone Park**  
 9 listings](https://leadpaintroster.com/ny/city/ozone-park/)
 
-## Browse all 54 counties
+## Which New York counties have certified lead paint pros? (54 counties)
 
 * [Albany](https://leadpaintroster.com/ny/county/albany/) (29)
 * [Allegany](https://leadpaintroster.com/ny/county/allegany/) (1)
@@ -113,7 +115,7 @@ Sources: [EPA lead-based paint program](https://www.epa.gov/lead), [NYC HPD lead
 
 [Licensed in NY but based elsewhere (1)](https://leadpaintroster.com/ny/out-of-state/)
 
-## What lead work typically costs
+## How much does a lead paint inspection cost in New York?
 
 | Item | Typical range (national) |
 | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: "Esposito Holdings, Inc., Edison, NJ | Lead Paint Roster"
-description: "Esposito Holdings, Inc.: Lead inspection / evaluation in Edison, NJ. Licence details, contact and quotes."
+description: "Esposito Holdings, Inc. in Edison, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/esposito-holdings-inc-nj0066/
 ---
 

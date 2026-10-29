@@ -1,6 +1,6 @@
 ---
-title: "Northern Home Services LLC, Constable, NY | Lead Paint Roster"
-description: "Northern Home Services LLC: Lead abatement in Constable, NY. Licence details, contact and quotes."
+title: "Northern Home Services LLC: Lead Abatement, Constable NY"
+description: "Northern Home Services LLC in Constable, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/northern-home-services-llc-ny1305/
 ---
 

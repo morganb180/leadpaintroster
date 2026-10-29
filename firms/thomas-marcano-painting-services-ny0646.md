@@ -1,5 +1,5 @@
 ---
-title: "Thomas Marcano Painting Services, New York, NY | Lead Paint Roster"
+title: "Thomas Marcano Painting Services, New York NY"
 description: "Thomas Marcano Painting Services: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/thomas-marcano-painting-services-ny0646/
 ---

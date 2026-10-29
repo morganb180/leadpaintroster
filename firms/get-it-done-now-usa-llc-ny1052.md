@@ -1,6 +1,6 @@
 ---
-title: "Get It Done Now USA LLC, South Richmond Hill, NY | Lead Paint Roster"
-description: "Get It Done Now USA LLC: Lead abatement in South Richmond Hill, NY. Licence details, contact and quotes."
+title: "Get It Done Now USA: Lead Abatement, South Richmond Hill NY"
+description: "Get It Done Now USA LLC in South Richmond Hill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/get-it-done-now-usa-llc-ny1052/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Moon Maintenance Plus, Brooklyn, NY | Lead Paint Roster"
-description: "Moon Maintenance Plus: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Moon Maintenance Plus in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/moon-maintenance-plus-ny1261/
 ---
 

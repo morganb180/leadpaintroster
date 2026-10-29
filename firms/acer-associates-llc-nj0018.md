@@ -1,6 +1,6 @@
 ---
 title: "Acer Associates, LLC, West Berlin, NJ | Lead Paint Roster"
-description: "Acer Associates, LLC: Lead inspection / evaluation in West Berlin, NJ. Licence details, contact and quotes."
+description: "Acer Associates, LLC in West Berlin, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/acer-associates-llc-nj0018/
 ---
 

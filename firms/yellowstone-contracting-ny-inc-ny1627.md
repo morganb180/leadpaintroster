@@ -1,6 +1,6 @@
 ---
-title: "Yellowstone Contracting NY Inc, Brooklyn, NY | Lead Paint Roster"
-description: "Yellowstone Contracting NY Inc: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Yellowstone Contracting NY Inc: Lead Abatement, Brooklyn NY"
+description: "Yellowstone Contracting NY Inc in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/yellowstone-contracting-ny-inc-ny1627/
 ---
 

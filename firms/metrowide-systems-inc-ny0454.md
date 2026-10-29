@@ -1,6 +1,6 @@
 ---
-title: "Metrowide Systems, Inc., Staten Island, NY | Lead Paint Roster"
-description: "Metrowide Systems, Inc.: Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
+title: "Metrowide Systems: Lead Paint Inspector, Staten Island NY"
+description: "Metrowide Systems, Inc. in Staten Island, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/metrowide-systems-inc-ny0454/
 ---
 

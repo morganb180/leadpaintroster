@@ -1,6 +1,6 @@
 ---
 title: "Anderson Shortell Inc., Olean, NY | Lead Paint Roster"
-description: "Anderson Shortell Inc.: Lead abatement in Olean, NY. Licence details, contact and quotes."
+description: "Anderson Shortell Inc. in Olean, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/anderson-shortell-inc-ny0783/
 ---
 

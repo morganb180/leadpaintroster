@@ -1,6 +1,6 @@
 ---
 title: "Ryder Home Inspections, LLC, Brick, NJ | Lead Paint Roster"
-description: "Ryder Home Inspections, LLC: Lead inspection / evaluation in Brick, NJ. Licence details, contact and quotes."
+description: "Ryder Home Inspections, LLC in Brick, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ryder-home-inspections-llc-nj0145/
 ---
 

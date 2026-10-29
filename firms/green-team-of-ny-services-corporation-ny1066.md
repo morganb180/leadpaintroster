@@ -1,6 +1,6 @@
 ---
-title: "Green Team of NY Services Corporation, Corona, NY | Lead Paint Roster"
-description: "Green Team of NY Services Corporation: Lead abatement in Corona, NY. Licence details, contact and quotes."
+title: "Green Team of NY Services: Lead Abatement, Corona NY"
+description: "Green Team of NY Services Corporation in Corona, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/green-team-of-ny-services-corporation-ny1066/
 ---
 

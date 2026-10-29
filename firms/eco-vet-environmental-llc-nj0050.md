@@ -1,6 +1,6 @@
 ---
-title: "Eco-Vet Environmental, LLC, East Orange, NJ | Lead Paint Roster"
-description: "Eco-Vet Environmental, LLC: Lead inspection / evaluation in East Orange, NJ. Licence details, contact and quotes."
+title: "Eco-Vet Environmental: Lead Paint Inspector, East Orange NJ"
+description: "Eco-Vet Environmental, LLC in East Orange, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/eco-vet-environmental-llc-nj0050/
 ---
 

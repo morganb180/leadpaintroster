@@ -1,6 +1,6 @@
 ---
-title: "Unlimited Construction, LLC., Schenectady, NY | Lead Paint Roster"
-description: "Unlimited Construction, LLC.: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
+title: "Unlimited Construction, LLC.: Lead Abatement, Schenectady NY"
+description: "Unlimited Construction, LLC. in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/unlimited-construction-llc-ny1581/
 ---
 

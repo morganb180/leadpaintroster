@@ -1,6 +1,6 @@
 ---
-title: "New York Environmental Systems, Inc., Brooklyn, NY | Lead Paint Roster"
-description: "New York Environmental Systems, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "New York Environmental Systems: Lead Abatement, Brooklyn NY"
+description: "New York Environmental Systems, Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/new-york-environmental-systems-inc-ny1294/
 ---
 

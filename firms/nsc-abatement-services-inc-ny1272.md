@@ -1,6 +1,6 @@
 ---
-title: "NSC Abatement Services, Inc., Mount Vernon, NY | Lead Paint Roster"
-description: "NSC Abatement Services, Inc.: Lead abatement in Mount Vernon, NY. Licence details, contact and quotes."
+title: "NSC Abatement Services: Lead Abatement, Mount Vernon NY"
+description: "NSC Abatement Services, Inc. in Mount Vernon, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/nsc-abatement-services-inc-ny1272/
 ---
 

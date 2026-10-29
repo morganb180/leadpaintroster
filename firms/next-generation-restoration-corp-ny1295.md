@@ -1,6 +1,6 @@
 ---
-title: "Next Generation Restoration Corp, Brooklyn, NY | Lead Paint Roster"
-description: "Next Generation Restoration Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Next Generation Restoration: Lead Abatement, Brooklyn NY"
+description: "Next Generation Restoration Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/next-generation-restoration-corp-ny1295/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "BJS Renovations, Inc, Bronx, NY | Lead Paint Roster"
-description: "BJS Renovations, Inc: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "BJS Renovations, Inc in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/bjs-renovations-inc-ny0814/
 ---
 

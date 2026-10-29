@@ -1,6 +1,6 @@
 ---
 title: "Moore-Howard LLC, Lockport, NY | Lead Paint Roster"
-description: "Moore-Howard LLC: Lead abatement in Lockport, NY. Licence details, contact and quotes."
+description: "Moore-Howard LLC in Lockport, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/moore-howard-llc-ny1262/
 ---
 

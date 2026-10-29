@@ -1,5 +1,5 @@
 ---
-title: "NYC Department of Housing Preservation And Development, New York, NY | Lead Paint Roster"
+title: "NYC Department of Housing Preservation And Development"
 description: "NYC Department of Housing Preservation And Development: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nyc-department-of-housing-preservation-and-development-ny0473/
 ---

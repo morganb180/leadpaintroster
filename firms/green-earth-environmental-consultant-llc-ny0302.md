@@ -1,5 +1,5 @@
 ---
-title: "Green Earth Environmental Consultant LLC, Jefferson Valley, NY | Lead Paint Roster"
+title: "Green Earth Environmental Consultant, Jefferson Valley NY"
 description: "Green Earth Environmental Consultant LLC: Lead inspection / evaluation in Jefferson Valley, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/green-earth-environmental-consultant-llc-ny0302/
 ---

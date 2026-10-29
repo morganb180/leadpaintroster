@@ -1,5 +1,5 @@
 ---
-title: "Marpro Construction Corp, East Elmhurst, NY | Lead Paint Roster"
+title: "Marpro Construction: Lead Paint Pro, East Elmhurst NY"
 description: "Marpro Construction Corp: Lead abatement, Lead inspection / evaluation in East Elmhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/marpro-construction-corp-ny0446/
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Sunstream Corporation, Binghamton, NY | Lead Paint Roster"
-description: "Sunstream Corporation: Lead abatement in Binghamton, NY. Licence details, contact and quotes."
+description: "Sunstream Corporation in Binghamton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sunstream-corporation-ny1521/
 ---
 

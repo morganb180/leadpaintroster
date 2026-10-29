@@ -1,6 +1,6 @@
 ---
 title: "C & C Unlimited, Inc., Albany, NY | Lead Paint Roster"
-description: "C & C Unlimited, Inc.: Lead abatement in Albany, NY. Licence details, contact and quotes."
+description: "C & C Unlimited, Inc. in Albany, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/c-c-unlimited-inc-ny0867/
 ---
 

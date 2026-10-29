@@ -1,6 +1,6 @@
 ---
-title: "Litehouse Builders, Inc, Port Washington, NY | Lead Paint Roster"
-description: "Litehouse Builders, Inc: Lead abatement in Port Washington, NY. Licence details, contact and quotes."
+title: "Litehouse Builders, Inc: Lead Abatement, Port Washington NY"
+description: "Litehouse Builders, Inc in Port Washington, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/litehouse-builders-inc-ny1183/
 ---
 

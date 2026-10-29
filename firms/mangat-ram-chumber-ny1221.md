@@ -1,6 +1,6 @@
 ---
 title: "Mangat Ram Chumber, Levittown, NY | Lead Paint Roster"
-description: "Mangat Ram Chumber: Lead abatement in Levittown, NY. Licence details, contact and quotes."
+description: "Mangat Ram Chumber in Levittown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/mangat-ram-chumber-ny1221/
 ---
 

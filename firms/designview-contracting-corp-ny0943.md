@@ -1,6 +1,6 @@
 ---
-title: "Designview Contracting Corp, New Rochelle, NY | Lead Paint Roster"
-description: "Designview Contracting Corp: Lead abatement in New Rochelle, NY. Licence details, contact and quotes."
+title: "Designview Contracting Corp: Lead Abatement, New Rochelle NY"
+description: "Designview Contracting Corp in New Rochelle, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/designview-contracting-corp-ny0943/
 ---
 

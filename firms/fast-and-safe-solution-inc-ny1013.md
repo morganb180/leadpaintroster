@@ -1,6 +1,6 @@
 ---
 title: "Fast and Safe Solution Inc, New York, NY | Lead Paint Roster"
-description: "Fast and Safe Solution Inc: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "Fast and Safe Solution Inc in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/fast-and-safe-solution-inc-ny1013/
 ---
 

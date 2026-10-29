@@ -1,6 +1,6 @@
 ---
 title: "Edwin Gaw, Weston, MA | Lead Paint Roster"
-description: "Edwin Gaw: Lead inspection / evaluation in Weston, MA. Licence details, contact and quotes."
+description: "Edwin Gaw in Weston, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/edwin-gaw-ma0054/
 ---
 

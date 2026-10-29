@@ -1,6 +1,6 @@
 ---
-title: "Ahern Painting Contractors, Port Washington, NY | Lead Paint Roster"
-description: "Ahern Painting Contractors: Lead abatement in Port Washington, NY. Licence details, contact and quotes."
+title: "Ahern Painting Contractors, Port Washington NY"
+description: "Ahern Painting Contractors in Port Washington, NY: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ahern-painting-contractors-nj0188/
 ---
 

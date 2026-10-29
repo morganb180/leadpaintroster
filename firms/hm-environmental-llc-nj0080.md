@@ -1,6 +1,6 @@
 ---
 title: "Hm Environmental, LLC, Glendora, NJ | Lead Paint Roster"
-description: "Hm Environmental, LLC: Lead inspection / evaluation in Glendora, NJ. Licence details, contact and quotes."
+description: "Hm Environmental, LLC in Glendora, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/hm-environmental-llc-nj0080/
 ---
 

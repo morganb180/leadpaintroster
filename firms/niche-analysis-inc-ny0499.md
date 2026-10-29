@@ -1,6 +1,6 @@
 ---
 title: "Niche Analysis, Inc., White Plains, NY | Lead Paint Roster"
-description: "Niche Analysis, Inc.: Lead inspection / evaluation in White Plains, NY. Licence details, contact and quotes."
+description: "Niche Analysis, Inc. in White Plains, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/niche-analysis-inc-ny0499/
 ---
 

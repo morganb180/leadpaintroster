@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Syracuse, NY: 21 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Syracuse, NY"
 description: "21 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Syracuse, New York, plus 17 more in Onondaga County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/syracuse/
 ---
@@ -8,13 +8,17 @@ canonical: https://leadpaintroster.com/ny/city/syracuse/
 
 # Certified lead paint inspectors & abatement firms in Syracuse, NY
 
+**Quick answer:** For landlords, owners, buyers and parents in Syracuse, NY: Lead Paint Roster lists 21 EPA-licensed lead paint listings with an address in Syracuse (7 lead inspection / evaluation, 16 lead abatement) and 17 more elsewhere in Onondaga County. Licensed pros often travel, so ask whether they cover your address. Check each licence with EPA before you hire, and read the [Syracuse hiring guide](https://leadpaintroster.com/ny/city/syracuse/guide/) for questions to ask and typical costs.
+
 21 EPA-licensed listings give an address in Syracuse (7 lead inspection / evaluation, 16 lead abatement), and 17 more are elsewhere in Onondaga County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Syracuse hiring guide →**](https://leadpaintroster.com/ny/city/syracuse/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Syracuse](https://leadpaintroster.com/get-quotes/?city=syracuse&st=ny)
 
-## Based in Syracuse
+## Which certified lead paint firms are based in Syracuse, NY?
+
+Lead Paint Roster lists 21 EPA-licensed listings with an address in Syracuse: 7 lead inspection & evaluation firms and 14 lead abatement contractors. Each listing appears once below, even if it holds both licences.
 
 ### Lead inspection & evaluation firms (7)
 
@@ -295,7 +299,9 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-38144-3 (exp. 2029-03-06)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1397)
 
-## Elsewhere in Onondaga County (17)
+## Which other certified lead paint firms are in Onondaga County? (17)
+
+17 more listings have an address elsewhere in Onondaga County. Licensed pros often travel, so ask whether they cover your address in Syracuse.
 
 [See all 38 Onondaga County listings →](https://leadpaintroster.com/ny/county/onondaga/)
 

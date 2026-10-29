@@ -1,6 +1,6 @@
 ---
-title: "AAA Lead, Asbestos & Mold, North Brunswick, NJ | Lead Paint Roster"
-description: "AAA Lead, Asbestos & Mold: Lead inspection / evaluation in North Brunswick, NJ. Licence details, contact and quotes."
+title: "AAA Lead, Asbestos & Mold, North Brunswick NJ"
+description: "AAA Lead, Asbestos & Mold in North Brunswick, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/aaa-lead-asbestos-mold-nj0010/
 ---
 

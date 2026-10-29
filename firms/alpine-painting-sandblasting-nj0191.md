@@ -1,6 +1,6 @@
 ---
-title: "Alpine Painting & Sandblasting, Paterson, NJ | Lead Paint Roster"
-description: "Alpine Painting & Sandblasting: Lead abatement in Paterson, NJ. Licence details, contact and quotes."
+title: "Alpine Painting & Sandblasting: Lead Abatement, Paterson NJ"
+description: "Alpine Painting & Sandblasting in Paterson, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/alpine-painting-sandblasting-nj0191/
 ---
 

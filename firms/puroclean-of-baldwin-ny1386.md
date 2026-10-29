@@ -1,6 +1,6 @@
 ---
 title: "PuroClean of Baldwin, Lynbrook, NY | Lead Paint Roster"
-description: "PuroClean of Baldwin: Lead abatement in Lynbrook, NY. Licence details, contact and quotes."
+description: "PuroClean of Baldwin in Lynbrook, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/puroclean-of-baldwin-ny1386/
 ---
 

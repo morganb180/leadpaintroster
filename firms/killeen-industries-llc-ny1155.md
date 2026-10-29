@@ -1,6 +1,6 @@
 ---
 title: "Killeen Industries LLC, Shoreham, NY | Lead Paint Roster"
-description: "Killeen Industries LLC: Lead abatement in Shoreham, NY. Licence details, contact and quotes."
+description: "Killeen Industries LLC in Shoreham, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/killeen-industries-llc-ny1155/
 ---
 

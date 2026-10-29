@@ -1,6 +1,6 @@
 ---
 title: "M & N Management Corp., New York, NY | Lead Paint Roster"
-description: "M & N Management Corp.: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "M & N Management Corp. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/m-n-management-corp-ny1193/
 ---
 

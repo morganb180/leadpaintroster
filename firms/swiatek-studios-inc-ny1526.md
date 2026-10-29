@@ -1,6 +1,6 @@
 ---
 title: "Swiatek Studios Inc., Clarence, NY | Lead Paint Roster"
-description: "Swiatek Studios Inc.: Lead abatement in Clarence, NY. Licence details, contact and quotes."
+description: "Swiatek Studios Inc. in Clarence, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/swiatek-studios-inc-ny1526/
 ---
 

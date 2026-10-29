@@ -1,6 +1,6 @@
 ---
-title: "Guardian Home Services, LLC, Cresskill, NJ | Lead Paint Roster"
-description: "Guardian Home Services, LLC: Lead inspection / evaluation in Cresskill, NJ. Licence details, contact and quotes."
+title: "Guardian Home Services: Lead Paint Inspector, Cresskill NJ"
+description: "Guardian Home Services, LLC in Cresskill, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/guardian-home-services-llc-nj0075/
 ---
 

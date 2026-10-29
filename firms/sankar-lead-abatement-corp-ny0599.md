@@ -1,5 +1,5 @@
 ---
-title: "Sankar Lead Abatement Corp, South Ozone Park, NY | Lead Paint Roster"
+title: "Sankar Lead Abatement: Lead Paint Pro, South Ozone Park NY"
 description: "Sankar Lead Abatement Corp: Lead abatement, Lead inspection / evaluation in South Ozone Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/sankar-lead-abatement-corp-ny0599/
 ---

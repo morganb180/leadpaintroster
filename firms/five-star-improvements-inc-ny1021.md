@@ -1,6 +1,6 @@
 ---
-title: "Five Star Improvements, Inc., Rochester, NY | Lead Paint Roster"
-description: "Five Star Improvements, Inc.: Lead abatement in Rochester, NY. Licence details, contact and quotes."
+title: "Five Star Improvements, Inc.: Lead Abatement, Rochester NY"
+description: "Five Star Improvements, Inc. in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/five-star-improvements-inc-ny1021/
 ---
 

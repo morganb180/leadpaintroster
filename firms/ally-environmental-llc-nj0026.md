@@ -1,6 +1,6 @@
 ---
-title: "Ally Environmental, LLC, Staten Island, NY | Lead Paint Roster"
-description: "Ally Environmental, LLC: Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
+title: "Ally Environmental: Lead Paint Inspector, Staten Island NY"
+description: "Ally Environmental, LLC in Staten Island, NY: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ally-environmental-llc-nj0026/
 ---
 

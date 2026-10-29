@@ -1,6 +1,6 @@
 ---
-title: "Excellent Interior Exterior Inc, Rochester, NY | Lead Paint Roster"
-description: "Excellent Interior Exterior Inc: Lead abatement in Rochester, NY. Licence details, contact and quotes."
+title: "Excellent Interior Exterior: Lead Abatement, Rochester NY"
+description: "Excellent Interior Exterior Inc in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/excellent-interior-exterior-inc-ny1005/
 ---
 

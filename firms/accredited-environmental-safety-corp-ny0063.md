@@ -1,5 +1,5 @@
 ---
-title: "Accredited Environmental Safety Corp., Maspeth, NY | Lead Paint Roster"
+title: "Accredited Environmental Safety: Lead Inspector, Maspeth NY"
 description: "Accredited Environmental Safety Corp.: Lead inspection / evaluation in Maspeth, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/accredited-environmental-safety-corp-ny0063/
 ---

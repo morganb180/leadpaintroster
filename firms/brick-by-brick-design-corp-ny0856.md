@@ -1,6 +1,6 @@
 ---
 title: "Brick By Brick Design Corp, Bronx, NY | Lead Paint Roster"
-description: "Brick By Brick Design Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Brick By Brick Design Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/brick-by-brick-design-corp-ny0856/
 ---
 

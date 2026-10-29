@@ -1,6 +1,6 @@
 ---
-title: "Gravesend Construction Corp., Brooklyn, NY | Lead Paint Roster"
-description: "Gravesend Construction Corp.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Gravesend Construction Corp.: Lead Abatement, Brooklyn NY"
+description: "Gravesend Construction Corp. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/gravesend-construction-corp-ny1063/
 ---
 

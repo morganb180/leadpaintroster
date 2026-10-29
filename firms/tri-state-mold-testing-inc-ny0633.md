@@ -1,6 +1,6 @@
 ---
 title: "Tri State Mold Testing Inc, Brooklyn, NY | Lead Paint Roster"
-description: "Tri State Mold Testing Inc: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "Tri State Mold Testing Inc in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/tri-state-mold-testing-inc-ny0633/
 ---
 

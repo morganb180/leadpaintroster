@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Morris County, NJ: 21 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Morris County, NJ"
 description: "21 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms in Morris County, New Jersey, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/nj/county/morris/
 ---
@@ -10,7 +10,9 @@ canonical: https://leadpaintroster.com/nj/county/morris/
 
 **21 NJ DCA-licensed listings** with an address of record in Morris County (15 lead inspection / evaluation, 7 lead abatement): 21 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=morris&st=nj)
 
-## Lead inspection & evaluation firms (15)
+## Where can I get a lead paint inspection in Morris County, NJ? (15)
+
+Lead Paint Roster lists 15 NJ DCA-licensed listings for lead inspection / evaluation with an address of record in Morris County.
 
 ✔ Certified by NJ DCA Lead inspection / evaluation
 
@@ -223,7 +225,9 @@ NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00756 
 Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NJ0138)
 
-## Lead abatement contractors (6)
+## Who does lead paint abatement in Morris County, NJ? (6)
+
+6 NJ DCA-licensed lead abatement listings have an address of record in Morris County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ Certified by NJ DCA Lead abatement
 
@@ -309,13 +313,13 @@ NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS)
 Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat_c.pdf), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NJ0250)
 
-## Neighboring counties
+## Which counties border Morris County, NJ?
 
 [Essex](https://leadpaintroster.com/nj/county/essex/) (24) · Hunterdon (0) · [Passaic](https://leadpaintroster.com/nj/county/passaic/) (12) · [Somerset](https://leadpaintroster.com/nj/county/somerset/) (6) · [Sussex](https://leadpaintroster.com/nj/county/sussex/) (3) · [Union](https://leadpaintroster.com/nj/county/union/) (20) · [Warren](https://leadpaintroster.com/nj/county/warren/) (5)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Morris County: quick guide
+## How do I hire a lead inspector in Morris County?
 
 1. Check the firm or person in the official list ([New Jersey Department of Community Affairs](https://www.nj.gov/dca/codes/offices/leadhazard_abatement.shtml)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

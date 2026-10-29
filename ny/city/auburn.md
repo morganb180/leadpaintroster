@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Auburn, NY: 4 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Auburn, NY"
 description: "4 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Auburn, New York, plus 0 more in Cayuga County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/auburn/
 ---
@@ -8,13 +8,17 @@ canonical: https://leadpaintroster.com/ny/city/auburn/
 
 # Certified lead paint inspectors & abatement firms in Auburn, NY
 
+**Quick answer:** For landlords, owners, buyers and parents in Auburn, NY: Lead Paint Roster lists 4 EPA-licensed lead paint listings with an address in Auburn (1 lead inspection / evaluation, 3 lead abatement) and 0 more elsewhere in Cayuga County. Licensed pros often travel, so ask whether they cover your address. Check each licence with EPA before you hire, and read the [Auburn hiring guide](https://leadpaintroster.com/ny/city/auburn/guide/) for questions to ask and typical costs.
+
 4 EPA-licensed listings give an address in Auburn (1 lead inspection / evaluation, 3 lead abatement), and 0 more are elsewhere in Cayuga County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Auburn hiring guide →**](https://leadpaintroster.com/ny/city/auburn/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Auburn](https://leadpaintroster.com/get-quotes/?city=auburn&st=ny)
 
-## Based in Auburn
+## Which certified lead paint firms are based in Auburn, NY?
+
+Lead Paint Roster lists 4 EPA-licensed listings with an address in Auburn: 1 lead inspection & evaluation firms and 3 lead abatement contractors. Each listing appears once below, even if it holds both licences.
 
 ### Lead inspection & evaluation firms (1)
 

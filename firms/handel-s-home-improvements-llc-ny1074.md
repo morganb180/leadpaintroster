@@ -1,6 +1,6 @@
 ---
-title: "Handel's Home Improvements LLC, Eastchester, NY | Lead Paint Roster"
-description: "Handel's Home Improvements LLC: Lead abatement in Eastchester, NY. Licence details, contact and quotes."
+title: "Handel's Home Improvements: Lead Abatement, Eastchester NY"
+description: "Handel's Home Improvements LLC in Eastchester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/handel-s-home-improvements-llc-ny1074/
 ---
 

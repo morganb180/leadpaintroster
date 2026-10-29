@@ -1,6 +1,6 @@
 ---
-title: "Neighborhood Environmental LLC, New York, NY | Lead Paint Roster"
-description: "Neighborhood Environmental LLC: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+title: "Neighborhood Environmental: Lead Inspector, New York NY"
+description: "Neighborhood Environmental LLC in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/neighborhood-environmental-llc-ny0488/
 ---
 

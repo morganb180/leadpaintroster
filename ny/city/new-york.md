@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in New York, NY: 121 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in New York, NY"
 description: "121 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in New York, New York, plus 6 more in New York County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/new-york/
 ---
@@ -8,13 +8,17 @@ canonical: https://leadpaintroster.com/ny/city/new-york/
 
 # Certified lead paint inspectors & abatement firms in New York, NY
 
+**Quick answer:** For landlords, owners, buyers and parents in New York, NY: Lead Paint Roster lists 121 EPA-licensed lead paint listings with an address in New York (68 lead inspection / evaluation, 98 lead abatement) and 6 more elsewhere in New York County. Licensed pros often travel, so ask whether they cover your address. Check each licence with EPA before you hire, and read the [New York hiring guide](https://leadpaintroster.com/ny/city/new-york/guide/) for questions to ask and typical costs.
+
 121 EPA-licensed listings give an address in New York (68 lead inspection / evaluation, 98 lead abatement), and 6 more are elsewhere in New York County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the New York hiring guide →**](https://leadpaintroster.com/ny/city/new-york/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in New York](https://leadpaintroster.com/get-quotes/?city=new-york&st=ny)
 
-## Based in New York
+## Which certified lead paint firms are based in New York, NY?
+
+Lead Paint Roster lists 121 EPA-licensed listings with an address in New York: 68 lead inspection & evaluation firms and 53 lead abatement contractors. Each listing appears once below, even if it holds both licences.
 
 ### Lead inspection & evaluation firms (68)
 
@@ -1642,11 +1646,13 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Show all 53 listings
 
-## Elsewhere in New York County (6)
+## Which other certified lead paint firms are in New York County? (6)
+
+6 more listings have an address elsewhere in New York County. Licensed pros often travel, so ask whether they cover your address in New York.
 
 [See all 127 New York County listings →](https://leadpaintroster.com/ny/county/new-york/)
 
-## More cities in New York County
+## Which other New York County cities have lead paint pages?
 
 [New York City](https://leadpaintroster.com/ny/city/new-york-city/)
 

@@ -1,6 +1,6 @@
 ---
-title: "Pegasus consulting international Corp DBA Pegasus Consulting Group, New York, NY | Lead Paint Roster"
-description: "Pegasus consulting international Corp DBA Pegasus Consulting Group: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+title: "Pegasus consulting international Corp DBA Pegasus"
+description: "Pegasus consulting international Corp DBA Pegasus Consulting Group, New York, NY: lead inspection and lead abatement. Licence details and contact."
 canonical: https://leadpaintroster.com/firms/pegasus-consulting-international-corp-dba-pegasus-consulting-ny0001/
 ---
 

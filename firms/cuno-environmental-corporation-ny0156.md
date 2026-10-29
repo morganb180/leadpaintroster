@@ -1,6 +1,6 @@
 ---
-title: "Cuno Environmental Corporation, Mount Vernon, NY | Lead Paint Roster"
-description: "Cuno Environmental Corporation: Lead inspection / evaluation in Mount Vernon, NY. Licence details, contact and quotes."
+title: "Cuno Environmental: Lead Paint Inspector, Mount Vernon NY"
+description: "Cuno Environmental Corporation in Mount Vernon, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/cuno-environmental-corporation-ny0156/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Beaverdam Builders LLC, Roxbury, NY | Lead Paint Roster"
-description: "Beaverdam Builders LLC: Lead abatement in Roxbury, NY. Licence details, contact and quotes."
+description: "Beaverdam Builders LLC in Roxbury, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/beaverdam-builders-llc-ny0821/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "ELI NYC Inc., New York, NY | Lead Paint Roster"
-description: "ELI NYC Inc.: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+description: "ELI NYC Inc. in New York, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/eli-nyc-inc-ny0213/
 ---
 

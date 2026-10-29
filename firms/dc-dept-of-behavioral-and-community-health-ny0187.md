@@ -1,5 +1,5 @@
 ---
-title: "DC Dept. of Behavioral and Community Health, Poughkeepsie, NY | Lead Paint Roster"
+title: "DC Dept. of Behavioral and Community Health, Poughkeepsie NY"
 description: "DC Dept. of Behavioral and Community Health: Lead inspection / evaluation in Poughkeepsie, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dc-dept-of-behavioral-and-community-health-ny0187/
 ---

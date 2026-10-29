@@ -1,6 +1,6 @@
 ---
 title: "Supreme Environmental Inc., Monroe, NY | Lead Paint Roster"
-description: "Supreme Environmental Inc.: Lead inspection / evaluation in Monroe, NY. Licence details, contact and quotes."
+description: "Supreme Environmental Inc. in Monroe, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/supreme-environmental-inc-ny0621/
 ---
 

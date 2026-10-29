@@ -1,6 +1,6 @@
 ---
 title: "Alpha Labs LLC, Long Island City, NY | Lead Paint Roster"
-description: "Alpha Labs LLC: Lead inspection / evaluation in Long Island City, NY. Licence details, contact and quotes."
+description: "Alpha Labs LLC in Long Island City, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/alpha-labs-llc-ny0083/
 ---
 

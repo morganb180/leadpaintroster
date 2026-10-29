@@ -1,6 +1,6 @@
 ---
 title: "Vision 21 Inc., Brookyln, NY | Lead Paint Roster"
-description: "Vision 21 Inc.: Lead abatement, Lead inspection / evaluation in Brookyln, NY. Licence details, contact and quotes."
+description: "Vision 21 Inc. in Brookyln, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/vision-21-inc-ny0670/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Macia Inspection and Testing Lab, Great Neck, NY | Lead Paint Roster"
+title: "Macia Inspection and Testing Lab, Great Neck NY"
 description: "Macia Inspection and Testing Lab: Lead abatement, Lead inspection / evaluation in Great Neck, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/macia-inspection-and-testing-lab-ny0438/
 ---

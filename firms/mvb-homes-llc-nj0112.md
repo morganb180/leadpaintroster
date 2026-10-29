@@ -1,6 +1,6 @@
 ---
 title: "Mvb Homes, LLC, Somerset, NJ | Lead Paint Roster"
-description: "Mvb Homes, LLC: Lead inspection / evaluation in Somerset, NJ. Licence details, contact and quotes."
+description: "Mvb Homes, LLC in Somerset, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/mvb-homes-llc-nj0112/
 ---
 

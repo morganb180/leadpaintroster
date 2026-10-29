@@ -1,5 +1,5 @@
 ---
-title: "GCC General Contractors Inc., Brooklyn, NY | Lead Paint Roster"
+title: "GCC General Contractors: Lead Paint Pro, Brooklyn NY"
 description: "GCC General Contractors Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/gcc-general-contractors-inc-ny0280/
 ---

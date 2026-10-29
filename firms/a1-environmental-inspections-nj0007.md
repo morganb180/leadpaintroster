@@ -1,6 +1,6 @@
 ---
-title: "A1 Environmental Inspections, Little Falls, NJ | Lead Paint Roster"
-description: "A1 Environmental Inspections: Lead inspection / evaluation in Little Falls, NJ. Licence details, contact and quotes."
+title: "A1 Environmental Inspections, Little Falls NJ"
+description: "A1 Environmental Inspections in Little Falls, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/a1-environmental-inspections-nj0007/
 ---
 

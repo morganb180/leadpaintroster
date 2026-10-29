@@ -1,6 +1,6 @@
 ---
 title: "Higor Maia, Beverly, MA | Lead Paint Roster"
-description: "Higor Maia: Lead inspection / evaluation in Beverly, MA. Licence details, contact and quotes."
+description: "Higor Maia in Beverly, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/higor-maia-ma0006/
 ---
 

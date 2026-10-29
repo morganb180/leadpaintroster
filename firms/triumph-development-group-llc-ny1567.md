@@ -1,6 +1,6 @@
 ---
 title: "Triumph Development Group LLC, Bronx, NY | Lead Paint Roster"
-description: "Triumph Development Group LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Triumph Development Group LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/triumph-development-group-llc-ny1567/
 ---
 

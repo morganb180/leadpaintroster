@@ -1,6 +1,6 @@
 ---
-title: "Creative Touch Construction, Corp., Brooklyn, NY | Lead Paint Roster"
-description: "Creative Touch Construction, Corp.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Creative Touch Construction: Lead Abatement, Brooklyn NY"
+description: "Creative Touch Construction, Corp. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/creative-touch-construction-corp-ny0910/
 ---
 

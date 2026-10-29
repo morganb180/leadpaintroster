@@ -1,6 +1,6 @@
 ---
 title: "Sc Services, LLC, Basking Ridge, NJ | Lead Paint Roster"
-description: "Sc Services, LLC: Lead inspection / evaluation in Basking Ridge, NJ. Licence details, contact and quotes."
+description: "Sc Services, LLC in Basking Ridge, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sc-services-llc-nj0151/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Leadguys NJ, Newton, NJ | Lead Paint Roster"
-description: "Leadguys NJ: Lead inspection / evaluation in Newton, NJ. Licence details, contact and quotes."
+description: "Leadguys NJ in Newton, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/leadguys-nj-nj0098/
 ---
 

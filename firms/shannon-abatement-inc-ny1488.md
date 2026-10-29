@@ -1,6 +1,6 @@
 ---
 title: "Shannon Abatement, Inc., Stony Point, NY | Lead Paint Roster"
-description: "Shannon Abatement, Inc.: Lead abatement in Stony Point, NY. Licence details, contact and quotes."
+description: "Shannon Abatement, Inc. in Stony Point, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/shannon-abatement-inc-ny1488/
 ---
 

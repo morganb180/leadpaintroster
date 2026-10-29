@@ -1,6 +1,6 @@
 ---
 title: "Premier Construction Inc, Hollis, NY | Lead Paint Roster"
-description: "Premier Construction Inc: Lead abatement in Hollis, NY. Licence details, contact and quotes."
+description: "Premier Construction Inc in Hollis, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/premier-construction-inc-ny1362/
 ---
 

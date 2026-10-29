@@ -1,6 +1,6 @@
 ---
 title: "Qualamar Corporation, New Windsor, NY | Lead Paint Roster"
-description: "Qualamar Corporation: Lead abatement in New Windsor, NY. Licence details, contact and quotes."
+description: "Qualamar Corporation in New Windsor, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/qualamar-corporation-ny1390/
 ---
 

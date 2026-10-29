@@ -1,6 +1,6 @@
 ---
 title: "B&n&k Restoration Co., Inc., Clifton, NJ | Lead Paint Roster"
-description: "B&n&k Restoration Co., Inc.: Lead abatement in Clifton, NJ. Licence details, contact and quotes."
+description: "B&n&k Restoration Co., Inc. in Clifton, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/b-n-k-restoration-co-inc-nj0198/
 ---
 

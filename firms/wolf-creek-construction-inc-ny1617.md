@@ -1,6 +1,6 @@
 ---
-title: "Wolf Creek Construction, Inc., Schaghticoke, NY | Lead Paint Roster"
-description: "Wolf Creek Construction, Inc.: Lead abatement in Schaghticoke, NY. Licence details, contact and quotes."
+title: "Wolf Creek Construction: Lead Abatement, Schaghticoke NY"
+description: "Wolf Creek Construction, Inc. in Schaghticoke, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/wolf-creek-construction-inc-ny1617/
 ---
 

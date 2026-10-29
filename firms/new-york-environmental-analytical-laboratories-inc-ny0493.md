@@ -1,5 +1,5 @@
 ---
-title: "New York Environmental & Analytical Laboratories, Inc., Port Washington, NY | Lead Paint Roster"
+title: "New York Environmental & Analytical Laboratories"
 description: "New York Environmental & Analytical Laboratories, Inc.: Lead inspection / evaluation in Port Washington, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/new-york-environmental-analytical-laboratories-inc-ny0493/
 ---

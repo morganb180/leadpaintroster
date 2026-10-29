@@ -1,6 +1,6 @@
 ---
 title: "In The Lead Lead Testing, Walworth, NY | Lead Paint Roster"
-description: "In The Lead Lead Testing: Lead inspection / evaluation in Walworth, NY. Licence details, contact and quotes."
+description: "In The Lead Lead Testing in Walworth, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/in-the-lead-lead-testing-ny0333/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "NNP Services Inc., Elmont, NY | Lead Paint Roster"
-description: "NNP Services Inc.: Lead abatement in Elmont, NY. Licence details, contact and quotes."
+description: "NNP Services Inc. in Elmont, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/nnp-services-inc-ny1269/
 ---
 

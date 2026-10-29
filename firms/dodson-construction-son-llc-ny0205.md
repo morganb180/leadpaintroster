@@ -1,5 +1,5 @@
 ---
-title: "Dodson Construction & Son LLC, Canajoharie, NY | Lead Paint Roster"
+title: "Dodson Construction & Son: Lead Paint Pro, Canajoharie NY"
 description: "Dodson Construction & Son LLC: Lead abatement, Lead inspection / evaluation in Canajoharie, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/dodson-construction-son-llc-ny0205/
 ---

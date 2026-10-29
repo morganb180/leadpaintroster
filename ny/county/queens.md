@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Queens County, NY: 324 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Queens County, NY"
 description: "324 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Queens County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/queens/
 ---
@@ -12,7 +12,9 @@ canonical: https://leadpaintroster.com/ny/county/queens/
 
 City pages: [Astoria](https://leadpaintroster.com/ny/city/astoria/) · [Bayside](https://leadpaintroster.com/ny/city/bayside/) · [Bellerose](https://leadpaintroster.com/ny/city/bellerose/) · [College Point](https://leadpaintroster.com/ny/city/college-point/) · [Corona](https://leadpaintroster.com/ny/city/corona/) · [East Elmhurst](https://leadpaintroster.com/ny/city/east-elmhurst/) · [Elmhurst](https://leadpaintroster.com/ny/city/elmhurst/) · [Flushing](https://leadpaintroster.com/ny/city/flushing/) · [Forest Hills](https://leadpaintroster.com/ny/city/forest-hills/) · [Glendale](https://leadpaintroster.com/ny/city/glendale/) · [Howard Beach](https://leadpaintroster.com/ny/city/howard-beach/) · [Jackson Heights](https://leadpaintroster.com/ny/city/jackson-heights/) · [Jamaica](https://leadpaintroster.com/ny/city/jamaica/) · [Little Neck](https://leadpaintroster.com/ny/city/little-neck/) · [Long Island City](https://leadpaintroster.com/ny/city/long-island-city/) · [Maspeth](https://leadpaintroster.com/ny/city/maspeth/) · [Middle Village](https://leadpaintroster.com/ny/city/middle-village/) · [Ozone Park](https://leadpaintroster.com/ny/city/ozone-park/) · [Queens](https://leadpaintroster.com/ny/city/queens/) · [Queens Village](https://leadpaintroster.com/ny/city/queens-village/) · [Rego Park](https://leadpaintroster.com/ny/city/rego-park/) · [Richmond Hill](https://leadpaintroster.com/ny/city/richmond-hill/) · [Ridgewood](https://leadpaintroster.com/ny/city/ridgewood/) · [South Ozone Park](https://leadpaintroster.com/ny/city/south-ozone-park/) · [South Richmond Hill](https://leadpaintroster.com/ny/city/south-richmond-hill/) · [Whitestone](https://leadpaintroster.com/ny/city/whitestone/) · [Woodside](https://leadpaintroster.com/ny/city/woodside/)
 
-## Lead inspection & evaluation firms (132)
+## Where can I get a lead paint inspection in Queens County, NY? (132)
+
+Lead Paint Roster lists 132 EPA-licensed listings for lead inspection / evaluation with an address of record in Queens County.
 
 ✔ EPA-certified firm Lead inspection / evaluation
 
@@ -1823,7 +1825,9 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Show all 132 listings
 
-## Lead abatement contractors (192)
+## Who does lead paint abatement in Queens County, NY? (192)
+
+192 EPA-licensed lead abatement listings have an address of record in Queens County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -4323,13 +4327,13 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Show all 192 listings
 
-## Neighboring counties
+## Which counties border Queens County, NY?
 
 [Bronx](https://leadpaintroster.com/ny/county/bronx/) (118) · [Kings](https://leadpaintroster.com/ny/county/kings/) (254) · [Nassau](https://leadpaintroster.com/ny/county/nassau/) (150) · [New York](https://leadpaintroster.com/ny/county/new-york/) (120) · [Richmond](https://leadpaintroster.com/ny/county/richmond/) (72)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Queens County: quick guide
+## How do I hire a lead inspector in Queens County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

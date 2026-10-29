@@ -1,6 +1,6 @@
 ---
-title: "Onondaga County Health Department, Syracuse, NY | Lead Paint Roster"
-description: "Onondaga County Health Department: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
+title: "Onondaga County Health Department, Syracuse NY"
+description: "Onondaga County Health Department in Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/onondaga-county-health-department-ny1316/
 ---
 

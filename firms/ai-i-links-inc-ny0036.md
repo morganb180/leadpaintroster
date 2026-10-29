@@ -1,6 +1,6 @@
 ---
 title: "AI & I Links Inc., Jamaica, NY | Lead Paint Roster"
-description: "AI & I Links Inc.: Lead abatement, Lead inspection / evaluation in Jamaica, NY. Licence details, contact and quotes."
+description: "AI & I Links Inc. in Jamaica, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ai-i-links-inc-ny0036/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Bgi Resources Intl. Corp., Cherry Hill, NJ | Lead Paint Roster"
-description: "Bgi Resources Intl. Corp.: Lead inspection / evaluation in Cherry Hill, NJ. Licence details, contact and quotes."
+title: "Bgi Resources Intl.: Lead Paint Inspector, Cherry Hill NJ"
+description: "Bgi Resources Intl. Corp. in Cherry Hill, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/bgi-resources-intl-corp-nj0035/
 ---
 

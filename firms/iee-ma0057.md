@@ -1,6 +1,6 @@
 ---
 title: "IEE, Wilmington, MA | Lead Paint Roster"
-description: "IEE: Lead inspection / evaluation, Lead risk assessment in Wilmington, MA. Licence details, contact and quotes."
+description: "IEE in Wilmington, MA: Massachusetts DLS licensed for lead inspection and risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/iee-ma0057/
 ---
 

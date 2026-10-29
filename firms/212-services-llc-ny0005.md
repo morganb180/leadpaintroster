@@ -1,6 +1,6 @@
 ---
 title: "212 Services LLC, Elmont, NY | Lead Paint Roster"
-description: "212 Services LLC: Lead abatement, Lead inspection / evaluation in Elmont, NY. Licence details, contact and quotes."
+description: "212 Services LLC in Elmont, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/212-services-llc-ny0005/
 ---
 

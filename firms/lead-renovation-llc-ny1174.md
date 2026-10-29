@@ -1,6 +1,6 @@
 ---
 title: "Lead Renovation LLC, Staten Island, NY | Lead Paint Roster"
-description: "Lead Renovation LLC: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+description: "Lead Renovation LLC in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lead-renovation-llc-ny1174/
 ---
 

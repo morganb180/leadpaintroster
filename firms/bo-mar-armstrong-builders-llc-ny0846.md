@@ -1,6 +1,6 @@
 ---
-title: "Bo-Mar & Armstrong Builders LLC, New Hartford, NY | Lead Paint Roster"
-description: "Bo-Mar & Armstrong Builders LLC: Lead abatement in New Hartford, NY. Licence details, contact and quotes."
+title: "Bo-Mar & Armstrong Builders: Lead Abatement, New Hartford NY"
+description: "Bo-Mar & Armstrong Builders LLC in New Hartford, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/bo-mar-armstrong-builders-llc-ny0846/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Anthony Striano, Yorktown Heights, NY | Lead Paint Roster"
-description: "Anthony Striano: Lead abatement in Yorktown Heights, NY. Licence details, contact and quotes."
+description: "Anthony Striano in Yorktown Heights, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/anthony-striano-ny0787/
 ---
 

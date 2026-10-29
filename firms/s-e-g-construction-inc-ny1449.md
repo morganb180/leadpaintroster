@@ -1,6 +1,6 @@
 ---
-title: "S.E.G. Construction Inc., Cheektowaga, NY | Lead Paint Roster"
-description: "S.E.G. Construction Inc.: Lead abatement in Cheektowaga, NY. Licence details, contact and quotes."
+title: "S.E.G. Construction Inc.: Lead Abatement, Cheektowaga NY"
+description: "S.E.G. Construction Inc. in Cheektowaga, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/s-e-g-construction-inc-ny1449/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Long Island City, NY: 31 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Long Island City, NY"
 description: "31 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Long Island City, New York, plus 293 more in Queens County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/long-island-city/
 ---
@@ -8,13 +8,17 @@ canonical: https://leadpaintroster.com/ny/city/long-island-city/
 
 # Certified lead paint inspectors & abatement firms in Long Island City, NY
 
+**Quick answer:** For landlords, owners, buyers and parents in Long Island City, NY: Lead Paint Roster lists 31 EPA-licensed lead paint listings with an address in Long Island City (12 lead inspection / evaluation, 28 lead abatement) and 293 more elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address. Check each licence with EPA before you hire, and read the [Long Island City hiring guide](https://leadpaintroster.com/ny/city/long-island-city/guide/) for questions to ask and typical costs.
+
 31 EPA-licensed listings give an address in Long Island City (12 lead inspection / evaluation, 28 lead abatement), and 293 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Long Island City hiring guide →**](https://leadpaintroster.com/ny/city/long-island-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Long Island City](https://leadpaintroster.com/get-quotes/?city=long-island-city&st=ny)
 
-## Based in Long Island City
+## Which certified lead paint firms are based in Long Island City, NY?
+
+Lead Paint Roster lists 31 EPA-licensed listings with an address in Long Island City: 12 lead inspection & evaluation firms and 19 lead abatement contractors. Each listing appears once below, even if it holds both licences.
 
 ### Lead inspection & evaluation firms (12)
 
@@ -432,11 +436,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F271895-1 (exp. 2027-10-10)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1538)
 
-## Elsewhere in Queens County (293)
+## Which other certified lead paint firms are in Queens County? (293)
+
+293 more listings have an address elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address in Long Island City.
 
 [See all 324 Queens County listings →](https://leadpaintroster.com/ny/county/queens/)
 
-## More cities in Queens County
+## Which other Queens County cities have lead paint pages?
 
 [Astoria](https://leadpaintroster.com/ny/city/astoria/) · [Flushing](https://leadpaintroster.com/ny/city/flushing/) · [Jamaica](https://leadpaintroster.com/ny/city/jamaica/) · [Maspeth](https://leadpaintroster.com/ny/city/maspeth/) · [Queens](https://leadpaintroster.com/ny/city/queens/) · [East Elmhurst](https://leadpaintroster.com/ny/city/east-elmhurst/)
 

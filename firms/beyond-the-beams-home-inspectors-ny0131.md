@@ -1,6 +1,6 @@
 ---
-title: "Beyond The Beams Home Inspectors, Bayside, NY | Lead Paint Roster"
-description: "Beyond The Beams Home Inspectors: Lead inspection / evaluation in Bayside, NY. Licence details, contact and quotes."
+title: "Beyond The Beams Home Inspectors: Lead Inspector, Bayside NY"
+description: "Beyond The Beams Home Inspectors in Bayside, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/beyond-the-beams-home-inspectors-ny0131/
 ---
 

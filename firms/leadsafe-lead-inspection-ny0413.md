@@ -1,6 +1,6 @@
 ---
-title: "Leadsafe Lead Inspection, Spring Valley, NY | Lead Paint Roster"
-description: "Leadsafe Lead Inspection: Lead inspection / evaluation in Spring Valley, NY. Licence details, contact and quotes."
+title: "Leadsafe Lead Inspection: Lead Inspector, Spring Valley NY"
+description: "Leadsafe Lead Inspection in Spring Valley, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/leadsafe-lead-inspection-ny0413/
 ---
 

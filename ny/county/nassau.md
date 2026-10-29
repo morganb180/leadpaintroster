@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Nassau County, NY: 150 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Nassau County, NY"
 description: "150 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Nassau County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/nassau/
 ---
@@ -12,7 +12,9 @@ canonical: https://leadpaintroster.com/ny/county/nassau/
 
 City pages: [Cedarhurst](https://leadpaintroster.com/ny/city/cedarhurst/) · [Elmont](https://leadpaintroster.com/ny/city/elmont/) · [Farmingdale](https://leadpaintroster.com/ny/city/farmingdale/) · [Floral Park](https://leadpaintroster.com/ny/city/floral-park/) · [Great Neck](https://leadpaintroster.com/ny/city/great-neck/) · [Hempstead](https://leadpaintroster.com/ny/city/hempstead/) · [Hicksville](https://leadpaintroster.com/ny/city/hicksville/) · [Levittown](https://leadpaintroster.com/ny/city/levittown/) · [New Hyde Park](https://leadpaintroster.com/ny/city/new-hyde-park/) · [Plainview](https://leadpaintroster.com/ny/city/plainview/) · [Port Washington](https://leadpaintroster.com/ny/city/port-washington/) · [Roslyn Heights](https://leadpaintroster.com/ny/city/roslyn-heights/) · [Valley Stream](https://leadpaintroster.com/ny/city/valley-stream/) · [West Hempstead](https://leadpaintroster.com/ny/city/west-hempstead/) · [Westbury](https://leadpaintroster.com/ny/city/westbury/) · [Woodmere](https://leadpaintroster.com/ny/city/woodmere/)
 
-## Lead inspection & evaluation firms (82)
+## Where can I get a lead paint inspection in Nassau County, NY? (82)
+
+Lead Paint Roster lists 82 EPA-licensed listings for lead inspection / evaluation with an address of record in Nassau County.
 
 ✔ EPA-certified firm Lead abatementLead inspection / evaluation
 
@@ -1137,7 +1139,9 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Show all 82 listings
 
-## Lead abatement contractors (68)
+## Who does lead paint abatement in Nassau County, NY? (68)
+
+68 EPA-licensed lead abatement listings have an address of record in Nassau County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -2025,13 +2029,13 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Show all 68 listings
 
-## Neighboring counties
+## Which counties border Nassau County, NY?
 
 [Bronx](https://leadpaintroster.com/ny/county/bronx/) (118) · [Queens](https://leadpaintroster.com/ny/county/queens/) (324) · [Suffolk](https://leadpaintroster.com/ny/county/suffolk/) (66) · [Westchester](https://leadpaintroster.com/ny/county/westchester/) (123)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Nassau County: quick guide
+## How do I hire a lead inspector in Nassau County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

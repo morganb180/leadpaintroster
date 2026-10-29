@@ -1,6 +1,6 @@
 ---
-title: "DeGraw's One Call Construction LLC, Pond Eddy, NY | Lead Paint Roster"
-description: "DeGraw's One Call Construction LLC: Lead abatement in Pond Eddy, NY. Licence details, contact and quotes."
+title: "DeGraw's One Call Construction: Lead Abatement, Pond Eddy NY"
+description: "DeGraw's One Call Construction LLC in Pond Eddy, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/degraw-s-one-call-construction-llc-ny0934/
 ---
 

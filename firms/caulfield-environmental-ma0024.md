@@ -1,6 +1,6 @@
 ---
 title: "Caulfield Environmental, Leominster, MA | Lead Paint Roster"
-description: "Caulfield Environmental: Lead risk assessment in Leominster, MA. Licence details, contact and quotes."
+description: "Caulfield Environmental in Leominster, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/caulfield-environmental-ma0024/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Richmond County, NY: 72 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Richmond County, NY"
 description: "72 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Richmond County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/richmond/
 ---
@@ -12,7 +12,9 @@ canonical: https://leadpaintroster.com/ny/county/richmond/
 
 City pages: [Staten Island](https://leadpaintroster.com/ny/city/staten-island/)
 
-## Lead inspection & evaluation firms (31)
+## Where can I get a lead paint inspection in Richmond County, NY? (31)
+
+Lead Paint Roster lists 31 EPA-licensed listings for lead inspection / evaluation with an address of record in Richmond County.
 
 ✔ EPA-certified firm Lead inspection / evaluation
 
@@ -440,7 +442,9 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Show all 31 listings
 
-## Lead abatement contractors (41)
+## Who does lead paint abatement in Richmond County, NY? (41)
+
+41 EPA-licensed lead abatement listings have an address of record in Richmond County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -977,13 +981,13 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Show all 41 listings
 
-## Neighboring counties
+## Which counties border Richmond County, NY?
 
 [Kings](https://leadpaintroster.com/ny/county/kings/) (254) · [Queens](https://leadpaintroster.com/ny/county/queens/) (324)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Richmond County: quick guide
+## How do I hire a lead inspector in Richmond County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

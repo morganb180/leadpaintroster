@@ -1,6 +1,6 @@
 ---
-title: "Safe Nest Environmental LLC, Jackson Hts, NY | Lead Paint Roster"
-description: "Safe Nest Environmental LLC: Lead abatement in Jackson Hts, NY. Licence details, contact and quotes."
+title: "Safe Nest Environmental LLC: Lead Abatement, Jackson Hts NY"
+description: "Safe Nest Environmental LLC in Jackson Hts, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/safe-nest-environmental-llc-ny1467/
 ---
 

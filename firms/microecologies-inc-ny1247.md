@@ -1,6 +1,6 @@
 ---
 title: "Microecologies, Inc., Marlboro, NY | Lead Paint Roster"
-description: "Microecologies, Inc.: Lead abatement in Marlboro, NY. Licence details, contact and quotes."
+description: "Microecologies, Inc. in Marlboro, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/microecologies-inc-ny1247/
 ---
 

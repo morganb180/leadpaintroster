@@ -1,6 +1,6 @@
 ---
-title: "Chemung County Health Department, Elmira, NY | Lead Paint Roster"
-description: "Chemung County Health Department: Lead abatement in Elmira, NY. Licence details, contact and quotes."
+title: "Chemung County Health Department: Lead Abatement, Elmira NY"
+description: "Chemung County Health Department in Elmira, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/chemung-county-health-department-ny0874/
 ---
 

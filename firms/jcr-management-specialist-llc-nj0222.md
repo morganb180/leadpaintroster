@@ -1,6 +1,6 @@
 ---
-title: "Jcr Management Specialist, LLC, Neptune, NJ | Lead Paint Roster"
-description: "Jcr Management Specialist, LLC: Lead abatement in Neptune, NJ. Licence details, contact and quotes."
+title: "Jcr Management Specialist, LLC: Lead Abatement, Neptune NJ"
+description: "Jcr Management Specialist, LLC in Neptune, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/jcr-management-specialist-llc-nj0222/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Senatach Contracting, LLC, Newark, NJ | Lead Paint Roster"
-description: "Senatach Contracting, LLC: Lead abatement in Newark, NJ. Licence details, contact and quotes."
+description: "Senatach Contracting, LLC in Newark, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/senatach-contracting-llc-nj0242/
 ---
 

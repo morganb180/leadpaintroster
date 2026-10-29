@@ -1,6 +1,6 @@
 ---
-title: "Do it right or don't do it Corp, Central Islip, NY | Lead Paint Roster"
-description: "Do it right or don't do it Corp: Lead abatement in Central Islip, NY. Licence details, contact and quotes."
+title: "Do it right or don't do it: Lead Abatement, Central Islip NY"
+description: "Do it right or don't do it Corp in Central Islip, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/do-it-right-or-don-t-do-it-corp-ny0948/
 ---
 

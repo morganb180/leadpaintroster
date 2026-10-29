@@ -1,6 +1,6 @@
 ---
-title: "Clearview Lead Inspections,llc, Lakewood, NJ | Lead Paint Roster"
-description: "Clearview Lead Inspections,llc: Lead inspection / evaluation in Lakewood, NJ. Licence details, contact and quotes."
+title: "Clearview Lead Inspections,llc: Lead Inspector, Lakewood NJ"
+description: "Clearview Lead Inspections,llc in Lakewood, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/clearview-lead-inspections-llc-nj0039/
 ---
 

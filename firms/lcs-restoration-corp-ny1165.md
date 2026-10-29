@@ -1,6 +1,6 @@
 ---
-title: "LCS Restoration Corp., Long Island City, NY | Lead Paint Roster"
-description: "LCS Restoration Corp.: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
+title: "LCS Restoration Corp.: Lead Abatement, Long Island City NY"
+description: "LCS Restoration Corp. in Long Island City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/lcs-restoration-corp-ny1165/
 ---
 

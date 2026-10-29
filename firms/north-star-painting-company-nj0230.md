@@ -1,6 +1,6 @@
 ---
-title: "North Star Painting Company, Youngstown, OH | Lead Paint Roster"
-description: "North Star Painting Company: Lead abatement in Youngstown, OH. Licence details, contact and quotes."
+title: "North Star Painting Company: Lead Abatement, Youngstown OH"
+description: "North Star Painting Company in Youngstown, OH: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/north-star-painting-company-nj0230/
 ---
 

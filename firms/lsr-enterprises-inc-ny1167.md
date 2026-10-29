@@ -1,6 +1,6 @@
 ---
 title: "LSR Enterprises Inc., Middletown, NY | Lead Paint Roster"
-description: "LSR Enterprises Inc.: Lead abatement in Middletown, NY. Licence details, contact and quotes."
+description: "LSR Enterprises Inc. in Middletown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lsr-enterprises-inc-ny1167/
 ---
 

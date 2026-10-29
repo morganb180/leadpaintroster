@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Ortiz, Rochester, NY | Lead Paint Roster"
-description: "Benjamin Ortiz: Lead abatement in Rochester, NY. Licence details, contact and quotes."
+description: "Benjamin Ortiz in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/benjamin-ortiz-ny0824/
 ---
 

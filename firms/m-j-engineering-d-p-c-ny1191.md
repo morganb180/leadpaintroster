@@ -1,6 +1,6 @@
 ---
-title: "M & J Engineering, D.P.C., New Hyde Park, NY | Lead Paint Roster"
-description: "M & J Engineering, D.P.C.: Lead abatement in New Hyde Park, NY. Licence details, contact and quotes."
+title: "M & J Engineering, D.P.C.: Lead Abatement, New Hyde Park NY"
+description: "M & J Engineering, D.P.C. in New Hyde Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/m-j-engineering-d-p-c-ny1191/
 ---
 

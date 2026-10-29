@@ -1,5 +1,5 @@
 ---
-title: "Keystone Material Testing LLC, Binghamton, NY | Lead Paint Roster"
+title: "Keystone Material Testing: Lead Paint Pro, Binghamton NY"
 description: "Keystone Material Testing LLC: Lead abatement, Lead inspection / evaluation in Binghamton, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/keystone-material-testing-llc-ny0369/
 ---

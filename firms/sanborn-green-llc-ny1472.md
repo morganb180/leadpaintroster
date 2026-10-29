@@ -1,6 +1,6 @@
 ---
 title: "Sanborn Green LLC, Hudson, NY | Lead Paint Roster"
-description: "Sanborn Green LLC: Lead abatement in Hudson, NY. Licence details, contact and quotes."
+description: "Sanborn Green LLC in Hudson, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sanborn-green-llc-ny1472/
 ---
 

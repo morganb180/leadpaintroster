@@ -1,6 +1,6 @@
 ---
 title: "All Clean Air LLC, Great Neck, NY | Lead Paint Roster"
-description: "All Clean Air LLC: Lead inspection / evaluation in Great Neck, NY. Licence details, contact and quotes."
+description: "All Clean Air LLC in Great Neck, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/all-clean-air-llc-ny0079/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Excalibur Property Inspection Service, Rochester, NY | Lead Paint Roster"
+title: "Excalibur Property Inspection Service, Rochester NY"
 description: "Excalibur Property Inspection Service: Lead inspection / evaluation in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/excalibur-property-inspection-service-ny0261/
 ---

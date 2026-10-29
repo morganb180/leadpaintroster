@@ -1,6 +1,6 @@
 ---
 title: "KPM Restoration Inc., Mechanicville, NY | Lead Paint Roster"
-description: "KPM Restoration Inc.: Lead abatement in Mechanicville, NY. Licence details, contact and quotes."
+description: "KPM Restoration Inc. in Mechanicville, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/kpm-restoration-inc-ny1146/
 ---
 

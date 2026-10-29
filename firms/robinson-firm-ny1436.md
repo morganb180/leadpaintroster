@@ -1,6 +1,6 @@
 ---
 title: "Robinson@firm, New Rochelle, NY | Lead Paint Roster"
-description: "Robinson@firm: Lead abatement in New Rochelle, NY. Licence details, contact and quotes."
+description: "Robinson@firm in New Rochelle, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/robinson-firm-ny1436/
 ---
 

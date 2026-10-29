@@ -1,6 +1,6 @@
 ---
 title: "HYE Lead Abatement, Inc., Bronx, NY | Lead Paint Roster"
-description: "HYE Lead Abatement, Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "HYE Lead Abatement, Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/hye-lead-abatement-inc-ny1071/
 ---
 

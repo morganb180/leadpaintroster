@@ -1,6 +1,6 @@
 ---
-title: "MGM Builders Corporation, Valley Stream, NY | Lead Paint Roster"
-description: "MGM Builders Corporation: Lead abatement in Valley Stream, NY. Licence details, contact and quotes."
+title: "MGM Builders Corporation: Lead Abatement, Valley Stream NY"
+description: "MGM Builders Corporation in Valley Stream, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mgm-builders-corporation-ny1208/
 ---
 

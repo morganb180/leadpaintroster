@@ -1,6 +1,6 @@
 ---
 title: "CD Lead LLC, Spring Valley, NY | Lead Paint Roster"
-description: "CD Lead LLC: Lead abatement in Spring Valley, NY. Licence details, contact and quotes."
+description: "CD Lead LLC in Spring Valley, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/cd-lead-llc-ny0872/
 ---
 

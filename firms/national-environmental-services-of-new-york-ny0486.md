@@ -1,5 +1,5 @@
 ---
-title: "National Environmental Services of New York, Astoria, NY | Lead Paint Roster"
+title: "National Environmental Services of New York, Astoria NY"
 description: "National Environmental Services of New York: Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/national-environmental-services-of-new-york-ny0486/
 ---

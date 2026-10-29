@@ -1,6 +1,6 @@
 ---
 title: "Lauren Adams, Quincy, MA | Lead Paint Roster"
-description: "Lauren Adams: Lead inspection / evaluation in Quincy, MA. Licence details, contact and quotes."
+description: "Lauren Adams in Quincy, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lauren-adams-ma0038/
 ---
 

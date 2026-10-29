@@ -1,6 +1,6 @@
 ---
-title: "Venus Group, Inc., South Richmond Hill, NY | Lead Paint Roster"
-description: "Venus Group, Inc.: Lead abatement in South Richmond Hill, NY. Licence details, contact and quotes."
+title: "Venus Group, Inc.: Lead Abatement, South Richmond Hill NY"
+description: "Venus Group, Inc. in South Richmond Hill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/venus-group-inc-ny1597/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "All Pro Management LLC, Garfield, NJ | Lead Paint Roster"
-description: "All Pro Management LLC: Lead abatement in Garfield, NJ. Licence details, contact and quotes."
+description: "All Pro Management LLC in Garfield, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/all-pro-management-llc-nj0189/
 ---
 

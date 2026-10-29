@@ -1,6 +1,6 @@
 ---
-title: "Hydraulic Emergency Plumbing & Heating Corp., Richmond Hill, NY | Lead Paint Roster"
-description: "Hydraulic Emergency Plumbing & Heating Corp.: Lead abatement in Richmond Hill, NY. Licence details, contact and quotes."
+title: "Hydraulic Emergency Plumbing & Heating, Richmond Hill NY"
+description: "Hydraulic Emergency Plumbing & Heating Corp. in Richmond Hill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/hydraulic-emergency-plumbing-heating-corp-ny1089/
 ---
 

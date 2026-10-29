@@ -1,6 +1,6 @@
 ---
 title: "Qualtek Testing Group, LLC, Homer, NY | Lead Paint Roster"
-description: "Qualtek Testing Group, LLC: Lead inspection / evaluation in Homer, NY. Licence details, contact and quotes."
+description: "Qualtek Testing Group, LLC in Homer, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/qualtek-testing-group-llc-ny0550/
 ---
 

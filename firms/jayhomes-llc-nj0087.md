@@ -1,6 +1,6 @@
 ---
 title: "Jayhomes LLC, East Orange, NJ | Lead Paint Roster"
-description: "Jayhomes LLC: Lead inspection / evaluation in East Orange, NJ. Licence details, contact and quotes."
+description: "Jayhomes LLC in East Orange, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/jayhomes-llc-nj0087/
 ---
 

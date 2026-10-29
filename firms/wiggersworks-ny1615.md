@@ -1,6 +1,6 @@
 ---
 title: "WiggersWorks, Ancramdale, NY | Lead Paint Roster"
-description: "WiggersWorks: Lead abatement in Ancramdale, NY. Licence details, contact and quotes."
+description: "WiggersWorks in Ancramdale, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/wiggersworks-ny1615/
 ---
 

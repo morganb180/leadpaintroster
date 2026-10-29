@@ -1,6 +1,6 @@
 ---
 title: "Padma Contracting Corp, Bronx, NY | Lead Paint Roster"
-description: "Padma Contracting Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Padma Contracting Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/padma-contracting-corp-ny1338/
 ---
 

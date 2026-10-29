@@ -1,6 +1,6 @@
 ---
-title: "Mastertech North Jersey, LLC, Mount Arlington, NJ | Lead Paint Roster"
-description: "Mastertech North Jersey, LLC: Lead inspection / evaluation in Mount Arlington, NJ. Licence details, contact and quotes."
+title: "Mastertech North Jersey: Lead Inspector, Mount Arlington NJ"
+description: "Mastertech North Jersey, LLC in Mount Arlington, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mastertech-north-jersey-llc-nj0105/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "SCS Union Realty Co., LLC, New York, NY | Lead Paint Roster"
-description: "SCS Union Realty Co., LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "SCS Union Realty Co., LLC in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/scs-union-realty-co-llc-ny1454/
 ---
 

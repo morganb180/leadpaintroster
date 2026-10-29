@@ -1,6 +1,6 @@
 ---
 title: "PB Lead Testing Inc, Brooklyn, NY | Lead Paint Roster"
-description: "PB Lead Testing Inc: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "PB Lead Testing Inc in Brooklyn, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/pb-lead-testing-inc-ny0517/
 ---
 

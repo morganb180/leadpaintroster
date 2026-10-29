@@ -1,6 +1,6 @@
 ---
 title: "Action Lead Testing, Wakefield, MA | Lead Paint Roster"
-description: "Action Lead Testing: Lead risk assessment in Wakefield, MA. Licence details, contact and quotes."
+description: "Action Lead Testing in Wakefield, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/action-lead-testing-ma0050/
 ---
 

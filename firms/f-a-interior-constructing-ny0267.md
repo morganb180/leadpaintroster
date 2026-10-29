@@ -1,6 +1,6 @@
 ---
-title: "F A Interior Constructing, Whitestone, NY | Lead Paint Roster"
-description: "F A Interior Constructing: Lead inspection / evaluation in Whitestone, NY. Licence details, contact and quotes."
+title: "F A Interior Constructing: Lead Inspector, Whitestone NY"
+description: "F A Interior Constructing in Whitestone, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/f-a-interior-constructing-ny0267/
 ---
 

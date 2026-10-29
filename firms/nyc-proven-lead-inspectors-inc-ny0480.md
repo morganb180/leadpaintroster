@@ -1,6 +1,6 @@
 ---
-title: "NYC Proven Lead Inspectors Inc., New York, NY | Lead Paint Roster"
-description: "NYC Proven Lead Inspectors Inc.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+title: "NYC Proven Lead Inspectors: Lead Inspector, New York NY"
+description: "NYC Proven Lead Inspectors Inc. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/nyc-proven-lead-inspectors-inc-ny0480/
 ---
 

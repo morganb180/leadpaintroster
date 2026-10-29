@@ -1,6 +1,6 @@
 ---
 title: "Better Estate Inc, Niskayuna, NY | Lead Paint Roster"
-description: "Better Estate Inc: Lead abatement in Niskayuna, NY. Licence details, contact and quotes."
+description: "Better Estate Inc in Niskayuna, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/better-estate-inc-ny0829/
 ---
 

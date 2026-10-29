@@ -1,5 +1,5 @@
 ---
-title: "Accredited Lead Inspection, Inc., Port Washington, NY | Lead Paint Roster"
+title: "Accredited Lead Inspection, Port Washington NY"
 description: "Accredited Lead Inspection, Inc.: Lead abatement, Lead inspection / evaluation in Port Washington, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/accredited-lead-inspection-inc-ny0064/
 ---

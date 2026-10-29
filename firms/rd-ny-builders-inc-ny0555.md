@@ -1,6 +1,6 @@
 ---
 title: "RD NY Builders Inc, Jackson Height, NY | Lead Paint Roster"
-description: "RD NY Builders Inc: Lead inspection / evaluation in Jackson Height, NY. Licence details, contact and quotes."
+description: "RD NY Builders Inc in Jackson Height, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/rd-ny-builders-inc-ny0555/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Safety Universal, Brooklyn, NY | Lead Paint Roster"
-description: "Safety Universal: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "Safety Universal in Brooklyn, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/safety-universal-ny0596/
 ---
 

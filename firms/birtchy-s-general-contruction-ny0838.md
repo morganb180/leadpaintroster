@@ -1,6 +1,6 @@
 ---
-title: "Birtchy’s General Contruction, Binghamton, NY | Lead Paint Roster"
-description: "Birtchy’s General Contruction: Lead abatement in Binghamton, NY. Licence details, contact and quotes."
+title: "Birtchy’s General Contruction: Lead Abatement, Binghamton NY"
+description: "Birtchy’s General Contruction in Binghamton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/birtchy-s-general-contruction-ny0838/
 ---
 

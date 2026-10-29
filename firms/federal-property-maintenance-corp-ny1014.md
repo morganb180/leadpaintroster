@@ -1,6 +1,6 @@
 ---
-title: "Federal Property Maintenance Corp., Harrison, NY | Lead Paint Roster"
-description: "Federal Property Maintenance Corp.: Lead abatement in Harrison, NY. Licence details, contact and quotes."
+title: "Federal Property Maintenance: Lead Abatement, Harrison NY"
+description: "Federal Property Maintenance Corp. in Harrison, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/federal-property-maintenance-corp-ny1014/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "J S Saini Construction Corp., South Richmond Hill, NY | Lead Paint Roster"
-description: "J S Saini Construction Corp.: Lead abatement in South Richmond Hill, NY. Licence details, contact and quotes."
+title: "J S Saini Construction, South Richmond Hill NY"
+description: "J S Saini Construction Corp. in South Richmond Hill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/j-s-saini-construction-corp-ny1108/
 ---
 

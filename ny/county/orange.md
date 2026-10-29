@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Orange County, NY: 21 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Orange County, NY"
 description: "21 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Orange County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/orange/
 ---
@@ -10,7 +10,9 @@ canonical: https://leadpaintroster.com/ny/county/orange/
 
 **21 EPA-licensed listings** with an address of record in Orange County (9 lead inspection / evaluation, 17 lead abatement): 21 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=orange&st=ny)
 
-## Lead inspection & evaluation firms (9)
+## Where can I get a lead paint inspection in Orange County, NY? (9)
+
+Lead Paint Roster lists 9 EPA-licensed listings for lead inspection / evaluation with an address of record in Orange County.
 
 ✔ EPA-certified firm Lead abatementLead inspection / evaluation
 
@@ -134,7 +136,9 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F311304-1 (exp. 2028-10-20)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0168)
 
-## Lead abatement contractors (12)
+## Who does lead paint abatement in Orange County, NY? (12)
+
+12 EPA-licensed lead abatement listings have an address of record in Orange County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -292,13 +296,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F342232-1 (exp. 2029-08-06)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1330)
 
-## Neighboring counties
+## Which counties border Orange County, NY?
 
 [Dutchess](https://leadpaintroster.com/ny/county/dutchess/) (10) · [Putnam](https://leadpaintroster.com/ny/county/putnam/) (7) · [Rockland](https://leadpaintroster.com/ny/county/rockland/) (47) · [Sullivan](https://leadpaintroster.com/ny/county/sullivan/) (2) · [Ulster](https://leadpaintroster.com/ny/county/ulster/) (10)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Orange County: quick guide
+## How do I hire a lead inspector in Orange County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

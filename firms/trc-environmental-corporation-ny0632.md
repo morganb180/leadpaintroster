@@ -1,6 +1,6 @@
 ---
-title: "TRC Environmental Corporation, New York, NY | Lead Paint Roster"
-description: "TRC Environmental Corporation: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+title: "TRC Environmental: Lead Paint Inspector, New York NY"
+description: "TRC Environmental Corporation in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/trc-environmental-corporation-ny0632/
 ---
 

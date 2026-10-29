@@ -1,6 +1,6 @@
 ---
 title: "Smash Bros Renovations Corp., Bronx, NY | Lead Paint Roster"
-description: "Smash Bros Renovations Corp.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Smash Bros Renovations Corp. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/smash-bros-renovations-corp-ny1501/
 ---
 

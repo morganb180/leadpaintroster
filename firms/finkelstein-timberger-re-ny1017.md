@@ -1,6 +1,6 @@
 ---
 title: "Finkelstein Timberger RE, Scarsdale, NY | Lead Paint Roster"
-description: "Finkelstein Timberger RE: Lead abatement in Scarsdale, NY. Licence details, contact and quotes."
+description: "Finkelstein Timberger RE in Scarsdale, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/finkelstein-timberger-re-ny1017/
 ---
 

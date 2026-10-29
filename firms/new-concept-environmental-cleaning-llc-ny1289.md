@@ -1,6 +1,6 @@
 ---
-title: "New Concept Environmental Cleaning LLC., Maspeth, NY | Lead Paint Roster"
-description: "New Concept Environmental Cleaning LLC.: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
+title: "New Concept Environmental Cleaning LLC., Maspeth NY"
+description: "New Concept Environmental Cleaning LLC. in Maspeth, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/new-concept-environmental-cleaning-llc-ny1289/
 ---
 

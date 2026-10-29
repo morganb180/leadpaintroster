@@ -1,6 +1,6 @@
 ---
 title: "Dynamic GC Corp, Bronx, NY | Lead Paint Roster"
-description: "Dynamic GC Corp: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
+description: "Dynamic GC Corp in Bronx, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/dynamic-gc-corp-ny0208/
 ---
 

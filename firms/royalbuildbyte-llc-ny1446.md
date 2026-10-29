@@ -1,6 +1,6 @@
 ---
 title: "RoyalBuildByte LLC, Jackson Heights, NY | Lead Paint Roster"
-description: "RoyalBuildByte LLC: Lead abatement in Jackson Heights, NY. Licence details, contact and quotes."
+description: "RoyalBuildByte LLC in Jackson Heights, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/royalbuildbyte-llc-ny1446/
 ---
 

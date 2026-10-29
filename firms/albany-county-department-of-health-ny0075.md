@@ -1,6 +1,6 @@
 ---
-title: "Albany County Department of Health, Albany, NY | Lead Paint Roster"
-description: "Albany County Department of Health: Lead inspection / evaluation in Albany, NY. Licence details, contact and quotes."
+title: "Albany County Department of Health, Albany NY"
+description: "Albany County Department of Health in Albany, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/albany-county-department-of-health-ny0075/
 ---
 

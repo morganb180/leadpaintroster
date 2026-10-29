@@ -1,6 +1,6 @@
 ---
 title: "Empire Contractors NY Corp, Bayside, NY | Lead Paint Roster"
-description: "Empire Contractors NY Corp: Lead abatement in Bayside, NY. Licence details, contact and quotes."
+description: "Empire Contractors NY Corp in Bayside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/empire-contractors-ny-corp-ny0988/
 ---
 

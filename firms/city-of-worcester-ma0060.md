@@ -1,6 +1,6 @@
 ---
 title: "City of Worcester, Worcester, MA | Lead Paint Roster"
-description: "City of Worcester: Lead inspection / evaluation in Worcester, MA. Licence details, contact and quotes."
+description: "City of Worcester in Worcester, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/city-of-worcester-ma0060/
 ---
 

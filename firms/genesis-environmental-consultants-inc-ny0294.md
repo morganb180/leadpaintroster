@@ -1,5 +1,5 @@
 ---
-title: "Genesis Environmental Consultants, Inc., Astoria, NY | Lead Paint Roster"
+title: "Genesis Environmental Consultants, Astoria NY"
 description: "Genesis Environmental Consultants, Inc.: Lead abatement, Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/genesis-environmental-consultants-inc-ny0294/
 ---

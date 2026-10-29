@@ -1,6 +1,6 @@
 ---
-title: "Saturno Environmental Testing, Phillipsburg, NJ | Lead Paint Roster"
-description: "Saturno Environmental Testing: Lead inspection / evaluation in Phillipsburg, NJ. Licence details, contact and quotes."
+title: "Saturno Environmental Testing, Phillipsburg NJ"
+description: "Saturno Environmental Testing in Phillipsburg, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/saturno-environmental-testing-nj0149/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "XYZ Construction, LLC, Bronx, NY | Lead Paint Roster"
-description: "XYZ Construction, LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "XYZ Construction, LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/xyz-construction-llc-ny1619/
 ---
 

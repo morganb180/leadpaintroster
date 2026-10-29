@@ -1,6 +1,6 @@
 ---
 title: "Nv5, Inc., Morristown, NJ | Lead Paint Roster"
-description: "Nv5, Inc.: Lead inspection / evaluation in Morristown, NJ. Licence details, contact and quotes."
+description: "Nv5, Inc. in Morristown, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/nv5-inc-nj0115/
 ---
 

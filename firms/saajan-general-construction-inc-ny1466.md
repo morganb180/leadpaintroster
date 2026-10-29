@@ -1,6 +1,6 @@
 ---
-title: "Saajan General Construction, Inc., Queens, NY | Lead Paint Roster"
-description: "Saajan General Construction, Inc.: Lead abatement in Queens, NY. Licence details, contact and quotes."
+title: "Saajan General Construction, Inc.: Lead Abatement, Queens NY"
+description: "Saajan General Construction, Inc. in Queens, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/saajan-general-construction-inc-ny1466/
 ---
 

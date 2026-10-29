@@ -1,6 +1,6 @@
 ---
-title: "Lead Consultants of America, Somerset, NJ | Lead Paint Roster"
-description: "Lead Consultants of America: Lead inspection / evaluation in Somerset, NJ. Licence details, contact and quotes."
+title: "Lead Consultants of America: Lead Inspector, Somerset NJ"
+description: "Lead Consultants of America in Somerset, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/lead-consultants-of-america-nj0093/
 ---
 

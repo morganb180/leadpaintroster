@@ -1,6 +1,6 @@
 ---
 title: "Sicherman Management LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Sicherman Management LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Sicherman Management LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sicherman-management-llc-ny1495/
 ---
 

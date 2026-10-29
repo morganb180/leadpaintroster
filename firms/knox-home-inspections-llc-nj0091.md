@@ -1,6 +1,6 @@
 ---
-title: "Knox Home Inspections, LLC, West Milford, NJ | Lead Paint Roster"
-description: "Knox Home Inspections, LLC: Lead inspection / evaluation in West Milford, NJ. Licence details, contact and quotes."
+title: "Knox Home Inspections: Lead Paint Inspector, West Milford NJ"
+description: "Knox Home Inspections, LLC in West Milford, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/knox-home-inspections-llc-nj0091/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Harvard Environmental, Westwood, MA | Lead Paint Roster"
-description: "Harvard Environmental: Lead risk assessment in Westwood, MA. Licence details, contact and quotes."
+description: "Harvard Environmental in Westwood, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/harvard-environmental-ma0055/
 ---
 

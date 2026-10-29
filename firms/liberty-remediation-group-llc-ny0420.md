@@ -1,5 +1,5 @@
 ---
-title: "Liberty Remediation Group LLC, Richmond Hill, NY | Lead Paint Roster"
+title: "Liberty Remediation Group: Lead Paint Pro, Richmond Hill NY"
 description: "Liberty Remediation Group LLC: Lead abatement, Lead inspection / evaluation in Richmond Hill, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/liberty-remediation-group-llc-ny0420/
 ---

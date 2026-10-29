@@ -1,6 +1,6 @@
 ---
-title: "Tran Lead Inspection Services, Swampscott, MA | Lead Paint Roster"
-description: "Tran Lead Inspection Services: Lead risk assessment in Swampscott, MA. Licence details, contact and quotes."
+title: "Tran Lead Inspection Services: Lead Paint Pro, Swampscott MA"
+description: "Tran Lead Inspection Services in Swampscott, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/tran-lead-inspection-services-ma0046/
 ---
 

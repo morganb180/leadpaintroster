@@ -1,6 +1,6 @@
 ---
 title: "Edward Sherry, Westford, MA | Lead Paint Roster"
-description: "Edward Sherry: Lead inspection / evaluation in Westford, MA. Licence details, contact and quotes."
+description: "Edward Sherry in Westford, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/edward-sherry-ma0053/
 ---
 

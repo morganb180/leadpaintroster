@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Port Washington, NY: 6 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Port Washington, NY"
 description: "6 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Port Washington, New York, plus 144 more in Nassau County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/port-washington/
 ---
@@ -8,13 +8,17 @@ canonical: https://leadpaintroster.com/ny/city/port-washington/
 
 # Certified lead paint inspectors & abatement firms in Port Washington, NY
 
+**Quick answer:** For landlords, owners, buyers and parents in Port Washington, NY: Lead Paint Roster lists 6 EPA-licensed lead paint listings with an address in Port Washington (4 lead inspection / evaluation, 5 lead abatement) and 144 more elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address. Check each licence with EPA before you hire, and read the [Port Washington hiring guide](https://leadpaintroster.com/ny/city/port-washington/guide/) for questions to ask and typical costs.
+
 6 EPA-licensed listings give an address in Port Washington (4 lead inspection / evaluation, 5 lead abatement), and 144 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Port Washington hiring guide →**](https://leadpaintroster.com/ny/city/port-washington/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Port Washington](https://leadpaintroster.com/get-quotes/?city=port-washington&st=ny)
 
-## Based in Port Washington
+## Which certified lead paint firms are based in Port Washington, NY?
+
+Lead Paint Roster lists 6 EPA-licensed listings with an address in Port Washington: 4 lead inspection & evaluation firms and 2 lead abatement contractors. Each listing appears once below, even if it holds both licences.
 
 ### Lead inspection & evaluation firms (4)
 
@@ -103,11 +107,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F221557-2 (exp. 2027-02-10)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1183)
 
-## Elsewhere in Nassau County (144)
+## Which other certified lead paint firms are in Nassau County? (144)
+
+144 more listings have an address elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address in Port Washington.
 
 [See all 150 Nassau County listings →](https://leadpaintroster.com/ny/county/nassau/)
 
-## More cities in Nassau County
+## Which other Nassau County cities have lead paint pages?
 
 [Great Neck](https://leadpaintroster.com/ny/city/great-neck/) · [Valley Stream](https://leadpaintroster.com/ny/city/valley-stream/) · [Elmont](https://leadpaintroster.com/ny/city/elmont/) · [Westbury](https://leadpaintroster.com/ny/city/westbury/) · [New Hyde Park](https://leadpaintroster.com/ny/city/new-hyde-park/) · [Hicksville](https://leadpaintroster.com/ny/city/hicksville/)
 

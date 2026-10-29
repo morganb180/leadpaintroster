@@ -1,6 +1,6 @@
 ---
 title: "SMF Construction, Watertown, NY | Lead Paint Roster"
-description: "SMF Construction: Lead abatement in Watertown, NY. Licence details, contact and quotes."
+description: "SMF Construction in Watertown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/smf-construction-ny1457/
 ---
 

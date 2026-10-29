@@ -1,6 +1,6 @@
 ---
-title: "All Boro Lead Testing Inc., Whitestone, NY | Lead Paint Roster"
-description: "All Boro Lead Testing Inc.: Lead inspection / evaluation in Whitestone, NY. Licence details, contact and quotes."
+title: "All Boro Lead Testing: Lead Paint Inspector, Whitestone NY"
+description: "All Boro Lead Testing Inc. in Whitestone, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/all-boro-lead-testing-inc-ny0077/
 ---
 

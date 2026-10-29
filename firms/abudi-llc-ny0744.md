@@ -1,6 +1,6 @@
 ---
 title: "Abudi LLC, Staten Island, NY | Lead Paint Roster"
-description: "Abudi LLC: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+description: "Abudi LLC in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/abudi-llc-ny0744/
 ---
 

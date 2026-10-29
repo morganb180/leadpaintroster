@@ -1,6 +1,6 @@
 ---
 title: "Esg Inc, Whitestone, NY | Lead Paint Roster"
-description: "Esg Inc: Lead abatement in Whitestone, NY. Licence details, contact and quotes."
+description: "Esg Inc in Whitestone, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/esg-inc-ny0972/
 ---
 

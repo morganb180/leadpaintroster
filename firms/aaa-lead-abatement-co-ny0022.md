@@ -1,6 +1,6 @@
 ---
 title: "AAA Lead Abatement Co., Bronx, NY | Lead Paint Roster"
-description: "AAA Lead Abatement Co.: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
+description: "AAA Lead Abatement Co. in Bronx, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/aaa-lead-abatement-co-ny0022/
 ---
 

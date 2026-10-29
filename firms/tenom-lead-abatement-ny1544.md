@@ -1,6 +1,6 @@
 ---
 title: "Tenom Lead Abatement, Brooklyn, NY | Lead Paint Roster"
-description: "Tenom Lead Abatement: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Tenom Lead Abatement in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/tenom-lead-abatement-ny1544/
 ---
 

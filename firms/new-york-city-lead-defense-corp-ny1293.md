@@ -1,6 +1,6 @@
 ---
-title: "New York City Lead Defense Corp., Queens, NY | Lead Paint Roster"
-description: "New York City Lead Defense Corp.: Lead abatement in Queens, NY. Licence details, contact and quotes."
+title: "New York City Lead Defense Corp.: Lead Abatement, Queens NY"
+description: "New York City Lead Defense Corp. in Queens, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/new-york-city-lead-defense-corp-ny1293/
 ---
 

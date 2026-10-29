@@ -1,6 +1,6 @@
 ---
 title: "Sun Track Corp, Garden City Park, NY | Lead Paint Roster"
-description: "Sun Track Corp: Lead abatement in Garden City Park, NY. Licence details, contact and quotes."
+description: "Sun Track Corp in Garden City Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sun-track-corp-ny1520/
 ---
 

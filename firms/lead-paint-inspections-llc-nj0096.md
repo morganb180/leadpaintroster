@@ -1,6 +1,6 @@
 ---
-title: "Lead Paint Inspections, LLC, Hillsdale, NJ | Lead Paint Roster"
-description: "Lead Paint Inspections, LLC: Lead inspection / evaluation in Hillsdale, NJ. Licence details, contact and quotes."
+title: "Lead Paint Inspections: Lead Paint Inspector, Hillsdale NJ"
+description: "Lead Paint Inspections, LLC in Hillsdale, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/lead-paint-inspections-llc-nj0096/
 ---
 

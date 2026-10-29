@@ -1,6 +1,6 @@
 ---
-title: "Yellowthread Enterprise LLC, Schenectady, NY | Lead Paint Roster"
-description: "Yellowthread Enterprise LLC: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
+title: "Yellowthread Enterprise LLC: Lead Abatement, Schenectady NY"
+description: "Yellowthread Enterprise LLC in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/yellowthread-enterprise-llc-ny1628/
 ---
 

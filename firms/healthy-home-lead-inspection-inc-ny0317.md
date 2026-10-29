@@ -1,6 +1,6 @@
 ---
-title: "Healthy Home Lead Inspection Inc, Brooklyn, NY | Lead Paint Roster"
-description: "Healthy Home Lead Inspection Inc: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+title: "Healthy Home Lead Inspection: Lead Inspector, Brooklyn NY"
+description: "Healthy Home Lead Inspection Inc in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/healthy-home-lead-inspection-inc-ny0317/
 ---
 

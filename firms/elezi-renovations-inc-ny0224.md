@@ -1,6 +1,6 @@
 ---
 title: "Elezi Renovations, Inc., Yonkers, NY | Lead Paint Roster"
-description: "Elezi Renovations, Inc.: Lead inspection / evaluation in Yonkers, NY. Licence details, contact and quotes."
+description: "Elezi Renovations, Inc. in Yonkers, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/elezi-renovations-inc-ny0224/
 ---
 

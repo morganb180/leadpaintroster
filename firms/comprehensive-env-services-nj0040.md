@@ -1,6 +1,6 @@
 ---
-title: "Comprehensive Env. Services, Somerville, NJ | Lead Paint Roster"
-description: "Comprehensive Env. Services: Lead inspection / evaluation in Somerville, NJ. Licence details, contact and quotes."
+title: "Comprehensive Env. Services: Lead Inspector, Somerville NJ"
+description: "Comprehensive Env. Services in Somerville, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/comprehensive-env-services-nj0040/
 ---
 

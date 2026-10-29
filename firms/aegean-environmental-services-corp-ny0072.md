@@ -1,5 +1,5 @@
 ---
-title: "Aegean Environmental Services Corp., Elmhurst, NY | Lead Paint Roster"
+title: "Aegean Environmental Services: Lead Paint Pro, Elmhurst NY"
 description: "Aegean Environmental Services Corp.: Lead abatement, Lead inspection / evaluation in Elmhurst, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/aegean-environmental-services-corp-ny0072/
 ---

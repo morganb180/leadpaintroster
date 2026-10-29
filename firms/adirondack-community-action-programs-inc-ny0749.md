@@ -1,6 +1,6 @@
 ---
-title: "Adirondack Community Action Programs, Inc., Elizabethtown, NY | Lead Paint Roster"
-description: "Adirondack Community Action Programs, Inc.: Lead abatement in Elizabethtown, NY. Licence details, contact and quotes."
+title: "Adirondack Community Action Programs, Elizabethtown NY"
+description: "Adirondack Community Action Programs, Inc. in Elizabethtown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/adirondack-community-action-programs-inc-ny0749/
 ---
 

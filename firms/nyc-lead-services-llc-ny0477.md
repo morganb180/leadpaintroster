@@ -1,6 +1,6 @@
 ---
 title: "NYC Lead Services LLC, Albany, NY | Lead Paint Roster"
-description: "NYC Lead Services LLC: Lead abatement, Lead inspection / evaluation in Albany, NY. Licence details, contact and quotes."
+description: "NYC Lead Services LLC in Albany, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/nyc-lead-services-llc-ny0477/
 ---
 

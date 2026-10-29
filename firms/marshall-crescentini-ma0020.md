@@ -1,6 +1,6 @@
 ---
 title: "Marshall Crescentini, Holyoke, MA | Lead Paint Roster"
-description: "Marshall Crescentini: Lead inspection / evaluation in Holyoke, MA. Licence details, contact and quotes."
+description: "Marshall Crescentini in Holyoke, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/marshall-crescentini-ma0020/
 ---
 

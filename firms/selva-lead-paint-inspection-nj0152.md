@@ -1,6 +1,6 @@
 ---
-title: "Selva Lead Paint Inspection, Secaucus, NJ | Lead Paint Roster"
-description: "Selva Lead Paint Inspection: Lead inspection / evaluation in Secaucus, NJ. Licence details, contact and quotes."
+title: "Selva Lead Paint Inspection: Lead Inspector, Secaucus NJ"
+description: "Selva Lead Paint Inspection in Secaucus, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/selva-lead-paint-inspection-nj0152/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Peligan Excavation & Renovation, LLC, Belmont, NY | Lead Paint Roster"
-description: "Peligan Excavation & Renovation, LLC: Lead abatement in Belmont, NY. Licence details, contact and quotes."
+title: "Peligan Excavation & Renovation: Lead Abatement, Belmont NY"
+description: "Peligan Excavation & Renovation, LLC in Belmont, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/peligan-excavation-renovation-llc-ny1351/
 ---
 

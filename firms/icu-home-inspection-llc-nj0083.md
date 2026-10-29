@@ -1,6 +1,6 @@
 ---
 title: "Icu Home Inspection, LLC, River Vale, NJ | Lead Paint Roster"
-description: "Icu Home Inspection, LLC: Lead inspection / evaluation in River Vale, NJ. Licence details, contact and quotes."
+description: "Icu Home Inspection, LLC in River Vale, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/icu-home-inspection-llc-nj0083/
 ---
 

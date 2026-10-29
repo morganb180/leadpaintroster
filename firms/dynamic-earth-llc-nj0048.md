@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Earth, LLC, Lake Como, NJ | Lead Paint Roster"
-description: "Dynamic Earth, LLC: Lead inspection / evaluation in Lake Como, NJ. Licence details, contact and quotes."
+description: "Dynamic Earth, LLC in Lake Como, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/dynamic-earth-llc-nj0048/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "V.P. Contractors of New York Inc., Bellerose, NY | Lead Paint Roster"
-description: "V.P. Contractors of New York Inc.: Lead abatement in Bellerose, NY. Licence details, contact and quotes."
+title: "V.P. Contractors of New York: Lead Abatement, Bellerose NY"
+description: "V.P. Contractors of New York Inc. in Bellerose, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/v-p-contractors-of-new-york-inc-ny1586/
 ---
 

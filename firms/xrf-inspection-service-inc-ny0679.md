@@ -1,5 +1,5 @@
 ---
-title: "XRF Inspection Service Inc., Brooklyn, NY | Lead Paint Roster"
+title: "XRF Inspection Service: Lead Paint Pro, Brooklyn NY"
 description: "XRF Inspection Service Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/xrf-inspection-service-inc-ny0679/
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Immense Cleaning Solutions LLC, Bronx, NY | Lead Paint Roster"
-description: "Immense Cleaning Solutions LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+title: "Immense Cleaning Solutions LLC: Lead Abatement, Bronx NY"
+description: "Immense Cleaning Solutions LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/immense-cleaning-solutions-llc-ny1096/
 ---
 

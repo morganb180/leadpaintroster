@@ -1,6 +1,6 @@
 ---
 title: "Dormar Construction, Roslyn Heights, NY | Lead Paint Roster"
-description: "Dormar Construction: Lead abatement in Roslyn Heights, NY. Licence details, contact and quotes."
+description: "Dormar Construction in Roslyn Heights, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/dormar-construction-ny0951/
 ---
 

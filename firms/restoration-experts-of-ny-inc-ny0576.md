@@ -1,5 +1,5 @@
 ---
-title: "Restoration Experts of NY, Inc., Ronkonkoma, NY | Lead Paint Roster"
+title: "Restoration Experts of NY: Lead Paint Pro, Ronkonkoma NY"
 description: "Restoration Experts of NY, Inc.: Lead abatement, Lead inspection / evaluation in Ronkonkoma, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/restoration-experts-of-ny-inc-ny0576/
 ---

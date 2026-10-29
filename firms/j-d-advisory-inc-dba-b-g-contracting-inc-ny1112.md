@@ -1,6 +1,6 @@
 ---
-title: "J.D. Advisory, Inc. dba B&G Contracting, Inc., Mineola, NY | Lead Paint Roster"
-description: "J.D. Advisory, Inc. dba B&G Contracting, Inc.: Lead abatement in Mineola, NY. Licence details, contact and quotes."
+title: "J.D. Advisory, Inc. dba B&G Contracting, Mineola NY"
+description: "J.D. Advisory, Inc. dba B&G Contracting, Inc. in Mineola, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/j-d-advisory-inc-dba-b-g-contracting-inc-ny1112/
 ---
 

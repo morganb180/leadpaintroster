@@ -1,6 +1,6 @@
 ---
-title: "Unitech Services Group, Inc., Bay Shore, NY | Lead Paint Roster"
-description: "Unitech Services Group, Inc.: Lead abatement in Bay Shore, NY. Licence details, contact and quotes."
+title: "Unitech Services Group, Inc.: Lead Abatement, Bay Shore NY"
+description: "Unitech Services Group, Inc. in Bay Shore, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/unitech-services-group-inc-ny1576/
 ---
 

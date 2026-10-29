@@ -1,6 +1,6 @@
 ---
-title: "Smart Business Strategies, Burlington, NJ | Lead Paint Roster"
-description: "Smart Business Strategies: Lead inspection / evaluation in Burlington, NJ. Licence details, contact and quotes."
+title: "Smart Business Strategies: Lead Inspector, Burlington NJ"
+description: "Smart Business Strategies in Burlington, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/smart-business-strategies-nj0156/
 ---
 

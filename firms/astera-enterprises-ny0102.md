@@ -1,6 +1,6 @@
 ---
 title: "Astera Enterprises, Briarwood, NY | Lead Paint Roster"
-description: "Astera Enterprises: Lead abatement, Lead inspection / evaluation in Briarwood, NY. Licence details, contact and quotes."
+description: "Astera Enterprises in Briarwood, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/astera-enterprises-ny0102/
 ---
 

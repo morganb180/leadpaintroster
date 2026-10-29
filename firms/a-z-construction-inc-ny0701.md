@@ -1,6 +1,6 @@
 ---
 title: "A - Z Construction Inc., Elmont, NY | Lead Paint Roster"
-description: "A - Z Construction Inc.: Lead abatement in Elmont, NY. Licence details, contact and quotes."
+description: "A - Z Construction Inc. in Elmont, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/a-z-construction-inc-ny0701/
 ---
 

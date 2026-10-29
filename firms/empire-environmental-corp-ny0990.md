@@ -1,6 +1,6 @@
 ---
-title: "Empire Environmental Corp, Saint Albans, NY | Lead Paint Roster"
-description: "Empire Environmental Corp: Lead abatement in Saint Albans, NY. Licence details, contact and quotes."
+title: "Empire Environmental Corp: Lead Abatement, Saint Albans NY"
+description: "Empire Environmental Corp in Saint Albans, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/empire-environmental-corp-ny0990/
 ---
 

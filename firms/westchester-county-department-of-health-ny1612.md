@@ -1,6 +1,6 @@
 ---
-title: "Westchester County Department of Health, Mount Kisco, NY | Lead Paint Roster"
-description: "Westchester County Department of Health: Lead abatement in Mount Kisco, NY. Licence details, contact and quotes."
+title: "Westchester County Department of Health, Mount Kisco NY"
+description: "Westchester County Department of Health in Mount Kisco, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/westchester-county-department-of-health-ny1612/
 ---
 

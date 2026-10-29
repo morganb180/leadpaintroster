@@ -1,6 +1,6 @@
 ---
-title: "A & K Abatement and Repairs Inc., Brooklyn, NY | Lead Paint Roster"
-description: "A & K Abatement and Repairs Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "A & K Abatement and Repairs: Lead Abatement, Brooklyn NY"
+description: "A & K Abatement and Repairs Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/a-k-abatement-and-repairs-inc-ny0700/
 ---
 

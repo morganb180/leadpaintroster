@@ -1,6 +1,6 @@
 ---
-title: "Excelsior Restoration Services, Ballston Spa, NY | Lead Paint Roster"
-description: "Excelsior Restoration Services: Lead abatement in Ballston Spa, NY. Licence details, contact and quotes."
+title: "Excelsior Restoration Services, Ballston Spa NY"
+description: "Excelsior Restoration Services in Ballston Spa, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/excelsior-restoration-services-ny1006/
 ---
 

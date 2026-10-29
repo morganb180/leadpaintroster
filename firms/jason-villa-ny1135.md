@@ -1,6 +1,6 @@
 ---
 title: "Jason Villa, Peekskill, NY | Lead Paint Roster"
-description: "Jason Villa: Lead abatement in Peekskill, NY. Licence details, contact and quotes."
+description: "Jason Villa in Peekskill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/jason-villa-ny1135/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "JC Contracting Mgmt LLC, Maspeth, NY | Lead Paint Roster"
-description: "JC Contracting Mgmt LLC: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
+description: "JC Contracting Mgmt LLC in Maspeth, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/jc-contracting-mgmt-llc-ny1117/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Environmental Appraisers & Builders LLC, Harrison, NY | Lead Paint Roster"
-description: "Environmental Appraisers & Builders LLC: Lead abatement in Harrison, NY. Licence details, contact and quotes."
+title: "Environmental Appraisers & Builders, Harrison NY"
+description: "Environmental Appraisers & Builders LLC in Harrison, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/environmental-appraisers-builders-llc-ny0993/
 ---
 

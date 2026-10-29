@@ -1,6 +1,6 @@
 ---
 title: "Build Up Construction LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Build Up Construction LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Build Up Construction LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/build-up-construction-llc-ny0863/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Southern Tier Resto Corporation, Elmira, NY | Lead Paint Roster"
+title: "Southern Tier Resto: Lead Inspection & Abatement, Elmira NY"
 description: "Southern Tier Resto Corporation: Lead abatement, Lead inspection / evaluation in Elmira, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/southern-tier-resto-corporation-ny0614/
 ---

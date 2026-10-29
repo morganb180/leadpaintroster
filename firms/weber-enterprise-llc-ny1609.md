@@ -1,6 +1,6 @@
 ---
 title: "Weber Enterprise, LLC, Latham, NY | Lead Paint Roster"
-description: "Weber Enterprise, LLC: Lead abatement in Latham, NY. Licence details, contact and quotes."
+description: "Weber Enterprise, LLC in Latham, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/weber-enterprise-llc-ny1609/
 ---
 

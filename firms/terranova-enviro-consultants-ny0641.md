@@ -1,6 +1,6 @@
 ---
-title: "Terranova Enviro Consultants, Little Neck, NY | Lead Paint Roster"
-description: "Terranova Enviro Consultants: Lead inspection / evaluation in Little Neck, NY. Licence details, contact and quotes."
+title: "Terranova Enviro Consultants: Lead Inspector, Little Neck NY"
+description: "Terranova Enviro Consultants in Little Neck, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/terranova-enviro-consultants-ny0641/
 ---
 

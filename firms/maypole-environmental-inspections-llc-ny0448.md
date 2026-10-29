@@ -1,5 +1,5 @@
 ---
-title: "Maypole Environmental Inspections, LLC, New York, NY | Lead Paint Roster"
+title: "Maypole Environmental Inspections, New York NY"
 description: "Maypole Environmental Inspections, LLC: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/maypole-environmental-inspections-llc-ny0448/
 ---

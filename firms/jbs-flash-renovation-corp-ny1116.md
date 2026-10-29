@@ -1,6 +1,6 @@
 ---
 title: "Jbs Flash Renovation Corp, Bronx, NY | Lead Paint Roster"
-description: "Jbs Flash Renovation Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Jbs Flash Renovation Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/jbs-flash-renovation-corp-ny1116/
 ---
 

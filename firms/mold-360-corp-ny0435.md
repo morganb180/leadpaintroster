@@ -1,6 +1,6 @@
 ---
 title: "Mold 360 Corp., Brooklyn, NY | Lead Paint Roster"
-description: "Mold 360 Corp.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "Mold 360 Corp. in Brooklyn, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mold-360-corp-ny0435/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "ASM Construction Of NY Corporation, Staten Island, NY | Lead Paint Roster"
-description: "ASM Construction Of NY Corporation: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+title: "ASM Construction Of NY: Lead Abatement, Staten Island NY"
+description: "ASM Construction Of NY Corporation in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/asm-construction-of-ny-corporation-ny0738/
 ---
 

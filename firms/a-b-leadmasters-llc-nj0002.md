@@ -1,6 +1,6 @@
 ---
 title: "A & B Leadmasters, LLC, Lakewood, NJ | Lead Paint Roster"
-description: "A & B Leadmasters, LLC: Lead inspection / evaluation in Lakewood, NJ. Licence details, contact and quotes."
+description: "A & B Leadmasters, LLC in Lakewood, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/a-b-leadmasters-llc-nj0002/
 ---
 

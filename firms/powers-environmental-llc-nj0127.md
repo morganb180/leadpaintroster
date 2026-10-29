@@ -1,6 +1,6 @@
 ---
-title: "Powers Environmental, LLC, Montgomery, NY | Lead Paint Roster"
-description: "Powers Environmental, LLC: Lead inspection / evaluation in Montgomery, NY. Licence details, contact and quotes."
+title: "Powers Environmental: Lead Paint Inspector, Montgomery NY"
+description: "Powers Environmental, LLC in Montgomery, NY: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/powers-environmental-llc-nj0127/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "TKK Renovations Joel Kendrick DBA, Lackawanna, NY | Lead Paint Roster"
-description: "TKK Renovations Joel Kendrick DBA: Lead abatement in Lackawanna, NY. Licence details, contact and quotes."
+title: "TKK Renovations Joel Kendrick DBA, Lackawanna NY"
+description: "TKK Renovations Joel Kendrick DBA in Lackawanna, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/tkk-renovations-joel-kendrick-dba-ny1534/
 ---
 

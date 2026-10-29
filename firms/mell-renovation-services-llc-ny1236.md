@@ -1,6 +1,6 @@
 ---
-title: "Mell Renovation Services, LLC, Yonkers, NY | Lead Paint Roster"
-description: "Mell Renovation Services, LLC: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
+title: "Mell Renovation Services, LLC: Lead Abatement, Yonkers NY"
+description: "Mell Renovation Services, LLC in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mell-renovation-services-llc-ny1236/
 ---
 

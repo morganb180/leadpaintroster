@@ -1,6 +1,6 @@
 ---
-title: "Andrej Jankuv Independent Contractor, Bayside, NY | Lead Paint Roster"
-description: "Andrej Jankuv Independent Contractor: Lead abatement in Bayside, NY. Licence details, contact and quotes."
+title: "Andrej Jankuv Independent Contractor, Bayside NY"
+description: "Andrej Jankuv Independent Contractor in Bayside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/andrej-jankuv-independent-contractor-ny0687/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Sokol Kabashi, Sunnyside, NY | Lead Paint Roster"
-description: "Sokol Kabashi: Lead abatement in Sunnyside, NY. Licence details, contact and quotes."
+description: "Sokol Kabashi in Sunnyside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sokol-kabashi-ny1505/
 ---
 

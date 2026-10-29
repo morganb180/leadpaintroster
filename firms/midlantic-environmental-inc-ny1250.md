@@ -1,6 +1,6 @@
 ---
 title: "Midlantic Environmental, Inc., Utica, NY | Lead Paint Roster"
-description: "Midlantic Environmental, Inc.: Lead abatement in Utica, NY. Licence details, contact and quotes."
+description: "Midlantic Environmental, Inc. in Utica, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/midlantic-environmental-inc-ny1250/
 ---
 

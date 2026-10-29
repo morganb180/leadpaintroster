@@ -1,6 +1,6 @@
 ---
 title: "Flatley Read, Inc., Greenwich, NY | Lead Paint Roster"
-description: "Flatley Read, Inc.: Lead inspection / evaluation in Greenwich, NY. Licence details, contact and quotes."
+description: "Flatley Read, Inc. in Greenwich, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/flatley-read-inc-ny0276/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Master Lead Paint Inspection, Weymouth, MA | Lead Paint Roster"
-description: "Master Lead Paint Inspection: Lead risk assessment in Weymouth, MA. Licence details, contact and quotes."
+title: "Master Lead Paint Inspection: Lead Paint Pro, Weymouth MA"
+description: "Master Lead Paint Inspection in Weymouth, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/master-lead-paint-inspection-ma0056/
 ---
 

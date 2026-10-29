@@ -1,6 +1,6 @@
 ---
 title: "A.R. Pierrepont Co., Inc., Rochester, NY | Lead Paint Roster"
-description: "A.R. Pierrepont Co., Inc.: Lead abatement in Rochester, NY. Licence details, contact and quotes."
+description: "A.R. Pierrepont Co., Inc. in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/a-r-pierrepont-co-inc-ny0713/
 ---
 

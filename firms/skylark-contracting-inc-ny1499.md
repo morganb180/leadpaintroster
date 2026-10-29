@@ -1,6 +1,6 @@
 ---
 title: "Skylark Contracting Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Skylark Contracting Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Skylark Contracting Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/skylark-contracting-inc-ny1499/
 ---
 

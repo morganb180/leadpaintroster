@@ -1,6 +1,6 @@
 ---
-title: "Ace Development Group, Inc., Hempstead, NY | Lead Paint Roster"
-description: "Ace Development Group, Inc.: Lead inspection / evaluation in Hempstead, NY. Licence details, contact and quotes."
+title: "Ace Development Group: Lead Paint Inspector, Hempstead NY"
+description: "Ace Development Group, Inc. in Hempstead, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ace-development-group-inc-ny0065/
 ---
 

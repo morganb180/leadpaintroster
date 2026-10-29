@@ -1,6 +1,6 @@
 ---
-title: "Delta Contracting and Design Inc, Auburn, NY | Lead Paint Roster"
-description: "Delta Contracting and Design Inc: Lead abatement in Auburn, NY. Licence details, contact and quotes."
+title: "Delta Contracting and Design Inc: Lead Abatement, Auburn NY"
+description: "Delta Contracting and Design Inc in Auburn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/delta-contracting-and-design-inc-ny0940/
 ---
 

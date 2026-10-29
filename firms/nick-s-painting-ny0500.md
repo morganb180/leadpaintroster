@@ -1,6 +1,6 @@
 ---
 title: "Nick's Painting, Yonkers, NY | Lead Paint Roster"
-description: "Nick's Painting: Lead abatement, Lead inspection / evaluation in Yonkers, NY. Licence details, contact and quotes."
+description: "Nick's Painting in Yonkers, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/nick-s-painting-ny0500/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Joseph C. Lu Engineering, PC, Rochester, NY | Lead Paint Roster"
-description: "Joseph C. Lu Engineering, PC: Lead inspection / evaluation in Rochester, NY. Licence details, contact and quotes."
+title: "Joseph C. Lu Engineering: Lead Paint Inspector, Rochester NY"
+description: "Joseph C. Lu Engineering, PC in Rochester, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/joseph-c-lu-engineering-pc-ny0361/
 ---
 

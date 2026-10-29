@@ -1,6 +1,6 @@
 ---
-title: "Building Maintenance Corporation, Maspeth, NY | Lead Paint Roster"
-description: "Building Maintenance Corporation: Lead abatement in Maspeth, NY. Licence details, contact and quotes."
+title: "Building Maintenance Corporation: Lead Abatement, Maspeth NY"
+description: "Building Maintenance Corporation in Maspeth, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/building-maintenance-corporation-ny0864/
 ---
 

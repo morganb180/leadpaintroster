@@ -1,5 +1,5 @@
 ---
-title: "How to Hire a Lead Paint Inspector in Union, NJ | Lead Paint Roster"
+title: "How to Hire a Lead Paint Inspector in Union, NJ"
 description: "Union, NJ lead paint guide: 3 certified inspection firms nearby, how to verify, questions to ask, typical costs and local rules."
 canonical: https://leadpaintroster.com/nj/city/union/guide/
 ---
@@ -8,18 +8,22 @@ canonical: https://leadpaintroster.com/nj/city/union/guide/
 
 # How to hire a certified lead inspector in Union, NJ
 
+**Quick answer:** To hire a lead inspector in Union, NJ: check the firm in the official NJ DCA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 4 listings with a Union address (3 inspection/risk-assessment, 2 abatement) and 16 more in Union County. A national cost guide on this page puts a lead paint inspection at $239-$437.
+
 4 listings give an address in Union: 3 inspection/risk-assessment and 2 abatement. Another 16 are elsewhere in Union County.
 
 [Get quotes](https://leadpaintroster.com/get-quotes/?city=union&st=nj) [All Union listings](https://leadpaintroster.com/nj/city/union/)
 
-## How to verify a Union lead inspector
+## How do I verify a lead inspector's certification in Union?
+
+Look the firm up in the official NJ DCA list, then ask for the firm's certification number and the individual inspector's own credential in writing. Our copy of the list was retrieved 2026-10-12.
 
 1. Check the firm or person in the official list ([New Jersey Department of Community Affairs](https://www.nj.gov/dca/codes/offices/leadhazard_abatement.shtml)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.
 3. Decide what you need first: an [inspection or a risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/).
 4. For abatement, use a certified abatement contractor, and have someone independent do the clearance test.
 
-## Questions to ask
+## What should I ask a lead inspector in Union before hiring?
 
 * Are you independent of the abatement contractor?
 * What is your firm certification number, and who will do the inspection (their individual credential)?
@@ -28,7 +32,7 @@ canonical: https://leadpaintroster.com/nj/city/union/guide/
 * Will the report meet the requirements of the local rental-inspection or lead law?
 * How soon will I get the written report and any lead-safe certificate?
 
-## Certified pros based in Union
+## Which certified lead pros are based in Union?
 
 ✔ Certified by NJ DCA Lead inspection / evaluation
 
@@ -87,7 +91,9 @@ NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00506 (
 Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat_c.pdf), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NJ0251)
 
-## New Jersey lead paint rules in brief
+## What are New Jersey's lead paint rules?
+
+New Jersey municipalities must inspect, or have a DCA-certified lead evaluation contractor inspect, many rental dwellings for lead-based paint hazards every three years or at tenant turnover, unless there is a valid lead-safe certification.
 
 * Municipalities must inspect, or have a certified lead evaluation contractor inspect, certain single-family, two-family and multiple rental dwellings for lead-based paint hazards every three years or at tenant turnover, unless there is a valid lead-safe certification. Owners and landlords may hire a certified lead evaluation contractor directly (NJ DCA).
 * DCA certifies lead evaluation and abatement contractors. NJDOH licenses the individual inspector/risk assessors, who must work for a DCA-certified contractor (NJDOH).
@@ -95,7 +101,9 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 
 Sources: [NJ DCA lead-safe rental law (P.L.2021, c.182)](https://www.nj.gov/dca/codes/resources/leadpaint.shtml). Plain-language summary, not legal advice. Confirm with the agency.
 
-## What lead work typically costs
+## How much does a lead paint inspection cost in Union?
+
+A national HomeAdvisor guide puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520 (about $3,499). Lead Paint Roster has no Union-specific prices, so get written quotes.
 
 | Item | Typical range (national) |
 | --- | --- |

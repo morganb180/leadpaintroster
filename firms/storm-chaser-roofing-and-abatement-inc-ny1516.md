@@ -1,6 +1,6 @@
 ---
-title: "Storm Chaser Roofing and Abatement Inc, Ozone Park, NY | Lead Paint Roster"
-description: "Storm Chaser Roofing and Abatement Inc: Lead abatement in Ozone Park, NY. Licence details, contact and quotes."
+title: "Storm Chaser Roofing and Abatement, Ozone Park NY"
+description: "Storm Chaser Roofing and Abatement Inc in Ozone Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/storm-chaser-roofing-and-abatement-inc-ny1516/
 ---
 

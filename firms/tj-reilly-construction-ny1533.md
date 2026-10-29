@@ -1,6 +1,6 @@
 ---
 title: "TJ Reilly Construction, Auburn, NY | Lead Paint Roster"
-description: "TJ Reilly Construction: Lead abatement in Auburn, NY. Licence details, contact and quotes."
+description: "TJ Reilly Construction in Auburn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/tj-reilly-construction-ny1533/
 ---
 

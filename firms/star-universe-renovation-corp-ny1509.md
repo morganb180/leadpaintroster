@@ -1,6 +1,6 @@
 ---
-title: "Star Universe Renovation Corp, Staten Island, NY | Lead Paint Roster"
-description: "Star Universe Renovation Corp: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+title: "Star Universe Renovation: Lead Abatement, Staten Island NY"
+description: "Star Universe Renovation Corp in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/star-universe-renovation-corp-ny1509/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Hudson Valley Environmental LLC, Pomona, NY | Lead Paint Roster"
-description: "Hudson Valley Environmental LLC: Lead inspection / evaluation in Pomona, NY. Licence details, contact and quotes."
+title: "Hudson Valley Environmental: Lead Paint Inspector, Pomona NY"
+description: "Hudson Valley Environmental LLC in Pomona, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/hudson-valley-environmental-llc-ny0329/
 ---
 

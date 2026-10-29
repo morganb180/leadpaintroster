@@ -1,5 +1,5 @@
 ---
-title: "Castlestone Construction Corp., Long Island City, NY | Lead Paint Roster"
+title: "Castlestone Construction, Long Island City NY"
 description: "Castlestone Construction Corp.: Lead abatement, Lead inspection / evaluation in Long Island City, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/castlestone-construction-corp-ny0160/
 ---

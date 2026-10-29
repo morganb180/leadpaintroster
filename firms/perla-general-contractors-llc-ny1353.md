@@ -1,6 +1,6 @@
 ---
-title: "Perla General Contractors LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Perla General Contractors LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Perla General Contractors LLC: Lead Abatement, Brooklyn NY"
+description: "Perla General Contractors LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/perla-general-contractors-llc-ny1353/
 ---
 

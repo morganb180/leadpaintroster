@@ -1,6 +1,6 @@
 ---
-title: "Marraflo Maintenance Contracting, Long Island City, NY | Lead Paint Roster"
-description: "Marraflo Maintenance Contracting: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
+title: "Marraflo Maintenance Contracting, Long Island City NY"
+description: "Marraflo Maintenance Contracting in Long Island City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/marraflo-maintenance-contracting-ny1227/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "M.A.B Renovation Group, Corp., New York, NY | Lead Paint Roster"
-description: "M.A.B Renovation Group, Corp.: Lead abatement in New York, NY. Licence details, contact and quotes."
+title: "M.A.B Renovation Group, Corp.: Lead Abatement, New York NY"
+description: "M.A.B Renovation Group, Corp. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/m-a-b-renovation-group-corp-ny1198/
 ---
 

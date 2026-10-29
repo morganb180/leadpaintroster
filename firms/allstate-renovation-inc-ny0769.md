@@ -1,6 +1,6 @@
 ---
 title: "Allstate Renovation, Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Allstate Renovation, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Allstate Renovation, Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/allstate-renovation-inc-ny0769/
 ---
 

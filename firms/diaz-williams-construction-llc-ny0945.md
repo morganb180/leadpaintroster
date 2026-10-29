@@ -1,6 +1,6 @@
 ---
-title: "Diaz-Williams Construction, LLC, Syracuse, NY | Lead Paint Roster"
-description: "Diaz-Williams Construction, LLC: Lead abatement in Syracuse, NY. Licence details, contact and quotes."
+title: "Diaz-Williams Construction, LLC: Lead Abatement, Syracuse NY"
+description: "Diaz-Williams Construction, LLC in Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/diaz-williams-construction-llc-ny0945/
 ---
 

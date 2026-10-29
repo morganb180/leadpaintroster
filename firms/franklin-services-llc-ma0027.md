@@ -1,6 +1,6 @@
 ---
 title: "Franklin Services LLC, Marion, MA | Lead Paint Roster"
-description: "Franklin Services LLC: Lead risk assessment in Marion, MA. Licence details, contact and quotes."
+description: "Franklin Services LLC in Marion, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/franklin-services-llc-ma0027/
 ---
 

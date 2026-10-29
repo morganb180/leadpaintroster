@@ -1,6 +1,6 @@
 ---
-title: "Certified Environmental NY Inc., Airmont, NY | Lead Paint Roster"
-description: "Certified Environmental NY Inc.: Lead abatement in Airmont, NY. Licence details, contact and quotes."
+title: "Certified Environmental NY Inc.: Lead Abatement, Airmont NY"
+description: "Certified Environmental NY Inc. in Airmont, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/certified-environmental-ny-inc-ny0893/
 ---
 

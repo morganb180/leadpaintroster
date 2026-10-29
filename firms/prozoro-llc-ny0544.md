@@ -1,6 +1,6 @@
 ---
 title: "Prozoro LLC, Queens, NY | Lead Paint Roster"
-description: "Prozoro LLC: Lead inspection / evaluation in Queens, NY. Licence details, contact and quotes."
+description: "Prozoro LLC in Queens, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/prozoro-llc-ny0544/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Hamalia Restoration Corporation, Brooklyn, NY | Lead Paint Roster"
+title: "Hamalia Restoration: Lead Inspection/Abatement, Brooklyn NY"
 description: "Hamalia Restoration Corporation: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/hamalia-restoration-corporation-ny0312/
 ---

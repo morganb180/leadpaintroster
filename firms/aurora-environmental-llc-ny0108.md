@@ -1,6 +1,6 @@
 ---
-title: "Aurora Environmental LLC, West Seneca, NY | Lead Paint Roster"
-description: "Aurora Environmental LLC: Lead inspection / evaluation in West Seneca, NY. Licence details, contact and quotes."
+title: "Aurora Environmental: Lead Paint Inspector, West Seneca NY"
+description: "Aurora Environmental LLC in West Seneca, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/aurora-environmental-llc-ny0108/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Miller Environmental Group, Inc., Calverton, NY | Lead Paint Roster"
-description: "Miller Environmental Group, Inc.: Lead abatement in Calverton, NY. Licence details, contact and quotes."
+title: "Miller Environmental Group: Lead Abatement, Calverton NY"
+description: "Miller Environmental Group, Inc. in Calverton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/miller-environmental-group-inc-ny1255/
 ---
 

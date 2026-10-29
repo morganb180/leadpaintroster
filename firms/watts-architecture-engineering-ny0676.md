@@ -1,6 +1,6 @@
 ---
-title: "Watts Architecture & Engineering, Buffalo, NY | Lead Paint Roster"
-description: "Watts Architecture & Engineering: Lead inspection / evaluation in Buffalo, NY. Licence details, contact and quotes."
+title: "Watts Architecture & Engineering: Lead Inspector, Buffalo NY"
+description: "Watts Architecture & Engineering in Buffalo, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/watts-architecture-engineering-ny0676/
 ---
 

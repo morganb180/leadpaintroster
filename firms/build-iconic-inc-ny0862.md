@@ -1,6 +1,6 @@
 ---
 title: "Build Iconic Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Build Iconic Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Build Iconic Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/build-iconic-inc-ny0862/
 ---
 

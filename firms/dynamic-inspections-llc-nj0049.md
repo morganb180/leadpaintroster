@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Inspections, LLC, Princeton, NJ | Lead Paint Roster"
-description: "Dynamic Inspections, LLC: Lead inspection / evaluation in Princeton, NJ. Licence details, contact and quotes."
+description: "Dynamic Inspections, LLC in Princeton, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/dynamic-inspections-llc-nj0049/
 ---
 

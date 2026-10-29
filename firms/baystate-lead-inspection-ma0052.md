@@ -1,6 +1,6 @@
 ---
 title: "Baystate Lead Inspection, Waltham, MA | Lead Paint Roster"
-description: "Baystate Lead Inspection: Lead risk assessment in Waltham, MA. Licence details, contact and quotes."
+description: "Baystate Lead Inspection in Waltham, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/baystate-lead-inspection-ma0052/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Pinnacle Environmental Corp., Carlstadt, NJ | Lead Paint Roster"
-description: "Pinnacle Environmental Corp.: Lead abatement in Carlstadt, NJ. Licence details, contact and quotes."
+title: "Pinnacle Environmental Corp.: Lead Abatement, Carlstadt NJ"
+description: "Pinnacle Environmental Corp. in Carlstadt, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/pinnacle-environmental-corp-nj0235/
 ---
 

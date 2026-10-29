@@ -1,6 +1,6 @@
 ---
-title: "Empire Control Abatement, Inc., Plainview, NY | Lead Paint Roster"
-description: "Empire Control Abatement, Inc.: Lead abatement in Plainview, NY. Licence details, contact and quotes."
+title: "Empire Control Abatement, Inc.: Lead Abatement, Plainview NY"
+description: "Empire Control Abatement, Inc. in Plainview, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/empire-control-abatement-inc-ny0989/
 ---
 

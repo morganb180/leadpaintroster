@@ -1,6 +1,6 @@
 ---
-title: "Imperial Restoration Services LLC, Ozone Park, NY | Lead Paint Roster"
-description: "Imperial Restoration Services LLC: Lead abatement in Ozone Park, NY. Licence details, contact and quotes."
+title: "Imperial Restoration Services: Lead Abatement, Ozone Park NY"
+description: "Imperial Restoration Services LLC in Ozone Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/imperial-restoration-services-llc-ny1097/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Liro Engineers, Inc., Syosset, NY | Lead Paint Roster"
-description: "Liro Engineers, Inc.: Lead inspection / evaluation in Syosset, NY. Licence details, contact and quotes."
+description: "Liro Engineers, Inc. in Syosset, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/liro-engineers-inc-ny0423/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "GID Industries, Yonkers, NY | Lead Paint Roster"
-description: "GID Industries: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
+description: "GID Industries in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/gid-industries-ny1040/
 ---
 

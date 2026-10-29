@@ -1,6 +1,6 @@
 ---
 title: "Alpha Environmental, Quincy, MA | Lead Paint Roster"
-description: "Alpha Environmental: Lead inspection / evaluation in Quincy, MA. Licence details, contact and quotes."
+description: "Alpha Environmental in Quincy, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/alpha-environmental-ma0037/
 ---
 

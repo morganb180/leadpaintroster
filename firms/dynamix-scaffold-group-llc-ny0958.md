@@ -1,6 +1,6 @@
 ---
 title: "Dynamix Scaffold Group LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Dynamix Scaffold Group LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Dynamix Scaffold Group LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/dynamix-scaffold-group-llc-ny0958/
 ---
 

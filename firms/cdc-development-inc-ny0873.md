@@ -1,6 +1,6 @@
 ---
 title: "CDC Development Inc, New Rochelle, NY | Lead Paint Roster"
-description: "CDC Development Inc: Lead abatement in New Rochelle, NY. Licence details, contact and quotes."
+description: "CDC Development Inc in New Rochelle, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/cdc-development-inc-ny0873/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Jamaica, NY: 20 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Jamaica, NY"
 description: "20 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Jamaica, New York, plus 304 more in Queens County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/jamaica/
 ---
@@ -8,13 +8,17 @@ canonical: https://leadpaintroster.com/ny/city/jamaica/
 
 # Certified lead paint inspectors & abatement firms in Jamaica, NY
 
+**Quick answer:** For landlords, owners, buyers and parents in Jamaica, NY: Lead Paint Roster lists 20 EPA-licensed lead paint listings with an address in Jamaica (8 lead inspection / evaluation, 18 lead abatement) and 304 more elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address. Check each licence with EPA before you hire, and read the [Jamaica hiring guide](https://leadpaintroster.com/ny/city/jamaica/guide/) for questions to ask and typical costs.
+
 20 EPA-licensed listings give an address in Jamaica (8 lead inspection / evaluation, 18 lead abatement), and 304 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Jamaica hiring guide →**](https://leadpaintroster.com/ny/city/jamaica/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Jamaica](https://leadpaintroster.com/get-quotes/?city=jamaica&st=ny)
 
-## Based in Jamaica
+## Which certified lead paint firms are based in Jamaica, NY?
+
+Lead Paint Roster lists 20 EPA-licensed listings with an address in Jamaica: 8 lead inspection & evaluation firms and 12 lead abatement contractors. Each listing appears once below, even if it holds both licences.
 
 ### Lead inspection & evaluation firms (8)
 
@@ -286,11 +290,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-85954-3 (exp. 2026-10-25)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1633)
 
-## Elsewhere in Queens County (304)
+## Which other certified lead paint firms are in Queens County? (304)
+
+304 more listings have an address elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address in Jamaica.
 
 [See all 324 Queens County listings →](https://leadpaintroster.com/ny/county/queens/)
 
-## More cities in Queens County
+## Which other Queens County cities have lead paint pages?
 
 [Astoria](https://leadpaintroster.com/ny/city/astoria/) · [Long Island City](https://leadpaintroster.com/ny/city/long-island-city/) · [Flushing](https://leadpaintroster.com/ny/city/flushing/) · [Maspeth](https://leadpaintroster.com/ny/city/maspeth/) · [Queens](https://leadpaintroster.com/ny/city/queens/) · [East Elmhurst](https://leadpaintroster.com/ny/city/east-elmhurst/)
 

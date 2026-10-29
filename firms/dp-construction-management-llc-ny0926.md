@@ -1,6 +1,6 @@
 ---
-title: "DP Construction Management LLC, Manhattan, NY | Lead Paint Roster"
-description: "DP Construction Management LLC: Lead abatement in Manhattan, NY. Licence details, contact and quotes."
+title: "DP Construction Management LLC: Lead Abatement, Manhattan NY"
+description: "DP Construction Management LLC in Manhattan, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/dp-construction-management-llc-ny0926/
 ---
 

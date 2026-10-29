@@ -1,6 +1,6 @@
 ---
-title: "Roger Seasonwein Asc, Inc, Mt. Vernon, NY | Lead Paint Roster"
-description: "Roger Seasonwein Asc, Inc: Lead abatement in Mt. Vernon, NY. Licence details, contact and quotes."
+title: "Roger Seasonwein Asc, Inc: Lead Abatement, Mt. Vernon NY"
+description: "Roger Seasonwein Asc, Inc in Mt. Vernon, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/roger-seasonwein-asc-inc-ny1441/
 ---
 

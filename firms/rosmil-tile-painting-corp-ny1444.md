@@ -1,6 +1,6 @@
 ---
-title: "Rosmil Tile & Painting Corp., New Rochelle, NY | Lead Paint Roster"
-description: "Rosmil Tile & Painting Corp.: Lead abatement in New Rochelle, NY. Licence details, contact and quotes."
+title: "Rosmil Tile & Painting: Lead Abatement, New Rochelle NY"
+description: "Rosmil Tile & Painting Corp. in New Rochelle, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/rosmil-tile-painting-corp-ny1444/
 ---
 

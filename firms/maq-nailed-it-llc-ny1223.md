@@ -1,6 +1,6 @@
 ---
 title: "Maq Nailed It LLC., Bronx, NY | Lead Paint Roster"
-description: "Maq Nailed It LLC.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Maq Nailed It LLC. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/maq-nailed-it-llc-ny1223/
 ---
 

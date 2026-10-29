@@ -1,5 +1,5 @@
 ---
-title: "Nex Gen Construction Inc, Shelter Island, NY | Lead Paint Roster"
+title: "Nex Gen Construction: Lead Paint Pro, Shelter Island NY"
 description: "Nex Gen Construction Inc: Lead abatement, Lead inspection / evaluation in Shelter Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nex-gen-construction-inc-ny0497/
 ---

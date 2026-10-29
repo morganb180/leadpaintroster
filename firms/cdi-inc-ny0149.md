@@ -1,6 +1,6 @@
 ---
 title: "CDI, Inc., Yonkers, NY | Lead Paint Roster"
-description: "CDI, Inc.: Lead abatement, Lead inspection / evaluation in Yonkers, NY. Licence details, contact and quotes."
+description: "CDI, Inc. in Yonkers, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/cdi-inc-ny0149/
 ---
 

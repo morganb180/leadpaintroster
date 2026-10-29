@@ -1,5 +1,5 @@
 ---
-title: "Better Community Neighborhoods Inc, Schenectady, NY | Lead Paint Roster"
+title: "Better Community Neighborhoods, Schenectady NY"
 description: "Better Community Neighborhoods Inc: Lead abatement, Lead inspection / evaluation in Schenectady, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/better-community-neighborhoods-inc-ny0129/
 ---

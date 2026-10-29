@@ -1,6 +1,6 @@
 ---
-title: "A House Into A Home Real Estate Investing, Rochester, NY | Lead Paint Roster"
-description: "A House Into A Home Real Estate Investing: Lead abatement in Rochester, NY. Licence details, contact and quotes."
+title: "A House Into A Home Real Estate Investing, Rochester NY"
+description: "A House Into A Home Real Estate Investing in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/a-house-into-a-home-real-estate-investing-ny0702/
 ---
 

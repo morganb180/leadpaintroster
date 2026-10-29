@@ -1,6 +1,6 @@
 ---
-title: "Nova Environmental Group LLC, New York, NY | Lead Paint Roster"
-description: "Nova Environmental Group LLC: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+title: "Nova Environmental Group: Lead Paint Inspector, New York NY"
+description: "Nova Environmental Group LLC in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/nova-environmental-group-llc-ny0503/
 ---
 

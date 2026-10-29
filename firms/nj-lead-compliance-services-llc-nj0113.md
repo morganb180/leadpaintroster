@@ -1,5 +1,5 @@
 ---
-title: "NJ Lead & Compliance Services, LLC, Bloomfield, NJ | Lead Paint Roster"
+title: "NJ Lead & Compliance Services: Lead Inspector, Bloomfield NJ"
 description: "NJ Lead & Compliance Services, LLC: Lead inspection / evaluation in Bloomfield, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/nj-lead-compliance-services-llc-nj0113/
 ---

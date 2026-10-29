@@ -1,6 +1,6 @@
 ---
-title: "Alpine Environmental Services, Inc., Albany, NY | Lead Paint Roster"
-description: "Alpine Environmental Services, Inc.: Lead inspection / evaluation in Albany, NY. Licence details, contact and quotes."
+title: "Alpine Environmental Services: Lead Inspector, Albany NY"
+description: "Alpine Environmental Services, Inc. in Albany, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/alpine-environmental-services-inc-ny0084/
 ---
 

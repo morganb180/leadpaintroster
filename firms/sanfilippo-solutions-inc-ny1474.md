@@ -1,6 +1,6 @@
 ---
 title: "Sanfilippo Solutions Inc, Falconer, NY | Lead Paint Roster"
-description: "Sanfilippo Solutions Inc: Lead abatement in Falconer, NY. Licence details, contact and quotes."
+description: "Sanfilippo Solutions Inc in Falconer, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sanfilippo-solutions-inc-ny1474/
 ---
 

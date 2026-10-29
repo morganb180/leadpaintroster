@@ -1,6 +1,6 @@
 ---
 title: "Apex builders, Cobleskill, NY | Lead Paint Roster"
-description: "Apex builders: Lead abatement in Cobleskill, NY. Licence details, contact and quotes."
+description: "Apex builders in Cobleskill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/apex-builders-ny0789/
 ---
 

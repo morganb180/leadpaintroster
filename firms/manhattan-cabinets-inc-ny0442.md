@@ -1,6 +1,6 @@
 ---
 title: "Manhattan Cabinets Inc., New York, NY | Lead Paint Roster"
-description: "Manhattan Cabinets Inc.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+description: "Manhattan Cabinets Inc. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/manhattan-cabinets-inc-ny0442/
 ---
 

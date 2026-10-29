@@ -1,6 +1,6 @@
 ---
 title: "Enviroscience Solutions LLC, Orange, NJ | Lead Paint Roster"
-description: "Enviroscience Solutions LLC: Lead abatement in Orange, NJ. Licence details, contact and quotes."
+description: "Enviroscience Solutions LLC in Orange, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/enviroscience-solutions-llc-nj0214/
 ---
 

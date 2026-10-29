@@ -1,6 +1,6 @@
 ---
 title: "Lead and Mold NY LLC, Great Neck, NY | Lead Paint Roster"
-description: "Lead and Mold NY LLC: Lead abatement in Great Neck, NY. Licence details, contact and quotes."
+description: "Lead and Mold NY LLC in Great Neck, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lead-and-mold-ny-llc-ny1175/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Sri Sai Enterprises, LLC, Piscataway, NJ | Lead Paint Roster"
-description: "Sri Sai Enterprises, LLC: Lead inspection / evaluation in Piscataway, NJ. Licence details, contact and quotes."
+description: "Sri Sai Enterprises, LLC in Piscataway, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/sri-sai-enterprises-llc-nj0159/
 ---
 

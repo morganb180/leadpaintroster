@@ -1,6 +1,6 @@
 ---
 title: "Lake Effect Painting, West Seneca, NY | Lead Paint Roster"
-description: "Lake Effect Painting: Lead abatement in West Seneca, NY. Licence details, contact and quotes."
+description: "Lake Effect Painting in West Seneca, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lake-effect-painting-ny1169/
 ---
 

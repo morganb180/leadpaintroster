@@ -1,6 +1,6 @@
 ---
 title: "Lead Watch, Scarsdale, NY | Lead Paint Roster"
-description: "Lead Watch: Lead inspection / evaluation in Scarsdale, NY. Licence details, contact and quotes."
+description: "Lead Watch in Scarsdale, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lead-watch-ny0403/
 ---
 

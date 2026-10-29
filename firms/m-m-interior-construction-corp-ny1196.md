@@ -1,6 +1,6 @@
 ---
-title: "M&m Interior Construction Corp., Bronx, NY | Lead Paint Roster"
-description: "M&m Interior Construction Corp.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+title: "M&m Interior Construction Corp.: Lead Abatement, Bronx NY"
+description: "M&m Interior Construction Corp. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/m-m-interior-construction-corp-ny1196/
 ---
 

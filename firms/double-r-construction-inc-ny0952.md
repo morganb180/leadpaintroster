@@ -1,6 +1,6 @@
 ---
 title: "Double R Construction Inc., Selden, NY | Lead Paint Roster"
-description: "Double R Construction Inc.: Lead abatement in Selden, NY. Licence details, contact and quotes."
+description: "Double R Construction Inc. in Selden, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/double-r-construction-inc-ny0952/
 ---
 

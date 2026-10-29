@@ -1,6 +1,6 @@
 ---
 title: "NYTX Management LLC, E Syracuse, NY | Lead Paint Roster"
-description: "NYTX Management LLC: Lead abatement in E Syracuse, NY. Licence details, contact and quotes."
+description: "NYTX Management LLC in E Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/nytx-management-llc-ny1282/
 ---
 

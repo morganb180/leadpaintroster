@@ -1,6 +1,6 @@
 ---
 title: "Van Dyk Solutions LLC, Cambridge, NY | Lead Paint Roster"
-description: "Van Dyk Solutions LLC: Lead abatement in Cambridge, NY. Licence details, contact and quotes."
+description: "Van Dyk Solutions LLC in Cambridge, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/van-dyk-solutions-llc-ny1593/
 ---
 

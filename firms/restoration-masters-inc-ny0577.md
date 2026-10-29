@@ -1,5 +1,5 @@
 ---
-title: "Restoration Masters Inc, New Hyde Park, NY | Lead Paint Roster"
+title: "Restoration Masters: Lead Paint Pro, New Hyde Park NY"
 description: "Restoration Masters Inc: Lead abatement, Lead inspection / evaluation in New Hyde Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/restoration-masters-inc-ny0577/
 ---

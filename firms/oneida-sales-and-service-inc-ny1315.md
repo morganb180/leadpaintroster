@@ -1,6 +1,6 @@
 ---
-title: "Oneida Sales and Service, Inc., Lackawanna, NY | Lead Paint Roster"
-description: "Oneida Sales and Service, Inc.: Lead abatement in Lackawanna, NY. Licence details, contact and quotes."
+title: "Oneida Sales and Service: Lead Abatement, Lackawanna NY"
+description: "Oneida Sales and Service, Inc. in Lackawanna, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/oneida-sales-and-service-inc-ny1315/
 ---
 

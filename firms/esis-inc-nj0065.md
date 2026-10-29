@@ -1,6 +1,6 @@
 ---
 title: "Esis, Inc., Philadelphia, PA | Lead Paint Roster"
-description: "Esis, Inc.: Lead inspection / evaluation in Philadelphia, PA. Licence details, contact and quotes."
+description: "Esis, Inc. in Philadelphia, PA: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/esis-inc-nj0065/
 ---
 

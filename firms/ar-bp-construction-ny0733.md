@@ -1,6 +1,6 @@
 ---
 title: "AR BP Construction, Corona, NY | Lead Paint Roster"
-description: "AR BP Construction: Lead abatement in Corona, NY. Licence details, contact and quotes."
+description: "AR BP Construction in Corona, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ar-bp-construction-ny0733/
 ---
 

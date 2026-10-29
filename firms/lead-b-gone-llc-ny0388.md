@@ -1,6 +1,6 @@
 ---
 title: "Lead B Gone LLC., New York, NY | Lead Paint Roster"
-description: "Lead B Gone LLC.: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+description: "Lead B Gone LLC. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lead-b-gone-llc-ny0388/
 ---
 

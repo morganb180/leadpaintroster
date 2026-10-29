@@ -1,6 +1,6 @@
 ---
 title: "AAA Green Environmental, Edison, NJ | Lead Paint Roster"
-description: "AAA Green Environmental: Lead inspection / evaluation in Edison, NJ. Licence details, contact and quotes."
+description: "AAA Green Environmental in Edison, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/aaa-green-environmental-nj0008/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Wrs Environmental Services, Inc. dba Champion Enviromental Services, Yaphank, NY | Lead Paint Roster"
+title: "Wrs Environmental Services, Inc. dba Champion Enviromental"
 description: "Wrs Environmental Services, Inc. dba Champion Enviromental Services: Lead abatement in Yaphank, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/wrs-environmental-services-inc-dba-champion-enviromental-ser-ny1618/
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Jay Frango LLC, Howard Beach, NY | Lead Paint Roster"
-description: "Jay Frango LLC: Lead abatement in Howard Beach, NY. Licence details, contact and quotes."
+description: "Jay Frango LLC in Howard Beach, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/jay-frango-llc-ny1136/
 ---
 

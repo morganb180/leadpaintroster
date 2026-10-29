@@ -1,6 +1,6 @@
 ---
 title: "SFK Total LLC, Congers, NY | Lead Paint Roster"
-description: "SFK Total LLC: Lead inspection / evaluation in Congers, NY. Licence details, contact and quotes."
+description: "SFK Total LLC in Congers, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sfk-total-llc-ny0589/
 ---
 

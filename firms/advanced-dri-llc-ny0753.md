@@ -1,6 +1,6 @@
 ---
 title: "Advanced DRI LLC, New Hampton, NY | Lead Paint Roster"
-description: "Advanced DRI LLC: Lead abatement in New Hampton, NY. Licence details, contact and quotes."
+description: "Advanced DRI LLC in New Hampton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/advanced-dri-llc-ny0753/
 ---
 

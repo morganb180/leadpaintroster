@@ -1,6 +1,6 @@
 ---
 title: "Hispanic Ventures, Inc., Absecon, NJ | Lead Paint Roster"
-description: "Hispanic Ventures, Inc.: Lead abatement in Absecon, NJ. Licence details, contact and quotes."
+description: "Hispanic Ventures, Inc. in Absecon, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/hispanic-ventures-inc-nj0220/
 ---
 

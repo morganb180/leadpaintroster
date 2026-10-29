@@ -1,6 +1,6 @@
 ---
 title: "Underrated Imagination, Bellerose, NY | Lead Paint Roster"
-description: "Underrated Imagination: Lead inspection / evaluation in Bellerose, NY. Licence details, contact and quotes."
+description: "Underrated Imagination in Bellerose, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/underrated-imagination-ny0658/
 ---
 

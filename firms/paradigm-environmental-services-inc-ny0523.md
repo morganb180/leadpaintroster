@@ -1,5 +1,5 @@
 ---
-title: "Paradigm Environmental Services, Inc., Rochester, NY | Lead Paint Roster"
+title: "Paradigm Environmental Services, Rochester NY"
 description: "Paradigm Environmental Services, Inc.: Lead inspection / evaluation in Rochester, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/paradigm-environmental-services-inc-ny0523/
 ---

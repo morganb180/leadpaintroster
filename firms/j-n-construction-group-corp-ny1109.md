@@ -1,6 +1,6 @@
 ---
-title: "J&N Construction Group Corp., Ozone Park, NY | Lead Paint Roster"
-description: "J&N Construction Group Corp.: Lead abatement in Ozone Park, NY. Licence details, contact and quotes."
+title: "J&N Construction Group Corp.: Lead Abatement, Ozone Park NY"
+description: "J&N Construction Group Corp. in Ozone Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/j-n-construction-group-corp-ny1109/
 ---
 

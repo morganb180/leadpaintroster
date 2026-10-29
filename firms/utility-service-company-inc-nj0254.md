@@ -1,6 +1,6 @@
 ---
 title: "Utility Service Company, Inc., Perry, GA | Lead Paint Roster"
-description: "Utility Service Company, Inc.: Lead abatement in Perry, GA. Licence details, contact and quotes."
+description: "Utility Service Company, Inc. in Perry, GA: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/utility-service-company-inc-nj0254/
 ---
 

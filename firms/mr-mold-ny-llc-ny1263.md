@@ -1,6 +1,6 @@
 ---
 title: "Mr. Mold NY LLC, Bronx, NY | Lead Paint Roster"
-description: "Mr. Mold NY LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Mr. Mold NY LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/mr-mold-ny-llc-ny1263/
 ---
 

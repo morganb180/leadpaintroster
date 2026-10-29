@@ -1,6 +1,6 @@
 ---
-title: "Artistic Building Trades, LLC, Union Township, NJ | Lead Paint Roster"
-description: "Artistic Building Trades, LLC: Lead abatement in Union Township, NJ. Licence details, contact and quotes."
+title: "Artistic Building Trades: Lead Abatement, Union Township NJ"
+description: "Artistic Building Trades, LLC in Union Township, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/artistic-building-trades-llc-nj0194/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Maxons Restorations Inc, New York, NY | Lead Paint Roster"
-description: "Maxons Restorations Inc: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "Maxons Restorations Inc in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/maxons-restorations-inc-ny1233/
 ---
 

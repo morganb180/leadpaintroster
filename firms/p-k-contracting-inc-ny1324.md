@@ -1,6 +1,6 @@
 ---
-title: "P & K Contracting, Inc., New Hyde Park, NY | Lead Paint Roster"
-description: "P & K Contracting, Inc.: Lead abatement in New Hyde Park, NY. Licence details, contact and quotes."
+title: "P & K Contracting, Inc.: Lead Abatement, New Hyde Park NY"
+description: "P & K Contracting, Inc. in New Hyde Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/p-k-contracting-inc-ny1324/
 ---
 

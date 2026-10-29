@@ -1,5 +1,5 @@
 ---
-title: "J.P. Moore Home Improvements, Yonkers, NY | Lead Paint Roster"
+title: "J.P. Moore Home Improvements: Lead Paint Pro, Yonkers NY"
 description: "J.P. Moore Home Improvements: Lead abatement, Lead inspection / evaluation in Yonkers, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/j-p-moore-home-improvements-ny0341/
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Incrementum NY LLC, Astoria, NY | Lead Paint Roster"
-description: "Incrementum NY LLC: Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
+description: "Incrementum NY LLC in Astoria, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/incrementum-ny-llc-ny0334/
 ---
 

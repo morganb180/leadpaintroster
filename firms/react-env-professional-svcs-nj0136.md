@@ -1,6 +1,6 @@
 ---
-title: "React Env. Professional Svcs., Philadelphia, PA | Lead Paint Roster"
-description: "React Env. Professional Svcs.: Lead inspection / evaluation in Philadelphia, PA. Licence details, contact and quotes."
+title: "React Env. Professional Svcs., Philadelphia PA"
+description: "React Env. Professional Svcs. in Philadelphia, PA: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/react-env-professional-svcs-nj0136/
 ---
 

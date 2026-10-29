@@ -1,6 +1,6 @@
 ---
-title: "SAI Environmental Consultants, Inc., Astoria, NY | Lead Paint Roster"
-description: "SAI Environmental Consultants, Inc.: Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
+title: "SAI Environmental Consultants: Lead Inspector, Astoria NY"
+description: "SAI Environmental Consultants, Inc. in Astoria, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/sai-environmental-consultants-inc-ny0587/
 ---
 

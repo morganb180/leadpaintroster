@@ -1,6 +1,6 @@
 ---
 title: "Lakonia Group LLC, Mineola, NY | Lead Paint Roster"
-description: "Lakonia Group LLC: Lead inspection / evaluation in Mineola, NY. Licence details, contact and quotes."
+description: "Lakonia Group LLC in Mineola, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lakonia-group-llc-ny0382/
 ---
 

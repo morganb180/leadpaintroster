@@ -1,6 +1,6 @@
 ---
 title: "TLD Services Inc, Jamaica, NY | Lead Paint Roster"
-description: "TLD Services Inc: Lead abatement in Jamaica, NY. Licence details, contact and quotes."
+description: "TLD Services Inc in Jamaica, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/tld-services-inc-ny1535/
 ---
 

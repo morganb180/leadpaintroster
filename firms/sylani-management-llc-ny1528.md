@@ -1,6 +1,6 @@
 ---
 title: "Sylani Management LLC, Eastchester, NY | Lead Paint Roster"
-description: "Sylani Management LLC: Lead abatement in Eastchester, NY. Licence details, contact and quotes."
+description: "Sylani Management LLC in Eastchester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sylani-management-llc-ny1528/
 ---
 

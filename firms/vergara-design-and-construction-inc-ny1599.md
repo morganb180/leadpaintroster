@@ -1,6 +1,6 @@
 ---
-title: "Vergara Design and Construction, Inc., Queens, NY | Lead Paint Roster"
-description: "Vergara Design and Construction, Inc.: Lead abatement in Queens, NY. Licence details, contact and quotes."
+title: "Vergara Design and Construction: Lead Abatement, Queens NY"
+description: "Vergara Design and Construction, Inc. in Queens, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/vergara-design-and-construction-inc-ny1599/
 ---
 

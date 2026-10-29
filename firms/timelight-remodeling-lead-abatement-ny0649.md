@@ -1,6 +1,6 @@
 ---
-title: "Timelight Remodeling Lead Abatement, Bronx, NY | Lead Paint Roster"
-description: "Timelight Remodeling Lead Abatement: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
+title: "Timelight Remodeling Lead Abatement, Bronx NY"
+description: "Timelight Remodeling Lead Abatement in Bronx, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/timelight-remodeling-lead-abatement-ny0649/
 ---
 

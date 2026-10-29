@@ -1,5 +1,5 @@
 ---
-title: "Children's Choice Deleading & Environmental Inspections, Brockton, MA | Lead Paint Roster"
+title: "Children's Choice Deleading & Environmental Inspections"
 description: "Children's Choice Deleading & Environmental Inspections: Lead risk assessment in Brockton, MA. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/children-s-choice-deleading-environmental-inspections-ma0009/
 ---

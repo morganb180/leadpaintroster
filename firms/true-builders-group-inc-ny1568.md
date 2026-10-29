@@ -1,6 +1,6 @@
 ---
 title: "True Builders Group, Inc., Brooklyn, NY | Lead Paint Roster"
-description: "True Builders Group, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "True Builders Group, Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/true-builders-group-inc-ny1568/
 ---
 

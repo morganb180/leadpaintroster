@@ -1,6 +1,6 @@
 ---
-title: "JMR Construction Management, Corp., Bronx, NY | Lead Paint Roster"
-description: "JMR Construction Management, Corp.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+title: "JMR Construction Management, Corp.: Lead Abatement, Bronx NY"
+description: "JMR Construction Management, Corp. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/jmr-construction-management-corp-ny1123/
 ---
 

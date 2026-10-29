@@ -1,6 +1,6 @@
 ---
 title: "Umoren Inc., Mount Holly, NJ | Lead Paint Roster"
-description: "Umoren Inc.: Lead inspection / evaluation in Mount Holly, NJ. Licence details, contact and quotes."
+description: "Umoren Inc. in Mount Holly, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/umoren-inc-nj0174/
 ---
 

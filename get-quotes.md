@@ -1,6 +1,6 @@
 ---
-title: "Get free quotes | Lead Paint Roster"
-description: "Send one request to up to 3 certified lead professionals near you."
+title: "Get free quotes from certified lead pros | Lead Paint Roster"
+description: "How to get 2-3 written quotes from certified lead inspectors near you, using the free Lead Paint Roster listings: who to call, what to ask and what it costs."
 canonical: https://leadpaintroster.com/get-quotes/
 ---
 

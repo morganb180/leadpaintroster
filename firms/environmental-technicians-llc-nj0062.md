@@ -1,6 +1,6 @@
 ---
-title: "Environmental Technicians,llc, Philadelphia, PA | Lead Paint Roster"
-description: "Environmental Technicians,llc: Lead inspection / evaluation in Philadelphia, PA. Licence details, contact and quotes."
+title: "Environmental Technicians,llc, Philadelphia PA"
+description: "Environmental Technicians,llc in Philadelphia, PA: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/environmental-technicians-llc-nj0062/
 ---
 

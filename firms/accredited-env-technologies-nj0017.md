@@ -1,6 +1,6 @@
 ---
 title: "Accredited Env. Technologies, Media, PA | Lead Paint Roster"
-description: "Accredited Env. Technologies: Lead inspection / evaluation in Media, PA. Licence details, contact and quotes."
+description: "Accredited Env. Technologies in Media, PA: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/accredited-env-technologies-nj0017/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Jupiter Painting Cont. Co. Inc, Croydon, PA | Lead Paint Roster"
-description: "Jupiter Painting Cont. Co. Inc: Lead abatement in Croydon, PA. Licence details, contact and quotes."
+title: "Jupiter Painting Cont. Co. Inc: Lead Abatement, Croydon PA"
+description: "Jupiter Painting Cont. Co. Inc in Croydon, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/jupiter-painting-cont-co-inc-nj0226/
 ---
 

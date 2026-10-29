@@ -1,6 +1,6 @@
 ---
 title: "Dean's Construction, Elmira, NY | Lead Paint Roster"
-description: "Dean's Construction: Lead abatement in Elmira, NY. Licence details, contact and quotes."
+description: "Dean's Construction in Elmira, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/dean-s-construction-ny0935/
 ---
 

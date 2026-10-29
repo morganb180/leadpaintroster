@@ -1,6 +1,6 @@
 ---
 title: "Djp Lead, LLC, Fair Lawn, NJ | Lead Paint Roster"
-description: "Djp Lead, LLC: Lead inspection / evaluation in Fair Lawn, NJ. Licence details, contact and quotes."
+description: "Djp Lead, LLC in Fair Lawn, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/djp-lead-llc-nj0046/
 ---
 

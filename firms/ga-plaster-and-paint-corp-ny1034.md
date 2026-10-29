@@ -1,6 +1,6 @@
 ---
 title: "GA Plaster And Paint Corp, Yonkers, NY | Lead Paint Roster"
-description: "GA Plaster And Paint Corp: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
+description: "GA Plaster And Paint Corp in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ga-plaster-and-paint-corp-ny1034/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Tile and Construction LLC, Cohoes, NY | Lead Paint Roster"
-description: "Tile and Construction LLC: Lead abatement in Cohoes, NY. Licence details, contact and quotes."
+description: "Tile and Construction LLC in Cohoes, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/tile-and-construction-llc-ny1550/
 ---
 

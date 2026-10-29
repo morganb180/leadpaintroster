@@ -1,6 +1,6 @@
 ---
 title: "Zheng & Associates LLC, Flushing, NY | Lead Paint Roster"
-description: "Zheng & Associates LLC: Lead inspection / evaluation in Flushing, NY. Licence details, contact and quotes."
+description: "Zheng & Associates LLC in Flushing, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/zheng-associates-llc-ny0685/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ec Solutions Inc., Port Washington, NY | Lead Paint Roster"
-description: "Ec Solutions Inc.: Lead abatement in Port Washington, NY. Licence details, contact and quotes."
+description: "Ec Solutions Inc. in Port Washington, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ec-solutions-inc-ny0966/
 ---
 

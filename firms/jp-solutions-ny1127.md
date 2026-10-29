@@ -1,6 +1,6 @@
 ---
 title: "JP Solutions, Jamaica, NY | Lead Paint Roster"
-description: "JP Solutions: Lead abatement in Jamaica, NY. Licence details, contact and quotes."
+description: "JP Solutions in Jamaica, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/jp-solutions-ny1127/
 ---
 

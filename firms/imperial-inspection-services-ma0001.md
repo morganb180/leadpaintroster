@@ -1,6 +1,6 @@
 ---
-title: "Imperial Inspection Services, Attleboro, MA | Lead Paint Roster"
-description: "Imperial Inspection Services: Lead inspection / evaluation in Attleboro, MA. Licence details, contact and quotes."
+title: "Imperial Inspection Services: Lead Inspector, Attleboro MA"
+description: "Imperial Inspection Services in Attleboro, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/imperial-inspection-services-ma0001/
 ---
 

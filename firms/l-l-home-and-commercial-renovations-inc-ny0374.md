@@ -1,5 +1,5 @@
 ---
-title: "L & L Home and Commercial Renovations Inc, Staten Island, NY | Lead Paint Roster"
+title: "L & L Home and Commercial Renovations, Staten Island NY"
 description: "L & L Home and Commercial Renovations Inc: Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/l-l-home-and-commercial-renovations-inc-ny0374/
 ---

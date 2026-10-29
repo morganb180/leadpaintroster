@@ -1,5 +1,5 @@
 ---
-title: "Paradigm Environmental, LLC, Poughkeepsie, NY | Lead Paint Roster"
+title: "Paradigm Environmental: Lead Paint Pro, Poughkeepsie NY"
 description: "Paradigm Environmental, LLC: Lead abatement, Lead inspection / evaluation in Poughkeepsie, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/paradigm-environmental-llc-ny0524/
 ---

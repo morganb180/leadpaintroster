@@ -1,6 +1,6 @@
 ---
-title: "REIS EY, INC dba Reis Contracting, New York, NY | Lead Paint Roster"
-description: "REIS EY, INC dba Reis Contracting: Lead abatement in New York, NY. Licence details, contact and quotes."
+title: "REIS EY, INC dba Reis Contracting, New York NY"
+description: "REIS EY, INC dba Reis Contracting in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/reis-ey-inc-dba-reis-contracting-ny1401/
 ---
 

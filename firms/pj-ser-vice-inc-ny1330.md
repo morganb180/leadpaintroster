@@ -1,6 +1,6 @@
 ---
 title: "PJ Ser Vice, Inc., Warwick, NY | Lead Paint Roster"
-description: "PJ Ser Vice, Inc.: Lead abatement in Warwick, NY. Licence details, contact and quotes."
+description: "PJ Ser Vice, Inc. in Warwick, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/pj-ser-vice-inc-ny1330/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Actlien Property Management, Hainesport, NJ | Lead Paint Roster"
-description: "Actlien Property Management: Lead inspection / evaluation in Hainesport, NJ. Licence details, contact and quotes."
+title: "Actlien Property Management: Lead Inspector, Hainesport NJ"
+description: "Actlien Property Management in Hainesport, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/actlien-property-management-nj0019/
 ---
 

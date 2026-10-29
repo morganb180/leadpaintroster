@@ -1,6 +1,6 @@
 ---
-title: "Environmental Testing Services, Deptford, NJ | Lead Paint Roster"
-description: "Environmental Testing Services: Lead inspection / evaluation in Deptford, NJ. Licence details, contact and quotes."
+title: "Environmental Testing Services: Lead Inspector, Deptford NJ"
+description: "Environmental Testing Services in Deptford, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/environmental-testing-services-nj0063/
 ---
 

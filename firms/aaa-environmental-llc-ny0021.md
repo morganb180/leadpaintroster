@@ -1,6 +1,6 @@
 ---
 title: "AAA Environmental LLC, Brooklyn, NY | Lead Paint Roster"
-description: "AAA Environmental LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "AAA Environmental LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/aaa-environmental-llc-ny0021/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Lead-Aware Inspections, Astoria, NY | Lead Paint Roster"
-description: "Lead-Aware Inspections: Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
+description: "Lead-Aware Inspections in Astoria, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lead-aware-inspections-ny0405/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Mandell Lead Inspectors, Inc., Totowa, NJ | Lead Paint Roster"
-description: "Mandell Lead Inspectors, Inc.: Lead inspection / evaluation in Totowa, NJ. Licence details, contact and quotes."
+title: "Mandell Lead Inspectors: Lead Paint Inspector, Totowa NJ"
+description: "Mandell Lead Inspectors, Inc. in Totowa, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mandell-lead-inspectors-inc-nj0104/
 ---
 

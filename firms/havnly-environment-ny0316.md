@@ -1,6 +1,6 @@
 ---
 title: "Havnly Environment, Brooklyn, NY | Lead Paint Roster"
-description: "Havnly Environment: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "Havnly Environment in Brooklyn, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/havnly-environment-ny0316/
 ---
 

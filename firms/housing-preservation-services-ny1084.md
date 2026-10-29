@@ -1,6 +1,6 @@
 ---
-title: "Housing Preservation Services, Brooklyn, NY | Lead Paint Roster"
-description: "Housing Preservation Services: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Housing Preservation Services: Lead Abatement, Brooklyn NY"
+description: "Housing Preservation Services in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/housing-preservation-services-ny1084/
 ---
 

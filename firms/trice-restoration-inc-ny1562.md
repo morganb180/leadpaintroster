@@ -1,6 +1,6 @@
 ---
-title: "Trice Restoration Inc., Long Island City, NY | Lead Paint Roster"
-description: "Trice Restoration Inc.: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
+title: "Trice Restoration Inc.: Lead Abatement, Long Island City NY"
+description: "Trice Restoration Inc. in Long Island City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/trice-restoration-inc-ny1562/
 ---
 

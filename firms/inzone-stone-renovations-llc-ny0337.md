@@ -1,5 +1,5 @@
 ---
-title: "Inzone Stone Renovations, LLC, W Hempstead, NY | Lead Paint Roster"
+title: "Inzone Stone Renovations: Lead Paint Pro, W Hempstead NY"
 description: "Inzone Stone Renovations, LLC: Lead abatement, Lead inspection / evaluation in W Hempstead, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/inzone-stone-renovations-llc-ny0337/
 ---

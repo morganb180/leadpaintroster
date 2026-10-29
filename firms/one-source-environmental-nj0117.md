@@ -1,6 +1,6 @@
 ---
 title: "One Source Environmental, Charlotte, NC | Lead Paint Roster"
-description: "One Source Environmental: Lead inspection / evaluation in Charlotte, NC. Licence details, contact and quotes."
+description: "One Source Environmental in Charlotte, NC: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/one-source-environmental-nj0117/
 ---
 

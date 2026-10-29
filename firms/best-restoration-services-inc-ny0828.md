@@ -1,6 +1,6 @@
 ---
-title: "Best Restoration Services Inc., Melville, NY | Lead Paint Roster"
-description: "Best Restoration Services Inc.: Lead abatement in Melville, NY. Licence details, contact and quotes."
+title: "Best Restoration Services Inc.: Lead Abatement, Melville NY"
+description: "Best Restoration Services Inc. in Melville, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/best-restoration-services-inc-ny0828/
 ---
 

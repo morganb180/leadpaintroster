@@ -1,5 +1,5 @@
 ---
-title: "Cortland County Community Action Program, Inc., Cortland, NY | Lead Paint Roster"
+title: "Cortland County Community Action Program, Cortland NY"
 description: "Cortland County Community Action Program, Inc.: Lead inspection / evaluation in Cortland, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cortland-county-community-action-program-inc-ny0183/
 ---

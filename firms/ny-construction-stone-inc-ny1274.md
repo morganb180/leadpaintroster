@@ -1,6 +1,6 @@
 ---
-title: "NY Construction & Stone, Inc., Middle Village, NY | Lead Paint Roster"
-description: "NY Construction & Stone, Inc.: Lead abatement in Middle Village, NY. Licence details, contact and quotes."
+title: "NY Construction & Stone: Lead Abatement, Middle Village NY"
+description: "NY Construction & Stone, Inc. in Middle Village, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ny-construction-stone-inc-ny1274/
 ---
 

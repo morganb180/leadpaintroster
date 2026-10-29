@@ -1,5 +1,5 @@
 ---
-title: "Refind Organization & Design, LLC., Orchard Park, NY | Lead Paint Roster"
+title: "Refind Organization & Design, LLC., Orchard Park NY"
 description: "Refind Organization & Design, LLC.: Lead abatement, Lead inspection / evaluation in Orchard Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/refind-organization-design-llc-ny0569/
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Wrs Environmental Services Inc, Holtsville, NY | Lead Paint Roster"
-description: "Wrs Environmental Services Inc: Lead abatement in Holtsville, NY. Licence details, contact and quotes."
+title: "Wrs Environmental Services: Lead Abatement, Holtsville NY"
+description: "Wrs Environmental Services Inc in Holtsville, NY: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/wrs-environmental-services-inc-nj0255/
 ---
 

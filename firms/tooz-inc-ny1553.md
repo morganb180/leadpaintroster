@@ -1,6 +1,6 @@
 ---
 title: "Tooz, Inc., Little Neck, NY | Lead Paint Roster"
-description: "Tooz, Inc.: Lead abatement in Little Neck, NY. Licence details, contact and quotes."
+description: "Tooz, Inc. in Little Neck, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/tooz-inc-ny1553/
 ---
 

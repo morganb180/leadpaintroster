@@ -1,6 +1,6 @@
 ---
-title: "Abel Baylon Home Improvement, Queens Village, NY | Lead Paint Roster"
-description: "Abel Baylon Home Improvement: Lead abatement in Queens Village, NY. Licence details, contact and quotes."
+title: "Abel Baylon Home Improvement, Queens Village NY"
+description: "Abel Baylon Home Improvement in Queens Village, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/abel-baylon-home-improvement-ny0742/
 ---
 

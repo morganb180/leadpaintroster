@@ -1,6 +1,6 @@
 ---
 title: "SBG Development, LLC, Brooklyn, NY | Lead Paint Roster"
-description: "SBG Development, LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "SBG Development, LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sbg-development-llc-ny1453/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Breaking Solutions, Inc., Mamaroneck, NY | Lead Paint Roster"
-description: "Breaking Solutions, Inc.: Lead abatement in Mamaroneck, NY. Licence details, contact and quotes."
+description: "Breaking Solutions, Inc. in Mamaroneck, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/breaking-solutions-inc-ny0853/
 ---
 

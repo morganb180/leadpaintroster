@@ -1,6 +1,6 @@
 ---
 title: "Homelogic Inspection Services, Wayne, NJ | Lead Paint Roster"
-description: "Homelogic Inspection Services: Lead inspection / evaluation in Wayne, NJ. Licence details, contact and quotes."
+description: "Homelogic Inspection Services in Wayne, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/homelogic-inspection-services-nj0081/
 ---
 

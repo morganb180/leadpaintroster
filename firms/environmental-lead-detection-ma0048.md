@@ -1,6 +1,6 @@
 ---
-title: "Environmental Lead Detection, Swansea, MA | Lead Paint Roster"
-description: "Environmental Lead Detection: Lead risk assessment in Swansea, MA. Licence details, contact and quotes."
+title: "Environmental Lead Detection (John Eastman), Swansea MA"
+description: "Environmental Lead Detection in Swansea, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/environmental-lead-detection-ma0048/
 ---
 

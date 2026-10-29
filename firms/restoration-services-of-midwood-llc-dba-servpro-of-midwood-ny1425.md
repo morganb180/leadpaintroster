@@ -1,5 +1,5 @@
 ---
-title: "Restoration Services of Midwood LLC DBA Servpro of Midwood, Medford, NY | Lead Paint Roster"
+title: "Restoration Services of Midwood LLC DBA Servpro of Midwood"
 description: "Restoration Services of Midwood LLC DBA Servpro of Midwood: Lead abatement in Medford, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/restoration-services-of-midwood-llc-dba-servpro-of-midwood-ny1425/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Union County, NJ: 20 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Union County, NJ"
 description: "20 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms in Union County, New Jersey, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/nj/county/union/
 ---
@@ -12,7 +12,9 @@ canonical: https://leadpaintroster.com/nj/county/union/
 
 City pages: [Elizabeth](https://leadpaintroster.com/nj/city/elizabeth/) · [Union](https://leadpaintroster.com/nj/city/union/)
 
-## Lead inspection & evaluation firms (13)
+## Where can I get a lead paint inspection in Union County, NJ? (13)
+
+Lead Paint Roster lists 13 NJ DCA-licensed listings for lead inspection / evaluation with an address of record in Union County.
 
 ✔ Certified by NJ DCA Lead inspection / evaluation
 
@@ -199,7 +201,9 @@ NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00823 
 Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NJ0013)
 
-## Lead abatement contractors (7)
+## Who does lead paint abatement in Union County, NJ? (7)
+
+7 NJ DCA-licensed lead abatement listings have an address of record in Union County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ Certified by NJ DCA Lead abatement
 
@@ -299,13 +303,13 @@ NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00615 (
 Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat_c.pdf), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NJ0185)
 
-## Neighboring counties
+## Which counties border Union County, NJ?
 
 [Essex](https://leadpaintroster.com/nj/county/essex/) (24) · [Hudson](https://leadpaintroster.com/nj/county/hudson/) (4) · [Middlesex](https://leadpaintroster.com/nj/county/middlesex/) (15) · [Morris](https://leadpaintroster.com/nj/county/morris/) (21) · [Somerset](https://leadpaintroster.com/nj/county/somerset/) (6)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Union County: quick guide
+## How do I hire a lead inspector in Union County?
 
 1. Check the firm or person in the official list ([New Jersey Department of Community Affairs](https://www.nj.gov/dca/codes/offices/leadhazard_abatement.shtml)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

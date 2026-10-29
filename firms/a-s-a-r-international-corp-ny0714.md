@@ -1,6 +1,6 @@
 ---
-title: "A.S.A.R. International Corp., Staten Island, NY | Lead Paint Roster"
-description: "A.S.A.R. International Corp.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+title: "A.S.A.R. International: Lead Abatement, Staten Island NY"
+description: "A.S.A.R. International Corp. in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/a-s-a-r-international-corp-ny0714/
 ---
 

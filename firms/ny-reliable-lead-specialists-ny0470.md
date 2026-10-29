@@ -1,6 +1,6 @@
 ---
-title: "NY Reliable Lead Specialists, Bellerose, NY | Lead Paint Roster"
-description: "NY Reliable Lead Specialists: Lead inspection / evaluation in Bellerose, NY. Licence details, contact and quotes."
+title: "NY Reliable Lead Specialists: Lead Inspector, Bellerose NY"
+description: "NY Reliable Lead Specialists in Bellerose, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ny-reliable-lead-specialists-ny0470/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Proficient Home Improvement Corp., Brooklyn, NY | Lead Paint Roster"
-description: "Proficient Home Improvement Corp.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Proficient Home Improvement: Lead Abatement, Brooklyn NY"
+description: "Proficient Home Improvement Corp. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/proficient-home-improvement-corp-ny1375/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "TEENUSA Construction Corp, Nassau, NY | Lead Paint Roster"
-description: "TEENUSA Construction Corp: Lead abatement in Nassau, NY. Licence details, contact and quotes."
+description: "TEENUSA Construction Corp in Nassau, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/teenusa-construction-corp-ny1530/
 ---
 

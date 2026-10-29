@@ -1,6 +1,6 @@
 ---
 title: "All Lead NJ, LLC, Jersey City, NJ | Lead Paint Roster"
-description: "All Lead NJ, LLC: Lead inspection / evaluation in Jersey City, NJ. Licence details, contact and quotes."
+description: "All Lead NJ, LLC in Jersey City, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/all-lead-nj-llc-nj0025/
 ---
 

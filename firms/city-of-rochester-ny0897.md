@@ -1,6 +1,6 @@
 ---
 title: "City of Rochester, Rochester, NY | Lead Paint Roster"
-description: "City of Rochester: Lead abatement in Rochester, NY. Licence details, contact and quotes."
+description: "City of Rochester in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/city-of-rochester-ny0897/
 ---
 

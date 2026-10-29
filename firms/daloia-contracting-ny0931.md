@@ -1,6 +1,6 @@
 ---
 title: "Daloia Contracting, Schodack Landing, NY | Lead Paint Roster"
-description: "Daloia Contracting: Lead abatement in Schodack Landing, NY. Licence details, contact and quotes."
+description: "Daloia Contracting in Schodack Landing, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/daloia-contracting-ny0931/
 ---
 

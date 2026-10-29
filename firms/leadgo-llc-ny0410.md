@@ -1,6 +1,6 @@
 ---
 title: "LeadGo LLC, Monsey, NY | Lead Paint Roster"
-description: "LeadGo LLC: Lead abatement, Lead inspection / evaluation in Monsey, NY. Licence details, contact and quotes."
+description: "LeadGo LLC in Monsey, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/leadgo-llc-ny0410/
 ---
 

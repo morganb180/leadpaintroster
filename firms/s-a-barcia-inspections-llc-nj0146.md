@@ -1,6 +1,6 @@
 ---
-title: "S.A Barcia Inspections LLC, Hackensack, NJ | Lead Paint Roster"
-description: "S.A Barcia Inspections LLC: Lead inspection / evaluation in Hackensack, NJ. Licence details, contact and quotes."
+title: "S.A Barcia Inspections: Lead Paint Inspector, Hackensack NJ"
+description: "S.A Barcia Inspections LLC in Hackensack, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/s-a-barcia-inspections-llc-nj0146/
 ---
 

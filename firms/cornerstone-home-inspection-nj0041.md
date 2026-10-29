@@ -1,6 +1,6 @@
 ---
 title: "Cornerstone Home Inspection, Warren, NJ | Lead Paint Roster"
-description: "Cornerstone Home Inspection: Lead inspection / evaluation in Warren, NJ. Licence details, contact and quotes."
+description: "Cornerstone Home Inspection in Warren, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/cornerstone-home-inspection-nj0041/
 ---
 

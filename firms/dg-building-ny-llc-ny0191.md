@@ -1,6 +1,6 @@
 ---
 title: "DG Building NY LLC, Rego Park, NY | Lead Paint Roster"
-description: "DG Building NY LLC: Lead inspection / evaluation in Rego Park, NY. Licence details, contact and quotes."
+description: "DG Building NY LLC in Rego Park, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/dg-building-ny-llc-ny0191/
 ---
 

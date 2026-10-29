@@ -1,6 +1,6 @@
 ---
 title: "Divine Manager, LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Divine Manager, LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Divine Manager, LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/divine-manager-llc-ny0946/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Zamlis LLC, Flushing, NY | Lead Paint Roster"
-description: "Zamlis LLC: Lead abatement, Lead inspection / evaluation in Flushing, NY. Licence details, contact and quotes."
+description: "Zamlis LLC in Flushing, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/zamlis-llc-ny0684/
 ---
 

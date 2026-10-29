@@ -1,6 +1,6 @@
 ---
-title: "Carpinelli Contracting, Chenango Bridge, NY | Lead Paint Roster"
-description: "Carpinelli Contracting: Lead abatement in Chenango Bridge, NY. Licence details, contact and quotes."
+title: "Carpinelli Contracting: Lead Abatement, Chenango Bridge NY"
+description: "Carpinelli Contracting in Chenango Bridge, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/carpinelli-contracting-ny0885/
 ---
 

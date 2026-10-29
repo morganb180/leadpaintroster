@@ -1,6 +1,6 @@
 ---
-title: "Precision Environmental Inc., Cortlandt Manor, NY | Lead Paint Roster"
-description: "Precision Environmental Inc.: Lead inspection / evaluation in Cortlandt Manor, NY. Licence details, contact and quotes."
+title: "Precision Environmental: Lead Inspector, Cortlandt Manor NY"
+description: "Precision Environmental Inc. in Cortlandt Manor, NY: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/precision-environmental-inc-nj0128/
 ---
 

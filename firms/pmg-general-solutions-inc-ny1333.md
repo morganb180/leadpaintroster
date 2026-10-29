@@ -1,6 +1,6 @@
 ---
 title: "PMG General Solutions Inc., Malverne, NY | Lead Paint Roster"
-description: "PMG General Solutions Inc.: Lead abatement in Malverne, NY. Licence details, contact and quotes."
+description: "PMG General Solutions Inc. in Malverne, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/pmg-general-solutions-inc-ny1333/
 ---
 

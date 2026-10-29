@@ -1,5 +1,5 @@
 ---
-title: "Total Testing Solution NYC Inc, New York, NY | Lead Paint Roster"
+title: "Total Testing Solution NYC: Lead Paint Pro, New York NY"
 description: "Total Testing Solution NYC Inc: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/total-testing-solution-nyc-inc-ny0629/
 ---

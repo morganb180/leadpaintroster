@@ -1,6 +1,6 @@
 ---
 title: "Rizzo Restoration LLC, West Babylon, NY | Lead Paint Roster"
-description: "Rizzo Restoration LLC: Lead abatement in West Babylon, NY. Licence details, contact and quotes."
+description: "Rizzo Restoration LLC in West Babylon, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/rizzo-restoration-llc-ny1434/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Revonrut Inc., Ridgewood, NY | Lead Paint Roster"
-description: "Revonrut Inc.: Lead abatement in Ridgewood, NY. Licence details, contact and quotes."
+description: "Revonrut Inc. in Ridgewood, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/revonrut-inc-ny1427/
 ---
 

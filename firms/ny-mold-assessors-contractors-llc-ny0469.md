@@ -1,6 +1,6 @@
 ---
-title: "NY Mold Assessors & Contractors LLC, Brooklyn, NY | Lead Paint Roster"
-description: "NY Mold Assessors & Contractors LLC: Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+title: "NY Mold Assessors & Contractors: Lead Inspector, Brooklyn NY"
+description: "NY Mold Assessors & Contractors LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ny-mold-assessors-contractors-llc-ny0469/
 ---
 

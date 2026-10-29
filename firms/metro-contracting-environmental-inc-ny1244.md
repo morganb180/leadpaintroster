@@ -1,6 +1,6 @@
 ---
-title: "Metro Contracting & Environmental, Inc, Niagara Falls, NY | Lead Paint Roster"
-description: "Metro Contracting & Environmental, Inc: Lead abatement in Niagara Falls, NY. Licence details, contact and quotes."
+title: "Metro Contracting & Environmental, Niagara Falls NY"
+description: "Metro Contracting & Environmental, Inc in Niagara Falls, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/metro-contracting-environmental-inc-ny1244/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Safecity Environmental LLC, Queens, NY | Lead Paint Roster"
-description: "Safecity Environmental LLC: Lead abatement in Queens, NY. Licence details, contact and quotes."
+description: "Safecity Environmental LLC in Queens, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/safecity-environmental-llc-ny1451/
 ---
 

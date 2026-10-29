@@ -1,6 +1,6 @@
 ---
-title: "Rayon Home Inspection Inc, Staten Island, NY | Lead Paint Roster"
-description: "Rayon Home Inspection Inc: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+title: "Rayon Home Inspection Inc: Lead Abatement, Staten Island NY"
+description: "Rayon Home Inspection Inc in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/rayon-home-inspection-inc-ny1415/
 ---
 

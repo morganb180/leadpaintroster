@@ -1,6 +1,6 @@
 ---
 title: "Walisons USA Inc., Queens Village, NY | Lead Paint Roster"
-description: "Walisons USA Inc.: Lead abatement in Queens Village, NY. Licence details, contact and quotes."
+description: "Walisons USA Inc. in Queens Village, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/walisons-usa-inc-ny1606/
 ---
 

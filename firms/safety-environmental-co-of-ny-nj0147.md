@@ -1,6 +1,6 @@
 ---
-title: "Safety Environmental Co. of NY, Cream Ridge, NJ | Lead Paint Roster"
-description: "Safety Environmental Co. of NY: Lead inspection / evaluation in Cream Ridge, NJ. Licence details, contact and quotes."
+title: "Safety Environmental Co. of NY, Cream Ridge NJ"
+description: "Safety Environmental Co. of NY in Cream Ridge, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/safety-environmental-co-of-ny-nj0147/
 ---
 

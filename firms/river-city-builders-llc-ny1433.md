@@ -1,6 +1,6 @@
 ---
 title: "River City Builders LLC, Larchmont, NY | Lead Paint Roster"
-description: "River City Builders LLC: Lead abatement in Larchmont, NY. Licence details, contact and quotes."
+description: "River City Builders LLC in Larchmont, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/river-city-builders-llc-ny1433/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Sumner Builders Corporation, Staten Island, NY | Lead Paint Roster"
-description: "Sumner Builders Corporation: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+title: "Sumner Builders: Lead Abatement, Staten Island NY"
+description: "Sumner Builders Corporation in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/sumner-builders-corporation-ny1519/
 ---
 

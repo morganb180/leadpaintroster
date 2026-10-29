@@ -1,6 +1,6 @@
 ---
 title: "Billu Builders LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Billu Builders LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Billu Builders LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/billu-builders-llc-ny0835/
 ---
 

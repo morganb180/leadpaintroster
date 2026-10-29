@@ -1,6 +1,6 @@
 ---
 title: "D Davina LLC, Schenectady, NY | Lead Paint Roster"
-description: "D Davina LLC: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
+description: "D Davina LLC in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/d-davina-llc-ny0914/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "DUV Home Improvement, Hollis, NY | Lead Paint Roster"
-description: "DUV Home Improvement: Lead abatement in Hollis, NY. Licence details, contact and quotes."
+description: "DUV Home Improvement in Hollis, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/duv-home-improvement-ny0929/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Viking Environmental Corp, White Plains, NY | Lead Paint Roster"
-description: "Viking Environmental Corp: Lead inspection / evaluation in White Plains, NY. Licence details, contact and quotes."
+title: "Viking Environmental: Lead Paint Inspector, White Plains NY"
+description: "Viking Environmental Corp in White Plains, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/viking-environmental-corp-ny0669/
 ---
 

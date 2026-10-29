@@ -1,6 +1,6 @@
 ---
 title: "Nastasi Builders, LLC, Hoboken, NY | Lead Paint Roster"
-description: "Nastasi Builders, LLC: Lead abatement in Hoboken, NY. Licence details, contact and quotes."
+description: "Nastasi Builders, LLC in Hoboken, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/nastasi-builders-llc-ny1283/
 ---
 

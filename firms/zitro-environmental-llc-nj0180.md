@@ -1,6 +1,6 @@
 ---
 title: "Zitro Environmental, LLC, Bridgeton, NJ | Lead Paint Roster"
-description: "Zitro Environmental, LLC: Lead inspection / evaluation in Bridgeton, NJ. Licence details, contact and quotes."
+description: "Zitro Environmental, LLC in Bridgeton, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/zitro-environmental-llc-nj0180/
 ---
 

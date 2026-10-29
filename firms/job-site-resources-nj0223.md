@@ -1,6 +1,6 @@
 ---
 title: "Job Site Resources, Pennsburg, PA | Lead Paint Roster"
-description: "Job Site Resources: Lead abatement in Pennsburg, PA. Licence details, contact and quotes."
+description: "Job Site Resources in Pennsburg, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/job-site-resources-nj0223/
 ---
 

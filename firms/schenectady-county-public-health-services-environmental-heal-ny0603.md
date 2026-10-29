@@ -1,5 +1,5 @@
 ---
-title: "Schenectady County Public Health Services - Environmental Health Unit, Schenectady, NY | Lead Paint Roster"
+title: "Schenectady County Public Health Services - Environmental"
 description: "Schenectady County Public Health Services - Environmental Health Unit: Lead inspection / evaluation in Schenectady, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/schenectady-county-public-health-services-environmental-heal-ny0603/
 ---

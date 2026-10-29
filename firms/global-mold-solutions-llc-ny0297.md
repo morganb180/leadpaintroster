@@ -1,5 +1,5 @@
 ---
-title: "Global Mold Solutions LLC, Farmingdale, NY | Lead Paint Roster"
+title: "Global Mold Solutions: Lead Paint Pro, Farmingdale NY"
 description: "Global Mold Solutions LLC: Lead abatement, Lead inspection / evaluation in Farmingdale, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/global-mold-solutions-llc-ny0297/
 ---

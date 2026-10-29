@@ -1,6 +1,6 @@
 ---
 title: "S & S Repair Inc., Bronx, NY | Lead Paint Roster"
-description: "S & S Repair Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "S & S Repair Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/s-s-repair-inc-ny1448/
 ---
 

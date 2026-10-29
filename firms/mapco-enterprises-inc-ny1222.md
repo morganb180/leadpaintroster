@@ -1,6 +1,6 @@
 ---
 title: "Mapco Enterprises Inc., Schenectady, NY | Lead Paint Roster"
-description: "Mapco Enterprises Inc.: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
+description: "Mapco Enterprises Inc. in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mapco-enterprises-inc-ny1222/
 ---
 

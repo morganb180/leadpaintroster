@@ -1,6 +1,6 @@
 ---
-title: "Brock Industrial Services, LLC, Houston, TX | Lead Paint Roster"
-description: "Brock Industrial Services, LLC: Lead abatement in Houston, TX. Licence details, contact and quotes."
+title: "Brock Industrial Services, LLC: Lead Abatement, Houston TX"
+description: "Brock Industrial Services, LLC in Houston, TX: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/brock-industrial-services-llc-nj0206/
 ---
 

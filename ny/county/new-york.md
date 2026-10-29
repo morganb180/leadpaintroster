@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in New York County, NY: 120 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in New York County, NY"
 description: "120 EPA-licensed lead paint inspectors, risk assessors and abatement firms in New York County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/new-york/
 ---
@@ -12,7 +12,9 @@ canonical: https://leadpaintroster.com/ny/county/new-york/
 
 City pages: [New York](https://leadpaintroster.com/ny/city/new-york/) · [New York City](https://leadpaintroster.com/ny/city/new-york-city/)
 
-## Lead inspection & evaluation firms (63)
+## Where can I get a lead paint inspection in New York County, NY? (63)
+
+Lead Paint Roster lists 63 EPA-licensed listings for lead inspection / evaluation with an address of record in New York County.
 
 ✔ EPA-certified firm Lead inspection / evaluation
 
@@ -877,7 +879,9 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Show all 63 listings
 
-## Lead abatement contractors (57)
+## Who does lead paint abatement in New York County, NY? (57)
+
+57 EPA-licensed lead abatement listings have an address of record in New York County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -1622,13 +1626,13 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Show all 57 listings
 
-## Neighboring counties
+## Which counties border New York County, NY?
 
 [Bronx](https://leadpaintroster.com/ny/county/bronx/) (118) · [Kings](https://leadpaintroster.com/ny/county/kings/) (254) · [Queens](https://leadpaintroster.com/ny/county/queens/) (324)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in New York County: quick guide
+## How do I hire a lead inspector in New York County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

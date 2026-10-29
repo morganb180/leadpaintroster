@@ -1,6 +1,6 @@
 ---
-title: "Accord Environmental Services, Inc., Levittown, NY | Lead Paint Roster"
-description: "Accord Environmental Services, Inc.: Lead abatement in Levittown, NY. Licence details, contact and quotes."
+title: "Accord Environmental Services: Lead Abatement, Levittown NY"
+description: "Accord Environmental Services, Inc. in Levittown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/accord-environmental-services-inc-ny0746/
 ---
 

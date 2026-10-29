@@ -1,6 +1,6 @@
 ---
-title: "Encorus Group Engineering, P.C., Springville, NY | Lead Paint Roster"
-description: "Encorus Group Engineering, P.C.: Lead inspection / evaluation in Springville, NY. Licence details, contact and quotes."
+title: "Encorus Group Engineering: Lead Inspector, Springville NY"
+description: "Encorus Group Engineering, P.C. in Springville, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/encorus-group-engineering-p-c-ny0232/
 ---
 

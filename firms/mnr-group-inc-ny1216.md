@@ -1,6 +1,6 @@
 ---
 title: "MNR Group, Inc., College Point, NY | Lead Paint Roster"
-description: "MNR Group, Inc.: Lead abatement in College Point, NY. Licence details, contact and quotes."
+description: "MNR Group, Inc. in College Point, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/mnr-group-inc-ny1216/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Energy and Environment, LLC, Syracuse, NY | Lead Paint Roster"
-description: "Energy and Environment, LLC: Lead inspection / evaluation in Syracuse, NY. Licence details, contact and quotes."
+title: "Energy and Environment: Lead Paint Inspector, Syracuse NY"
+description: "Energy and Environment, LLC in Syracuse, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/energy-and-environment-llc-ny0234/
 ---
 

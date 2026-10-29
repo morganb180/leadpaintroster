@@ -1,6 +1,6 @@
 ---
-title: "Extra Mile Home Inspection SVC, Cedar Knolls, NJ | Lead Paint Roster"
-description: "Extra Mile Home Inspection SVC: Lead inspection / evaluation in Cedar Knolls, NJ. Licence details, contact and quotes."
+title: "Extra Mile Home Inspection SVC, Cedar Knolls NJ"
+description: "Extra Mile Home Inspection SVC in Cedar Knolls, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/extra-mile-home-inspection-svc-nj0067/
 ---
 

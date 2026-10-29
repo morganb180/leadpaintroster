@@ -1,5 +1,5 @@
 ---
-title: "Professional Building Inspectors Inc., East Setauket, NY | Lead Paint Roster"
+title: "Professional Building Inspectors, East Setauket NY"
 description: "Professional Building Inspectors Inc.: Lead inspection / evaluation in East Setauket, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/professional-building-inspectors-inc-ny0542/
 ---

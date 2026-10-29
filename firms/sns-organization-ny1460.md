@@ -1,6 +1,6 @@
 ---
 title: "SNS Organization, Lindenhurst, NY | Lead Paint Roster"
-description: "SNS Organization: Lead abatement in Lindenhurst, NY. Licence details, contact and quotes."
+description: "SNS Organization in Lindenhurst, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sns-organization-ny1460/
 ---
 

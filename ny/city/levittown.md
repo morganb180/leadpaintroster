@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Levittown, NY: 6 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Levittown, NY"
 description: "6 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Levittown, New York, plus 144 more in Nassau County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/levittown/
 ---
@@ -8,13 +8,17 @@ canonical: https://leadpaintroster.com/ny/city/levittown/
 
 # Certified lead paint inspectors & abatement firms in Levittown, NY
 
+**Quick answer:** For landlords, owners, buyers and parents in Levittown, NY: Lead Paint Roster lists 6 EPA-licensed lead paint listings with an address in Levittown (2 lead inspection / evaluation, 5 lead abatement) and 144 more elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address. Check each licence with EPA before you hire, and read the [Levittown hiring guide](https://leadpaintroster.com/ny/city/levittown/guide/) for questions to ask and typical costs.
+
 6 EPA-licensed listings give an address in Levittown (2 lead inspection / evaluation, 5 lead abatement), and 144 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Levittown hiring guide →**](https://leadpaintroster.com/ny/city/levittown/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Levittown](https://leadpaintroster.com/get-quotes/?city=levittown&st=ny)
 
-## Based in Levittown
+## Which certified lead paint firms are based in Levittown, NY?
+
+Lead Paint Roster lists 6 EPA-licensed listings with an address in Levittown: 2 lead inspection & evaluation firms and 4 lead abatement contractors. Each listing appears once below, even if it holds both licences.
 
 ### Lead inspection & evaluation firms (2)
 
@@ -99,11 +103,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F239805-2 (exp. 2028-09-06)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1420)
 
-## Elsewhere in Nassau County (144)
+## Which other certified lead paint firms are in Nassau County? (144)
+
+144 more listings have an address elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address in Levittown.
 
 [See all 150 Nassau County listings →](https://leadpaintroster.com/ny/county/nassau/)
 
-## More cities in Nassau County
+## Which other Nassau County cities have lead paint pages?
 
 [Great Neck](https://leadpaintroster.com/ny/city/great-neck/) · [Valley Stream](https://leadpaintroster.com/ny/city/valley-stream/) · [Elmont](https://leadpaintroster.com/ny/city/elmont/) · [Westbury](https://leadpaintroster.com/ny/city/westbury/) · [New Hyde Park](https://leadpaintroster.com/ny/city/new-hyde-park/) · [Port Washington](https://leadpaintroster.com/ny/city/port-washington/)
 

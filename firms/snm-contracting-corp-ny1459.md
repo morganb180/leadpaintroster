@@ -1,6 +1,6 @@
 ---
 title: "SNM Contracting Corp, Astoria, NY | Lead Paint Roster"
-description: "SNM Contracting Corp: Lead abatement in Astoria, NY. Licence details, contact and quotes."
+description: "SNM Contracting Corp in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/snm-contracting-corp-ny1459/
 ---
 

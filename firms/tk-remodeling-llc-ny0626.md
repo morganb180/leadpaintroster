@@ -1,6 +1,6 @@
 ---
 title: "TK Remodeling LLC, Staten Island, NY | Lead Paint Roster"
-description: "TK Remodeling LLC: Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
+description: "TK Remodeling LLC in Staten Island, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/tk-remodeling-llc-ny0626/
 ---
 

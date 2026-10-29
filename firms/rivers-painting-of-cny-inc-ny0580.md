@@ -1,5 +1,5 @@
 ---
-title: "Rivers Painting of CNY Inc., Cortland, NY | Lead Paint Roster"
+title: "Rivers Painting of CNY: Lead Paint Pro, Cortland NY"
 description: "Rivers Painting of CNY Inc.: Lead abatement, Lead inspection / evaluation in Cortland, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/rivers-painting-of-cny-inc-ny0580/
 ---

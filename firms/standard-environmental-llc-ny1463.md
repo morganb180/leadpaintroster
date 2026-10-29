@@ -1,6 +1,6 @@
 ---
 title: "Standard Environmental LLC, New York, NY | Lead Paint Roster"
-description: "Standard Environmental LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "Standard Environmental LLC in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/standard-environmental-llc-ny1463/
 ---
 

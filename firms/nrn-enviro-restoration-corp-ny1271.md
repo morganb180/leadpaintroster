@@ -1,6 +1,6 @@
 ---
-title: "NRN Enviro Restoration Corp., Astoria, NY | Lead Paint Roster"
-description: "NRN Enviro Restoration Corp.: Lead abatement in Astoria, NY. Licence details, contact and quotes."
+title: "NRN Enviro Restoration Corp.: Lead Abatement, Astoria NY"
+description: "NRN Enviro Restoration Corp. in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/nrn-enviro-restoration-corp-ny1271/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "CMC Environmental Corp, South Ozone Park, NY | Lead Paint Roster"
-description: "CMC Environmental Corp: Lead abatement in South Ozone Park, NY. Licence details, contact and quotes."
+title: "CMC Environmental Corp: Lead Abatement, South Ozone Park NY"
+description: "CMC Environmental Corp in South Ozone Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/cmc-environmental-corp-ny0876/
 ---
 

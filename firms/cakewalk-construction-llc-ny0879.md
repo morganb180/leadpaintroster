@@ -1,6 +1,6 @@
 ---
-title: "Cakewalk Construction LLC, South Richmond Hill, NY | Lead Paint Roster"
-description: "Cakewalk Construction LLC: Lead abatement in South Richmond Hill, NY. Licence details, contact and quotes."
+title: "Cakewalk Construction, South Richmond Hill NY"
+description: "Cakewalk Construction LLC in South Richmond Hill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/cakewalk-construction-llc-ny0879/
 ---
 

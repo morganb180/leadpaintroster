@@ -1,6 +1,6 @@
 ---
 title: "At&g Home Inspection, LLC, Carteret, NJ | Lead Paint Roster"
-description: "At&g Home Inspection, LLC: Lead inspection / evaluation in Carteret, NJ. Licence details, contact and quotes."
+description: "At&g Home Inspection, LLC in Carteret, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/at-g-home-inspection-llc-nj0031/
 ---
 

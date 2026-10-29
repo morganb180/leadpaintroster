@@ -1,6 +1,6 @@
 ---
 title: "RS Construction, Valley Stream, NY | Lead Paint Roster"
-description: "RS Construction: Lead abatement in Valley Stream, NY. Licence details, contact and quotes."
+description: "RS Construction in Valley Stream, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/rs-construction-ny1406/
 ---
 

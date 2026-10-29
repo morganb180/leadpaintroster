@@ -1,5 +1,5 @@
 ---
-title: "Earthwatch Environmental Consulting, Inc., Jamaica, NY | Lead Paint Roster"
+title: "Earthwatch Environmental Consulting, Jamaica NY"
 description: "Earthwatch Environmental Consulting, Inc.: Lead inspection / evaluation in Jamaica, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/earthwatch-environmental-consulting-inc-ny0216/
 ---

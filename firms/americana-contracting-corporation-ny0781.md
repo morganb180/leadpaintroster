@@ -1,6 +1,6 @@
 ---
-title: "Americana Contracting Corporation, Brooklyn, NY | Lead Paint Roster"
-description: "Americana Contracting Corporation: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Americana Contracting: Lead Abatement, Brooklyn NY"
+description: "Americana Contracting Corporation in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/americana-contracting-corporation-ny0781/
 ---
 

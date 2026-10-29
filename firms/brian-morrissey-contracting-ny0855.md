@@ -1,6 +1,6 @@
 ---
-title: "Brian Morrissey Contracting, White Plains, NY | Lead Paint Roster"
-description: "Brian Morrissey Contracting: Lead abatement in White Plains, NY. Licence details, contact and quotes."
+title: "Brian Morrissey Contracting: Lead Abatement, White Plains NY"
+description: "Brian Morrissey Contracting in White Plains, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/brian-morrissey-contracting-ny0855/
 ---
 

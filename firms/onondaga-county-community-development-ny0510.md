@@ -1,5 +1,5 @@
 ---
-title: "Onondaga County Community Development, Syracuse, NY | Lead Paint Roster"
+title: "Onondaga County Community Development, Syracuse NY"
 description: "Onondaga County Community Development: Lead abatement, Lead inspection / evaluation in Syracuse, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/onondaga-county-community-development-ny0510/
 ---

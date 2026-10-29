@@ -1,6 +1,6 @@
 ---
 title: "Errands Pro, Inc., New York, NY | Lead Paint Roster"
-description: "Errands Pro, Inc.: Lead abatement, Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+description: "Errands Pro, Inc. in New York, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/errands-pro-inc-ny0259/
 ---
 

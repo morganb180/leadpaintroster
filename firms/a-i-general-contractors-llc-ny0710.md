@@ -1,6 +1,6 @@
 ---
-title: "A&I General Contractors, LLC, Yonkers, NY | Lead Paint Roster"
-description: "A&I General Contractors, LLC: Lead abatement in Yonkers, NY. Licence details, contact and quotes."
+title: "A&I General Contractors, LLC: Lead Abatement, Yonkers NY"
+description: "A&I General Contractors, LLC in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/a-i-general-contractors-llc-ny0710/
 ---
 

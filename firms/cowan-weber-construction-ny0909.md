@@ -1,6 +1,6 @@
 ---
-title: "Cowan Weber Construction, West Seneca, NY | Lead Paint Roster"
-description: "Cowan Weber Construction: Lead abatement in West Seneca, NY. Licence details, contact and quotes."
+title: "Cowan Weber Construction: Lead Abatement, West Seneca NY"
+description: "Cowan Weber Construction in West Seneca, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/cowan-weber-construction-ny0909/
 ---
 

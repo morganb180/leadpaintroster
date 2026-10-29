@@ -1,6 +1,6 @@
 ---
 title: "Milro Services, Inc., Freeport, NY | Lead Paint Roster"
-description: "Milro Services, Inc.: Lead abatement in Freeport, NY. Licence details, contact and quotes."
+description: "Milro Services, Inc. in Freeport, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/milro-services-inc-ny1256/
 ---
 

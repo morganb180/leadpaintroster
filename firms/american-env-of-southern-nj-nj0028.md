@@ -1,6 +1,6 @@
 ---
-title: "American Env of Southern NJ, Bridgeton, NJ | Lead Paint Roster"
-description: "American Env of Southern NJ: Lead inspection / evaluation in Bridgeton, NJ. Licence details, contact and quotes."
+title: "American Env of Southern NJ: Lead Inspector, Bridgeton NJ"
+description: "American Env of Southern NJ in Bridgeton, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/american-env-of-southern-nj-nj0028/
 ---
 

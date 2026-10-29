@@ -1,6 +1,6 @@
 ---
-title: "Delete 86 Environmental LLC, Jamestown, NY | Lead Paint Roster"
-description: "Delete 86 Environmental LLC: Lead abatement in Jamestown, NY. Licence details, contact and quotes."
+title: "Delete 86 Environmental LLC: Lead Abatement, Jamestown NY"
+description: "Delete 86 Environmental LLC in Jamestown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/delete-86-environmental-llc-ny0939/
 ---
 

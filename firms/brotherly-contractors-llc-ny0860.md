@@ -1,6 +1,6 @@
 ---
-title: "Brotherly Contractors LLC, Riidgewood, NY | Lead Paint Roster"
-description: "Brotherly Contractors LLC: Lead abatement in Riidgewood, NY. Licence details, contact and quotes."
+title: "Brotherly Contractors LLC: Lead Abatement, Riidgewood NY"
+description: "Brotherly Contractors LLC in Riidgewood, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/brotherly-contractors-llc-ny0860/
 ---
 

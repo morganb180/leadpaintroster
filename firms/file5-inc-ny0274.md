@@ -1,6 +1,6 @@
 ---
 title: "File5, Inc., Levittown, NY | Lead Paint Roster"
-description: "File5, Inc.: Lead inspection / evaluation in Levittown, NY. Licence details, contact and quotes."
+description: "File5, Inc. in Levittown, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/file5-inc-ny0274/
 ---
 

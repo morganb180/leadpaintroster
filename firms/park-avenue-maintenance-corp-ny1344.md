@@ -1,6 +1,6 @@
 ---
 title: "Park Avenue Maintenance Corp., Bronx, NY | Lead Paint Roster"
-description: "Park Avenue Maintenance Corp.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Park Avenue Maintenance Corp. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/park-avenue-maintenance-corp-ny1344/
 ---
 

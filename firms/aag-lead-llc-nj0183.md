@@ -1,6 +1,6 @@
 ---
 title: "Aag Lead, LLC, Secaucus, NJ | Lead Paint Roster"
-description: "Aag Lead, LLC: Lead abatement in Secaucus, NJ. Licence details, contact and quotes."
+description: "Aag Lead, LLC in Secaucus, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/aag-lead-llc-nj0183/
 ---
 

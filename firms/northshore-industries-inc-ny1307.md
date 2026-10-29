@@ -1,6 +1,6 @@
 ---
-title: "Northshore Industries, Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Northshore Industries, Inc.: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Northshore Industries, Inc.: Lead Abatement, Brooklyn NY"
+description: "Northshore Industries, Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/northshore-industries-inc-ny1307/
 ---
 

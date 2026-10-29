@@ -1,6 +1,6 @@
 ---
-title: "Sanyo S Construction, Corp., South Richmond Hill, NY | Lead Paint Roster"
-description: "Sanyo S Construction, Corp.: Lead abatement in South Richmond Hill, NY. Licence details, contact and quotes."
+title: "Sanyo S Construction: Lead Abatement, South Richmond Hill NY"
+description: "Sanyo S Construction, Corp. in South Richmond Hill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/sanyo-s-construction-corp-ny1475/
 ---
 

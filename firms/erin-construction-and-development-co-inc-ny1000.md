@@ -1,6 +1,6 @@
 ---
-title: "Erin Construction and Development Co. Inc., New Hyde Park, NY | Lead Paint Roster"
-description: "Erin Construction and Development Co. Inc.: Lead abatement in New Hyde Park, NY. Licence details, contact and quotes."
+title: "Erin Construction and Development Co., New Hyde Park NY"
+description: "Erin Construction and Development Co. Inc. in New Hyde Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/erin-construction-and-development-co-inc-ny1000/
 ---
 

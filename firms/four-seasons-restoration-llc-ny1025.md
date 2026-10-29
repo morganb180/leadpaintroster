@@ -1,6 +1,6 @@
 ---
-title: "Four Seasons Restoration, LLC, New Hyde Park, NY | Lead Paint Roster"
-description: "Four Seasons Restoration, LLC: Lead abatement in New Hyde Park, NY. Licence details, contact and quotes."
+title: "Four Seasons Restoration: Lead Abatement, New Hyde Park NY"
+description: "Four Seasons Restoration, LLC in New Hyde Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/four-seasons-restoration-llc-ny1025/
 ---
 

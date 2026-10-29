@@ -1,6 +1,6 @@
 ---
 title: "ASAP Environmental, Dorchester, MA | Lead Paint Roster"
-description: "ASAP Environmental: Lead risk assessment in Dorchester, MA. Licence details, contact and quotes."
+description: "ASAP Environmental in Dorchester, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/asap-environmental-ma0012/
 ---
 

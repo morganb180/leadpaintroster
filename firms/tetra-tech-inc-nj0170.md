@@ -1,6 +1,6 @@
 ---
 title: "Tetra Tech, Inc., Kansas City, MO | Lead Paint Roster"
-description: "Tetra Tech, Inc.: Lead inspection / evaluation in Kansas City, MO. Licence details, contact and quotes."
+description: "Tetra Tech, Inc. in Kansas City, MO: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/tetra-tech-inc-nj0170/
 ---
 

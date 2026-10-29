@@ -1,6 +1,6 @@
 ---
-title: "Vanasse Hangen Brustlin, Inc., Manasquan, NJ | Lead Paint Roster"
-description: "Vanasse Hangen Brustlin, Inc.: Lead inspection / evaluation in Manasquan, NJ. Licence details, contact and quotes."
+title: "Vanasse Hangen Brustlin: Lead Paint Inspector, Manasquan NJ"
+description: "Vanasse Hangen Brustlin, Inc. in Manasquan, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/vanasse-hangen-brustlin-inc-nj0176/
 ---
 

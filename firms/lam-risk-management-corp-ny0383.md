@@ -1,5 +1,5 @@
 ---
-title: "Lam Risk Management Corp, Staten Island, NY | Lead Paint Roster"
+title: "Lam Risk Management: Lead Paint Pro, Staten Island NY"
 description: "Lam Risk Management Corp: Lead abatement, Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/lam-risk-management-corp-ny0383/
 ---

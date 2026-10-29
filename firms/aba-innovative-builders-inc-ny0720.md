@@ -1,6 +1,6 @@
 ---
-title: "ABA Innovative Builders Inc, Staten Island, NY | Lead Paint Roster"
-description: "ABA Innovative Builders Inc: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+title: "ABA Innovative Builders: Lead Abatement, Staten Island NY"
+description: "ABA Innovative Builders Inc in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/aba-innovative-builders-inc-ny0720/
 ---
 

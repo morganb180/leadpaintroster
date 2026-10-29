@@ -1,5 +1,5 @@
 ---
-title: "Argento General Construction LLC, Astoria, NY | Lead Paint Roster"
+title: "Argento General Construction: Lead Paint Pro, Astoria NY"
 description: "Argento General Construction LLC: Lead abatement, Lead inspection / evaluation in Astoria, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/argento-general-construction-llc-ny0096/
 ---

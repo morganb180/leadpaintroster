@@ -1,6 +1,6 @@
 ---
-title: "Aunorag Construction, Inc., Long island, NY | Lead Paint Roster"
-description: "Aunorag Construction, Inc.: Lead inspection / evaluation in Long island, NY. Licence details, contact and quotes."
+title: "Aunorag Construction: Lead Paint Inspector, Long island NY"
+description: "Aunorag Construction, Inc. in Long island, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/aunorag-construction-inc-ny0107/
 ---
 

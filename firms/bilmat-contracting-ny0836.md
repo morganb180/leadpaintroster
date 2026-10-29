@@ -1,6 +1,6 @@
 ---
 title: "Bilmat Contracting, Walton, NY | Lead Paint Roster"
-description: "Bilmat Contracting: Lead abatement in Walton, NY. Licence details, contact and quotes."
+description: "Bilmat Contracting in Walton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/bilmat-contracting-ny0836/
 ---
 

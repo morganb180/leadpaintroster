@@ -1,6 +1,6 @@
 ---
 title: "26 Bonim LLC, Kew Gardens, NY | Lead Paint Roster"
-description: "26 Bonim LLC: Lead abatement in Kew Gardens, NY. Licence details, contact and quotes."
+description: "26 Bonim LLC in Kew Gardens, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/26-bonim-llc-ny0692/
 ---
 

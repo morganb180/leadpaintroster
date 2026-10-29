@@ -1,12 +1,14 @@
 ---
-title: "Landlord Lead Paint Rules: NJ, NYC & Massachusetts | Lead Paint Roster"
+title: "Landlord Lead Paint Rules: NJ, NYC & Massachusetts"
 description: "Plain-language summary of lead paint inspection rules in New Jersey, New York City and Massachusetts."
 canonical: https://leadpaintroster.com/lead-paint-rules-by-state/
 ---
 
 # Lead paint rules by state
 
-## New Jersey lead paint rules in brief
+## What are New Jersey's lead paint rules?
+
+New Jersey municipalities must inspect, or have a DCA-certified lead evaluation contractor inspect, many rental dwellings for lead-based paint hazards every three years or at tenant turnover, unless there is a valid lead-safe certification.
 
 * Municipalities must inspect, or have a certified lead evaluation contractor inspect, certain single-family, two-family and multiple rental dwellings for lead-based paint hazards every three years or at tenant turnover, unless there is a valid lead-safe certification. Owners and landlords may hire a certified lead evaluation contractor directly (NJ DCA).
 * DCA certifies lead evaluation and abatement contractors. NJDOH licenses the individual inspector/risk assessors, who must work for a DCA-certified contractor (NJDOH).
@@ -16,7 +18,9 @@ Sources: [NJ DCA lead-safe rental law (P.L.2021, c.182)](https://www.nj.gov/dca/
 
 [Browse New Jersey listings →](https://leadpaintroster.com/nj/)
 
-## New York lead paint rules in brief
+## What are New York's lead paint rules?
+
+New York State has no lead-based paint certification of its own, so EPA certifies the firms and individuals who inspect, assess or abate lead paint in pre-1978 housing there. In New York City, Local Law 1 of 2004 adds duties for landlords of older multiple dwellings where young children live.
 
 * New York State does not run its own lead-based paint activities certification. EPA certifies firms and individuals there, and EPA's locator is the official lookup.
 * In New York City, Local Law 1 of 2004 places lead-paint duties on landlords of older multiple dwellings where young children live. NYC HPD explains the current inspection and XRF-testing requirements.
@@ -26,7 +30,9 @@ Sources: [EPA lead-based paint program](https://www.epa.gov/lead), [NYC HPD lead
 
 [Browse New York listings →](https://leadpaintroster.com/ny/)
 
-## Massachusetts lead paint rules in brief
+## What are Massachusetts' lead paint rules?
+
+Under the Massachusetts Lead Law, homes built before 1978 where a child under 6 lives must have lead hazards corrected, and a licensed lead inspector or risk assessor does the inspection.
 
 * Under the Massachusetts Lead Law, homes built before 1978 where a child under 6 lives must have lead hazards corrected. A licensed lead inspector or risk assessor does the inspection.
 * Inspectors and risk assessors are licensed individually; the state list gives their city, phone and email.
@@ -36,6 +42,8 @@ Sources: [Massachusetts Lead Law (M.G.L. c. 111, ss. 189A-199B)](https://www.mas
 
 [Browse Massachusetts listings →](https://leadpaintroster.com/ma/)
 
-## Find a licensed pro
+## Where can I find a certified lead paint pro near me?
+
+Browse Lead Paint Roster by state: [New Jersey](https://leadpaintroster.com/nj/), [New York](https://leadpaintroster.com/ny/) or [Massachusetts](https://leadpaintroster.com/ma/). Every listing shows its licence numbers and links the official source list.
 
 [New Jersey](https://leadpaintroster.com/nj/) · [New York](https://leadpaintroster.com/ny/) · [Massachusetts](https://leadpaintroster.com/ma/)

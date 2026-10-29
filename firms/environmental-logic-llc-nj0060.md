@@ -1,6 +1,6 @@
 ---
-title: "Environmental Logic, LLC, Lawrenceville, NJ | Lead Paint Roster"
-description: "Environmental Logic, LLC: Lead inspection / evaluation in Lawrenceville, NJ. Licence details, contact and quotes."
+title: "Environmental Logic: Lead Paint Inspector, Lawrenceville NJ"
+description: "Environmental Logic, LLC in Lawrenceville, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/environmental-logic-llc-nj0060/
 ---
 

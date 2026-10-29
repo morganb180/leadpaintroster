@@ -1,6 +1,6 @@
 ---
 title: "Sbp Solutions, Philadelphia, PA | Lead Paint Roster"
-description: "Sbp Solutions: Lead inspection / evaluation in Philadelphia, PA. Licence details, contact and quotes."
+description: "Sbp Solutions in Philadelphia, PA: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sbp-solutions-nj0150/
 ---
 

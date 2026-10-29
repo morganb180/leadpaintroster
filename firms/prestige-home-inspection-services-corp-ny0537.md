@@ -1,5 +1,5 @@
 ---
-title: "Prestige Home Inspection Services Corp, New York, NY | Lead Paint Roster"
+title: "Prestige Home Inspection Services, New York NY"
 description: "Prestige Home Inspection Services Corp: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/prestige-home-inspection-services-corp-ny0537/
 ---

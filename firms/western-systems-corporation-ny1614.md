@@ -1,6 +1,6 @@
 ---
 title: "Western Systems Corporation, Jamaica, NY | Lead Paint Roster"
-description: "Western Systems Corporation: Lead abatement in Jamaica, NY. Licence details, contact and quotes."
+description: "Western Systems Corporation in Jamaica, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/western-systems-corporation-ny1614/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "ALM Environmental Inc., Staten Island, NY | Lead Paint Roster"
-description: "ALM Environmental Inc.: Lead abatement in Staten Island, NY. Licence details, contact and quotes."
+title: "ALM Environmental Inc.: Lead Abatement, Staten Island NY"
+description: "ALM Environmental Inc. in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/alm-environmental-inc-ny0730/
 ---
 

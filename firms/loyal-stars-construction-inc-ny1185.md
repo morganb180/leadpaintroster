@@ -1,6 +1,6 @@
 ---
 title: "Loyal Stars Construction Inc., Bronx, NY | Lead Paint Roster"
-description: "Loyal Stars Construction Inc.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Loyal Stars Construction Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/loyal-stars-construction-inc-ny1185/
 ---
 

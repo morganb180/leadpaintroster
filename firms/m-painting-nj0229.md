@@ -1,6 +1,6 @@
 ---
 title: "M. Painting, Newark, NJ | Lead Paint Roster"
-description: "M. Painting: Lead abatement in Newark, NJ. Licence details, contact and quotes."
+description: "M. Painting in Newark, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/m-painting-nj0229/
 ---
 

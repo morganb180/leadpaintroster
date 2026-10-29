@@ -1,6 +1,6 @@
 ---
 title: "Rb NYC Construction Inc., Levittown, NY | Lead Paint Roster"
-description: "Rb NYC Construction Inc.: Lead abatement in Levittown, NY. Licence details, contact and quotes."
+description: "Rb NYC Construction Inc. in Levittown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/rb-nyc-construction-inc-ny1399/
 ---
 

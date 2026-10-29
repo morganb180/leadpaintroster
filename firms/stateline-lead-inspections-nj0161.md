@@ -1,6 +1,6 @@
 ---
-title: "Stateline Lead Inspections, Phillipsburg, NJ | Lead Paint Roster"
-description: "Stateline Lead Inspections: Lead inspection / evaluation in Phillipsburg, NJ. Licence details, contact and quotes."
+title: "Stateline Lead Inspections: Lead Inspector, Phillipsburg NJ"
+description: "Stateline Lead Inspections in Phillipsburg, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/stateline-lead-inspections-nj0161/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Parker Building, Hurley, NY | Lead Paint Roster"
-description: "Parker Building: Lead abatement in Hurley, NY. Licence details, contact and quotes."
+description: "Parker Building in Hurley, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/parker-building-ny1346/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Pentateuch Contracting Inc., Bronx, NY | Lead Paint Roster"
-description: "Pentateuch Contracting Inc.: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
+description: "Pentateuch Contracting Inc. in Bronx, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/pentateuch-contracting-inc-ny0525/
 ---
 

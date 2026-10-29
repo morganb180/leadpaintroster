@@ -1,5 +1,5 @@
 ---
-title: "CleanNYC Lead and Mold Solutions, Brooklyn, NY | Lead Paint Roster"
+title: "CleanNYC Lead and Mold Solutions, Brooklyn NY"
 description: "CleanNYC Lead and Mold Solutions: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/cleannyc-lead-and-mold-solutions-ny0170/
 ---

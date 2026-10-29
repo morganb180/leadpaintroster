@@ -1,6 +1,6 @@
 ---
-title: "B.A. Hults General Contracting, LLC., Hornell, NY | Lead Paint Roster"
-description: "B.A. Hults General Contracting, LLC.: Lead abatement in Hornell, NY. Licence details, contact and quotes."
+title: "B.A. Hults General Contracting, LLC., Hornell NY"
+description: "B.A. Hults General Contracting, LLC. in Hornell, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/b-a-hults-general-contracting-llc-ny0811/
 ---
 

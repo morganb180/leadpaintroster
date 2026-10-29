@@ -1,6 +1,6 @@
 ---
 title: "QC Remodeling & More INC., Rochester, NY | Lead Paint Roster"
-description: "QC Remodeling & More INC.: Lead abatement in Rochester, NY. Licence details, contact and quotes."
+description: "QC Remodeling & More INC. in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/qc-remodeling-more-inc-ny1388/
 ---
 

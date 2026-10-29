@@ -1,6 +1,6 @@
 ---
 title: "LM Development Partners, Larchmont, NY | Lead Paint Roster"
-description: "LM Development Partners: Lead abatement in Larchmont, NY. Licence details, contact and quotes."
+description: "LM Development Partners in Larchmont, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lm-development-partners-ny1166/
 ---
 

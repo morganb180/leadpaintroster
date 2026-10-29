@@ -1,6 +1,6 @@
 ---
 title: "Abated NYC, Brooklyn, NY | Lead Paint Roster"
-description: "Abated NYC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
+description: "Abated NYC in Brooklyn, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/abated-nyc-ny0060/
 ---
 

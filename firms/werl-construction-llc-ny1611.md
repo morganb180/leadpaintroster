@@ -1,6 +1,6 @@
 ---
 title: "Werl Construction, LLC, Bronx, NY | Lead Paint Roster"
-description: "Werl Construction, LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Werl Construction, LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/werl-construction-llc-ny1611/
 ---
 

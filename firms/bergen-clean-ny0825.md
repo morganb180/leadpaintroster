@@ -1,6 +1,6 @@
 ---
 title: "Bergen Clean, Haverstraw, NY | Lead Paint Roster"
-description: "Bergen Clean: Lead abatement in Haverstraw, NY. Licence details, contact and quotes."
+description: "Bergen Clean in Haverstraw, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/bergen-clean-ny0825/
 ---
 

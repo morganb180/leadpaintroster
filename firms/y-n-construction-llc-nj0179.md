@@ -1,6 +1,6 @@
 ---
 title: "Y & N Construction, LLC., Newark, NJ | Lead Paint Roster"
-description: "Y & N Construction, LLC.: Lead inspection / evaluation in Newark, NJ. Licence details, contact and quotes."
+description: "Y & N Construction, LLC. in Newark, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/y-n-construction-llc-nj0179/
 ---
 

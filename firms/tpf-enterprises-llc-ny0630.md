@@ -1,6 +1,6 @@
 ---
 title: "TPF Enterprises LLC, Bronx, NY | Lead Paint Roster"
-description: "TPF Enterprises LLC: Lead abatement, Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
+description: "TPF Enterprises LLC in Bronx, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/tpf-enterprises-llc-ny0630/
 ---
 

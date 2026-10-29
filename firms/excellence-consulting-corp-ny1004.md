@@ -1,6 +1,6 @@
 ---
 title: "Excellence Consulting Corp, Westbury, NY | Lead Paint Roster"
-description: "Excellence Consulting Corp: Lead abatement in Westbury, NY. Licence details, contact and quotes."
+description: "Excellence Consulting Corp in Westbury, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/excellence-consulting-corp-ny1004/
 ---
 

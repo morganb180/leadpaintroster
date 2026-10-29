@@ -1,6 +1,6 @@
 ---
 title: "Side By Side Mro, Vineland, NJ | Lead Paint Roster"
-description: "Side By Side Mro: Lead inspection / evaluation in Vineland, NJ. Licence details, contact and quotes."
+description: "Side By Side Mro in Vineland, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/side-by-side-mro-nj0153/
 ---
 

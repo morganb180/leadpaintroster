@@ -1,6 +1,6 @@
 ---
-title: "General Contracting Group, LLC, Upper Saddle River, NJ | Lead Paint Roster"
-description: "General Contracting Group, LLC: Lead abatement in Upper Saddle River, NJ. Licence details, contact and quotes."
+title: "General Contracting Group, Upper Saddle River NJ"
+description: "General Contracting Group, LLC in Upper Saddle River, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/general-contracting-group-llc-nj0217/
 ---
 

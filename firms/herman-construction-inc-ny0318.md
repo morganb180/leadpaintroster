@@ -1,5 +1,5 @@
 ---
-title: "Herman Construction Inc., South Ozone Park, NY | Lead Paint Roster"
+title: "Herman Construction: Lead Paint Pro, South Ozone Park NY"
 description: "Herman Construction Inc.: Lead abatement, Lead inspection / evaluation in South Ozone Park, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/herman-construction-inc-ny0318/
 ---

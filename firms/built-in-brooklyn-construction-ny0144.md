@@ -1,5 +1,5 @@
 ---
-title: "Built in Brooklyn Construction, Brooklyn, NY | Lead Paint Roster"
+title: "Built in Brooklyn Construction: Lead Paint Pro, Brooklyn NY"
 description: "Built in Brooklyn Construction: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/built-in-brooklyn-construction-ny0144/
 ---

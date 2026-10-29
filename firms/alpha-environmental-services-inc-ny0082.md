@@ -1,5 +1,5 @@
 ---
-title: "Alpha Environmental Services, Inc., Brooklyn, NY | Lead Paint Roster"
+title: "Alpha Environmental Services: Lead Paint Pro, Brooklyn NY"
 description: "Alpha Environmental Services, Inc.: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/alpha-environmental-services-inc-ny0082/
 ---

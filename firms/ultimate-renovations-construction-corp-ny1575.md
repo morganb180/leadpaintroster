@@ -1,6 +1,6 @@
 ---
-title: "Ultimate Renovations & Construction Corp, Campbell Hall, NY | Lead Paint Roster"
-description: "Ultimate Renovations & Construction Corp: Lead abatement in Campbell Hall, NY. Licence details, contact and quotes."
+title: "Ultimate Renovations & Construction, Campbell Hall NY"
+description: "Ultimate Renovations & Construction Corp in Campbell Hall, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ultimate-renovations-construction-corp-ny1575/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Royal Homes Remodeling, Schenectady, NY | Lead Paint Roster"
-description: "Royal Homes Remodeling: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
+description: "Royal Homes Remodeling in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/royal-homes-remodeling-ny1445/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "AMG Design and Contracting LLC, New York, NY | Lead Paint Roster"
-description: "AMG Design and Contracting LLC: Lead abatement in New York, NY. Licence details, contact and quotes."
+title: "AMG Design and Contracting LLC: Lead Abatement, New York NY"
+description: "AMG Design and Contracting LLC in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/amg-design-and-contracting-llc-ny0731/
 ---
 

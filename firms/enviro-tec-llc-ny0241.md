@@ -1,6 +1,6 @@
 ---
 title: "Enviro-Tec LLC, Staten Island, NY | Lead Paint Roster"
-description: "Enviro-Tec LLC: Lead abatement, Lead inspection / evaluation in Staten Island, NY. Licence details, contact and quotes."
+description: "Enviro-Tec LLC in Staten Island, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/enviro-tec-llc-ny0241/
 ---
 

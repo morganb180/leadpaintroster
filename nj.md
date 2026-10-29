@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in New Jersey | Lead Paint Roster"
+title: "Certified Lead Paint Inspection & Abatement in New Jersey"
 description: "Find NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms in New Jersey: 256 listings by county and city, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/nj/
 ---
@@ -18,7 +18,9 @@ canonical: https://leadpaintroster.com/nj/
 
 New Jersey certifies lead evaluation contractors (inspections and risk assessments) and lead abatement contractors through DCA. The individual inspector/risk assessors are licensed by the NJ Department of Health and must work for a DCA-certified contractor. NJDOH doesn't publish them as a list, so we show the contact person DCA lists for each firm.
 
-## New Jersey lead paint rules in brief
+## What are New Jersey's lead paint rules?
+
+New Jersey municipalities must inspect, or have a DCA-certified lead evaluation contractor inspect, many rental dwellings for lead-based paint hazards every three years or at tenant turnover, unless there is a valid lead-safe certification.
 
 * Municipalities must inspect, or have a certified lead evaluation contractor inspect, certain single-family, two-family and multiple rental dwellings for lead-based paint hazards every three years or at tenant turnover, unless there is a valid lead-safe certification. Owners and landlords may hire a certified lead evaluation contractor directly (NJ DCA).
 * DCA certifies lead evaluation and abatement contractors. NJDOH licenses the individual inspector/risk assessors, who must work for a DCA-certified contractor (NJDOH).
@@ -26,7 +28,7 @@ New Jersey certifies lead evaluation contractors (inspections and risk assessmen
 
 Sources: [NJ DCA lead-safe rental law (P.L.2021, c.182)](https://www.nj.gov/dca/codes/resources/leadpaint.shtml). Plain-language summary, not legal advice. Confirm with the agency.
 
-## Cities
+## Which New Jersey cities have lead paint inspector pages?
 
 [**Newark**  
 8 listings](https://leadpaintroster.com/nj/city/newark/)[**Lakewood**  
@@ -35,7 +37,7 @@ Sources: [NJ DCA lead-safe rental law (P.L.2021, c.182)](https://www.nj.gov/dca/
 5 listings](https://leadpaintroster.com/nj/city/cherry-hill/)[**Union**  
 4 listings](https://leadpaintroster.com/nj/city/union/)
 
-## Browse all 19 counties
+## Which New Jersey counties have certified lead paint pros? (19 counties)
 
 * [Atlantic](https://leadpaintroster.com/nj/county/atlantic/) (3)
 * [Bergen](https://leadpaintroster.com/nj/county/bergen/) (28)
@@ -59,7 +61,7 @@ Sources: [NJ DCA lead-safe rental law (P.L.2021, c.182)](https://www.nj.gov/dca/
 
 [Licensed in NJ but based elsewhere (44)](https://leadpaintroster.com/nj/out-of-state/)
 
-## What lead work typically costs
+## How much does a lead paint inspection cost in New Jersey?
 
 | Item | Typical range (national) |
 | --- | --- |

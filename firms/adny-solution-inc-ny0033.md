@@ -1,6 +1,6 @@
 ---
 title: "ADNY Solution Inc, Ridgewood, NY | Lead Paint Roster"
-description: "ADNY Solution Inc: Lead inspection / evaluation in Ridgewood, NY. Licence details, contact and quotes."
+description: "ADNY Solution Inc in Ridgewood, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/adny-solution-inc-ny0033/
 ---
 

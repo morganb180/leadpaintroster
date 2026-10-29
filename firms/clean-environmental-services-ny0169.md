@@ -1,6 +1,6 @@
 ---
-title: "Clean Environmental Services, Hicksville, NY | Lead Paint Roster"
-description: "Clean Environmental Services: Lead inspection / evaluation in Hicksville, NY. Licence details, contact and quotes."
+title: "Clean Environmental Services: Lead Inspector, Hicksville NY"
+description: "Clean Environmental Services in Hicksville, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/clean-environmental-services-ny0169/
 ---
 

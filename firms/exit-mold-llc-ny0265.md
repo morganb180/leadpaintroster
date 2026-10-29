@@ -1,6 +1,6 @@
 ---
 title: "Exit Mold LLC, Lynbrook, NY | Lead Paint Roster"
-description: "Exit Mold LLC: Lead abatement, Lead inspection / evaluation in Lynbrook, NY. Licence details, contact and quotes."
+description: "Exit Mold LLC in Lynbrook, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/exit-mold-llc-ny0265/
 ---
 

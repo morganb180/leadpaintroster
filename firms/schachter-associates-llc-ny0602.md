@@ -1,5 +1,5 @@
 ---
-title: "Schachter & Associates, LLC, Brooklyn, NY | Lead Paint Roster"
+title: "Schachter & Associates: Lead Paint Pro, Brooklyn NY"
 description: "Schachter & Associates, LLC: Lead abatement, Lead inspection / evaluation in Brooklyn, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/schachter-associates-llc-ny0602/
 ---

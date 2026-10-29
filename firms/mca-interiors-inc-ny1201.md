@@ -1,6 +1,6 @@
 ---
 title: "MCA Interiors, Inc., Jackson Heights, NY | Lead Paint Roster"
-description: "MCA Interiors, Inc.: Lead abatement in Jackson Heights, NY. Licence details, contact and quotes."
+description: "MCA Interiors, Inc. in Jackson Heights, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mca-interiors-inc-ny1201/
 ---
 

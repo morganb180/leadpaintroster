@@ -1,6 +1,6 @@
 ---
-title: "Suburban Consulting Engineers, Flanders, NJ | Lead Paint Roster"
-description: "Suburban Consulting Engineers: Lead inspection / evaluation in Flanders, NJ. Licence details, contact and quotes."
+title: "Suburban Consulting Engineers: Lead Inspector, Flanders NJ"
+description: "Suburban Consulting Engineers in Flanders, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/suburban-consulting-engineers-nj0162/
 ---
 

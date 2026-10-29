@@ -1,6 +1,6 @@
 ---
 title: "As Enviromental LLC, Fords, NJ | Lead Paint Roster"
-description: "As Enviromental LLC: Lead abatement in Fords, NJ. Licence details, contact and quotes."
+description: "As Enviromental LLC in Fords, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/as-enviromental-llc-nj0195/
 ---
 

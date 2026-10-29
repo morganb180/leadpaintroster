@@ -1,6 +1,6 @@
 ---
 title: "Atarch Group LLC, Elmont, NY | Lead Paint Roster"
-description: "Atarch Group LLC: Lead abatement, Lead inspection / evaluation in Elmont, NY. Licence details, contact and quotes."
+description: "Atarch Group LLC in Elmont, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/atarch-group-llc-ny0055/
 ---
 

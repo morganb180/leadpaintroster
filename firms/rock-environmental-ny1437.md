@@ -1,6 +1,6 @@
 ---
 title: "Rock Environmental, Rochester, NY | Lead Paint Roster"
-description: "Rock Environmental: Lead abatement in Rochester, NY. Licence details, contact and quotes."
+description: "Rock Environmental in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/rock-environmental-ny1437/
 ---
 

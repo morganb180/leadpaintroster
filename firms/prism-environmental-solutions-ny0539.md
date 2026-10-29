@@ -1,5 +1,5 @@
 ---
-title: "Prism Environmental Solutions, Woodmere, NY | Lead Paint Roster"
+title: "Prism Environmental Solutions: Lead Paint Pro, Woodmere NY"
 description: "Prism Environmental Solutions: Lead abatement, Lead inspection / evaluation in Woodmere, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/prism-environmental-solutions-ny0539/
 ---

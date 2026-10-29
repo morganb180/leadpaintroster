@@ -1,6 +1,6 @@
 ---
 title: "Lexian Corp., Melville, NY | Lead Paint Roster"
-description: "Lexian Corp.: Lead abatement, Lead inspection / evaluation in Melville, NY. Licence details, contact and quotes."
+description: "Lexian Corp. in Melville, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/lexian-corp-ny0416/
 ---
 

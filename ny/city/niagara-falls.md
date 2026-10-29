@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Niagara Falls, NY: 8 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Niagara Falls, NY"
 description: "8 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Niagara Falls, New York, plus 9 more in Niagara County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/niagara-falls/
 ---
@@ -8,13 +8,17 @@ canonical: https://leadpaintroster.com/ny/city/niagara-falls/
 
 # Certified lead paint inspectors & abatement firms in Niagara Falls, NY
 
+**Quick answer:** For landlords, owners, buyers and parents in Niagara Falls, NY: Lead Paint Roster lists 8 EPA-licensed lead paint listings with an address in Niagara Falls (1 lead inspection / evaluation, 8 lead abatement) and 9 more elsewhere in Niagara County. Licensed pros often travel, so ask whether they cover your address. Check each licence with EPA before you hire, and read the [Niagara Falls hiring guide](https://leadpaintroster.com/ny/city/niagara-falls/guide/) for questions to ask and typical costs.
+
 8 EPA-licensed listings give an address in Niagara Falls (1 lead inspection / evaluation, 8 lead abatement), and 9 more are elsewhere in Niagara County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Niagara Falls hiring guide →**](https://leadpaintroster.com/ny/city/niagara-falls/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Niagara Falls](https://leadpaintroster.com/get-quotes/?city=niagara-falls&st=ny)
 
-## Based in Niagara Falls
+## Which certified lead paint firms are based in Niagara Falls, NY?
+
+Lead Paint Roster lists 8 EPA-licensed listings with an address in Niagara Falls: 1 lead inspection & evaluation firms and 7 lead abatement contractors. Each listing appears once below, even if it holds both licences.
 
 ### Lead inspection & evaluation firms (1)
 
@@ -125,11 +129,13 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-125971-3 (exp. 2027-06-20)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1418)
 
-## Elsewhere in Niagara County (9)
+## Which other certified lead paint firms are in Niagara County? (9)
+
+9 more listings have an address elsewhere in Niagara County. Licensed pros often travel, so ask whether they cover your address in Niagara Falls.
 
 [See all 17 Niagara County listings →](https://leadpaintroster.com/ny/county/niagara/)
 
-## More cities in Niagara County
+## Which other Niagara County cities have lead paint pages?
 
 [Lockport](https://leadpaintroster.com/ny/city/lockport/)
 

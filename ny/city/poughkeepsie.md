@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Poughkeepsie, NY: 6 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Poughkeepsie, NY"
 description: "6 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Poughkeepsie, New York, plus 4 more in Dutchess County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/poughkeepsie/
 ---
@@ -8,13 +8,17 @@ canonical: https://leadpaintroster.com/ny/city/poughkeepsie/
 
 # Certified lead paint inspectors & abatement firms in Poughkeepsie, NY
 
+**Quick answer:** For landlords, owners, buyers and parents in Poughkeepsie, NY: Lead Paint Roster lists 6 EPA-licensed lead paint listings with an address in Poughkeepsie (4 lead inspection / evaluation, 4 lead abatement) and 4 more elsewhere in Dutchess County. Licensed pros often travel, so ask whether they cover your address. Check each licence with EPA before you hire, and read the [Poughkeepsie hiring guide](https://leadpaintroster.com/ny/city/poughkeepsie/guide/) for questions to ask and typical costs.
+
 6 EPA-licensed listings give an address in Poughkeepsie (4 lead inspection / evaluation, 4 lead abatement), and 4 more are elsewhere in Dutchess County. Licensed pros often travel, so ask whether they cover your address.
 
 [**Read the Poughkeepsie hiring guide →**](https://leadpaintroster.com/ny/city/poughkeepsie/guide/) (licence checks, questions to ask, costs, FAQ)
 
 [How to get quotes in Poughkeepsie](https://leadpaintroster.com/get-quotes/?city=poughkeepsie&st=ny)
 
-## Based in Poughkeepsie
+## Which certified lead paint firms are based in Poughkeepsie, NY?
+
+Lead Paint Roster lists 6 EPA-licensed listings with an address in Poughkeepsie: 4 lead inspection & evaluation firms and 2 lead abatement contractors. Each listing appears once below, even if it holds both licences.
 
 ### Lead inspection & evaluation firms (4)
 
@@ -100,7 +104,9 @@ EPA Lead-Based Paint Activities firm: Abatement #LBP-F304603-1 (exp. 2028-08-14)
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1087)
 
-## Elsewhere in Dutchess County (4)
+## Which other certified lead paint firms are in Dutchess County? (4)
+
+4 more listings have an address elsewhere in Dutchess County. Licensed pros often travel, so ask whether they cover your address in Poughkeepsie.
 
 [See all 10 Dutchess County listings →](https://leadpaintroster.com/ny/county/dutchess/)
 

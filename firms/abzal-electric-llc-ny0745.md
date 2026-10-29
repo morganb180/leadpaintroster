@@ -1,6 +1,6 @@
 ---
 title: "Abzal Electric LLC, Schenectady, NY | Lead Paint Roster"
-description: "Abzal Electric LLC: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
+description: "Abzal Electric LLC in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/abzal-electric-llc-ny0745/
 ---
 

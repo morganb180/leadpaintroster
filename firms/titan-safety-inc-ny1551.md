@@ -1,6 +1,6 @@
 ---
 title: "Titan Safety Inc., New York, NY | Lead Paint Roster"
-description: "Titan Safety Inc.: Lead abatement in New York, NY. Licence details, contact and quotes."
+description: "Titan Safety Inc. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/titan-safety-inc-ny1551/
 ---
 

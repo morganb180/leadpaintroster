@@ -1,6 +1,6 @@
 ---
 title: "TERS Inc., Nanuet, NY | Lead Paint Roster"
-description: "TERS Inc.: Lead abatement in Nanuet, NY. Licence details, contact and quotes."
+description: "TERS Inc. in Nanuet, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ters-inc-ny1531/
 ---
 

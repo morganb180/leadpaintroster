@@ -1,6 +1,6 @@
 ---
 title: "Dulli Realty, LLC, Bronx, NY | Lead Paint Roster"
-description: "Dulli Realty, LLC: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Dulli Realty, LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/dulli-realty-llc-ny0954/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Stepping Stone Home Improvement, LLC, Albany, NY | Lead Paint Roster"
-description: "Stepping Stone Home Improvement, LLC: Lead abatement in Albany, NY. Licence details, contact and quotes."
+title: "Stepping Stone Home Improvement: Lead Abatement, Albany NY"
+description: "Stepping Stone Home Improvement, LLC in Albany, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/stepping-stone-home-improvement-llc-ny1512/
 ---
 

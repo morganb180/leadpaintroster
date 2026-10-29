@@ -1,6 +1,6 @@
 ---
 title: "Tricomi Industries, Brooklyn, NY | Lead Paint Roster"
-description: "Tricomi Industries: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "Tricomi Industries in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/tricomi-industries-ny1563/
 ---
 

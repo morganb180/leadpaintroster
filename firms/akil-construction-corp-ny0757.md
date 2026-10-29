@@ -1,6 +1,6 @@
 ---
 title: "Akil Construction Corp, Bronx, NY | Lead Paint Roster"
-description: "Akil Construction Corp: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+description: "Akil Construction Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/akil-construction-corp-ny0757/
 ---
 

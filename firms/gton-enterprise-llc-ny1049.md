@@ -1,6 +1,6 @@
 ---
 title: "GTON Enterprise LLC, Brooklyn, NY | Lead Paint Roster"
-description: "GTON Enterprise LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+description: "GTON Enterprise LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/gton-enterprise-llc-ny1049/
 ---
 

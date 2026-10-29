@@ -1,6 +1,6 @@
 ---
 title: "Mkm NJ Inc, Rochelle Park, NJ | Lead Paint Roster"
-description: "Mkm NJ Inc: Lead inspection / evaluation in Rochelle Park, NJ. Licence details, contact and quotes."
+description: "Mkm NJ Inc in Rochelle Park, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/mkm-nj-inc-nj0110/
 ---
 

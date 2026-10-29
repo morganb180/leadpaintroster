@@ -1,6 +1,6 @@
 ---
 title: "Alc Environmental, New York, NY | Lead Paint Roster"
-description: "Alc Environmental: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+description: "Alc Environmental in New York, NY: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/alc-environmental-nj0024/
 ---
 

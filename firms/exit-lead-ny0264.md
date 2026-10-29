@@ -1,6 +1,6 @@
 ---
 title: "Exit Lead, Woodmere, NY | Lead Paint Roster"
-description: "Exit Lead: Lead inspection / evaluation in Woodmere, NY. Licence details, contact and quotes."
+description: "Exit Lead in Woodmere, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/exit-lead-ny0264/
 ---
 

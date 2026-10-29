@@ -1,6 +1,6 @@
 ---
-title: "Mediterranean Construction Corp.., Rosedale, NY | Lead Paint Roster"
-description: "Mediterranean Construction Corp..: Lead inspection / evaluation in Rosedale, NY. Licence details, contact and quotes."
+title: "Mediterranean Construction Corp.., Rosedale NY"
+description: "Mediterranean Construction Corp.. in Rosedale, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/mediterranean-construction-corp-ny0451/
 ---
 

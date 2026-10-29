@@ -1,6 +1,6 @@
 ---
-title: "Atlas Technical Consultants, Burlington, NJ | Lead Paint Roster"
-description: "Atlas Technical Consultants: Lead inspection / evaluation in Burlington, NJ. Licence details, contact and quotes."
+title: "Atlas Technical Consultants: Lead Inspector, Burlington NJ"
+description: "Atlas Technical Consultants in Burlington, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/atlas-technical-consultants-nj0032/
 ---
 

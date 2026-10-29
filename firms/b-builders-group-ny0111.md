@@ -1,6 +1,6 @@
 ---
 title: "B Builders Group, Kew Gardens, NY | Lead Paint Roster"
-description: "B Builders Group: Lead abatement, Lead inspection / evaluation in Kew Gardens, NY. Licence details, contact and quotes."
+description: "B Builders Group in Kew Gardens, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/b-builders-group-ny0111/
 ---
 

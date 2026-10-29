@@ -1,6 +1,6 @@
 ---
-title: "192 Branch Interior Services, Inc, Ronkonkoma, NY | Lead Paint Roster"
-description: "192 Branch Interior Services, Inc: Lead abatement in Ronkonkoma, NY. Licence details, contact and quotes."
+title: "192 Branch Interior Services: Lead Abatement, Ronkonkoma NY"
+description: "192 Branch Interior Services, Inc in Ronkonkoma, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/192-branch-interior-services-inc-ny0688/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Total Environmental Associates Inc, New York, NY | Lead Paint Roster"
-description: "Total Environmental Associates Inc: Lead inspection / evaluation in New York, NY. Licence details, contact and quotes."
+title: "Total Environmental Associates: Lead Inspector, New York NY"
+description: "Total Environmental Associates Inc in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/total-environmental-associates-inc-ny0651/
 ---
 

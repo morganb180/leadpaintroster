@@ -1,6 +1,6 @@
 ---
 title: "Ghcr LLC, Hawthorne, NY | Lead Paint Roster"
-description: "Ghcr LLC: Lead abatement, Lead inspection / evaluation in Hawthorne, NY. Licence details, contact and quotes."
+description: "Ghcr LLC in Hawthorne, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ghcr-llc-ny0283/
 ---
 

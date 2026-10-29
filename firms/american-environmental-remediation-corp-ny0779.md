@@ -1,6 +1,6 @@
 ---
-title: "American Environmental & Remediation Corp, Lewiston, NY | Lead Paint Roster"
-description: "American Environmental & Remediation Corp: Lead abatement in Lewiston, NY. Licence details, contact and quotes."
+title: "American Environmental & Remediation, Lewiston NY"
+description: "American Environmental & Remediation Corp in Lewiston, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/american-environmental-remediation-corp-ny0779/
 ---
 

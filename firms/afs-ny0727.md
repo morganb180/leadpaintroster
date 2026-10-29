@@ -1,6 +1,6 @@
 ---
 title: "Afs, Woodhaven, NY | Lead Paint Roster"
-description: "Afs: Lead abatement in Woodhaven, NY. Licence details, contact and quotes."
+description: "Afs in Woodhaven, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/afs-ny0727/
 ---
 

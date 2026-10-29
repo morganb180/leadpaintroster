@@ -1,6 +1,6 @@
 ---
-title: "IQ Contracting, Inc. & Associates, Ossining, NY | Lead Paint Roster"
-description: "IQ Contracting, Inc. & Associates: Lead abatement in Ossining, NY. Licence details, contact and quotes."
+title: "IQ Contracting, Inc. & Associates, Ossining NY"
+description: "IQ Contracting, Inc. & Associates in Ossining, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/iq-contracting-inc-associates-ny1093/
 ---
 

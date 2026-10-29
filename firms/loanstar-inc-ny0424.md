@@ -1,6 +1,6 @@
 ---
 title: "Loanstar Inc., Rego Park, NY | Lead Paint Roster"
-description: "Loanstar Inc.: Lead abatement, Lead inspection / evaluation in Rego Park, NY. Licence details, contact and quotes."
+description: "Loanstar Inc. in Rego Park, NY: US EPA certified for lead inspection and lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/loanstar-inc-ny0424/
 ---
 

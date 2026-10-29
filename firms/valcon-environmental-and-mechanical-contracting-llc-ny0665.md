@@ -1,5 +1,5 @@
 ---
-title: "Valcon Environmental and Mechanical Contracting LLC, Great Neck, NY | Lead Paint Roster"
+title: "Valcon Environmental and Mechanical Contracting"
 description: "Valcon Environmental and Mechanical Contracting LLC: Lead inspection / evaluation in Great Neck, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/valcon-environmental-and-mechanical-contracting-llc-ny0665/
 ---

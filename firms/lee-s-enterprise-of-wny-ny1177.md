@@ -1,6 +1,6 @@
 ---
 title: "Lee's Enterprise of WNY, Buffalo, NY | Lead Paint Roster"
-description: "Lee's Enterprise of WNY: Lead abatement in Buffalo, NY. Licence details, contact and quotes."
+description: "Lee's Enterprise of WNY in Buffalo, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/lee-s-enterprise-of-wny-ny1177/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Champion Painting Specialty, Fort Lauderdale, FL | Lead Paint Roster"
-description: "Champion Painting Specialty: Lead abatement in Fort Lauderdale, FL. Licence details, contact and quotes."
+title: "Champion Painting Specialty, Fort Lauderdale FL"
+description: "Champion Painting Specialty in Fort Lauderdale, FL: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/champion-painting-specialty-nj0207/
 ---
 

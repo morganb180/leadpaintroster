@@ -1,6 +1,6 @@
 ---
-title: "Martin Environmental Services, Inc, Schenectady, NY | Lead Paint Roster"
-description: "Martin Environmental Services, Inc: Lead abatement in Schenectady, NY. Licence details, contact and quotes."
+title: "Martin Environmental Services, Schenectady NY"
+description: "Martin Environmental Services, Inc in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/martin-environmental-services-inc-ny1228/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Central Construction Management LLC, Long Island City, NY | Lead Paint Roster"
-description: "Central Construction Management LLC: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
+title: "Central Construction Management, Long Island City NY"
+description: "Central Construction Management LLC in Long Island City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/central-construction-management-llc-ny0890/
 ---
 

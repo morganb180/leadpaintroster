@@ -1,6 +1,6 @@
 ---
-title: "Clean Air Environmental Services, Inc., Johnstown, NY | Lead Paint Roster"
-description: "Clean Air Environmental Services, Inc.: Lead abatement in Johnstown, NY. Licence details, contact and quotes."
+title: "Clean Air Environmental Services, Johnstown NY"
+description: "Clean Air Environmental Services, Inc. in Johnstown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/clean-air-environmental-services-inc-ny0900/
 ---
 

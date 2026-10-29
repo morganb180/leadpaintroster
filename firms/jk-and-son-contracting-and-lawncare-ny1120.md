@@ -1,6 +1,6 @@
 ---
-title: "JK and Son Contracting and Lawncare, Dexter, NY | Lead Paint Roster"
-description: "JK and Son Contracting and Lawncare: Lead abatement in Dexter, NY. Licence details, contact and quotes."
+title: "JK and Son Contracting and Lawncare, Dexter NY"
+description: "JK and Son Contracting and Lawncare in Dexter, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/jk-and-son-contracting-and-lawncare-ny1120/
 ---
 

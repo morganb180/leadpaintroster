@@ -1,5 +1,5 @@
 ---
-title: "Home Improvement Gallery, Inc., South Glens Falls, NY | Lead Paint Roster"
+title: "Home Improvement Gallery, South Glens Falls NY"
 description: "Home Improvement Gallery, Inc.: Lead abatement, Lead inspection / evaluation in South Glens Falls, NY. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/home-improvement-gallery-inc-ny0322/
 ---

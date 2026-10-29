@@ -1,6 +1,6 @@
 ---
-title: "Alpine Construction & Renovation Corp., Bronx, NY | Lead Paint Roster"
-description: "Alpine Construction & Renovation Corp.: Lead abatement in Bronx, NY. Licence details, contact and quotes."
+title: "Alpine Construction & Renovation: Lead Abatement, Bronx NY"
+description: "Alpine Construction & Renovation Corp. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/alpine-construction-renovation-corp-ny0771/
 ---
 

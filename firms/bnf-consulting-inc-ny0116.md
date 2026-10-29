@@ -1,6 +1,6 @@
 ---
 title: "BNF Consulting, Inc., Somers, NY | Lead Paint Roster"
-description: "BNF Consulting, Inc.: Lead inspection / evaluation in Somers, NY. Licence details, contact and quotes."
+description: "BNF Consulting, Inc. in Somers, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/bnf-consulting-inc-ny0116/
 ---
 

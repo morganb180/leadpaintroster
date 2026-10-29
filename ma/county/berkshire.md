@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Berkshire County, MA: 1 Listing | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Berkshire County, MA"
 description: "1 MA-licensed lead paint inspectors, risk assessors and abatement firms in Berkshire County, Massachusetts, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ma/county/berkshire/
 ---
@@ -10,7 +10,9 @@ canonical: https://leadpaintroster.com/ma/county/berkshire/
 
 **1 MA-licensed listings** with an address of record in Berkshire County (1 lead risk assessment): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=berkshire&st=ma)
 
-## Licensed lead inspectors / risk assessors (1)
+## Which licensed lead inspectors and risk assessors are in Berkshire County, MA? (1)
+
+1 listing in Berkshire County holds a Massachusetts lead inspector or risk assessor licence.
 
 Listings holding more than one licence type are shown once, in the first matching section.
 
@@ -31,13 +33,13 @@ Pittsfield, MA
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0036)
 
-## Neighboring counties
+## Which counties border Berkshire County, MA?
 
 Franklin (0) · [Hampden](https://leadpaintroster.com/ma/county/hampden/) (2) · [Hampshire](https://leadpaintroster.com/ma/county/hampshire/) (1)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Berkshire County: quick guide
+## How do I hire a lead inspector in Berkshire County?
 
 1. Check the firm or person in the official list ([Commonwealth of Massachusetts (licensed private lead inspector list)](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

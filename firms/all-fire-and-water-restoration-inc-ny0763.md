@@ -1,6 +1,6 @@
 ---
-title: "All Fire and Water Restoration Inc, Ronkonkoma, NY | Lead Paint Roster"
-description: "All Fire and Water Restoration Inc: Lead abatement in Ronkonkoma, NY. Licence details, contact and quotes."
+title: "All Fire and Water Restoration, Ronkonkoma NY"
+description: "All Fire and Water Restoration Inc in Ronkonkoma, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/all-fire-and-water-restoration-inc-ny0763/
 ---
 

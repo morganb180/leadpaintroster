@@ -1,6 +1,6 @@
 ---
 title: "Silver Contractors, Crompond, NY | Lead Paint Roster"
-description: "Silver Contractors: Lead abatement in Crompond, NY. Licence details, contact and quotes."
+description: "Silver Contractors in Crompond, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/silver-contractors-ny1497/
 ---
 

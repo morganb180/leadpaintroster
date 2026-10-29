@@ -1,6 +1,6 @@
 ---
 title: "Gkm Industries, Inc., Fairview, NJ | Lead Paint Roster"
-description: "Gkm Industries, Inc.: Lead abatement in Fairview, NJ. Licence details, contact and quotes."
+description: "Gkm Industries, Inc. in Fairview, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/gkm-industries-inc-nj0218/
 ---
 

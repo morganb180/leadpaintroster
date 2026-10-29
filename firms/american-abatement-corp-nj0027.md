@@ -1,5 +1,5 @@
 ---
-title: "American Abatement Corp, Port Reading, NJ | Lead Paint Roster"
+title: "American Abatement: Lead Paint Pro, Port Reading NJ"
 description: "American Abatement Corp: Lead abatement, Lead inspection / evaluation in Port Reading, NJ. Licence details, contact and quotes."
 canonical: https://leadpaintroster.com/firms/american-abatement-corp-nj0027/
 ---

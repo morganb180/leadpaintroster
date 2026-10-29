@@ -1,6 +1,6 @@
 ---
-title: "Adam Electrical Contracting LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Adam Electrical Contracting LLC: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Adam Electrical Contracting LLC: Lead Abatement, Brooklyn NY"
+description: "Adam Electrical Contracting LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/adam-electrical-contracting-llc-ny0748/
 ---
 

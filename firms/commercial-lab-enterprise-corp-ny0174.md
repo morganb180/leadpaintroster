@@ -1,6 +1,6 @@
 ---
-title: "Commercial Lab Enterprise Corp., Bronx, NY | Lead Paint Roster"
-description: "Commercial Lab Enterprise Corp.: Lead inspection / evaluation in Bronx, NY. Licence details, contact and quotes."
+title: "Commercial Lab Enterprise: Lead Paint Inspector, Bronx NY"
+description: "Commercial Lab Enterprise Corp. in Bronx, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/commercial-lab-enterprise-corp-ny0174/
 ---
 

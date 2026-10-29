@@ -1,6 +1,6 @@
 ---
-title: "Ideal Property Services, Inc., Glenville, NY | Lead Paint Roster"
-description: "Ideal Property Services, Inc.: Lead abatement in Glenville, NY. Licence details, contact and quotes."
+title: "Ideal Property Services, Inc.: Lead Abatement, Glenville NY"
+description: "Ideal Property Services, Inc. in Glenville, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/ideal-property-services-inc-ny1095/
 ---
 

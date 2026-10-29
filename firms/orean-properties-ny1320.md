@@ -1,6 +1,6 @@
 ---
 title: "Orean Properties, Buffalo, NY | Lead Paint Roster"
-description: "Orean Properties: Lead abatement in Buffalo, NY. Licence details, contact and quotes."
+description: "Orean Properties in Buffalo, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/orean-properties-ny1320/
 ---
 

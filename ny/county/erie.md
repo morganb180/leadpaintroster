@@ -1,5 +1,5 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Erie County, NY: 47 Listings | Lead Paint Roster"
+title: "Lead Paint Inspection & Abatement in Erie County, NY"
 description: "47 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Erie County, New York, with licence numbers, expiry dates and source links."
 canonical: https://leadpaintroster.com/ny/county/erie/
 ---
@@ -12,7 +12,9 @@ canonical: https://leadpaintroster.com/ny/county/erie/
 
 City pages: [Buffalo](https://leadpaintroster.com/ny/city/buffalo/) · [Lackawanna](https://leadpaintroster.com/ny/city/lackawanna/) · [Tonawanda](https://leadpaintroster.com/ny/city/tonawanda/) · [West Seneca](https://leadpaintroster.com/ny/city/west-seneca/)
 
-## Lead inspection & evaluation firms (15)
+## Where can I get a lead paint inspection in Erie County, NY? (15)
+
+Lead Paint Roster lists 15 EPA-licensed listings for lead inspection / evaluation with an address of record in Erie County.
 
 ✔ EPA-certified firm Lead abatementLead inspection / evaluation
 
@@ -218,7 +220,9 @@ EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, c
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0181)
 
-## Lead abatement contractors (32)
+## Who does lead paint abatement in Erie County, NY? (32)
+
+32 EPA-licensed lead abatement listings have an address of record in Erie County. Use a certified abatement contractor, and have someone independent do the clearance test.
 
 ✔ EPA-certified firm Lead abatement
 
@@ -638,13 +642,13 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Show all 32 listings
 
-## Neighboring counties
+## Which counties border Erie County, NY?
 
 [Cattaraugus](https://leadpaintroster.com/ny/county/cattaraugus/) (1) · [Chautauqua](https://leadpaintroster.com/ny/county/chautauqua/) (10) · [Genesee](https://leadpaintroster.com/ny/county/genesee/) (1) · [Niagara](https://leadpaintroster.com/ny/county/niagara/) (17) · Wyoming (0)
 
 Adjacency from the U.S. Census Bureau county adjacency file.
 
-## Hiring in Erie County: quick guide
+## How do I hire a lead inspector in Erie County?
 
 1. Check the firm or person in the official list ([US Environmental Protection Agency](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search)). Ours was retrieved 2026-10-12, so confirm the certification is still current.
 2. Ask for the certification or licence number in writing, plus the individual inspector's own credential.

@@ -1,6 +1,6 @@
 ---
-title: "Plus Construction Services Inc, Medford, NY | Lead Paint Roster"
-description: "Plus Construction Services Inc: Lead abatement in Medford, NY. Licence details, contact and quotes."
+title: "Plus Construction Services Inc: Lead Abatement, Medford NY"
+description: "Plus Construction Services Inc in Medford, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/plus-construction-services-inc-ny1356/
 ---
 

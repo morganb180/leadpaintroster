@@ -1,6 +1,6 @@
 ---
 title: "IBX Services LLC, Queens, NY | Lead Paint Roster"
-description: "IBX Services LLC: Lead abatement in Queens, NY. Licence details, contact and quotes."
+description: "IBX Services LLC in Queens, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/ibx-services-llc-ny1091/
 ---
 

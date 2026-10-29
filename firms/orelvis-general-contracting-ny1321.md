@@ -1,6 +1,6 @@
 ---
-title: "Orelvis General Contracting, Rochester, NY | Lead Paint Roster"
-description: "Orelvis General Contracting: Lead abatement in Rochester, NY. Licence details, contact and quotes."
+title: "Orelvis General Contracting: Lead Abatement, Rochester NY"
+description: "Orelvis General Contracting in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/orelvis-general-contracting-ny1321/
 ---
 

@@ -8,7 +8,9 @@ canonical: https://leadpaintroster.com/lead-inspection-vs-risk-assessment/
 
 A **lead-based paint inspection** finds out, surface by surface, whether a home has lead-based paint and where it is. A **risk assessment** looks for lead *hazards*, such as deteriorated paint and lead in dust or soil, and recommends ways to control them. Many rental laws ask for one or the other, so check which you need. EPA explains how to find qualified professionals ([EPA: finding a qualified professional](https://www.epa.gov/lead/where-can-i-find-qualified-professional-conduct-inspection)).
 
-## What lead work typically costs
+## How much do lead paint inspection and abatement cost?
+
+A national HomeAdvisor guide puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520 (about $3,499).
 
 | Item | Typical range (national) |
 | --- | --- |
@@ -17,6 +19,8 @@ A **lead-based paint inspection** finds out, surface by surface, whether a home 
 
 National figures, not local quotes. Large homes and multi-unit buildings cost more. Try the [estimate tool](https://leadpaintroster.com/lead-inspection-cost/).
 
-## Find a licensed pro
+## Where can I find a certified lead paint pro near me?
+
+Browse Lead Paint Roster by state: [New Jersey](https://leadpaintroster.com/nj/), [New York](https://leadpaintroster.com/ny/) or [Massachusetts](https://leadpaintroster.com/ma/). Every listing shows its licence numbers and links the official source list.
 
 [New Jersey](https://leadpaintroster.com/nj/) · [New York](https://leadpaintroster.com/ny/) · [Massachusetts](https://leadpaintroster.com/ma/)

@@ -1,6 +1,6 @@
 ---
-title: "Lead Consulting & Inspection, Chatham, NJ | Lead Paint Roster"
-description: "Lead Consulting & Inspection: Lead inspection / evaluation in Chatham, NJ. Licence details, contact and quotes."
+title: "Lead Consulting & Inspection: Lead Inspector, Chatham NJ"
+description: "Lead Consulting & Inspection in Chatham, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/lead-consulting-inspection-nj0094/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Verdugos General Contractors Corp, Brooklyn, NY | Lead Paint Roster"
-description: "Verdugos General Contractors Corp: Lead abatement in Brooklyn, NY. Licence details, contact and quotes."
+title: "Verdugos General Contractors: Lead Abatement, Brooklyn NY"
+description: "Verdugos General Contractors Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/verdugos-general-contractors-corp-ny1598/
 ---
 

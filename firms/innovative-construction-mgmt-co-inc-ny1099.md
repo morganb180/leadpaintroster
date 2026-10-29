@@ -1,6 +1,6 @@
 ---
-title: "Innovative Construction & Mgmt. Co. Inc., Elmhurst, NY | Lead Paint Roster"
-description: "Innovative Construction & Mgmt. Co. Inc.: Lead abatement in Elmhurst, NY. Licence details, contact and quotes."
+title: "Innovative Construction & Mgmt. Co., Elmhurst NY"
+description: "Innovative Construction & Mgmt. Co. Inc. in Elmhurst, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/innovative-construction-mgmt-co-inc-ny1099/
 ---
 

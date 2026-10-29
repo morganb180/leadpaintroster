@@ -1,6 +1,6 @@
 ---
-title: "Absolute Inspections, LLC, East Brunswick, NJ | Lead Paint Roster"
-description: "Absolute Inspections, LLC: Lead inspection / evaluation in East Brunswick, NJ. Licence details, contact and quotes."
+title: "Absolute Inspections: Lead Inspector, East Brunswick NJ"
+description: "Absolute Inspections, LLC in East Brunswick, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/absolute-inspections-llc-nj0015/
 ---
 

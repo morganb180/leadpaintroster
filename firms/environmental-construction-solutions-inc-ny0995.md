@@ -1,6 +1,6 @@
 ---
-title: "Environmental Construction Solutions, Inc, Pelham, NY | Lead Paint Roster"
-description: "Environmental Construction Solutions, Inc: Lead abatement in Pelham, NY. Licence details, contact and quotes."
+title: "Environmental Construction Solutions, Pelham NY"
+description: "Environmental Construction Solutions, Inc in Pelham, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/environmental-construction-solutions-inc-ny0995/
 ---
 

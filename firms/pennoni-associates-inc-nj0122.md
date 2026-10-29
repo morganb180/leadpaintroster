@@ -1,6 +1,6 @@
 ---
-title: "Pennoni Associates Inc, Haddon Heights, NJ | Lead Paint Roster"
-description: "Pennoni Associates Inc: Lead inspection / evaluation in Haddon Heights, NJ. Licence details, contact and quotes."
+title: "Pennoni Associates: Lead Paint Inspector, Haddon Heights NJ"
+description: "Pennoni Associates Inc in Haddon Heights, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/pennoni-associates-inc-nj0122/
 ---
 

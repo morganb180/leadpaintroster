@@ -1,6 +1,6 @@
 ---
-title: "ATCO Contracting Group, Inc., Melville, NY | Lead Paint Roster"
-description: "ATCO Contracting Group, Inc.: Lead abatement in Melville, NY. Licence details, contact and quotes."
+title: "ATCO Contracting Group, Inc.: Lead Abatement, Melville NY"
+description: "ATCO Contracting Group, Inc. in Melville, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/atco-contracting-group-inc-ny0739/
 ---
 

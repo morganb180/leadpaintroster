@@ -1,6 +1,6 @@
 ---
-title: "D.D. Interiors, Inc., Long Island City, NY | Lead Paint Roster"
-description: "D.D. Interiors, Inc.: Lead abatement in Long Island City, NY. Licence details, contact and quotes."
+title: "D.D. Interiors, Inc.: Lead Abatement, Long Island City NY"
+description: "D.D. Interiors, Inc. in Long Island City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/d-d-interiors-inc-ny0918/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "WM Building Services LLC, White Plains, NY | Lead Paint Roster"
-description: "WM Building Services LLC: Lead abatement in White Plains, NY. Licence details, contact and quotes."
+title: "WM Building Services LLC: Lead Abatement, White Plains NY"
+description: "WM Building Services LLC in White Plains, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/wm-building-services-llc-ny1602/
 ---
 

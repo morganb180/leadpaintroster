@@ -1,6 +1,6 @@
 ---
-title: "International Asbestos Removal, Babylon, NY | Lead Paint Roster"
-description: "International Asbestos Removal: Lead abatement in Babylon, NY. Licence details, contact and quotes."
+title: "International Asbestos Removal (NJ DCA listing), Babylon NY"
+description: "International Asbestos Removal in Babylon, NY: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/international-asbestos-removal-nj0221/
 ---
 

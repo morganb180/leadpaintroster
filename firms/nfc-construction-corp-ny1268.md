@@ -1,6 +1,6 @@
 ---
 title: "Nfc Construction Corp, Valley Stream, NY | Lead Paint Roster"
-description: "Nfc Construction Corp: Lead abatement in Valley Stream, NY. Licence details, contact and quotes."
+description: "Nfc Construction Corp in Valley Stream, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/nfc-construction-corp-ny1268/
 ---
 

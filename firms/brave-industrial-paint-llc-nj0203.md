@@ -1,6 +1,6 @@
 ---
-title: "Brave Industrial Paint LLC, Long Branch, NJ | Lead Paint Roster"
-description: "Brave Industrial Paint LLC: Lead abatement in Long Branch, NJ. Licence details, contact and quotes."
+title: "Brave Industrial Paint LLC: Lead Abatement, Long Branch NJ"
+description: "Brave Industrial Paint LLC in Long Branch, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/brave-industrial-paint-llc-nj0203/
 ---
 

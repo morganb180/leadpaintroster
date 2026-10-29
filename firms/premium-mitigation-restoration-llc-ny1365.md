@@ -1,6 +1,6 @@
 ---
-title: "Premium Mitigation & Restoration LLC, Forest Hills, NY | Lead Paint Roster"
-description: "Premium Mitigation & Restoration LLC: Lead abatement in Forest Hills, NY. Licence details, contact and quotes."
+title: "Premium Mitigation & Restoration, Forest Hills NY"
+description: "Premium Mitigation & Restoration LLC in Forest Hills, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/premium-mitigation-restoration-llc-ny1365/
 ---
 

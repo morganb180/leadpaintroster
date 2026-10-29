@@ -1,6 +1,6 @@
 ---
 title: "Sra Home Inspection, Landing, NJ | Lead Paint Roster"
-description: "Sra Home Inspection: Lead inspection / evaluation in Landing, NJ. Licence details, contact and quotes."
+description: "Sra Home Inspection in Landing, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
 canonical: https://leadpaintroster.com/firms/sra-home-inspection-nj0158/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A & A Lead Inspections, Saugus, MA | Lead Paint Roster"
-description: "A & A Lead Inspections: Lead inspection / evaluation in Saugus, MA. Licence details, contact and quotes."
+description: "A & A Lead Inspections in Saugus, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates and contact details."
 canonical: https://leadpaintroster.com/firms/a-a-lead-inspections-ma0040/
 ---
 
