@@ -175,6 +175,6 @@ Check the EPA list linked on each listing and ask for the certification number.
 
 ## Guides
 
-[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/) · [What is lead paint](https://leadpaintroster.com/what-is-lead-paint/) · [Pre-1978 housing by county](https://leadpaintroster.com/pre-1978-housing-by-county/) · [Lead paint disclosure](https://leadpaintroster.com/lead-paint-disclosure/) · [Lead paint assistance programs](https://leadpaintroster.com/lead-paint-assistance-programs/)
 
 Data last verified 2026-10-12 against EPA licence records.

@@ -158,6 +158,6 @@ A national HomeAdvisor cost guide puts a lead paint inspection at $239-$437. The
 
 ## Guides
 
-[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/) · [NJ rental lead inspection law](https://leadpaintroster.com/nj-lead-paint-inspection-law/) · [NJ lead-safe vs lead-free](https://leadpaintroster.com/nj-lead-safe-vs-lead-free-certificate/) · [What is lead paint](https://leadpaintroster.com/what-is-lead-paint/) · [Lead paint disclosure](https://leadpaintroster.com/lead-paint-disclosure/) · [Lead paint assistance programs](https://leadpaintroster.com/lead-paint-assistance-programs/)
 
 Data last verified 2026-10-12 against NJ DCA licence records.

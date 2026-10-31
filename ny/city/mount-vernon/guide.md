@@ -24,6 +24,8 @@ New York State has no lead-based paint certification of its own, so EPA certifie
 
 Sources: [EPA lead-based paint program](https://www.epa.gov/lead), [NYC HPD lead-based paint](https://www.nyc.gov/site/hpd/services-and-information/lead-based-paint.page). Plain-language summary, not legal advice. Confirm with the agency.
 
+**Related guides:** [What is lead paint](https://leadpaintroster.com/what-is-lead-paint/) · [Lead paint disclosure](https://leadpaintroster.com/lead-paint-disclosure/) · [Lead paint assistance programs](https://leadpaintroster.com/lead-paint-assistance-programs/)
+
 ## How much does a lead paint inspection cost in Mount Vernon?
 
 A national HomeAdvisor guide puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520 (about $3,499). Lead Paint Roster has no Mount Vernon-specific prices, so get written quotes.

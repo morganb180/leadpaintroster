@@ -95,6 +95,8 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Sources: [EPA lead-based paint program](https://www.epa.gov/lead), [NYC HPD lead-based paint](https://www.nyc.gov/site/hpd/services-and-information/lead-based-paint.page). Plain-language summary, not legal advice. Confirm with the agency.
 
+**Related guides:** [What is lead paint](https://leadpaintroster.com/what-is-lead-paint/) · [Lead paint disclosure](https://leadpaintroster.com/lead-paint-disclosure/) · [Lead paint assistance programs](https://leadpaintroster.com/lead-paint-assistance-programs/)
+
 ## Frequently asked questions
 
 **How do I find a certified lead inspector in Scarsdale?**

@@ -12,6 +12,16 @@ Plain-language guides for landlords, owners, buyers and parents hiring a certifi
 - [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/): Typical national costs for lead paint inspection and removal, with an estimate tool.
 - [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/): Plain-language summary of lead paint inspection rules in New Jersey, New York City and Massachusetts.
 - [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/): Checklist for hiring a certified lead inspector or risk assessor.
+- [What is lead paint](https://leadpaintroster.com/what-is-lead-paint/): What lead-based paint is, which homes have it, when it becomes a hazard and how to find out.
+- [NJ rental lead inspection law](https://leadpaintroster.com/nj-lead-paint-inspection-law/): Who must inspect, when, what it costs, and what happens if hazards are found under P.L.2021, c.182.
+- [NYC Local Law 1](https://leadpaintroster.com/nyc-local-law-1-lead-paint/): What NYC's lead paint law requires: annual notices, XRF testing, turnover work, safe work practices and penalties.
+- [Massachusetts Lead Law](https://leadpaintroster.com/massachusetts-lead-law/): When MA homes must be deleaded, interim control, Letters of Compliance, sale notices and the deleading tax credit.
+- [Lead paint assistance programs](https://leadpaintroster.com/lead-paint-assistance-programs/): Official grant, loan and tax credit programs that help pay for lead testing and removal in NJ, NYC, NY and MA.
+- [Lead paint disclosure](https://leadpaintroster.com/lead-paint-disclosure/): What sellers and landlords must disclose about lead in pre-1978 homes, and how the buyer's 10-day inspection period works.
+- [RRP vs abatement](https://leadpaintroster.com/rrp-vs-lead-abatement/): How EPA renovation (RRP) work differs from lead abatement, who must be certified, and which one your job needs.
+- [Lead clearance testing](https://leadpaintroster.com/lead-clearance-testing/): How dust-wipe clearance works after lead abatement or repairs, the current EPA clearance levels, and who can test.
+- [NJ lead-safe vs lead-free](https://leadpaintroster.com/nj-lead-safe-vs-lead-free-certificate/): The difference between New Jersey's 2-year lead-safe certificate and a lead-free certification, and how to get each.
+- [Pre-1978 housing by county](https://leadpaintroster.com/pre-1978-housing-by-county/): Census data on how many homes in each NJ, NY and MA county were built before 1980, 1960 and 1940.
 
 ## Local hiring guides
 

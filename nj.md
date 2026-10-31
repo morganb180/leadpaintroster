@@ -28,6 +28,8 @@ New Jersey municipalities must inspect, or have a DCA-certified lead evaluation 
 
 Sources: [NJ DCA lead-safe rental law (P.L.2021, c.182)](https://www.nj.gov/dca/codes/resources/leadpaint.shtml). Plain-language summary, not legal advice. Confirm with the agency.
 
+**Related guides:** [NJ rental lead inspection law](https://leadpaintroster.com/nj-lead-paint-inspection-law/) · [NJ lead-safe vs lead-free](https://leadpaintroster.com/nj-lead-safe-vs-lead-free-certificate/) · [What is lead paint](https://leadpaintroster.com/what-is-lead-paint/) · [Pre-1978 housing by county](https://leadpaintroster.com/pre-1978-housing-by-county/) · [Lead paint disclosure](https://leadpaintroster.com/lead-paint-disclosure/) · [Lead paint assistance programs](https://leadpaintroster.com/lead-paint-assistance-programs/)
+
 ## Which New Jersey cities have lead paint inspector pages?
 
 [**Newark**  

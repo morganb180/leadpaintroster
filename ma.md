@@ -28,6 +28,8 @@ Under the Massachusetts Lead Law, homes built before 1978 where a child under 6 
 
 Sources: [Massachusetts Lead Law (M.G.L. c. 111, ss. 189A-199B)](https://www.mass.gov/info-details/deleading-and-lead-safety-links). Plain-language summary, not legal advice. Confirm with the agency.
 
+**Related guides:** [Massachusetts Lead Law](https://leadpaintroster.com/massachusetts-lead-law/) · [What is lead paint](https://leadpaintroster.com/what-is-lead-paint/) · [Pre-1978 housing by county](https://leadpaintroster.com/pre-1978-housing-by-county/) · [Lead paint disclosure](https://leadpaintroster.com/lead-paint-disclosure/) · [Lead paint assistance programs](https://leadpaintroster.com/lead-paint-assistance-programs/)
+
 ## Which Massachusetts counties have certified lead paint pros? (10 counties)
 
 * [Berkshire](https://leadpaintroster.com/ma/county/berkshire/) (1)

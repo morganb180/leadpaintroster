@@ -24,6 +24,8 @@ New Jersey municipalities must inspect, or have a DCA-certified lead evaluation 
 
 Sources: [NJ DCA lead-safe rental law (P.L.2021, c.182)](https://www.nj.gov/dca/codes/resources/leadpaint.shtml). Plain-language summary, not legal advice. Confirm with the agency.
 
+**Related guides:** [NJ rental lead inspection law](https://leadpaintroster.com/nj-lead-paint-inspection-law/) · [NJ lead-safe vs lead-free](https://leadpaintroster.com/nj-lead-safe-vs-lead-free-certificate/) · [What is lead paint](https://leadpaintroster.com/what-is-lead-paint/) · [Lead paint disclosure](https://leadpaintroster.com/lead-paint-disclosure/) · [Lead paint assistance programs](https://leadpaintroster.com/lead-paint-assistance-programs/)
+
 ## How much does a lead paint inspection cost in Cherry Hill?
 
 A national HomeAdvisor guide puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520 (about $3,499). Lead Paint Roster has no Cherry Hill-specific prices, so get written quotes.

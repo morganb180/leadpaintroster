@@ -28,6 +28,8 @@ New York State has no lead-based paint certification of its own, so EPA certifie
 
 Sources: [EPA lead-based paint program](https://www.epa.gov/lead), [NYC HPD lead-based paint](https://www.nyc.gov/site/hpd/services-and-information/lead-based-paint.page). Plain-language summary, not legal advice. Confirm with the agency.
 
+**Related guides:** [NYC Local Law 1](https://leadpaintroster.com/nyc-local-law-1-lead-paint/) · [What is lead paint](https://leadpaintroster.com/what-is-lead-paint/) · [Pre-1978 housing by county](https://leadpaintroster.com/pre-1978-housing-by-county/) · [Lead paint disclosure](https://leadpaintroster.com/lead-paint-disclosure/) · [Lead paint assistance programs](https://leadpaintroster.com/lead-paint-assistance-programs/)
+
 ## Which New York cities have lead paint inspector pages?
 
 [**Brooklyn**  

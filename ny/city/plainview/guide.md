@@ -31,6 +31,8 @@ canonical: https://leadpaintroster.com/ny/city/plainview/guide/
 
 Sources: [EPA lead-based paint program](https://www.epa.gov/lead), [NYC HPD lead-based paint](https://www.nyc.gov/site/hpd/services-and-information/lead-based-paint.page). Plain-language summary, not legal advice. Confirm with the agency.
 
+**Related guides:** [What is lead paint](https://leadpaintroster.com/what-is-lead-paint/) · [Lead paint disclosure](https://leadpaintroster.com/lead-paint-disclosure/) · [Lead paint assistance programs](https://leadpaintroster.com/lead-paint-assistance-programs/)
+
 ## Which certified lead pros are based in Plainview?
 
 Lead Paint Roster lists 5 listings with an address in Plainview: 2 inspection/risk-assessment and 5 abatement.

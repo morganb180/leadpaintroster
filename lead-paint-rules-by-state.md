@@ -47,3 +47,5 @@ Sources: [Massachusetts Lead Law (M.G.L. c. 111, ss. 189A-199B)](https://www.mas
 Browse Lead Paint Roster by state: [New Jersey](https://leadpaintroster.com/nj/), [New York](https://leadpaintroster.com/ny/) or [Massachusetts](https://leadpaintroster.com/ma/). Every listing shows its licence numbers and links the official source list.
 
 [New Jersey](https://leadpaintroster.com/nj/) · [New York](https://leadpaintroster.com/ny/) · [Massachusetts](https://leadpaintroster.com/ma/)
+
+**Detailed guides:** [NJ rental lead inspection law](https://leadpaintroster.com/nj-lead-paint-inspection-law/) · [NJ lead-safe vs lead-free](https://leadpaintroster.com/nj-lead-safe-vs-lead-free-certificate/) · [NYC Local Law 1](https://leadpaintroster.com/nyc-local-law-1-lead-paint/) · [Massachusetts Lead Law](https://leadpaintroster.com/massachusetts-lead-law/) · [Lead paint disclosure](https://leadpaintroster.com/lead-paint-disclosure/)
