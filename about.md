@@ -1,5 +1,5 @@
 ---
-title: "About Lead Paint Roster | Lead Paint Roster"
+title: "About Lead Paint Roster"
 description: "What Lead Paint Roster is, who it is for, where listings come from and how it is funded."
 canonical: https://leadpaintroster.com/about/
 ---

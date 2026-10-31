@@ -98,7 +98,7 @@ Sources: [EPA lead-based paint program](https://www.epa.gov/lead), [NYC HPD lead
 
 **How do I find a certified lead inspector in New Rochelle?**
 
-1 listings with inspection or risk-assessment credentials give an address in New Rochelle. Confirm any of them with EPA.
+1 listing with inspection or risk-assessment credentials give an address in New Rochelle. Confirm any of them with EPA.
 
 **How much does a lead inspection cost in New Rochelle?**
 

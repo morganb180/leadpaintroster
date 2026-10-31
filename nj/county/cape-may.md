@@ -45,7 +45,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many certified lead inspectors are in Cape May County?**
 
-1 listings with inspection or risk-assessment credentials and 0 abatement listings have an address of record in Cape May County.
+1 listing with inspection or risk-assessment credentials and 0 abatement listings have an address of record in Cape May County.
 
 **How do I verify a Cape May County lead inspector?**
 

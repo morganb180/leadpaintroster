@@ -140,6 +140,20 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 [Yonkers](https://leadpaintroster.com/ny/city/yonkers/) · [New Rochelle](https://leadpaintroster.com/ny/city/new-rochelle/) · [Mount Vernon](https://leadpaintroster.com/ny/city/mount-vernon/) · [Scarsdale](https://leadpaintroster.com/ny/city/scarsdale/) · [Mount Kisco](https://leadpaintroster.com/ny/city/mount-kisco/) · [Yorktown Heights](https://leadpaintroster.com/ny/city/yorktown-heights/)
 
+## Frequently asked questions
+
+**How many certified lead paint pros are in White Plains, NY?**
+
+8 EPA-licensed listings give an address in White Plains (5 lead inspection / evaluation, 5 lead abatement), and 115 more are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in White Plains?**
+
+Check the EPA list linked on each listing and ask for the firm's certification number in writing.
+
+**How much does a lead paint inspection cost in White Plains?**
+
+A national HomeAdvisor cost guide puts a lead paint inspection at $239-$437. There are no White Plains-specific prices, so get written quotes.
+
 ## Guides
 
 [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)

@@ -122,6 +122,20 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 [See all 11 Broome County listings →](https://leadpaintroster.com/ny/county/broome/)
 
+## Frequently asked questions
+
+**How many certified lead paint pros are in Binghamton, NY?**
+
+7 EPA-licensed listings give an address in Binghamton (3 lead inspection / evaluation, 5 lead abatement), and 4 more are elsewhere in Broome County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in Binghamton?**
+
+Check the EPA list linked on each listing and ask for the firm's certification number in writing.
+
+**How much does a lead paint inspection cost in Binghamton?**
+
+A national HomeAdvisor cost guide puts a lead paint inspection at $239-$437. There are no Binghamton-specific prices, so get written quotes.
+
 ## Guides
 
 [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)

@@ -315,7 +315,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 9 listings with inspection or risk-assessment credentials and 17 abatement listings have an address of record in Orange County.
 
-**How do I verify a Orange County lead inspector?**
+**How do I verify an Orange County lead inspector?**
 
 Check the EPA list linked on each listing and ask for the certification number.
 

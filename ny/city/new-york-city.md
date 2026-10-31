@@ -87,6 +87,20 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 [New York](https://leadpaintroster.com/ny/city/new-york/)
 
+## Frequently asked questions
+
+**How many certified lead paint pros are in New York City, NY?**
+
+4 EPA-licensed listings give an address in New York City (1 lead inspection / evaluation, 4 lead abatement), and 116 more are elsewhere in New York County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in New York City?**
+
+Check the EPA list linked on each listing and ask for the firm's certification number in writing.
+
+**How much does a lead paint inspection cost in New York City?**
+
+A national HomeAdvisor cost guide puts a lead paint inspection at $239-$437. There are no New York City-specific prices, so get written quotes.
+
 ## Guides
 
 [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)

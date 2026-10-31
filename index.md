@@ -48,5 +48,6 @@ Massachusetts listings are grouped [by county](https://leadpaintroster.com/ma/).
 * [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/)
 * [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/)
 * [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+* [All guides, including local hiring guides](https://leadpaintroster.com/guides/)
 
-[How to get quotes](https://leadpaintroster.com/get-quotes/)
+[Get free quotes](https://leadpaintroster.com/get-quotes/)

@@ -84,7 +84,7 @@ National figures, not local quotes. Large homes and multi-unit buildings cost mo
 
 **How do I find a certified lead inspector in Niagara Falls?**
 
-1 listings with inspection or risk-assessment credentials give an address in Niagara Falls. Confirm any of them with EPA.
+1 listing with inspection or risk-assessment credentials give an address in Niagara Falls. Confirm any of them with EPA.
 
 **How much does a lead inspection cost in Niagara Falls?**
 

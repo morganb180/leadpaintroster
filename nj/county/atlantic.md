@@ -80,7 +80,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 2 listings with inspection or risk-assessment credentials and 2 abatement listings have an address of record in Atlantic County.
 
-**How do I verify a Atlantic County lead inspector?**
+**How do I verify an Atlantic County lead inspector?**
 
 Check the NJ DCA list linked on each listing and ask for the certification number.
 

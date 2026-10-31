@@ -100,6 +100,20 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 [Melville](https://leadpaintroster.com/ny/city/melville/) · [Bohemia](https://leadpaintroster.com/ny/city/bohemia/) · [Medford](https://leadpaintroster.com/ny/city/medford/) · [West Babylon](https://leadpaintroster.com/ny/city/west-babylon/)
 
+## Frequently asked questions
+
+**How many certified lead paint pros are in Ronkonkoma, NY?**
+
+5 EPA-licensed listings give an address in Ronkonkoma (2 lead inspection / evaluation, 4 lead abatement), and 61 more are elsewhere in Suffolk County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in Ronkonkoma?**
+
+Check the EPA list linked on each listing and ask for the firm's certification number in writing.
+
+**How much does a lead paint inspection cost in Ronkonkoma?**
+
+A national HomeAdvisor cost guide puts a lead paint inspection at $239-$437. There are no Ronkonkoma-specific prices, so get written quotes.
+
 ## Guides
 
 [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)

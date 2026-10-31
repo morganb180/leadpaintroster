@@ -9,7 +9,11 @@ Lead Paint Roster is for landlords, tenants, buyers and parents who need a certi
 - [New York](https://leadpaintroster.com/ny/): US Environmental Protection Agency licence records
 - [Massachusetts](https://leadpaintroster.com/ma/): Commonwealth of Massachusetts (licensed private lead inspector list) licence records
 
+## Listings
+- [All listed pros A-Z](https://leadpaintroster.com/firms/): every listed firm and individual with a profile page
+
 ## Guides
+- [All guides](https://leadpaintroster.com/guides/): topic guides plus 87 local hiring guides
 - [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/)
 - [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/)
 - [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/)

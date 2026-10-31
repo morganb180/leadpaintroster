@@ -178,7 +178,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 10 listings with inspection or risk-assessment credentials and 3 abatement listings have an address of record in Ocean County.
 
-**How do I verify a Ocean County lead inspector?**
+**How do I verify an Ocean County lead inspector?**
 
 Check the NJ DCA list linked on each listing and ask for the certification number.
 

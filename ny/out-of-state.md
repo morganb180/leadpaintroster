@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/out-of-state/
 
 # Licensed in New York, based elsewhere
 
-1 listings hold a EPA licence but give an address outside New York (or no county could be matched).
+1 listing holds ann EPA licence but give an address outside New York (or no county could be matched).
 
 ## Which out-of-state lead abatement contractors are certified in New York? (1)
 

@@ -446,6 +446,20 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 [Astoria](https://leadpaintroster.com/ny/city/astoria/) · [Flushing](https://leadpaintroster.com/ny/city/flushing/) · [Jamaica](https://leadpaintroster.com/ny/city/jamaica/) · [Maspeth](https://leadpaintroster.com/ny/city/maspeth/) · [Queens](https://leadpaintroster.com/ny/city/queens/) · [East Elmhurst](https://leadpaintroster.com/ny/city/east-elmhurst/)
 
+## Frequently asked questions
+
+**How many certified lead paint pros are in Long Island City, NY?**
+
+31 EPA-licensed listings give an address in Long Island City (12 lead inspection / evaluation, 28 lead abatement), and 293 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in Long Island City?**
+
+Check the EPA list linked on each listing and ask for the firm's certification number in writing.
+
+**How much does a lead paint inspection cost in Long Island City?**
+
+A national HomeAdvisor cost guide puts a lead paint inspection at $239-$437. There are no Long Island City-specific prices, so get written quotes.
+
 ## Guides
 
 [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)

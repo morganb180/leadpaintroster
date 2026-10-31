@@ -156,7 +156,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 7 listings with inspection or risk-assessment credentials and 0 abatement listings have an address of record in Essex County.
 
-**How do I verify a Essex County lead inspector?**
+**How do I verify an Essex County lead inspector?**
 
 Check the MA list linked on each listing and ask for the certification number.
 

@@ -126,6 +126,20 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 [Great Neck](https://leadpaintroster.com/ny/city/great-neck/) · [Valley Stream](https://leadpaintroster.com/ny/city/valley-stream/) · [Elmont](https://leadpaintroster.com/ny/city/elmont/) · [New Hyde Park](https://leadpaintroster.com/ny/city/new-hyde-park/) · [Port Washington](https://leadpaintroster.com/ny/city/port-washington/) · [Hicksville](https://leadpaintroster.com/ny/city/hicksville/)
 
+## Frequently asked questions
+
+**How many certified lead paint pros are in Westbury, NY?**
+
+7 EPA-licensed listings give an address in Westbury (3 lead inspection / evaluation, 5 lead abatement), and 143 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in Westbury?**
+
+Check the EPA list linked on each listing and ask for the firm's certification number in writing.
+
+**How much does a lead paint inspection cost in Westbury?**
+
+A national HomeAdvisor cost guide puts a lead paint inspection at $239-$437. There are no Westbury-specific prices, so get written quotes.
+
 ## Guides
 
 [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)

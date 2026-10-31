@@ -3354,6 +3354,20 @@ Show all 137 listings
 
 [See all 255 Kings County listings →](https://leadpaintroster.com/ny/county/kings/)
 
+## Frequently asked questions
+
+**How many certified lead paint pros are in Brooklyn, NY?**
+
+249 EPA-licensed listings give an address in Brooklyn (112 lead inspection / evaluation, 220 lead abatement), and 6 more are elsewhere in Kings County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in Brooklyn?**
+
+Check the EPA list linked on each listing and ask for the firm's certification number in writing.
+
+**How much does a lead paint inspection cost in Brooklyn?**
+
+A national HomeAdvisor cost guide puts a lead paint inspection at $239-$437. There are no Brooklyn-specific prices, so get written quotes.
+
 ## Guides
 
 [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)

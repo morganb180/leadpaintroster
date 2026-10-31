@@ -256,6 +256,20 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 [Astoria](https://leadpaintroster.com/ny/city/astoria/) · [Long Island City](https://leadpaintroster.com/ny/city/long-island-city/) · [Flushing](https://leadpaintroster.com/ny/city/flushing/) · [Jamaica](https://leadpaintroster.com/ny/city/jamaica/) · [Queens](https://leadpaintroster.com/ny/city/queens/) · [East Elmhurst](https://leadpaintroster.com/ny/city/east-elmhurst/)
 
+## Frequently asked questions
+
+**How many certified lead paint pros are in Maspeth, NY?**
+
+17 EPA-licensed listings give an address in Maspeth (3 lead inspection / evaluation, 15 lead abatement), and 307 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in Maspeth?**
+
+Check the EPA list linked on each listing and ask for the firm's certification number in writing.
+
+**How much does a lead paint inspection cost in Maspeth?**
+
+A national HomeAdvisor cost guide puts a lead paint inspection at $239-$437. There are no Maspeth-specific prices, so get written quotes.
+
 ## Guides
 
 [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)

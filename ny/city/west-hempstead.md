@@ -86,6 +86,20 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 [Great Neck](https://leadpaintroster.com/ny/city/great-neck/) · [Valley Stream](https://leadpaintroster.com/ny/city/valley-stream/) · [Elmont](https://leadpaintroster.com/ny/city/elmont/) · [Westbury](https://leadpaintroster.com/ny/city/westbury/) · [New Hyde Park](https://leadpaintroster.com/ny/city/new-hyde-park/) · [Port Washington](https://leadpaintroster.com/ny/city/port-washington/)
 
+## Frequently asked questions
+
+**How many certified lead paint pros are in West Hempstead, NY?**
+
+4 EPA-licensed listings give an address in West Hempstead (1 lead inspection / evaluation, 3 lead abatement), and 146 more are elsewhere in Nassau County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in West Hempstead?**
+
+Check the EPA list linked on each listing and ask for the firm's certification number in writing.
+
+**How much does a lead paint inspection cost in West Hempstead?**
+
+A national HomeAdvisor cost guide puts a lead paint inspection at $239-$437. There are no West Hempstead-specific prices, so get written quotes.
+
 ## Guides
 
 [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)

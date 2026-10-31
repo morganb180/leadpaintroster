@@ -100,6 +100,20 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 [New City](https://leadpaintroster.com/ny/city/new-city/) · [Airmont](https://leadpaintroster.com/ny/city/airmont/) · [Monsey](https://leadpaintroster.com/ny/city/monsey/) · [Suffern](https://leadpaintroster.com/ny/city/suffern/)
 
+## Frequently asked questions
+
+**How many certified lead paint pros are in Spring Valley, NY?**
+
+5 EPA-licensed listings give an address in Spring Valley (3 lead inspection / evaluation, 3 lead abatement), and 42 more are elsewhere in Rockland County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in Spring Valley?**
+
+Check the EPA list linked on each listing and ask for the firm's certification number in writing.
+
+**How much does a lead paint inspection cost in Spring Valley?**
+
+A national HomeAdvisor cost guide puts a lead paint inspection at $239-$437. There are no Spring Valley-specific prices, so get written quotes.
+
 ## Guides
 
 [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)

@@ -88,7 +88,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many certified lead inspectors are in Saratoga County?**
 
-1 listings with inspection or risk-assessment credentials and 4 abatement listings have an address of record in Saratoga County.
+1 listing with inspection or risk-assessment credentials and 4 abatement listings have an address of record in Saratoga County.
 
 **How do I verify a Saratoga County lead inspector?**
 

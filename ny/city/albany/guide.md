@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/city/albany/guide/
 
 # How to hire a certified lead inspector in Albany, NY
 
-**Quick answer:** To hire a lead inspector in Albany, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 22 listings with a Albany address (12 inspection/risk-assessment, 14 abatement) and 7 more in Albany County. A national cost guide on this page puts a lead paint inspection at $239-$437.
+**Quick answer:** To hire a lead inspector in Albany, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 22 listings with an Albany address (12 inspection/risk-assessment, 14 abatement) and 7 more in Albany County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 22 listings give an address in Albany: 12 inspection/risk-assessment and 14 abatement. Another 7 are elsewhere in Albany County.
 

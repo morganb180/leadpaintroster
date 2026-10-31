@@ -80,6 +80,20 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 [See all 10 Chautauqua County listings →](https://leadpaintroster.com/ny/county/chautauqua/)
 
+## Frequently asked questions
+
+**How many certified lead paint pros are in Falconer, NY?**
+
+4 EPA-licensed listings give an address in Falconer (4 lead abatement), and 6 more are elsewhere in Chautauqua County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in Falconer?**
+
+Check the EPA list linked on each listing and ask for the firm's certification number in writing.
+
+**How much does a lead paint inspection cost in Falconer?**
+
+A national HomeAdvisor cost guide puts a lead paint inspection at $239-$437. There are no Falconer-specific prices, so get written quotes.
+
 ## Guides
 
 [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)

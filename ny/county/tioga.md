@@ -45,7 +45,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many certified lead inspectors are in Tioga County?**
 
-1 listings with inspection or risk-assessment credentials and 1 abatement listings have an address of record in Tioga County.
+1 listing with inspection or risk-assessment credentials and 1 abatement listings have an address of record in Tioga County.
 
 **How do I verify a Tioga County lead inspector?**
 

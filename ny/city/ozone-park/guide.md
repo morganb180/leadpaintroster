@@ -86,7 +86,7 @@ Look the firm up in the official EPA list, then ask for the firm's certification
 
 **How do I find a certified lead inspector in Ozone Park?**
 
-1 listings with inspection or risk-assessment credentials give an address in Ozone Park. Confirm any of them with EPA.
+1 listing with inspection or risk-assessment credentials give an address in Ozone Park. Confirm any of them with EPA.
 
 **How much does a lead inspection cost in Ozone Park?**
 

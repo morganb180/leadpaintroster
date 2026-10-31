@@ -44,9 +44,9 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many certified lead inspectors are in Ontario County?**
 
-1 listings with inspection or risk-assessment credentials and 0 abatement listings have an address of record in Ontario County.
+1 listing with inspection or risk-assessment credentials and 0 abatement listings have an address of record in Ontario County.
 
-**How do I verify a Ontario County lead inspector?**
+**How do I verify an Ontario County lead inspector?**
 
 Check the EPA list linked on each listing and ask for the certification number.
 

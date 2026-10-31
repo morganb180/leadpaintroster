@@ -46,7 +46,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 0 listings with inspection or risk-assessment credentials and 1 abatement listings have an address of record in Allegany County.
 
-**How do I verify a Allegany County lead inspector?**
+**How do I verify an Allegany County lead inspector?**
 
 Check the EPA list linked on each listing and ask for the certification number.
 

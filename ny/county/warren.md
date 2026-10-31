@@ -44,7 +44,7 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 **How many certified lead inspectors are in Warren County?**
 
-1 listings with inspection or risk-assessment credentials and 0 abatement listings have an address of record in Warren County.
+1 listing with inspection or risk-assessment credentials and 0 abatement listings have an address of record in Warren County.
 
 **How do I verify a Warren County lead inspector?**
 

@@ -985,6 +985,20 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 Show all 41 listings
 
+## Frequently asked questions
+
+**How many certified lead paint pros are in Staten Island, NY?**
+
+72 EPA-licensed listings give an address in Staten Island (31 lead inspection / evaluation, 62 lead abatement), and 0 more are elsewhere in Richmond County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in Staten Island?**
+
+Check the EPA list linked on each listing and ask for the firm's certification number in writing.
+
+**How much does a lead paint inspection cost in Staten Island?**
+
+A national HomeAdvisor cost guide puts a lead paint inspection at $239-$437. There are no Staten Island-specific prices, so get written quotes.
+
 ## Guides
 
 [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
