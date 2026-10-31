@@ -57,3 +57,15 @@ a.grat{display:inline;text-decoration:none}a.grat:hover{text-decoration:underlin
 .lf-cta{margin:.4rem 0 1rem}
 .leadform .consent input[type=checkbox]{width:1.05rem;height:1.05rem;min-height:0;padding:0;margin:.2rem 0 0}
 @media (max-width:640px){.card .fcta .qbtn{flex:1;min-height:44px}}
+/* Radon-style firm rows on county/city pages (ported from radonroster.com/style.css): quote button on the row,
+   contact details only inside the expandable panel */
+.firm .fcta{position:absolute;right:60px;top:var(--s4);display:flex;align-items:center;min-height:32px}
+.firm .fcta .qbtn{min-height:36px;padding:.45rem 1rem;font-size:.9rem;margin:0;white-space:nowrap}
+.firm h3 a{color:inherit;text-decoration:none}.firm h3 a:hover{text-decoration:underline}
+.firm .grat{display:block;margin:.25rem 0 0}
+.firm summary .badge{margin-right:.3rem}
+.phead .btnrow{margin-top:var(--s5)}
+@media (max-width:640px){.firm .fcta{position:static;border-top:1px solid var(--line);padding:var(--s2) var(--s4)}.firm .fcta .qbtn{flex:1;min-height:44px}.phead .btnrow .btn{flex:1;min-height:44px}}
+/* header: the "For pros" link out-specified the theme's mobile hide rule and squeezed the logo */
+@media (max-width:980px){.hact a.lnk{display:none}}
+@media (max-width:640px){.phead .btnrow .btn{flex:1 1 100%}}

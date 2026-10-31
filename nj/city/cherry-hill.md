@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/nj/city/cherry-hill/
 
 [**Read the Cherry Hill hiring guide →**](https://leadpaintroster.com/nj/city/cherry-hill/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Cherry Hill](https://leadpaintroster.com/get-quotes/?city=cherry-hill&st=nj)
+[Get free quotes from up to 3 licensed pros](https://leadpaintroster.com/get-quotes/?city=cherry-hill&st=nj)
 
 ## Which certified lead paint firms are based in Cherry Hill, NJ?
 
@@ -100,8 +100,22 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 
 [See all 13 Camden County listings →](https://leadpaintroster.com/nj/county/camden/)
 
+## Frequently asked questions
+
+**How many certified lead paint firms are in Cherry Hill, NJ?**
+
+5 NJ DCA-licensed listings give an address in Cherry Hill (4 lead inspection / evaluation, 1 lead abatement), and 8 more are elsewhere in Camden County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in Cherry Hill?**
+
+Check the NJ DCA list linked on each listing and ask for the certification number in writing, plus the individual inspector's own credential.
+
+**How much does a lead paint inspection cost in Cherry Hill?**
+
+We don't have local price data. A national [HomeAdvisor guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-toxic-lead/) puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520. Get written quotes from licensed pros, or try our [estimate tool](https://leadpaintroster.com/lead-inspection-cost/).
+
 ## Guides
 
-[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/) · [All guides](https://leadpaintroster.com/guides/)
 
 Data last verified 2026-10-12 against NJ DCA licence records.

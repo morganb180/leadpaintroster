@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/chemung/
 
 # Certified lead paint inspectors & abatement firms in Chemung County, NY
 
-**6 EPA-licensed listings** with an address of record in Chemung County (3 lead inspection / evaluation, 6 lead abatement): 6 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=chemung&st=ny)
+**6 EPA-licensed listings** with an address of record in Chemung County (3 lead inspection / evaluation, 6 lead abatement): 6 firms and 0 individual licensees. [Get free quotes from up to 3 licensed pros](https://leadpaintroster.com/get-quotes/?county=chemung&st=ny)
 
 City pages: [Elmira](https://leadpaintroster.com/ny/city/elmira/)
 
@@ -124,8 +124,12 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 Check the EPA list linked on each listing and ask for the certification number.
 
+**How much does a lead paint inspection cost in Chemung County?**
+
+We don't have local price data. A national [HomeAdvisor guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-toxic-lead/) puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520. Get written quotes from licensed pros, or try our [estimate tool](https://leadpaintroster.com/lead-inspection-cost/).
+
 ## Guides
 
-[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/) · [All guides](https://leadpaintroster.com/guides/)
 
 Data last verified 2026-10-12 against EPA licence records.

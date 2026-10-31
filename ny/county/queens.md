@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/queens/
 
 # Certified lead paint inspectors & abatement firms in Queens County, NY
 
-**324 EPA-licensed listings** with an address of record in Queens County (132 lead inspection / evaluation, 283 lead abatement): 324 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=queens&st=ny)
+**324 EPA-licensed listings** with an address of record in Queens County (132 lead inspection / evaluation, 283 lead abatement): 324 firms and 0 individual licensees. [Get free quotes from up to 3 licensed pros](https://leadpaintroster.com/get-quotes/?county=queens&st=ny)
 
 City pages: [Astoria](https://leadpaintroster.com/ny/city/astoria/) · [Bayside](https://leadpaintroster.com/ny/city/bayside/) · [Bellerose](https://leadpaintroster.com/ny/city/bellerose/) · [College Point](https://leadpaintroster.com/ny/city/college-point/) · [Corona](https://leadpaintroster.com/ny/city/corona/) · [East Elmhurst](https://leadpaintroster.com/ny/city/east-elmhurst/) · [Elmhurst](https://leadpaintroster.com/ny/city/elmhurst/) · [Flushing](https://leadpaintroster.com/ny/city/flushing/) · [Forest Hills](https://leadpaintroster.com/ny/city/forest-hills/) · [Glendale](https://leadpaintroster.com/ny/city/glendale/) · [Howard Beach](https://leadpaintroster.com/ny/city/howard-beach/) · [Jackson Heights](https://leadpaintroster.com/ny/city/jackson-heights/) · [Jamaica](https://leadpaintroster.com/ny/city/jamaica/) · [Little Neck](https://leadpaintroster.com/ny/city/little-neck/) · [Long Island City](https://leadpaintroster.com/ny/city/long-island-city/) · [Maspeth](https://leadpaintroster.com/ny/city/maspeth/) · [Middle Village](https://leadpaintroster.com/ny/city/middle-village/) · [Ozone Park](https://leadpaintroster.com/ny/city/ozone-park/) · [Queens](https://leadpaintroster.com/ny/city/queens/) · [Queens Village](https://leadpaintroster.com/ny/city/queens-village/) · [Rego Park](https://leadpaintroster.com/ny/city/rego-park/) · [Richmond Hill](https://leadpaintroster.com/ny/city/richmond-hill/) · [Ridgewood](https://leadpaintroster.com/ny/city/ridgewood/) · [South Ozone Park](https://leadpaintroster.com/ny/city/south-ozone-park/) · [South Richmond Hill](https://leadpaintroster.com/ny/city/south-richmond-hill/) · [Whitestone](https://leadpaintroster.com/ny/city/whitestone/) · [Woodside](https://leadpaintroster.com/ny/city/woodside/)
 
@@ -4350,8 +4350,12 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 Check the EPA list linked on each listing and ask for the certification number.
 
+**How much does a lead paint inspection cost in Queens County?**
+
+We don't have local price data. A national [HomeAdvisor guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-toxic-lead/) puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520. Get written quotes from licensed pros, or try our [estimate tool](https://leadpaintroster.com/lead-inspection-cost/).
+
 ## Guides
 
-[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/) · [All guides](https://leadpaintroster.com/guides/)
 
 Data last verified 2026-10-12 against EPA licence records.

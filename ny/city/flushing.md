@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/flushing/
 
 [**Read the Flushing hiring guide →**](https://leadpaintroster.com/ny/city/flushing/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Flushing](https://leadpaintroster.com/get-quotes/?city=flushing&st=ny)
+[Get free quotes from up to 3 licensed pros](https://leadpaintroster.com/get-quotes/?city=flushing&st=ny)
 
 ## Which certified lead paint firms are based in Flushing, NY?
 
@@ -326,8 +326,22 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 [Astoria](https://leadpaintroster.com/ny/city/astoria/) · [Long Island City](https://leadpaintroster.com/ny/city/long-island-city/) · [Jamaica](https://leadpaintroster.com/ny/city/jamaica/) · [Maspeth](https://leadpaintroster.com/ny/city/maspeth/) · [Queens](https://leadpaintroster.com/ny/city/queens/) · [East Elmhurst](https://leadpaintroster.com/ny/city/east-elmhurst/)
 
+## Frequently asked questions
+
+**How many certified lead paint firms are in Flushing, NY?**
+
+22 EPA-licensed listings give an address in Flushing (9 lead inspection / evaluation, 19 lead abatement), and 302 more are elsewhere in Queens County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in Flushing?**
+
+Check the EPA list linked on each listing and ask for the certification number in writing, plus the individual inspector's own credential.
+
+**How much does a lead paint inspection cost in Flushing?**
+
+We don't have local price data. A national [HomeAdvisor guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-toxic-lead/) puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520. Get written quotes from licensed pros, or try our [estimate tool](https://leadpaintroster.com/lead-inspection-cost/).
+
 ## Guides
 
-[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/) · [All guides](https://leadpaintroster.com/guides/)
 
 Data last verified 2026-10-12 against EPA licence records.

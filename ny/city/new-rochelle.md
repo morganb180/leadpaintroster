@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/new-rochelle/
 
 [**Read the New Rochelle hiring guide →**](https://leadpaintroster.com/ny/city/new-rochelle/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in New Rochelle](https://leadpaintroster.com/get-quotes/?city=new-rochelle&st=ny)
+[Get free quotes from up to 3 licensed pros](https://leadpaintroster.com/get-quotes/?city=new-rochelle&st=ny)
 
 ## Which certified lead paint firms are based in New Rochelle, NY?
 
@@ -177,8 +177,22 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 [Yonkers](https://leadpaintroster.com/ny/city/yonkers/) · [White Plains](https://leadpaintroster.com/ny/city/white-plains/) · [Mount Vernon](https://leadpaintroster.com/ny/city/mount-vernon/) · [Scarsdale](https://leadpaintroster.com/ny/city/scarsdale/) · [Mount Kisco](https://leadpaintroster.com/ny/city/mount-kisco/) · [Yorktown Heights](https://leadpaintroster.com/ny/city/yorktown-heights/)
 
+## Frequently asked questions
+
+**How many certified lead paint firms are in New Rochelle, NY?**
+
+11 EPA-licensed listings give an address in New Rochelle (1 lead inspection / evaluation, 10 lead abatement), and 112 more are elsewhere in Westchester County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in New Rochelle?**
+
+Check the EPA list linked on each listing and ask for the certification number in writing, plus the individual inspector's own credential.
+
+**How much does a lead paint inspection cost in New Rochelle?**
+
+We don't have local price data. A national [HomeAdvisor guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-toxic-lead/) puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520. Get written quotes from licensed pros, or try our [estimate tool](https://leadpaintroster.com/lead-inspection-cost/).
+
 ## Guides
 
-[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/) · [All guides](https://leadpaintroster.com/guides/)
 
 Data last verified 2026-10-12 against EPA licence records.

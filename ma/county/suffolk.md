@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ma/county/suffolk/
 
 # Certified lead paint inspectors & abatement firms in Suffolk County, MA
 
-**2 MA-licensed listings** with an address of record in Suffolk County (2 lead risk assessment): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=suffolk&st=ma)
+**2 MA-licensed listings** with an address of record in Suffolk County (2 lead risk assessment): 2 firms and 0 individual licensees. [Get free quotes from up to 3 licensed pros](https://leadpaintroster.com/get-quotes/?county=suffolk&st=ma)
 
 ## Which licensed lead inspectors and risk assessors are in Suffolk County, MA? (2)
 
@@ -77,8 +77,12 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 Check the MA list linked on each listing and ask for the certification number.
 
+**How much does a lead paint inspection cost in Suffolk County?**
+
+We don't have local price data. A national [HomeAdvisor guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-toxic-lead/) puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520. Get written quotes from licensed pros, or try our [estimate tool](https://leadpaintroster.com/lead-inspection-cost/).
+
 ## Guides
 
-[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/) · [All guides](https://leadpaintroster.com/guides/)
 
 Data last verified 2026-10-12 against MA licence records.

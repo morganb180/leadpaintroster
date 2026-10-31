@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/lockport/
 
 [**Read the Lockport hiring guide →**](https://leadpaintroster.com/ny/city/lockport/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lockport](https://leadpaintroster.com/get-quotes/?city=lockport&st=ny)
+[Get free quotes from up to 3 licensed pros](https://leadpaintroster.com/get-quotes/?city=lockport&st=ny)
 
 ## Which certified lead paint firms are based in Lockport, NY?
 
@@ -84,8 +84,22 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 
 [Niagara Falls](https://leadpaintroster.com/ny/city/niagara-falls/)
 
+## Frequently asked questions
+
+**How many certified lead paint firms are in Lockport, NY?**
+
+4 EPA-licensed listings give an address in Lockport (4 lead abatement), and 13 more are elsewhere in Niagara County. Licensed pros often travel, so ask whether they cover your address.
+
+**How do I verify a lead inspector in Lockport?**
+
+Check the EPA list linked on each listing and ask for the certification number in writing, plus the individual inspector's own credential.
+
+**How much does a lead paint inspection cost in Lockport?**
+
+We don't have local price data. A national [HomeAdvisor guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-toxic-lead/) puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520. Get written quotes from licensed pros, or try our [estimate tool](https://leadpaintroster.com/lead-inspection-cost/).
+
 ## Guides
 
-[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/) · [All guides](https://leadpaintroster.com/guides/)
 
 Data last verified 2026-10-12 against EPA licence records.

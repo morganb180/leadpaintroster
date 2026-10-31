@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/nassau/
 
 # Certified lead paint inspectors & abatement firms in Nassau County, NY
 
-**150 EPA-licensed listings** with an address of record in Nassau County (82 lead inspection / evaluation, 121 lead abatement): 150 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=nassau&st=ny)
+**150 EPA-licensed listings** with an address of record in Nassau County (82 lead inspection / evaluation, 121 lead abatement): 150 firms and 0 individual licensees. [Get free quotes from up to 3 licensed pros](https://leadpaintroster.com/get-quotes/?county=nassau&st=ny)
 
 City pages: [Cedarhurst](https://leadpaintroster.com/ny/city/cedarhurst/) · [Elmont](https://leadpaintroster.com/ny/city/elmont/) · [Farmingdale](https://leadpaintroster.com/ny/city/farmingdale/) · [Floral Park](https://leadpaintroster.com/ny/city/floral-park/) · [Great Neck](https://leadpaintroster.com/ny/city/great-neck/) · [Hempstead](https://leadpaintroster.com/ny/city/hempstead/) · [Hicksville](https://leadpaintroster.com/ny/city/hicksville/) · [Levittown](https://leadpaintroster.com/ny/city/levittown/) · [New Hyde Park](https://leadpaintroster.com/ny/city/new-hyde-park/) · [Plainview](https://leadpaintroster.com/ny/city/plainview/) · [Port Washington](https://leadpaintroster.com/ny/city/port-washington/) · [Roslyn Heights](https://leadpaintroster.com/ny/city/roslyn-heights/) · [Valley Stream](https://leadpaintroster.com/ny/city/valley-stream/) · [West Hempstead](https://leadpaintroster.com/ny/city/west-hempstead/) · [Westbury](https://leadpaintroster.com/ny/city/westbury/) · [Woodmere](https://leadpaintroster.com/ny/city/woodmere/)
 
@@ -2052,8 +2052,12 @@ Adjacency from the U.S. Census Bureau county adjacency file.
 
 Check the EPA list linked on each listing and ask for the certification number.
 
+**How much does a lead paint inspection cost in Nassau County?**
+
+We don't have local price data. A national [HomeAdvisor guide](https://www.homeadvisor.com/cost/environmental-safety/test-or-remove-toxic-lead/) puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520. Get written quotes from licensed pros, or try our [estimate tool](https://leadpaintroster.com/lead-inspection-cost/).
+
 ## Guides
 
-[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
+[Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/) · [Lead inspection & abatement cost + estimate tool](https://leadpaintroster.com/lead-inspection-cost/) · [Landlord lead rules: NJ, NYC, MA](https://leadpaintroster.com/lead-paint-rules-by-state/) · [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/) · [All guides](https://leadpaintroster.com/guides/)
 
 Data last verified 2026-10-12 against EPA licence records.
