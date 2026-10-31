@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/lead-clearance-testing/
 
 # Lead clearance testing after abatement
 
+Reviewed by Lead Paint Roster staff
+
 Last updated 2026-10-31. Checked against the official sources listed at the end of this page. Clearance rules differ by program, so confirm which rules apply to your job.
 
 Clearance testing is the final check after lead abatement or lead hazard control work. A certified inspector or risk assessor looks for leftover dust and paint chips, takes dust wipe samples from floors, window sills and window troughs, and sends them to an accredited lab. Since January 12, 2026, EPA's post-abatement clearance levels are 5, 40 and 100 µg/ft².

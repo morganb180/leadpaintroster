@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/bayside/guide/
 
 # How to hire a certified lead inspector in Bayside, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Bayside, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 7 listings with a Bayside address (2 inspection/risk-assessment, 6 abatement) and 317 more in Queens County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 7 listings give an address in Bayside: 2 inspection/risk-assessment and 6 abatement. Another 317 are elsewhere in Queens County.

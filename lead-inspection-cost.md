@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/lead-inspection-cost/
 
 # Lead paint inspection and abatement cost
 
+Reviewed by Lead Paint Roster staff
+
 ## How much do lead paint inspection and abatement cost?
 
 A national HomeAdvisor guide puts a lead paint inspection at $239-$437 (about $338 on average) and lead paint removal at $1,478-$5,520 (about $3,499).

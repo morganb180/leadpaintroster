@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/nyc-local-law-1-lead-paint/
 
 # NYC Local Law 1: lead paint rules for owners and tenants
 
+Reviewed by Lead Paint Roster staff
+
 Last updated 2026-10-31. Checked against the official sources listed at the end of this page. General information, not legal advice. Rules change, so confirm details with the agency named.
 
 Local Law 1 of 2004 requires owners of New York City buildings built before 1960 (or 1960 to 1978 if the owner knows there is lead paint) to presume the paint contains lead and to find and fix lead hazards, especially in apartments where a child under 6 lives. It adds annual notices, one-time XRF testing, turnover repairs and safe work rules.

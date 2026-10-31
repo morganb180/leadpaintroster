@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/ronkonkoma/guide/
 
 # How to hire a certified lead inspector in Ronkonkoma, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Ronkonkoma, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 5 listings with a Ronkonkoma address (2 inspection/risk-assessment, 4 abatement) and 61 more in Suffolk County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 5 listings give an address in Ronkonkoma: 2 inspection/risk-assessment and 4 abatement. Another 61 are elsewhere in Suffolk County.

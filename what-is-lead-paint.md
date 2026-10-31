@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/what-is-lead-paint/
 
 # What is lead paint?
 
+Reviewed by Lead Paint Roster staff
+
 Last updated 2026-10-31. Checked against the official sources listed at the end of this page.
 
 Lead-based paint is paint that contains lead. The federal government banned its sale for use in homes in 1978, and EPA estimates about three-quarters of U.S. homes built before 1978 still contain some. Paint in good condition is usually not a hazard. Peeling, chipping or worn paint, and the dust it makes, is.

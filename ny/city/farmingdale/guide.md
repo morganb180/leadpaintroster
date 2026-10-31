@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/farmingdale/guide/
 
 # How to hire a certified lead inspector in Farmingdale, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Farmingdale, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 4 listings with a Farmingdale address (2 inspection/risk-assessment, 4 abatement) and 146 more in Nassau County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 4 listings give an address in Farmingdale: 2 inspection/risk-assessment and 4 abatement. Another 146 are elsewhere in Nassau County.

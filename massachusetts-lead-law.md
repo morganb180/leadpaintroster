@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/massachusetts-lead-law/
 
 # Massachusetts Lead Law: deleading, compliance letters and tax credits
 
+Reviewed by Lead Paint Roster staff
+
 Last updated 2026-10-31. Checked against the official sources listed at the end of this page. General information, not legal advice. Rules change, so confirm details with the agency named.
 
 The Massachusetts Lead Law requires lead paint hazards to be removed or covered in homes built before 1978 where a child under 6 lives. Owners comply by having a licensed inspector test the home, having the hazards deleaded, and getting a Letter of Full Deleading Compliance, or temporarily through Interim Control for up to 2 years.

@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/corona/guide/
 
 # How to hire a certified lead inspector in Corona, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Corona, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 7 listings with a Corona address (2 inspection/risk-assessment, 7 abatement) and 317 more in Queens County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 7 listings give an address in Corona: 2 inspection/risk-assessment and 7 abatement. Another 317 are elsewhere in Queens County.

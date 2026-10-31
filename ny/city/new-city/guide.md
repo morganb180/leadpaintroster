@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/new-city/guide/
 
 # How to hire a certified lead inspector in New City, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in New City, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 7 listings with a New City address (3 inspection/risk-assessment, 6 abatement) and 40 more in Rockland County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 7 listings give an address in New City: 3 inspection/risk-assessment and 6 abatement. Another 40 are elsewhere in Rockland County.

@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/lead-inspection-vs-risk-assessment/
 
 # Lead inspection vs risk assessment
 
+Reviewed by Lead Paint Roster staff
+
 A **lead-based paint inspection** finds out, surface by surface, whether a home has lead-based paint and where it is. A **risk assessment** looks for lead *hazards*, such as deteriorated paint and lead in dust or soil, and recommends ways to control them. Many rental laws ask for one or the other, so check which you need. EPA explains how to find qualified professionals ([EPA: finding a qualified professional](https://www.epa.gov/lead/where-can-i-find-qualified-professional-conduct-inspection)).
 
 ## How much do lead paint inspection and abatement cost?

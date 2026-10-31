@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/buffalo/guide/
 
 # How to hire a certified lead inspector in Buffalo, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Buffalo, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 17 listings with a Buffalo address (6 inspection/risk-assessment, 14 abatement) and 30 more in Erie County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 17 listings give an address in Buffalo: 6 inspection/risk-assessment and 14 abatement. Another 30 are elsewhere in Erie County.

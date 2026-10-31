@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/westbury/guide/
 
 # How to hire a certified lead inspector in Westbury, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Westbury, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 7 listings with a Westbury address (3 inspection/risk-assessment, 5 abatement) and 143 more in Nassau County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 7 listings give an address in Westbury: 3 inspection/risk-assessment and 5 abatement. Another 143 are elsewhere in Nassau County.

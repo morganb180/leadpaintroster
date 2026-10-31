@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/bronx/guide/
 
 # How to hire a certified lead inspector in Bronx, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Bronx, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 116 listings with a Bronx address (47 inspection/risk-assessment, 103 abatement) and 2 more in Bronx County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 116 listings give an address in Bronx: 47 inspection/risk-assessment and 103 abatement. Another 2 are elsewhere in Bronx County.

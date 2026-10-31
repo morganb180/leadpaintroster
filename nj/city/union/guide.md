@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/nj/city/union/guide/
 
 # How to hire a certified lead inspector in Union, NJ
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Union, NJ: check the firm in the official NJ DCA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 4 listings with a Union address (3 inspection/risk-assessment, 2 abatement) and 16 more in Union County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 4 listings give an address in Union: 3 inspection/risk-assessment and 2 abatement. Another 16 are elsewhere in Union County.

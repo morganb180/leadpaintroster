@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/east-elmhurst/guide/
 
 # How to hire a certified lead inspector in East Elmhurst, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in East Elmhurst, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 13 listings with a East Elmhurst address (7 inspection/risk-assessment, 13 abatement) and 311 more in Queens County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 13 listings give an address in East Elmhurst: 7 inspection/risk-assessment and 13 abatement. Another 311 are elsewhere in Queens County.

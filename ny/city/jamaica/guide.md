@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/jamaica/guide/
 
 # How to hire a certified lead inspector in Jamaica, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Jamaica, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 20 listings with a Jamaica address (8 inspection/risk-assessment, 18 abatement) and 304 more in Queens County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 20 listings give an address in Jamaica: 8 inspection/risk-assessment and 18 abatement. Another 304 are elsewhere in Queens County.

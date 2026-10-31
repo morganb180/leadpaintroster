@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/nj/city/cherry-hill/guide/
 
 # How to hire a certified lead inspector in Cherry Hill, NJ
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Cherry Hill, NJ: check the firm in the official NJ DCA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 5 listings with a Cherry Hill address (4 inspection/risk-assessment, 1 abatement) and 8 more in Camden County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 5 listings give an address in Cherry Hill: 4 inspection/risk-assessment and 1 abatement. Another 8 are elsewhere in Camden County.

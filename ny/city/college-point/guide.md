@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/college-point/guide/
 
 # How to hire a certified lead inspector in College Point, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in College Point, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 6 listings with a College Point address (2 inspection/risk-assessment, 6 abatement) and 318 more in Queens County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 6 listings give an address in College Point: 2 inspection/risk-assessment and 6 abatement. Another 318 are elsewhere in Queens County.

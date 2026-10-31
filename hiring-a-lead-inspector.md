@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/hiring-a-lead-inspector/
 
 # How to hire a lead inspector
 
+Reviewed by Lead Paint Roster staff
+
 Before you book a lead paint inspection, confirm the firm's certification and the inspector's own credential, agree which test you need, and ask what the written report will cover. Every listing on Lead Paint Roster shows its licence numbers and links the official source list.
 
 ## What should I ask a lead inspector before hiring?

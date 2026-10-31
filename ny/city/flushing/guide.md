@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/flushing/guide/
 
 # How to hire a certified lead inspector in Flushing, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Flushing, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 22 listings with a Flushing address (9 inspection/risk-assessment, 19 abatement) and 302 more in Queens County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 22 listings give an address in Flushing: 9 inspection/risk-assessment and 19 abatement. Another 302 are elsewhere in Queens County.

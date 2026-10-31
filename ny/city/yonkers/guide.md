@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/yonkers/guide/
 
 # How to hire a certified lead inspector in Yonkers, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Yonkers, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 35 listings with a Yonkers address (10 inspection/risk-assessment, 33 abatement) and 88 more in Westchester County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 35 listings give an address in Yonkers: 10 inspection/risk-assessment and 33 abatement. Another 88 are elsewhere in Westchester County.

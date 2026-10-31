@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/whitestone/guide/
 
 # How to hire a certified lead inspector in Whitestone, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Whitestone, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 10 listings with a Whitestone address (5 inspection/risk-assessment, 7 abatement) and 314 more in Queens County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 10 listings give an address in Whitestone: 5 inspection/risk-assessment and 7 abatement. Another 314 are elsewhere in Queens County.

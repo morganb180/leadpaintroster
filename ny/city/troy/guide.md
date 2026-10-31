@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/troy/guide/
 
 # How to hire a certified lead inspector in Troy, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Troy, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 5 listings with a Troy address (2 inspection/risk-assessment, 3 abatement) and 7 more in Rensselaer County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 5 listings give an address in Troy: 2 inspection/risk-assessment and 3 abatement. Another 7 are elsewhere in Rensselaer County.

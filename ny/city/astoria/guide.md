@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/astoria/guide/
 
 # How to hire a certified lead inspector in Astoria, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Astoria, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 34 listings with a Astoria address (17 inspection/risk-assessment, 27 abatement) and 290 more in Queens County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 34 listings give an address in Astoria: 17 inspection/risk-assessment and 27 abatement. Another 290 are elsewhere in Queens County.

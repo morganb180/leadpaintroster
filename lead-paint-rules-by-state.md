@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/lead-paint-rules-by-state/
 
 # Lead paint rules by state
 
+Reviewed by Lead Paint Roster staff
+
 ## What are New Jersey's lead paint rules?
 
 New Jersey municipalities must inspect, or have a DCA-certified lead evaluation contractor inspect, many rental dwellings for lead-based paint hazards every three years or at tenant turnover, unless there is a valid lead-safe certification.

@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/airmont/guide/
 
 # How to hire a certified lead inspector in Airmont, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Airmont, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 6 listings with a Airmont address (3 inspection/risk-assessment, 5 abatement) and 41 more in Rockland County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 6 listings give an address in Airmont: 3 inspection/risk-assessment and 5 abatement. Another 41 are elsewhere in Rockland County.

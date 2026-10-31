@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/plainview/guide/
 
 # How to hire a certified lead inspector in Plainview, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Plainview, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 5 listings with a Plainview address (2 inspection/risk-assessment, 5 abatement) and 145 more in Nassau County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 5 listings give an address in Plainview: 2 inspection/risk-assessment and 5 abatement. Another 145 are elsewhere in Nassau County.

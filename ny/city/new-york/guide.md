@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/new-york/guide/
 
 # How to hire a certified lead inspector in New York, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in New York, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 121 listings with a New York address (68 inspection/risk-assessment, 98 abatement) and 6 more in New York County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 121 listings give an address in New York: 68 inspection/risk-assessment and 98 abatement. Another 6 are elsewhere in New York County.

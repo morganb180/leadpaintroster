@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/nj-lead-paint-inspection-law/
 
 # New Jersey's rental lead paint inspection law
 
+Reviewed by Lead Paint Roster staff
+
 Last updated 2026-10-31. Checked against the official sources listed at the end of this page. General information, not legal advice. Rules change, so confirm details with the agency named.
 
 New Jersey law P.L.2021, c.182 requires most rental homes built before 1978 to be inspected for lead-based paint hazards. The first inspection was due by July 22, 2024, or at an earlier tenant turnover. After that, inspections are due every 3 years or at turnover, whichever comes first, unless the unit has a valid lead-safe certificate.

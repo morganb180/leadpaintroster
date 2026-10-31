@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/pre-1978-housing-by-county/
 
 # Older homes by county: how much housing predates lead paint bans
 
+Reviewed by Lead Paint Roster staff
+
 Last updated 2026-10-31. Checked against the official sources listed at the end of this page. Figures are U.S. Census Bureau survey estimates, not counts of homes with lead paint.
 
 Most homes in the New York City area, northern New Jersey and much of Massachusetts were built before 1980. In Census data, Nassau County (85.4%), Queens County (82.6%), Chemung County (81.7%) have the highest shares in New York, Union County (78.3%), Passaic County (77.4%), Salem County (75.2%) in New Jersey, and Hampden County (76.3%), Berkshire County (75.9%), Suffolk County (72.1%) in Massachusetts. Homes built before 1978 may have lead-based paint.

@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/hicksville/guide/
 
 # How to hire a certified lead inspector in Hicksville, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Hicksville, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 6 listings with a Hicksville address (3 inspection/risk-assessment, 4 abatement) and 144 more in Nassau County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 6 listings give an address in Hicksville: 3 inspection/risk-assessment and 4 abatement. Another 144 are elsewhere in Nassau County.

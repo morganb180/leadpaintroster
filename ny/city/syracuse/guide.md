@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/syracuse/guide/
 
 # How to hire a certified lead inspector in Syracuse, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Syracuse, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 21 listings with a Syracuse address (7 inspection/risk-assessment, 16 abatement) and 17 more in Onondaga County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 21 listings give an address in Syracuse: 7 inspection/risk-assessment and 16 abatement. Another 17 are elsewhere in Onondaga County.

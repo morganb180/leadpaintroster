@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/rrp-vs-lead-abatement/
 
 # RRP vs lead abatement: what is the difference?
 
+Reviewed by Lead Paint Roster staff
+
 Last updated 2026-10-31. Checked against the official sources listed at the end of this page. General information, not legal advice. Rules change, so confirm details with the agency named.
 
 Lead abatement is work designed to permanently eliminate lead-based paint hazards, often ordered by a government agency. RRP is ordinary renovation, repair or painting in a pre-1978 home that happens to disturb paint. They are separate EPA programs with different certifications: an RRP-certified renovator is not licensed to do abatement.

@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/lead-paint-assistance-programs/
 
 # Lead paint assistance programs: grants, loans and free testing
 
+Reviewed by Lead Paint Roster staff
+
 Last updated 2026-10-31. Checked against the official sources listed at the end of this page. Program funding, income limits and openings change often, so confirm with the program before you apply.
 
 Most help for lead paint comes from state and city programs funded partly by HUD. New Jersey's DCA runs the Lead Remediation and Abatement Program for lower-income households, New York City's HPD offers grants for pre-1960 buildings, and Massachusetts offers a deleading tax credit and Get the Lead Out loans. Each has its own income and property rules.

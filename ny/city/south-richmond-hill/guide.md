@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/south-richmond-hill/guide/
 
 # How to hire a certified lead inspector in South Richmond Hill, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in South Richmond Hill, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 9 listings with a South Richmond Hill address (2 inspection/risk-assessment, 9 abatement) and 315 more in Queens County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 9 listings give an address in South Richmond Hill: 2 inspection/risk-assessment and 9 abatement. Another 315 are elsewhere in Queens County.

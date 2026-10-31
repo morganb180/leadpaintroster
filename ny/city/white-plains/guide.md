@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/white-plains/guide/
 
 # How to hire a certified lead inspector in White Plains, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in White Plains, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 8 listings with a White Plains address (5 inspection/risk-assessment, 5 abatement) and 115 more in Westchester County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 8 listings give an address in White Plains: 5 inspection/risk-assessment and 5 abatement. Another 115 are elsewhere in Westchester County.

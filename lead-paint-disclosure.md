@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/lead-paint-disclosure/
 
 # Lead-based paint disclosure and the buyer's 10-day window
 
+Reviewed by Lead Paint Roster staff
+
 Last updated 2026-10-31. Checked against the official sources listed at the end of this page. General information, not legal advice. Rules change, so confirm details with the agency named.
 
 Under the federal Lead-Based Paint Disclosure Rule, sellers and landlords of most housing built before 1978 must, before a contract or lease is signed, give the EPA pamphlet, disclose known lead paint and hazards, share any reports, and include a Lead Warning Statement. Buyers also get a 10-day period to have a lead inspection or risk assessment, which they can change or waive in writing.

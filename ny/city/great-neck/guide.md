@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/great-neck/guide/
 
 # How to hire a certified lead inspector in Great Neck, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Great Neck, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 15 listings with a Great Neck address (8 inspection/risk-assessment, 12 abatement) and 136 more in Nassau County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 15 listings give an address in Great Neck: 8 inspection/risk-assessment and 12 abatement. Another 136 are elsewhere in Nassau County.

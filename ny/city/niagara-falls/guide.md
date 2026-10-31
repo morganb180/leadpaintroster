@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/niagara-falls/guide/
 
 # How to hire a certified lead inspector in Niagara Falls, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Niagara Falls, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 8 listings with a Niagara Falls address (1 inspection/risk-assessment, 8 abatement) and 9 more in Niagara County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 8 listings give an address in Niagara Falls: 1 inspection/risk-assessment and 8 abatement. Another 9 are elsewhere in Niagara County.

@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/new-hyde-park/guide/
 
 # How to hire a certified lead inspector in New Hyde Park, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in New Hyde Park, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 7 listings with a New Hyde Park address (3 inspection/risk-assessment, 6 abatement) and 143 more in Nassau County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 7 listings give an address in New Hyde Park: 3 inspection/risk-assessment and 6 abatement. Another 143 are elsewhere in Nassau County.

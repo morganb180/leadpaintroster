@@ -6,6 +6,8 @@ canonical: https://leadpaintroster.com/nj-lead-safe-vs-lead-free-certificate/
 
 # New Jersey lead-safe vs lead-free certificate
 
+Reviewed by Lead Paint Roster staff
+
 Last updated 2026-10-31. Checked against the official sources listed at the end of this page. General information, not legal advice. Rules change, so confirm details with the agency named.
 
 In New Jersey, a lead-safe certificate means an inspection found no lead-based paint hazards right now. It lasts 2 years. A lead-free certification means the unit has no lead-based paint at all, or has been abated. It exempts the unit from future periodic inspections under the rental lead law.

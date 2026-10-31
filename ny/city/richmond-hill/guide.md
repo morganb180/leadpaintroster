@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/richmond-hill/guide/
 
 # How to hire a certified lead inspector in Richmond Hill, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Richmond Hill, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 11 listings with a Richmond Hill address (4 inspection/risk-assessment, 10 abatement) and 313 more in Queens County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 11 listings give an address in Richmond Hill: 4 inspection/risk-assessment and 10 abatement. Another 313 are elsewhere in Queens County.

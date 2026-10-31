@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/brooklyn/guide/
 
 # How to hire a certified lead inspector in Brooklyn, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Brooklyn, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 249 listings with a Brooklyn address (112 inspection/risk-assessment, 220 abatement) and 6 more in Kings County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 249 listings give an address in Brooklyn: 112 inspection/risk-assessment and 220 abatement. Another 6 are elsewhere in Kings County.

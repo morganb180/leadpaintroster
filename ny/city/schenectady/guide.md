@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/schenectady/guide/
 
 # How to hire a certified lead inspector in Schenectady, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Schenectady, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 18 listings with a Schenectady address (5 inspection/risk-assessment, 16 abatement) and 4 more in Schenectady County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 18 listings give an address in Schenectady: 5 inspection/risk-assessment and 16 abatement. Another 4 are elsewhere in Schenectady County.

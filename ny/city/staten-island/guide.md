@@ -8,6 +8,8 @@ canonical: https://leadpaintroster.com/ny/city/staten-island/guide/
 
 # How to hire a certified lead inspector in Staten Island, NY
 
+Reviewed by Lead Paint Roster staff
+
 **Quick answer:** To hire a lead inspector in Staten Island, NY: check the firm in the official EPA list, ask for the firm's certification number and the inspector's own credential in writing, and decide whether you need an inspection or a risk assessment. Lead Paint Roster lists 72 listings with a Staten Island address (31 inspection/risk-assessment, 62 abatement) and 0 more in Richmond County. A national cost guide on this page puts a lead paint inspection at $239-$437.
 
 72 listings give an address in Staten Island: 31 inspection/risk-assessment and 62 abatement. Another 0 are elsewhere in Richmond County.
