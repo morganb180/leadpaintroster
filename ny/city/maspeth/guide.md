@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/maspeth/guide/
 
 17 listings give an address in Maspeth: 3 inspection/risk-assessment and 15 abatement. Another 307 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=maspeth&st=ny) [All Maspeth listings](https://leadpaintroster.com/ny/city/maspeth/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=maspeth&st=ny) [All Maspeth listings](https://leadpaintroster.com/ny/city/maspeth/)
 
 ## How do I verify a lead inspector's certification in Maspeth?
 

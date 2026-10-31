@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/mount-vernon/guide/
 
 6 listings give an address in Mount Vernon: 3 inspection/risk-assessment and 5 abatement. Another 117 are elsewhere in Westchester County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=mount-vernon&st=ny) [All Mount Vernon listings](https://leadpaintroster.com/ny/city/mount-vernon/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=mount-vernon&st=ny) [All Mount Vernon listings](https://leadpaintroster.com/ny/city/mount-vernon/)
 
 ## What are New York's lead paint rules?
 

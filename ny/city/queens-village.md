@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/queens-village/
 
 [**Read the Queens Village hiring guide →**](https://leadpaintroster.com/ny/city/queens-village/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Queens Village](https://leadpaintroster.com/get-quotes/?city=queens-village&st=ny)
+[How to get quotes in Queens Village](https://leadpaintroster.com/quotes/?city=queens-village&st=ny)
 
 ## Which certified lead paint firms are based in Queens Village, NY?
 

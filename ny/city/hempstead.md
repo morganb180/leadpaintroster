@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/hempstead/
 
 [**Read the Hempstead hiring guide →**](https://leadpaintroster.com/ny/city/hempstead/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Hempstead](https://leadpaintroster.com/get-quotes/?city=hempstead&st=ny)
+[How to get quotes in Hempstead](https://leadpaintroster.com/quotes/?city=hempstead&st=ny)
 
 ## Which certified lead paint firms are based in Hempstead, NY?
 

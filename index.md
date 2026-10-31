@@ -50,4 +50,4 @@ Massachusetts listings are grouped [by county](https://leadpaintroster.com/ma/).
 * [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/)
 * [All guides, including local hiring guides](https://leadpaintroster.com/guides/)
 
-[Get free quotes](https://leadpaintroster.com/get-quotes/)
+[Get free quotes](https://leadpaintroster.com/quotes/)

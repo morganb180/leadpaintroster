@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/lockport/guide/
 
 4 listings give an address in Lockport: 0 inspection/risk-assessment and 4 abatement. Another 13 are elsewhere in Niagara County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=lockport&st=ny) [All Lockport listings](https://leadpaintroster.com/ny/city/lockport/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=lockport&st=ny) [All Lockport listings](https://leadpaintroster.com/ny/city/lockport/)
 
 ## How much does a lead paint inspection cost in Lockport?
 

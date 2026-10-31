@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ma/county/plymouth/
 
 # Certified lead paint inspectors & abatement firms in Plymouth County, MA
 
-**2 MA-licensed listings** with an address of record in Plymouth County (2 lead risk assessment): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=plymouth&st=ma)
+**2 MA-licensed listings** with an address of record in Plymouth County (2 lead risk assessment): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=plymouth&st=ma)
 
 ## Which licensed lead inspectors and risk assessors are in Plymouth County, MA? (2)
 

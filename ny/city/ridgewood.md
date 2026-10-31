@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/ridgewood/
 
 [**Read the Ridgewood hiring guide →**](https://leadpaintroster.com/ny/city/ridgewood/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Ridgewood](https://leadpaintroster.com/get-quotes/?city=ridgewood&st=ny)
+[How to get quotes in Ridgewood](https://leadpaintroster.com/quotes/?city=ridgewood&st=ny)
 
 ## Which certified lead paint firms are based in Ridgewood, NY?
 

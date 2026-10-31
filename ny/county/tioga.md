@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/tioga/
 
 # Certified lead paint inspectors & abatement firms in Tioga County, NY
 
-**1 EPA-licensed listings** with an address of record in Tioga County (1 lead inspection / evaluation, 1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=tioga&st=ny)
+**1 EPA-licensed listings** with an address of record in Tioga County (1 lead inspection / evaluation, 1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=tioga&st=ny)
 
 ## Where can I get a lead paint inspection in Tioga County, NY? (1)
 

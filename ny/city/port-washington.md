@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/port-washington/
 
 [**Read the Port Washington hiring guide →**](https://leadpaintroster.com/ny/city/port-washington/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Port Washington](https://leadpaintroster.com/get-quotes/?city=port-washington&st=ny)
+[How to get quotes in Port Washington](https://leadpaintroster.com/quotes/?city=port-washington&st=ny)
 
 ## Which certified lead paint firms are based in Port Washington, NY?
 

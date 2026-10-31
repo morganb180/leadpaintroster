@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/nj/county/sussex/
 
 # Certified lead paint inspectors & abatement firms in Sussex County, NJ
 
-**3 NJ DCA-licensed listings** with an address of record in Sussex County (3 lead inspection / evaluation): 3 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=sussex&st=nj)
+**3 NJ DCA-licensed listings** with an address of record in Sussex County (3 lead inspection / evaluation): 3 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=sussex&st=nj)
 
 ## Where can I get a lead paint inspection in Sussex County, NJ? (3)
 

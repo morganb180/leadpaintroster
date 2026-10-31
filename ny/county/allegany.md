@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/allegany/
 
 # Certified lead paint inspectors & abatement firms in Allegany County, NY
 
-**1 EPA-licensed listings** with an address of record in Allegany County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=allegany&st=ny)
+**1 EPA-licensed listings** with an address of record in Allegany County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=allegany&st=ny)
 
 ## Who does lead paint abatement in Allegany County, NY? (1)
 

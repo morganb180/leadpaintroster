@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/jamaica/
 
 [**Read the Jamaica hiring guide →**](https://leadpaintroster.com/ny/city/jamaica/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Jamaica](https://leadpaintroster.com/get-quotes/?city=jamaica&st=ny)
+[How to get quotes in Jamaica](https://leadpaintroster.com/quotes/?city=jamaica&st=ny)
 
 ## Which certified lead paint firms are based in Jamaica, NY?
 

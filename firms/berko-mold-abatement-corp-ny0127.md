@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/berko-mold-abatement-corp-ny0127/
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F225104-2 (exp. 2027-05-10)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0127
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0127
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0127

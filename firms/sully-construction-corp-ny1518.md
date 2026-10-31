@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/sully-construction-corp-ny1518/
 * Google rating: 5.0 from 82 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F226820-2 (exp. 2027-07-08)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1518
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1518
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1518

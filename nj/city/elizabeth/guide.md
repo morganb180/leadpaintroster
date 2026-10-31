@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/nj/city/elizabeth/guide/
 
 5 listings give an address in Elizabeth: 3 inspection/risk-assessment and 3 abatement. Another 15 are elsewhere in Union County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=elizabeth&st=nj) [All Elizabeth listings](https://leadpaintroster.com/nj/city/elizabeth/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=elizabeth&st=nj) [All Elizabeth listings](https://leadpaintroster.com/nj/city/elizabeth/)
 
 ## What should I ask a lead inspector in Elizabeth before hiring?
 

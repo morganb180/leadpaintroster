@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/a-b-inspection-services-corp-ny0011
 * Address: 543 Beach 68th St, Arverne, NY 11692
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F146243-4 (exp. 2029-10-22)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0011
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0011
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0011

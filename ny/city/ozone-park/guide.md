@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/ozone-park/guide/
 
 9 listings give an address in Ozone Park: 1 inspection/risk-assessment and 9 abatement. Another 315 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=ozone-park&st=ny) [All Ozone Park listings](https://leadpaintroster.com/ny/city/ozone-park/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=ozone-park&st=ny) [All Ozone Park listings](https://leadpaintroster.com/ny/city/ozone-park/)
 
 ## What should I ask a lead inspector in Ozone Park before hiring?
 

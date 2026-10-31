@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/bohemia/
 
 [**Read the Bohemia hiring guide →**](https://leadpaintroster.com/ny/city/bohemia/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Bohemia](https://leadpaintroster.com/get-quotes/?city=bohemia&st=ny)
+[How to get quotes in Bohemia](https://leadpaintroster.com/quotes/?city=bohemia&st=ny)
 
 ## Which certified lead paint firms are based in Bohemia, NY?
 

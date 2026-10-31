@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/premier-construction-inc-ny1362/
 * Google rating: 4.8 from 6 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F158810-3 (exp. 2028-04-01)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1362
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1362
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1362

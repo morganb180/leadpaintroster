@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ma/county/hampshire/
 
 # Certified lead paint inspectors & abatement firms in Hampshire County, MA
 
-**1 MA-licensed listings** with an address of record in Hampshire County (1 lead inspection / evaluation, 1 lead risk assessment): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=hampshire&st=ma)
+**1 MA-licensed listings** with an address of record in Hampshire County (1 lead inspection / evaluation, 1 lead risk assessment): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=hampshire&st=ma)
 
 ## Which licensed lead inspectors and risk assessors are in Hampshire County, MA? (1)
 

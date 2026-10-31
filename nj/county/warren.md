@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/nj/county/warren/
 
 # Certified lead paint inspectors & abatement firms in Warren County, NJ
 
-**5 NJ DCA-licensed listings** with an address of record in Warren County (5 lead inspection / evaluation): 5 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=warren&st=nj)
+**5 NJ DCA-licensed listings** with an address of record in Warren County (5 lead inspection / evaluation): 5 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=warren&st=nj)
 
 ## Where can I get a lead paint inspection in Warren County, NJ? (5)
 

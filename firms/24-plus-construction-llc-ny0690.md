@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/24-plus-construction-llc-ny0690/
 * Google rating: 5.0 from 18 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F305318-1 (exp. 2028-09-08)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0690
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0690
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0690

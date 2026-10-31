@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/west-seneca/guide/
 
 4 listings give an address in West Seneca: 1 inspection/risk-assessment and 3 abatement. Another 43 are elsewhere in Erie County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=west-seneca&st=ny) [All West Seneca listings](https://leadpaintroster.com/ny/city/west-seneca/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=west-seneca&st=ny) [All West Seneca listings](https://leadpaintroster.com/ny/city/west-seneca/)
 
 ## What should I ask a lead inspector in West Seneca before hiring?
 

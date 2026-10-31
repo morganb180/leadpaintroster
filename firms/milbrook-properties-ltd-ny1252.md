@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/milbrook-properties-ltd-ny1252/
 * Google rating: 3.7 from 19 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-43707-4 (exp. 2028-03-23)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1252
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1252
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1252

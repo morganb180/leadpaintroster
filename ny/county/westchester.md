@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/westchester/
 
 # Certified lead paint inspectors & abatement firms in Westchester County, NY
 
-**123 EPA-licensed listings** with an address of record in Westchester County (45 lead inspection / evaluation, 108 lead abatement): 123 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=westchester&st=ny)
+**123 EPA-licensed listings** with an address of record in Westchester County (45 lead inspection / evaluation, 108 lead abatement): 123 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=westchester&st=ny)
 
 City pages: [Mount Kisco](https://leadpaintroster.com/ny/city/mount-kisco/) · [Mount Vernon](https://leadpaintroster.com/ny/city/mount-vernon/) · [New Rochelle](https://leadpaintroster.com/ny/city/new-rochelle/) · [Scarsdale](https://leadpaintroster.com/ny/city/scarsdale/) · [White Plains](https://leadpaintroster.com/ny/city/white-plains/) · [Yonkers](https://leadpaintroster.com/ny/city/yonkers/) · [Yorktown Heights](https://leadpaintroster.com/ny/city/yorktown-heights/)
 

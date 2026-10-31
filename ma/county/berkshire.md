@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ma/county/berkshire/
 
 # Certified lead paint inspectors & abatement firms in Berkshire County, MA
 
-**1 MA-licensed listings** with an address of record in Berkshire County (1 lead risk assessment): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=berkshire&st=ma)
+**1 MA-licensed listings** with an address of record in Berkshire County (1 lead risk assessment): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=berkshire&st=ma)
 
 ## Which licensed lead inspectors and risk assessors are in Berkshire County, MA? (1)
 

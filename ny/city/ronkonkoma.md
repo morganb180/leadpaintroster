@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/ronkonkoma/
 
 [**Read the Ronkonkoma hiring guide →**](https://leadpaintroster.com/ny/city/ronkonkoma/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Ronkonkoma](https://leadpaintroster.com/get-quotes/?city=ronkonkoma&st=ny)
+[How to get quotes in Ronkonkoma](https://leadpaintroster.com/quotes/?city=ronkonkoma&st=ny)
 
 ## Which certified lead paint firms are based in Ronkonkoma, NY?
 

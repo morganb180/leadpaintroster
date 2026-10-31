@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/airmont/
 
 [**Read the Airmont hiring guide →**](https://leadpaintroster.com/ny/city/airmont/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Airmont](https://leadpaintroster.com/get-quotes/?city=airmont&st=ny)
+[How to get quotes in Airmont](https://leadpaintroster.com/quotes/?city=airmont&st=ny)
 
 ## Which certified lead paint firms are based in Airmont, NY?
 

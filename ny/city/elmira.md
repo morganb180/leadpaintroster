@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/elmira/
 
 [**Read the Elmira hiring guide →**](https://leadpaintroster.com/ny/city/elmira/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Elmira](https://leadpaintroster.com/get-quotes/?city=elmira&st=ny)
+[How to get quotes in Elmira](https://leadpaintroster.com/quotes/?city=elmira&st=ny)
 
 ## Which certified lead paint firms are based in Elmira, NY?
 

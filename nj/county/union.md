@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/nj/county/union/
 
 # Certified lead paint inspectors & abatement firms in Union County, NJ
 
-**20 NJ DCA-licensed listings** with an address of record in Union County (13 lead inspection / evaluation, 10 lead abatement): 20 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=union&st=nj)
+**20 NJ DCA-licensed listings** with an address of record in Union County (13 lead inspection / evaluation, 10 lead abatement): 20 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=union&st=nj)
 
 City pages: [Elizabeth](https://leadpaintroster.com/nj/city/elizabeth/) · [Union](https://leadpaintroster.com/nj/city/union/)
 

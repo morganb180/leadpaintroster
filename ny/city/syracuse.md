@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/syracuse/
 
 [**Read the Syracuse hiring guide →**](https://leadpaintroster.com/ny/city/syracuse/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Syracuse](https://leadpaintroster.com/get-quotes/?city=syracuse&st=ny)
+[How to get quotes in Syracuse](https://leadpaintroster.com/quotes/?city=syracuse&st=ny)
 
 ## Which certified lead paint firms are based in Syracuse, NY?
 

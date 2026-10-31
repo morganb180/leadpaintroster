@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/team-c-o-l-management-inc-ny1543/
 * Address: 99 Main St, Nyack, NY 10960
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F147954-3 (exp. 2027-04-18)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1543
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1543
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1543

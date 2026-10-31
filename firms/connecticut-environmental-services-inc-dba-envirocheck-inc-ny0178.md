@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/connecticut-environmental-services-
 * Address: 165 Ct St, Brooklyn, NY 11201
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-63341-4 (exp. 2028-09-18)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0178
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0178
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0178

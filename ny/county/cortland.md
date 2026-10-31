@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/cortland/
 
 # Certified lead paint inspectors & abatement firms in Cortland County, NY
 
-**3 EPA-licensed listings** with an address of record in Cortland County (3 lead inspection / evaluation, 1 lead abatement): 3 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=cortland&st=ny)
+**3 EPA-licensed listings** with an address of record in Cortland County (3 lead inspection / evaluation, 1 lead abatement): 3 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=cortland&st=ny)
 
 ## Where can I get a lead paint inspection in Cortland County, NY? (3)
 

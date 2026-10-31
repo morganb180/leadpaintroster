@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/staten-island/guide/
 
 72 listings give an address in Staten Island: 31 inspection/risk-assessment and 62 abatement. Another 0 are elsewhere in Richmond County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=staten-island&st=ny) [All Staten Island listings](https://leadpaintroster.com/ny/city/staten-island/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=staten-island&st=ny) [All Staten Island listings](https://leadpaintroster.com/ny/city/staten-island/)
 
 ## What should I ask a lead inspector in Staten Island before hiring?
 

@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/broome/
 
 # Certified lead paint inspectors & abatement firms in Broome County, NY
 
-**11 EPA-licensed listings** with an address of record in Broome County (5 lead inspection / evaluation, 7 lead abatement): 11 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=broome&st=ny)
+**11 EPA-licensed listings** with an address of record in Broome County (5 lead inspection / evaluation, 7 lead abatement): 11 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=broome&st=ny)
 
 City pages: [Binghamton](https://leadpaintroster.com/ny/city/binghamton/)
 

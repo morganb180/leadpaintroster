@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/rensselaer/
 
 # Certified lead paint inspectors & abatement firms in Rensselaer County, NY
 
-**12 EPA-licensed listings** with an address of record in Rensselaer County (4 lead inspection / evaluation, 9 lead abatement): 12 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=rensselaer&st=ny)
+**12 EPA-licensed listings** with an address of record in Rensselaer County (4 lead inspection / evaluation, 9 lead abatement): 12 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=rensselaer&st=ny)
 
 City pages: [Troy](https://leadpaintroster.com/ny/city/troy/)
 

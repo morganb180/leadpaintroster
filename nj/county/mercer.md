@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/nj/county/mercer/
 
 # Certified lead paint inspectors & abatement firms in Mercer County, NJ
 
-**6 NJ DCA-licensed listings** with an address of record in Mercer County (5 lead inspection / evaluation, 1 lead abatement): 6 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=mercer&st=nj)
+**6 NJ DCA-licensed listings** with an address of record in Mercer County (5 lead inspection / evaluation, 1 lead abatement): 6 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=mercer&st=nj)
 
 ## Where can I get a lead paint inspection in Mercer County, NJ? (5)
 

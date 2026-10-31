@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/lewis/
 
 # Certified lead paint inspectors & abatement firms in Lewis County, NY
 
-**1 EPA-licensed listings** with an address of record in Lewis County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=lewis&st=ny)
+**1 EPA-licensed listings** with an address of record in Lewis County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=lewis&st=ny)
 
 ## Who does lead paint abatement in Lewis County, NY? (1)
 

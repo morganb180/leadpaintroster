@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/mount-kisco/
 
 [**Read the Mount Kisco hiring guide →**](https://leadpaintroster.com/ny/city/mount-kisco/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Mount Kisco](https://leadpaintroster.com/get-quotes/?city=mount-kisco&st=ny)
+[How to get quotes in Mount Kisco](https://leadpaintroster.com/quotes/?city=mount-kisco&st=ny)
 
 ## Which certified lead paint firms are based in Mount Kisco, NY?
 

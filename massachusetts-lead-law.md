@@ -80,7 +80,7 @@ MassHousing's Get the Lead Out program offers deleading loans for 1- to 4-family
 
 Find licensed inspectors and deleaders across [Massachusetts](https://leadpaintroster.com/ma/), including [Berkshire](https://leadpaintroster.com/ma/county/berkshire/), [Bristol](https://leadpaintroster.com/ma/county/bristol/), [Essex](https://leadpaintroster.com/ma/county/essex/), [Hampden](https://leadpaintroster.com/ma/county/hampden/), [Hampshire](https://leadpaintroster.com/ma/county/hampshire/), [Middlesex](https://leadpaintroster.com/ma/county/middlesex/), [Norfolk](https://leadpaintroster.com/ma/county/norfolk/), [Plymouth](https://leadpaintroster.com/ma/county/plymouth/), [Suffolk](https://leadpaintroster.com/ma/county/suffolk/) and [Worcester](https://leadpaintroster.com/ma/county/worcester/) counties.
 
-[Get free quotes](https://leadpaintroster.com/get-quotes/) One request to up to 3 certified pros near you.
+[Get free quotes](https://leadpaintroster.com/quotes/) One request to up to 3 certified pros near you.
 
 ## Frequently asked questions
 

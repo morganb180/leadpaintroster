@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/woodside/guide/
 
 6 listings give an address in Woodside: 2 inspection/risk-assessment and 5 abatement. Another 318 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=woodside&st=ny) [All Woodside listings](https://leadpaintroster.com/ny/city/woodside/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=woodside&st=ny) [All Woodside listings](https://leadpaintroster.com/ny/city/woodside/)
 
 ## How do I verify a lead inspector's certification in Woodside?
 

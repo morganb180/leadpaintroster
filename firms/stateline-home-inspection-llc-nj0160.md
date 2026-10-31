@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/stateline-home-inspection-llc-nj016
 * Address: 9 Magnolia Ave, Montvale, NJ 07645
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00785 (exp. 2027-11-30)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NJ0160
+Get a quote: https://leadpaintroster.com/quotes/?firm=NJ0160
 
 Source: https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NJ0160

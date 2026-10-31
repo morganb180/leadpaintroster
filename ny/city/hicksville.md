@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/hicksville/
 
 [**Read the Hicksville hiring guide →**](https://leadpaintroster.com/ny/city/hicksville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Hicksville](https://leadpaintroster.com/get-quotes/?city=hicksville&st=ny)
+[How to get quotes in Hicksville](https://leadpaintroster.com/quotes/?city=hicksville&st=ny)
 
 ## Which certified lead paint firms are based in Hicksville, NY?
 

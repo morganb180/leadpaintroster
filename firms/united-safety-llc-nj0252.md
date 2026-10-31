@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/united-safety-llc-nj0252/
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00800 (exp. 2028-03-31)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NJ0252
+Get a quote: https://leadpaintroster.com/quotes/?firm=NJ0252
 
 Source: https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat_c.pdf, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NJ0252

@@ -159,7 +159,7 @@ Homes built before 1978 where a child under 6 lives fall under the [Massachusett
 | [Suffolk](https://leadpaintroster.com/ma/county/suffolk/) | 357,290 | 257,495 ±3,718 | 72.1% | 57.7% | 45.6% |
 | [Worcester](https://leadpaintroster.com/ma/county/worcester/) | 355,185 | 226,217 ±3,392 | 63.7% | 44.0% | 27.5% |
 
-[Get free quotes](https://leadpaintroster.com/get-quotes/) One request to up to 3 certified pros near you.
+[Get free quotes](https://leadpaintroster.com/quotes/) One request to up to 3 certified pros near you.
 
 ## Frequently asked questions
 

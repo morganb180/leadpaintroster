@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/franklin/
 
 # Certified lead paint inspectors & abatement firms in Franklin County, NY
 
-**3 EPA-licensed listings** with an address of record in Franklin County (3 lead abatement): 3 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=franklin&st=ny)
+**3 EPA-licensed listings** with an address of record in Franklin County (3 lead abatement): 3 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=franklin&st=ny)
 
 ## Who does lead paint abatement in Franklin County, NY? (3)
 

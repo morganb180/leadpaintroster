@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/little-neck/
 
 [**Read the Little Neck hiring guide →**](https://leadpaintroster.com/ny/city/little-neck/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Little Neck](https://leadpaintroster.com/get-quotes/?city=little-neck&st=ny)
+[How to get quotes in Little Neck](https://leadpaintroster.com/quotes/?city=little-neck&st=ny)
 
 ## Which certified lead paint firms are based in Little Neck, NY?
 

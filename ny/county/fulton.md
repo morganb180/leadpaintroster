@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/fulton/
 
 # Certified lead paint inspectors & abatement firms in Fulton County, NY
 
-**1 EPA-licensed listings** with an address of record in Fulton County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=fulton&st=ny)
+**1 EPA-licensed listings** with an address of record in Fulton County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=fulton&st=ny)
 
 ## Who does lead paint abatement in Fulton County, NY? (1)
 

@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/abatement-solutions-llc-ny0024/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-77829-2 (exp. 2028-11-09)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-77829-2 (exp. 2028-11-09)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0024
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0024
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0024

@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/robert-hartin-ma0007/
 * Email: bobhartin@outlook.com
 * Address: Braintree, MA
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0007
+Get a quote: https://leadpaintroster.com/quotes/?firm=MA0007
 
 Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0007

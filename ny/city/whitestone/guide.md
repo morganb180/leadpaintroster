@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/whitestone/guide/
 
 10 listings give an address in Whitestone: 5 inspection/risk-assessment and 7 abatement. Another 314 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=whitestone&st=ny) [All Whitestone listings](https://leadpaintroster.com/ny/city/whitestone/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=whitestone&st=ny) [All Whitestone listings](https://leadpaintroster.com/ny/city/whitestone/)
 
 ## How much does a lead paint inspection cost in Whitestone?
 

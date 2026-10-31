@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/south-richmond-hill/guide/
 
 9 listings give an address in South Richmond Hill: 2 inspection/risk-assessment and 9 abatement. Another 315 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=south-richmond-hill&st=ny) [All South Richmond Hill listings](https://leadpaintroster.com/ny/city/south-richmond-hill/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=south-richmond-hill&st=ny) [All South Richmond Hill listings](https://leadpaintroster.com/ny/city/south-richmond-hill/)
 
 ## How do I verify a lead inspector's certification in South Richmond Hill?
 

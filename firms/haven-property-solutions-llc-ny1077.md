@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/haven-property-solutions-llc-ny1077
 * Google rating: 4.3 from 21 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F169514-3 (exp. 2027-04-19)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1077
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1077
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1077

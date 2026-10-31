@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/astoria/guide/
 
 34 listings give an address in Astoria: 17 inspection/risk-assessment and 27 abatement. Another 290 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=astoria&st=ny) [All Astoria listings](https://leadpaintroster.com/ny/city/astoria/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=astoria&st=ny) [All Astoria listings](https://leadpaintroster.com/ny/city/astoria/)
 
 ## How much does a lead paint inspection cost in Astoria?
 

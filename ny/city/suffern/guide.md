@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/suffern/guide/
 
 4 listings give an address in Suffern: 2 inspection/risk-assessment and 4 abatement. Another 43 are elsewhere in Rockland County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=suffern&st=ny) [All Suffern listings](https://leadpaintroster.com/ny/city/suffern/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=suffern&st=ny) [All Suffern listings](https://leadpaintroster.com/ny/city/suffern/)
 
 ## What are New York's lead paint rules?
 

@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/schenectady/guide/
 
 18 listings give an address in Schenectady: 5 inspection/risk-assessment and 16 abatement. Another 4 are elsewhere in Schenectady County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=schenectady&st=ny) [All Schenectady listings](https://leadpaintroster.com/ny/city/schenectady/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=schenectady&st=ny) [All Schenectady listings](https://leadpaintroster.com/ny/city/schenectady/)
 
 ## What are New York's lead paint rules?
 

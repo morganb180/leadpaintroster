@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/nj/county/morris/
 
 # Certified lead paint inspectors & abatement firms in Morris County, NJ
 
-**21 NJ DCA-licensed listings** with an address of record in Morris County (15 lead inspection / evaluation, 7 lead abatement): 21 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=morris&st=nj)
+**21 NJ DCA-licensed listings** with an address of record in Morris County (15 lead inspection / evaluation, 7 lead abatement): 21 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=morris&st=nj)
 
 ## Where can I get a lead paint inspection in Morris County, NJ? (15)
 

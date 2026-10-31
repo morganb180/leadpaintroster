@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/erie/
 
 # Certified lead paint inspectors & abatement firms in Erie County, NY
 
-**47 EPA-licensed listings** with an address of record in Erie County (15 lead inspection / evaluation, 41 lead abatement): 47 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=erie&st=ny)
+**47 EPA-licensed listings** with an address of record in Erie County (15 lead inspection / evaluation, 41 lead abatement): 47 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=erie&st=ny)
 
 City pages: [Buffalo](https://leadpaintroster.com/ny/city/buffalo/) · [Lackawanna](https://leadpaintroster.com/ny/city/lackawanna/) · [Tonawanda](https://leadpaintroster.com/ny/city/tonawanda/) · [West Seneca](https://leadpaintroster.com/ny/city/west-seneca/)
 

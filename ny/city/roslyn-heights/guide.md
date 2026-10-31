@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/roslyn-heights/guide/
 
 4 listings give an address in Roslyn Heights: 2 inspection/risk-assessment and 4 abatement. Another 146 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=roslyn-heights&st=ny) [All Roslyn Heights listings](https://leadpaintroster.com/ny/city/roslyn-heights/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=roslyn-heights&st=ny) [All Roslyn Heights listings](https://leadpaintroster.com/ny/city/roslyn-heights/)
 
 ## How do I verify a lead inspector's certification in Roslyn Heights?
 

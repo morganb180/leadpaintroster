@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/suffolk/
 
 # Certified lead paint inspectors & abatement firms in Suffolk County, NY
 
-**66 EPA-licensed listings** with an address of record in Suffolk County (24 lead inspection / evaluation, 59 lead abatement): 66 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=suffolk&st=ny)
+**66 EPA-licensed listings** with an address of record in Suffolk County (24 lead inspection / evaluation, 59 lead abatement): 66 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=suffolk&st=ny)
 
 City pages: [Bohemia](https://leadpaintroster.com/ny/city/bohemia/) · [Medford](https://leadpaintroster.com/ny/city/medford/) · [Melville](https://leadpaintroster.com/ny/city/melville/) · [Ronkonkoma](https://leadpaintroster.com/ny/city/ronkonkoma/) · [West Babylon](https://leadpaintroster.com/ny/city/west-babylon/)
 

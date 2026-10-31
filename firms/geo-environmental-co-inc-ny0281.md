@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/geo-environmental-co-inc-ny0281/
 * Google rating: 5.0 from 37 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F204353-3 (exp. 2028-07-02)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0281
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0281
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0281

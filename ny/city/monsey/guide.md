@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/monsey/guide/
 
 6 listings give an address in Monsey: 3 inspection/risk-assessment and 5 abatement. Another 41 are elsewhere in Rockland County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=monsey&st=ny) [All Monsey listings](https://leadpaintroster.com/ny/city/monsey/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=monsey&st=ny) [All Monsey listings](https://leadpaintroster.com/ny/city/monsey/)
 
 ## How do I verify a lead inspector's certification in Monsey?
 

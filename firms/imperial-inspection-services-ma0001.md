@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/imperial-inspection-services-ma0001
 * Address: Attleboro, MA
 * Google rating: 4.9 from 138 reviews (as of Oct 18, 2026)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0001
+Get a quote: https://leadpaintroster.com/quotes/?firm=MA0001
 
 Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0001

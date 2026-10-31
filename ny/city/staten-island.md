@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/staten-island/
 
 [**Read the Staten Island hiring guide →**](https://leadpaintroster.com/ny/city/staten-island/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Staten Island](https://leadpaintroster.com/get-quotes/?city=staten-island&st=ny)
+[How to get quotes in Staten Island](https://leadpaintroster.com/quotes/?city=staten-island&st=ny)
 
 ## Which certified lead paint firms are based in Staten Island, NY?
 

@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/long-island-city/
 
 [**Read the Long Island City hiring guide →**](https://leadpaintroster.com/ny/city/long-island-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Long Island City](https://leadpaintroster.com/get-quotes/?city=long-island-city&st=ny)
+[How to get quotes in Long Island City](https://leadpaintroster.com/quotes/?city=long-island-city&st=ny)
 
 ## Which certified lead paint firms are based in Long Island City, NY?
 

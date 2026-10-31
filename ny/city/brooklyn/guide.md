@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/brooklyn/guide/
 
 249 listings give an address in Brooklyn: 112 inspection/risk-assessment and 220 abatement. Another 6 are elsewhere in Kings County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=brooklyn&st=ny) [All Brooklyn listings](https://leadpaintroster.com/ny/city/brooklyn/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=brooklyn&st=ny) [All Brooklyn listings](https://leadpaintroster.com/ny/city/brooklyn/)
 
 ## What are New York's lead paint rules?
 

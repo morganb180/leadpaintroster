@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/woodmere/
 
 [**Read the Woodmere hiring guide →**](https://leadpaintroster.com/ny/city/woodmere/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Woodmere](https://leadpaintroster.com/get-quotes/?city=woodmere&st=ny)
+[How to get quotes in Woodmere](https://leadpaintroster.com/quotes/?city=woodmere&st=ny)
 
 ## Which certified lead paint firms are based in Woodmere, NY?
 

@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ma/county/bristol/
 
 # Certified lead paint inspectors & abatement firms in Bristol County, MA
 
-**8 MA-licensed listings** with an address of record in Bristol County (4 lead inspection / evaluation, 5 lead risk assessment): 5 firms and 3 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=bristol&st=ma)
+**8 MA-licensed listings** with an address of record in Bristol County (4 lead inspection / evaluation, 5 lead risk assessment): 5 firms and 3 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=bristol&st=ma)
 
 ## Which licensed lead inspectors and risk assessors are in Bristol County, MA? (5)
 

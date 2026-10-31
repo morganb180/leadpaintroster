@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/middle-village/guide/
 
 4 listings give an address in Middle Village: 2 inspection/risk-assessment and 4 abatement. Another 320 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=middle-village&st=ny) [All Middle Village listings](https://leadpaintroster.com/ny/city/middle-village/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=middle-village&st=ny) [All Middle Village listings](https://leadpaintroster.com/ny/city/middle-village/)
 
 ## What should I ask a lead inspector in Middle Village before hiring?
 

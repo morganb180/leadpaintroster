@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/master-lead-paint-inspection-ma0056
 * Email: pbinspect2000@yahoo.com
 * Address: Weymouth, MA
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0056
+Get a quote: https://leadpaintroster.com/quotes/?firm=MA0056
 
 Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0056

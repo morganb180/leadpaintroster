@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/washington/
 
 # Certified lead paint inspectors & abatement firms in Washington County, NY
 
-**2 EPA-licensed listings** with an address of record in Washington County (1 lead inspection / evaluation, 1 lead abatement): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=washington&st=ny)
+**2 EPA-licensed listings** with an address of record in Washington County (1 lead inspection / evaluation, 1 lead abatement): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=washington&st=ny)
 
 ## Where can I get a lead paint inspection in Washington County, NY? (1)
 

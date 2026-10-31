@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/nj/city/elizabeth/
 
 [**Read the Elizabeth hiring guide →**](https://leadpaintroster.com/nj/city/elizabeth/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Elizabeth](https://leadpaintroster.com/get-quotes/?city=elizabeth&st=nj)
+[How to get quotes in Elizabeth](https://leadpaintroster.com/quotes/?city=elizabeth&st=nj)
 
 ## Which certified lead paint firms are based in Elizabeth, NJ?
 

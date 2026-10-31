@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/nj/county/bergen/
 
 # Certified lead paint inspectors & abatement firms in Bergen County, NJ
 
-**28 NJ DCA-licensed listings** with an address of record in Bergen County (21 lead inspection / evaluation, 7 lead abatement): 28 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=bergen&st=nj)
+**28 NJ DCA-licensed listings** with an address of record in Bergen County (21 lead inspection / evaluation, 7 lead abatement): 28 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=bergen&st=nj)
 
 ## Where can I get a lead paint inspection in Bergen County, NJ? (21)
 

@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/auburn/guide/
 
 4 listings give an address in Auburn: 1 inspection/risk-assessment and 3 abatement. Another 0 are elsewhere in Cayuga County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=auburn&st=ny) [All Auburn listings](https://leadpaintroster.com/ny/city/auburn/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=auburn&st=ny) [All Auburn listings](https://leadpaintroster.com/ny/city/auburn/)
 
 ## How much does a lead paint inspection cost in Auburn?
 

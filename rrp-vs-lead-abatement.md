@@ -87,7 +87,7 @@ Some jobs need both certifications ([NYC HPD](https://www.nyc.gov/site/hpd/servi
 
 Compare certified firms in [New Jersey](https://leadpaintroster.com/nj/), [New York](https://leadpaintroster.com/ny/) and [Massachusetts](https://leadpaintroster.com/ma/).
 
-[Get free quotes](https://leadpaintroster.com/get-quotes/) One request to up to 3 certified pros near you.
+[Get free quotes](https://leadpaintroster.com/quotes/) One request to up to 3 certified pros near you.
 
 ## Frequently asked questions
 

@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/warren/
 
 # Certified lead paint inspectors & abatement firms in Warren County, NY
 
-**1 EPA-licensed listings** with an address of record in Warren County (1 lead inspection / evaluation): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=warren&st=ny)
+**1 EPA-licensed listings** with an address of record in Warren County (1 lead inspection / evaluation): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=warren&st=ny)
 
 ## Where can I get a lead paint inspection in Warren County, NY? (1)
 

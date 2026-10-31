@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/jl-white-management-ny1121/
 * Address: 119 Montgomery Ave, Scarsdale, NY 10583
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F267880-1 (exp. 2027-08-27)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1121
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1121
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1121

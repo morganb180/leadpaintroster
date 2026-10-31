@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/kpm-restoration-inc-ny1146/
 * Address: 5 Knabner Rd, Mechanicville, NY 12118
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F184408-2 (exp. 2029-10-22)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1146
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1146
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1146

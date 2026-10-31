@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/oswego/
 
 # Certified lead paint inspectors & abatement firms in Oswego County, NY
 
-**2 EPA-licensed listings** with an address of record in Oswego County (2 lead abatement): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=oswego&st=ny)
+**2 EPA-licensed listings** with an address of record in Oswego County (2 lead abatement): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=oswego&st=ny)
 
 ## Who does lead paint abatement in Oswego County, NY? (2)
 

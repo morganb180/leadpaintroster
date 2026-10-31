@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/new-york-city/
 
 [**Read the New York City hiring guide →**](https://leadpaintroster.com/ny/city/new-york-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in New York City](https://leadpaintroster.com/get-quotes/?city=new-york-city&st=ny)
+[How to get quotes in New York City](https://leadpaintroster.com/quotes/?city=new-york-city&st=ny)
 
 ## Which certified lead paint firms are based in New York City, NY?
 

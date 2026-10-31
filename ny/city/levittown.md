@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/levittown/
 
 [**Read the Levittown hiring guide →**](https://leadpaintroster.com/ny/city/levittown/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Levittown](https://leadpaintroster.com/get-quotes/?city=levittown&st=ny)
+[How to get quotes in Levittown](https://leadpaintroster.com/quotes/?city=levittown&st=ny)
 
 ## Which certified lead paint firms are based in Levittown, NY?
 

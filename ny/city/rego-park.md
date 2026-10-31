@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/rego-park/
 
 [**Read the Rego Park hiring guide →**](https://leadpaintroster.com/ny/city/rego-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Rego Park](https://leadpaintroster.com/get-quotes/?city=rego-park&st=ny)
+[How to get quotes in Rego Park](https://leadpaintroster.com/quotes/?city=rego-park&st=ny)
 
 ## Which certified lead paint firms are based in Rego Park, NY?
 

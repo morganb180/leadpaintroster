@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/niagara-falls/guide/
 
 8 listings give an address in Niagara Falls: 1 inspection/risk-assessment and 8 abatement. Another 9 are elsewhere in Niagara County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=niagara-falls&st=ny) [All Niagara Falls listings](https://leadpaintroster.com/ny/city/niagara-falls/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=niagara-falls&st=ny) [All Niagara Falls listings](https://leadpaintroster.com/ny/city/niagara-falls/)
 
 ## How do I verify a lead inspector's certification in Niagara Falls?
 

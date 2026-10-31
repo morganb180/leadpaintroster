@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/diesel-construction-ny-llc-ny0204/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F213219-1 (exp. 2029-07-07)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F213219-1 (exp. 2029-07-07)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0204
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0204
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0204

@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/bellerose/
 
 [**Read the Bellerose hiring guide →**](https://leadpaintroster.com/ny/city/bellerose/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Bellerose](https://leadpaintroster.com/get-quotes/?city=bellerose&st=ny)
+[How to get quotes in Bellerose](https://leadpaintroster.com/quotes/?city=bellerose&st=ny)
 
 ## Which certified lead paint firms are based in Bellerose, NY?
 

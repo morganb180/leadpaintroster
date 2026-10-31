@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/corona/
 
 [**Read the Corona hiring guide →**](https://leadpaintroster.com/ny/city/corona/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Corona](https://leadpaintroster.com/get-quotes/?city=corona&st=ny)
+[How to get quotes in Corona](https://leadpaintroster.com/quotes/?city=corona&st=ny)
 
 ## Which certified lead paint firms are based in Corona, NY?
 

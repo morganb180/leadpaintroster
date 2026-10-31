@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/big-apple-designs-and-environmental
 * Google rating: 4.9 from 85 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F175846-3 (exp. 2027-05-01)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0832
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0832
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0832

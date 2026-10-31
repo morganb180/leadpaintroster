@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/south-ozone-park/guide/
 
 7 listings give an address in South Ozone Park: 4 inspection/risk-assessment and 7 abatement. Another 317 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=south-ozone-park&st=ny) [All South Ozone Park listings](https://leadpaintroster.com/ny/city/south-ozone-park/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=south-ozone-park&st=ny) [All South Ozone Park listings](https://leadpaintroster.com/ny/city/south-ozone-park/)
 
 ## What are New York's lead paint rules?
 

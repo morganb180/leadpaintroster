@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/do-it-right-or-don-t-do-it-corp-ny0
 * Google rating: 4.6 from 10 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F327619-1 (exp. 2029-03-31)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0948
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0948
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0948

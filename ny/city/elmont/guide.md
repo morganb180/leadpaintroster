@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/elmont/guide/
 
 7 listings give an address in Elmont: 5 inspection/risk-assessment and 6 abatement. Another 143 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=elmont&st=ny) [All Elmont listings](https://leadpaintroster.com/ny/city/elmont/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=elmont&st=ny) [All Elmont listings](https://leadpaintroster.com/ny/city/elmont/)
 
 ## What are New York's lead paint rules?
 

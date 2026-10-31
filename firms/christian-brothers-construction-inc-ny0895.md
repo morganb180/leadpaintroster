@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/christian-brothers-construction-inc
 * Google rating: 3.4 from 9 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-39359-1 (exp. 2029-06-11)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0895
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0895
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0895

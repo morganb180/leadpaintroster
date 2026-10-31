@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/nj/city/lakewood/
 
 [**Read the Lakewood hiring guide →**](https://leadpaintroster.com/nj/city/lakewood/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lakewood](https://leadpaintroster.com/get-quotes/?city=lakewood&st=nj)
+[How to get quotes in Lakewood](https://leadpaintroster.com/quotes/?city=lakewood&st=nj)
 
 ## Which certified lead paint firms are based in Lakewood, NJ?
 

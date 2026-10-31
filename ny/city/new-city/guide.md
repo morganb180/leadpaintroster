@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/new-city/guide/
 
 7 listings give an address in New City: 3 inspection/risk-assessment and 6 abatement. Another 40 are elsewhere in Rockland County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=new-city&st=ny) [All New City listings](https://leadpaintroster.com/ny/city/new-city/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=new-city&st=ny) [All New City listings](https://leadpaintroster.com/ny/city/new-city/)
 
 ## What are New York's lead paint rules?
 

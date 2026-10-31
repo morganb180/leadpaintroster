@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/robert-loiselle-ma0028/
 * Address: Medford, MA
 * Google rating: 5.0 from 88 reviews (as of Oct 18, 2026)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0028
+Get a quote: https://leadpaintroster.com/quotes/?firm=MA0028
 
 Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0028

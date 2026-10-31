@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/lozier-environmental-consulting-inc
 * Google rating: 4.8 from 91 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2272-2 (exp. 2028-03-31)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0425
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0425
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0425

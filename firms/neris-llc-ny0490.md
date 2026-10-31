@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/neris-llc-ny0490/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F190849-2 (exp. 2027-06-24)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F190849-2 (exp. 2027-06-24)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0490
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0490
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0490

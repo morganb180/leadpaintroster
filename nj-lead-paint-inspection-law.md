@@ -92,7 +92,7 @@ DCA runs lead assistance programs, including the Lead Remediation and Abatement 
 
 Find certified lead evaluation firms in [New Jersey](https://leadpaintroster.com/nj/), including [Essex](https://leadpaintroster.com/nj/county/essex/), [Hudson](https://leadpaintroster.com/nj/county/hudson/), [Passaic](https://leadpaintroster.com/nj/county/passaic/), [Union](https://leadpaintroster.com/nj/county/union/) and [Camden](https://leadpaintroster.com/nj/county/camden/) counties, or read our [Newark](https://leadpaintroster.com/nj/city/newark/guide/) and [Elizabeth](https://leadpaintroster.com/nj/city/elizabeth/guide/) local guides.
 
-[Get free quotes](https://leadpaintroster.com/get-quotes/) One request to up to 3 certified pros near you.
+[Get free quotes](https://leadpaintroster.com/quotes/) One request to up to 3 certified pros near you.
 
 ## Frequently asked questions
 

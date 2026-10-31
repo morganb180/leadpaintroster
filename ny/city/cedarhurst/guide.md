@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/cedarhurst/guide/
 
 4 listings give an address in Cedarhurst: 4 inspection/risk-assessment and 2 abatement. Another 146 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=cedarhurst&st=ny) [All Cedarhurst listings](https://leadpaintroster.com/ny/city/cedarhurst/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=cedarhurst&st=ny) [All Cedarhurst listings](https://leadpaintroster.com/ny/city/cedarhurst/)
 
 ## How much does a lead paint inspection cost in Cedarhurst?
 

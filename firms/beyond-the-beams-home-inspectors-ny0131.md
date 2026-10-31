@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/beyond-the-beams-home-inspectors-ny
 * Google rating: 5.0 from 148 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F219160-2 (exp. 2027-10-10)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0131
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0131
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0131

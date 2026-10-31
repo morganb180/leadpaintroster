@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/cral-contracting-inc-ny0878/
 * Google rating: 4.7 from 29 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-26926-4 (exp. 2028-12-08)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0878
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0878
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0878

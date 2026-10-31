@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/otsego/
 
 # Certified lead paint inspectors & abatement firms in Otsego County, NY
 
-**1 EPA-licensed listings** with an address of record in Otsego County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=otsego&st=ny)
+**1 EPA-licensed listings** with an address of record in Otsego County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=otsego&st=ny)
 
 ## Who does lead paint abatement in Otsego County, NY? (1)
 

@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/cbj-environmental-llc-ma0021/
 * Email: jacobs@cbjenvironmental.com
 * Address: Hopedale, MA
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0021
+Get a quote: https://leadpaintroster.com/quotes/?firm=MA0021
 
 Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0021

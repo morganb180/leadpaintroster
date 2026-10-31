@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/ridgewood/guide/
 
 8 listings give an address in Ridgewood: 4 inspection/risk-assessment and 6 abatement. Another 316 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=ridgewood&st=ny) [All Ridgewood listings](https://leadpaintroster.com/ny/city/ridgewood/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=ridgewood&st=ny) [All Ridgewood listings](https://leadpaintroster.com/ny/city/ridgewood/)
 
 ## What should I ask a lead inspector in Ridgewood before hiring?
 

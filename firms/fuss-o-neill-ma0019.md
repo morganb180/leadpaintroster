@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/fuss-o-neill-ma0019/
 * Email: pbateman@fando.com
 * Address: Hartford, CT
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0019
+Get a quote: https://leadpaintroster.com/quotes/?firm=MA0019
 
 Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0019

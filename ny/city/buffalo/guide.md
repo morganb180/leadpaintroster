@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/buffalo/guide/
 
 17 listings give an address in Buffalo: 6 inspection/risk-assessment and 14 abatement. Another 30 are elsewhere in Erie County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=buffalo&st=ny) [All Buffalo listings](https://leadpaintroster.com/ny/city/buffalo/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=buffalo&st=ny) [All Buffalo listings](https://leadpaintroster.com/ny/city/buffalo/)
 
 ## How much does a lead paint inspection cost in Buffalo?
 

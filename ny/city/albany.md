@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/albany/
 
 [**Read the Albany hiring guide →**](https://leadpaintroster.com/ny/city/albany/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Albany](https://leadpaintroster.com/get-quotes/?city=albany&st=ny)
+[How to get quotes in Albany](https://leadpaintroster.com/quotes/?city=albany&st=ny)
 
 ## Which certified lead paint firms are based in Albany, NY?
 

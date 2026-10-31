@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/floral-park/
 
 [**Read the Floral Park hiring guide →**](https://leadpaintroster.com/ny/city/floral-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Floral Park](https://leadpaintroster.com/get-quotes/?city=floral-park&st=ny)
+[How to get quotes in Floral Park](https://leadpaintroster.com/quotes/?city=floral-park&st=ny)
 
 ## Which certified lead paint firms are based in Floral Park, NY?
 

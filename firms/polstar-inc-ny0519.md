@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/polstar-inc-ny0519/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F235650-2 (exp. 2028-08-21)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F235650-2 (exp. 2028-08-21)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0519
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0519
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0519

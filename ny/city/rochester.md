@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/rochester/
 
 [**Read the Rochester hiring guide →**](https://leadpaintroster.com/ny/city/rochester/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Rochester](https://leadpaintroster.com/get-quotes/?city=rochester&st=ny)
+[How to get quotes in Rochester](https://leadpaintroster.com/quotes/?city=rochester&st=ny)
 
 ## Which certified lead paint firms are based in Rochester, NY?
 

@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/levittown/guide/
 
 6 listings give an address in Levittown: 2 inspection/risk-assessment and 5 abatement. Another 144 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=levittown&st=ny) [All Levittown listings](https://leadpaintroster.com/ny/city/levittown/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=levittown&st=ny) [All Levittown listings](https://leadpaintroster.com/ny/city/levittown/)
 
 ## What should I ask a lead inspector in Levittown before hiring?
 

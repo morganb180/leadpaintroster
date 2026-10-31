@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/poughkeepsie/guide/
 
 6 listings give an address in Poughkeepsie: 4 inspection/risk-assessment and 4 abatement. Another 4 are elsewhere in Dutchess County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=poughkeepsie&st=ny) [All Poughkeepsie listings](https://leadpaintroster.com/ny/city/poughkeepsie/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=poughkeepsie&st=ny) [All Poughkeepsie listings](https://leadpaintroster.com/ny/city/poughkeepsie/)
 
 ## What are New York's lead paint rules?
 

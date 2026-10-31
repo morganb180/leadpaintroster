@@ -95,7 +95,7 @@ HPD's Lead Hazard Reduction and Healthy Homes Primary Prevention Program offers 
 
 Find EPA-certified inspectors and abatement firms in [Bronx](https://leadpaintroster.com/ny/county/bronx/), [Brooklyn (Kings)](https://leadpaintroster.com/ny/county/kings/), [Manhattan (New York)](https://leadpaintroster.com/ny/county/new-york/), [Queens](https://leadpaintroster.com/ny/county/queens/) and [Staten Island (Richmond)](https://leadpaintroster.com/ny/county/richmond/), or start from [New York](https://leadpaintroster.com/ny/). Outside NYC, the state's [Lead Rental Registry](https://www.health.ny.gov/environmental/lead/lead_rental_registry/) covers older rentals in 25 communities.
 
-[Get free quotes](https://leadpaintroster.com/get-quotes/) One request to up to 3 certified pros near you.
+[Get free quotes](https://leadpaintroster.com/quotes/) One request to up to 3 certified pros near you.
 
 ## Frequently asked questions
 

@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/nj/county/monmouth/
 
 # Certified lead paint inspectors & abatement firms in Monmouth County, NJ
 
-**16 NJ DCA-licensed listings** with an address of record in Monmouth County (10 lead inspection / evaluation, 6 lead abatement): 16 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=monmouth&st=nj)
+**16 NJ DCA-licensed listings** with an address of record in Monmouth County (10 lead inspection / evaluation, 6 lead abatement): 16 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=monmouth&st=nj)
 
 ## Where can I get a lead paint inspection in Monmouth County, NJ? (10)
 

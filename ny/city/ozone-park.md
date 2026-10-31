@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/ozone-park/
 
 [**Read the Ozone Park hiring guide →**](https://leadpaintroster.com/ny/city/ozone-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Ozone Park](https://leadpaintroster.com/get-quotes/?city=ozone-park&st=ny)
+[How to get quotes in Ozone Park](https://leadpaintroster.com/quotes/?city=ozone-park&st=ny)
 
 ## Which certified lead paint firms are based in Ozone Park, NY?
 

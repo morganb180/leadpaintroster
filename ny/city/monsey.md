@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/monsey/
 
 [**Read the Monsey hiring guide →**](https://leadpaintroster.com/ny/city/monsey/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Monsey](https://leadpaintroster.com/get-quotes/?city=monsey&st=ny)
+[How to get quotes in Monsey](https://leadpaintroster.com/quotes/?city=monsey&st=ny)
 
 ## Which certified lead paint firms are based in Monsey, NY?
 

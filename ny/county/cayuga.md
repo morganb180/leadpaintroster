@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/cayuga/
 
 # Certified lead paint inspectors & abatement firms in Cayuga County, NY
 
-**4 EPA-licensed listings** with an address of record in Cayuga County (1 lead inspection / evaluation, 3 lead abatement): 4 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=cayuga&st=ny)
+**4 EPA-licensed listings** with an address of record in Cayuga County (1 lead inspection / evaluation, 3 lead abatement): 4 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=cayuga&st=ny)
 
 City pages: [Auburn](https://leadpaintroster.com/ny/city/auburn/)
 

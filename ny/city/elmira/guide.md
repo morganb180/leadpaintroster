@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/elmira/guide/
 
 6 listings give an address in Elmira: 3 inspection/risk-assessment and 6 abatement. Another 0 are elsewhere in Chemung County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=elmira&st=ny) [All Elmira listings](https://leadpaintroster.com/ny/city/elmira/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=elmira&st=ny) [All Elmira listings](https://leadpaintroster.com/ny/city/elmira/)
 
 ## What are New York's lead paint rules?
 

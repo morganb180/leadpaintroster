@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/four-leaf-home-inspections-llc-nj00
 * Google rating: 4.9 from 27 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00913 (exp. 2028-03-31)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NJ0070
+Get a quote: https://leadpaintroster.com/quotes/?firm=NJ0070
 
 Source: https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NJ0070

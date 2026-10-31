@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/r-w-construction-ny-llc-ny1394/
 * Address: 72 S Broadway, Nyack, NY 10960
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F315051-1 (exp. 2028-11-19)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1394
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1394
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1394

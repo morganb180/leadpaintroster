@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/st-lawrence/
 
 # Certified lead paint inspectors & abatement firms in St. Lawrence County, NY
 
-**3 EPA-licensed listings** with an address of record in St. Lawrence County (2 lead inspection / evaluation, 2 lead abatement): 3 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=st-lawrence&st=ny)
+**3 EPA-licensed listings** with an address of record in St. Lawrence County (2 lead inspection / evaluation, 2 lead abatement): 3 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=st-lawrence&st=ny)
 
 ## Where can I get a lead paint inspection in St. Lawrence County, NY? (2)
 

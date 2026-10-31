@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/affordable-lead-inspections-ma0039/
 * Email: Affordablelead@aol.com
 * Address: Raynham, MA
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0039
+Get a quote: https://leadpaintroster.com/quotes/?firm=MA0039
 
 Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0039

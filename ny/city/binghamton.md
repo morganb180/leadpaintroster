@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/binghamton/
 
 [**Read the Binghamton hiring guide →**](https://leadpaintroster.com/ny/city/binghamton/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Binghamton](https://leadpaintroster.com/get-quotes/?city=binghamton&st=ny)
+[How to get quotes in Binghamton](https://leadpaintroster.com/quotes/?city=binghamton&st=ny)
 
 ## Which certified lead paint firms are based in Binghamton, NY?
 

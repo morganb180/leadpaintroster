@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/lackawanna/guide/
 
 4 listings give an address in Lackawanna: 0 inspection/risk-assessment and 4 abatement. Another 43 are elsewhere in Erie County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=lackawanna&st=ny) [All Lackawanna listings](https://leadpaintroster.com/ny/city/lackawanna/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=lackawanna&st=ny) [All Lackawanna listings](https://leadpaintroster.com/ny/city/lackawanna/)
 
 ## What should I ask a lead inspector in Lackawanna before hiring?
 

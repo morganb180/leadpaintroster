@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ma/county/middlesex/
 
 # Certified lead paint inspectors & abatement firms in Middlesex County, MA
 
-**18 MA-licensed listings** with an address of record in Middlesex County (12 lead inspection / evaluation, 7 lead risk assessment): 12 firms and 6 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=middlesex&st=ma)
+**18 MA-licensed listings** with an address of record in Middlesex County (12 lead inspection / evaluation, 7 lead risk assessment): 12 firms and 6 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=middlesex&st=ma)
 
 ## Which licensed lead inspectors and risk assessors are in Middlesex County, MA? (7)
 

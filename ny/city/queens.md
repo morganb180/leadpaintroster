@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/queens/
 
 [**Read the Queens hiring guide →**](https://leadpaintroster.com/ny/city/queens/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Queens](https://leadpaintroster.com/get-quotes/?city=queens&st=ny)
+[How to get quotes in Queens](https://leadpaintroster.com/quotes/?city=queens&st=ny)
 
 ## Which certified lead paint firms are based in Queens, NY?
 

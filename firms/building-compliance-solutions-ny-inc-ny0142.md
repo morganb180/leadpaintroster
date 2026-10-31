@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/building-compliance-solutions-ny-in
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295970-1 (exp. 2028-06-04)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F295970-1 (exp. 2028-06-04)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0142
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0142
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0142

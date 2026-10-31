@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/jeffrey-riklin-ma0033/
 * Email: jeffriklin@gmail.com
 * Address: Newton Upper Falls, MA
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0033
+Get a quote: https://leadpaintroster.com/quotes/?firm=MA0033
 
 Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0033

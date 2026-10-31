@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/richmond/
 
 # Certified lead paint inspectors & abatement firms in Richmond County, NY
 
-**72 EPA-licensed listings** with an address of record in Richmond County (31 lead inspection / evaluation, 62 lead abatement): 72 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=richmond&st=ny)
+**72 EPA-licensed listings** with an address of record in Richmond County (31 lead inspection / evaluation, 62 lead abatement): 72 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=richmond&st=ny)
 
 City pages: [Staten Island](https://leadpaintroster.com/ny/city/staten-island/)
 

@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/niagara-falls/
 
 [**Read the Niagara Falls hiring guide →**](https://leadpaintroster.com/ny/city/niagara-falls/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Niagara Falls](https://leadpaintroster.com/get-quotes/?city=niagara-falls&st=ny)
+[How to get quotes in Niagara Falls](https://leadpaintroster.com/quotes/?city=niagara-falls&st=ny)
 
 ## Which certified lead paint firms are based in Niagara Falls, NY?
 

@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/east-elmhurst/guide/
 
 13 listings give an address in East Elmhurst: 7 inspection/risk-assessment and 13 abatement. Another 311 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=east-elmhurst&st=ny) [All East Elmhurst listings](https://leadpaintroster.com/ny/city/east-elmhurst/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=east-elmhurst&st=ny) [All East Elmhurst listings](https://leadpaintroster.com/ny/city/east-elmhurst/)
 
 ## What are New York's lead paint rules?
 

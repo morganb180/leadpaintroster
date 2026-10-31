@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/forest-hills/
 
 [**Read the Forest Hills hiring guide →**](https://leadpaintroster.com/ny/city/forest-hills/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Forest Hills](https://leadpaintroster.com/get-quotes/?city=forest-hills&st=ny)
+[How to get quotes in Forest Hills](https://leadpaintroster.com/quotes/?city=forest-hills&st=ny)
 
 ## Which certified lead paint firms are based in Forest Hills, NY?
 

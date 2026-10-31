@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/essex/
 
 # Certified lead paint inspectors & abatement firms in Essex County, NY
 
-**1 EPA-licensed listings** with an address of record in Essex County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=essex&st=ny)
+**1 EPA-licensed listings** with an address of record in Essex County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=essex&st=ny)
 
 ## Who does lead paint abatement in Essex County, NY? (1)
 

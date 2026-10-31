@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/howard-beach/
 
 [**Read the Howard Beach hiring guide →**](https://leadpaintroster.com/ny/city/howard-beach/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Howard Beach](https://leadpaintroster.com/get-quotes/?city=howard-beach&st=ny)
+[How to get quotes in Howard Beach](https://leadpaintroster.com/quotes/?city=howard-beach&st=ny)
 
 ## Which certified lead paint firms are based in Howard Beach, NY?
 

@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/jerome-environmental-services-llc-n
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-10523-4 (exp. 2028-11-05)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-10523-4 (exp. 2028-11-05)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0359
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0359
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0359

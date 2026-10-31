@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/wayne/
 
 # Certified lead paint inspectors & abatement firms in Wayne County, NY
 
-**4 EPA-licensed listings** with an address of record in Wayne County (1 lead inspection / evaluation, 3 lead abatement): 4 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=wayne&st=ny)
+**4 EPA-licensed listings** with an address of record in Wayne County (1 lead inspection / evaluation, 3 lead abatement): 4 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=wayne&st=ny)
 
 ## Where can I get a lead paint inspection in Wayne County, NY? (1)
 

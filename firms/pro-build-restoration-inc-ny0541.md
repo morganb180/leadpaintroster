@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/pro-build-restoration-inc-ny0541/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F262537-1 (exp. 2027-04-18)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262537-1 (exp. 2027-04-18)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0541
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0541
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0541

@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/binghamton/guide/
 
 7 listings give an address in Binghamton: 3 inspection/risk-assessment and 5 abatement. Another 4 are elsewhere in Broome County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=binghamton&st=ny) [All Binghamton listings](https://leadpaintroster.com/ny/city/binghamton/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=binghamton&st=ny) [All Binghamton listings](https://leadpaintroster.com/ny/city/binghamton/)
 
 ## How do I verify a lead inspector's certification in Binghamton?
 

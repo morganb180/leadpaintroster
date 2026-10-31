@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/bronx/
 
 [**Read the Bronx hiring guide →**](https://leadpaintroster.com/ny/city/bronx/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Bronx](https://leadpaintroster.com/get-quotes/?city=bronx&st=ny)
+[How to get quotes in Bronx](https://leadpaintroster.com/quotes/?city=bronx&st=ny)
 
 ## Which certified lead paint firms are based in Bronx, NY?
 

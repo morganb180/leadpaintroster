@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/richmond-hill/guide/
 
 11 listings give an address in Richmond Hill: 4 inspection/risk-assessment and 10 abatement. Another 313 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=richmond-hill&st=ny) [All Richmond Hill listings](https://leadpaintroster.com/ny/city/richmond-hill/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=richmond-hill&st=ny) [All Richmond Hill listings](https://leadpaintroster.com/ny/city/richmond-hill/)
 
 ## How do I verify a lead inspector's certification in Richmond Hill?
 

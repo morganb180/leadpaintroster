@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/chemung/
 
 # Certified lead paint inspectors & abatement firms in Chemung County, NY
 
-**6 EPA-licensed listings** with an address of record in Chemung County (3 lead inspection / evaluation, 6 lead abatement): 6 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=chemung&st=ny)
+**6 EPA-licensed listings** with an address of record in Chemung County (3 lead inspection / evaluation, 6 lead abatement): 6 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=chemung&st=ny)
 
 City pages: [Elmira](https://leadpaintroster.com/ny/city/elmira/)
 

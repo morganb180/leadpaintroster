@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/rockland/
 
 # Certified lead paint inspectors & abatement firms in Rockland County, NY
 
-**47 EPA-licensed listings** with an address of record in Rockland County (23 lead inspection / evaluation, 40 lead abatement): 47 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=rockland&st=ny)
+**47 EPA-licensed listings** with an address of record in Rockland County (23 lead inspection / evaluation, 40 lead abatement): 47 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=rockland&st=ny)
 
 City pages: [Airmont](https://leadpaintroster.com/ny/city/airmont/) · [Monsey](https://leadpaintroster.com/ny/city/monsey/) · [New City](https://leadpaintroster.com/ny/city/new-city/) · [Spring Valley](https://leadpaintroster.com/ny/city/spring-valley/) · [Suffern](https://leadpaintroster.com/ny/city/suffern/)
 

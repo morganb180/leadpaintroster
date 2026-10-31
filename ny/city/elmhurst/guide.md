@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/elmhurst/guide/
 
 5 listings give an address in Elmhurst: 2 inspection/risk-assessment and 5 abatement. Another 319 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=elmhurst&st=ny) [All Elmhurst listings](https://leadpaintroster.com/ny/city/elmhurst/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=elmhurst&st=ny) [All Elmhurst listings](https://leadpaintroster.com/ny/city/elmhurst/)
 
 ## What should I ask a lead inspector in Elmhurst before hiring?
 

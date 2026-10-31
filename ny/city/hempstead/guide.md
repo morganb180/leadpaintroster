@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/hempstead/guide/
 
 4 listings give an address in Hempstead: 3 inspection/risk-assessment and 3 abatement. Another 146 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=hempstead&st=ny) [All Hempstead listings](https://leadpaintroster.com/ny/city/hempstead/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=hempstead&st=ny) [All Hempstead listings](https://leadpaintroster.com/ny/city/hempstead/)
 
 ## How much does a lead paint inspection cost in Hempstead?
 

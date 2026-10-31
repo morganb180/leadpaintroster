@@ -73,7 +73,7 @@ HUD's Office of Lead Hazard Control and Healthy Homes funds lead hazard control 
 
 Paying out of pocket? See [lead inspection costs](https://leadpaintroster.com/lead-inspection-cost/) and compare quotes from certified pros in [New Jersey](https://leadpaintroster.com/nj/), [New York](https://leadpaintroster.com/ny/) or [Massachusetts](https://leadpaintroster.com/ma/).
 
-[Get free quotes](https://leadpaintroster.com/get-quotes/) One request to up to 3 certified pros near you.
+[Get free quotes](https://leadpaintroster.com/quotes/) One request to up to 3 certified pros near you.
 
 ## Frequently asked questions
 

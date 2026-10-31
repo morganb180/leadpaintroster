@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/delaware/
 
 # Certified lead paint inspectors & abatement firms in Delaware County, NY
 
-**5 EPA-licensed listings** with an address of record in Delaware County (5 lead abatement): 5 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=delaware&st=ny)
+**5 EPA-licensed listings** with an address of record in Delaware County (5 lead abatement): 5 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=delaware&st=ny)
 
 ## Who does lead paint abatement in Delaware County, NY? (5)
 

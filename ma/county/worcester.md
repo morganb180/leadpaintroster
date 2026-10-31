@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ma/county/worcester/
 
 # Certified lead paint inspectors & abatement firms in Worcester County, MA
 
-**8 MA-licensed listings** with an address of record in Worcester County (5 lead inspection / evaluation, 3 lead risk assessment): 7 firms and 1 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=worcester&st=ma)
+**8 MA-licensed listings** with an address of record in Worcester County (5 lead inspection / evaluation, 3 lead risk assessment): 7 firms and 1 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=worcester&st=ma)
 
 ## Which licensed lead inspectors and risk assessors are in Worcester County, MA? (3)
 

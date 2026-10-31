@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/nj/city/union/
 
 [**Read the Union hiring guide →**](https://leadpaintroster.com/nj/city/union/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Union](https://leadpaintroster.com/get-quotes/?city=union&st=nj)
+[How to get quotes in Union](https://leadpaintroster.com/quotes/?city=union&st=nj)
 
 ## Which certified lead paint firms are based in Union, NJ?
 

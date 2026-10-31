@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/milro-services-inc-ny1256/
 * Address: 41 Hanse Ave, Freeport, NY 11520
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-39421-4 (exp. 2028-11-08)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1256
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1256
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1256

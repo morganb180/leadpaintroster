@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/queens/guide/
 
 15 listings give an address in Queens: 10 inspection/risk-assessment and 12 abatement. Another 310 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=queens&st=ny) [All Queens listings](https://leadpaintroster.com/ny/city/queens/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=queens&st=ny) [All Queens listings](https://leadpaintroster.com/ny/city/queens/)
 
 ## What are New York's lead paint rules?
 

@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/ec-home-renovations-ny0965/
 * Google rating: 3.4 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F289361-1 (exp. 2028-04-08)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0965
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0965
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0965

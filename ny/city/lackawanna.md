@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/lackawanna/
 
 [**Read the Lackawanna hiring guide →**](https://leadpaintroster.com/ny/city/lackawanna/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lackawanna](https://leadpaintroster.com/get-quotes/?city=lackawanna&st=ny)
+[How to get quotes in Lackawanna](https://leadpaintroster.com/quotes/?city=lackawanna&st=ny)
 
 ## Which certified lead paint firms are based in Lackawanna, NY?
 

@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/whitestone/
 
 [**Read the Whitestone hiring guide →**](https://leadpaintroster.com/ny/city/whitestone/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Whitestone](https://leadpaintroster.com/get-quotes/?city=whitestone&st=ny)
+[How to get quotes in Whitestone](https://leadpaintroster.com/quotes/?city=whitestone&st=ny)
 
 ## Which certified lead paint firms are based in Whitestone, NY?
 

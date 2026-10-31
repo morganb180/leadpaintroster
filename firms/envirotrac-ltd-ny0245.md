@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/envirotrac-ltd-ny0245/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-74249-3 (exp. 2027-07-17)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-74249-3 (exp. 2027-07-17)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0245
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0245
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0245

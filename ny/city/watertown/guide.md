@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/watertown/guide/
 
 4 listings give an address in Watertown: 0 inspection/risk-assessment and 4 abatement. Another 4 are elsewhere in Jefferson County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=watertown&st=ny) [All Watertown listings](https://leadpaintroster.com/ny/city/watertown/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=watertown&st=ny) [All Watertown listings](https://leadpaintroster.com/ny/city/watertown/)
 
 ## What are New York's lead paint rules?
 

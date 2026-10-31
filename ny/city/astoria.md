@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/astoria/
 
 [**Read the Astoria hiring guide →**](https://leadpaintroster.com/ny/city/astoria/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Astoria](https://leadpaintroster.com/get-quotes/?city=astoria&st=ny)
+[How to get quotes in Astoria](https://leadpaintroster.com/quotes/?city=astoria&st=ny)
 
 ## Which certified lead paint firms are based in Astoria, NY?
 

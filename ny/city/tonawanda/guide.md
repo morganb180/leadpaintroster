@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/tonawanda/guide/
 
 6 listings give an address in Tonawanda: 1 inspection/risk-assessment and 6 abatement. Another 41 are elsewhere in Erie County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=tonawanda&st=ny) [All Tonawanda listings](https://leadpaintroster.com/ny/city/tonawanda/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=tonawanda&st=ny) [All Tonawanda listings](https://leadpaintroster.com/ny/city/tonawanda/)
 
 ## What should I ask a lead inspector in Tonawanda before hiring?
 

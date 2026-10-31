@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/jackson-heights/
 
 [**Read the Jackson Heights hiring guide →**](https://leadpaintroster.com/ny/city/jackson-heights/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Jackson Heights](https://leadpaintroster.com/get-quotes/?city=jackson-heights&st=ny)
+[How to get quotes in Jackson Heights](https://leadpaintroster.com/quotes/?city=jackson-heights&st=ny)
 
 ## Which certified lead paint firms are based in Jackson Heights, NY?
 

@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/yorktown-heights/guide/
 
 5 listings give an address in Yorktown Heights: 3 inspection/risk-assessment and 3 abatement. Another 118 are elsewhere in Westchester County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=yorktown-heights&st=ny) [All Yorktown Heights listings](https://leadpaintroster.com/ny/city/yorktown-heights/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=yorktown-heights&st=ny) [All Yorktown Heights listings](https://leadpaintroster.com/ny/city/yorktown-heights/)
 
 ## How do I verify a lead inspector's certification in Yorktown Heights?
 

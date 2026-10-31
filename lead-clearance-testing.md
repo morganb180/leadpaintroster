@@ -76,7 +76,7 @@ Every surface represented by a failed sample must be recleaned or treated again 
 
 Find independent inspectors and risk assessors in [New Jersey](https://leadpaintroster.com/nj/), [New York](https://leadpaintroster.com/ny/) and [Massachusetts](https://leadpaintroster.com/ma/), and read [RRP vs abatement](https://leadpaintroster.com/rrp-vs-lead-abatement/).
 
-[Get free quotes](https://leadpaintroster.com/get-quotes/) One request to up to 3 certified pros near you.
+[Get free quotes](https://leadpaintroster.com/quotes/) One request to up to 3 certified pros near you.
 
 ## Frequently asked questions
 

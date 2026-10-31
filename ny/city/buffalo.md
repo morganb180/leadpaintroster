@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/buffalo/
 
 [**Read the Buffalo hiring guide →**](https://leadpaintroster.com/ny/city/buffalo/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Buffalo](https://leadpaintroster.com/get-quotes/?city=buffalo&st=ny)
+[How to get quotes in Buffalo](https://leadpaintroster.com/quotes/?city=buffalo&st=ny)
 
 ## Which certified lead paint firms are based in Buffalo, NY?
 

@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/ulster/
 
 # Certified lead paint inspectors & abatement firms in Ulster County, NY
 
-**10 EPA-licensed listings** with an address of record in Ulster County (2 lead inspection / evaluation, 10 lead abatement): 10 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=ulster&st=ny)
+**10 EPA-licensed listings** with an address of record in Ulster County (2 lead inspection / evaluation, 10 lead abatement): 10 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=ulster&st=ny)
 
 ## Where can I get a lead paint inspection in Ulster County, NY? (2)
 

@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/new-york/
 
 # Certified lead paint inspectors & abatement firms in New York County, NY
 
-**120 EPA-licensed listings** with an address of record in New York County (63 lead inspection / evaluation, 99 lead abatement): 120 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=new-york&st=ny)
+**120 EPA-licensed listings** with an address of record in New York County (63 lead inspection / evaluation, 99 lead abatement): 120 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=new-york&st=ny)
 
 City pages: [New York](https://leadpaintroster.com/ny/city/new-york/) · [New York City](https://leadpaintroster.com/ny/city/new-york-city/)
 

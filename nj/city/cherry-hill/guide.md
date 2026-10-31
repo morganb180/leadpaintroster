@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/nj/city/cherry-hill/guide/
 
 5 listings give an address in Cherry Hill: 4 inspection/risk-assessment and 1 abatement. Another 8 are elsewhere in Camden County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=cherry-hill&st=nj) [All Cherry Hill listings](https://leadpaintroster.com/nj/city/cherry-hill/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=cherry-hill&st=nj) [All Cherry Hill listings](https://leadpaintroster.com/nj/city/cherry-hill/)
 
 ## What are New Jersey's lead paint rules?
 

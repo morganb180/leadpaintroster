@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/new-hyde-park/guide/
 
 7 listings give an address in New Hyde Park: 3 inspection/risk-assessment and 6 abatement. Another 143 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=new-hyde-park&st=ny) [All New Hyde Park listings](https://leadpaintroster.com/ny/city/new-hyde-park/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=new-hyde-park&st=ny) [All New Hyde Park listings](https://leadpaintroster.com/ny/city/new-hyde-park/)
 
 ## What should I ask a lead inspector in New Hyde Park before hiring?
 

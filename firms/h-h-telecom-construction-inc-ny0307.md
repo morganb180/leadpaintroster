@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/h-h-telecom-construction-inc-ny0307
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F238629-2 (exp. 2029-01-19)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F238629-2 (exp. 2029-01-19)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0307
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0307
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0307

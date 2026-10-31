@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/mount-kisco/guide/
 
 5 listings give an address in Mount Kisco: 3 inspection/risk-assessment and 5 abatement. Another 118 are elsewhere in Westchester County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=mount-kisco&st=ny) [All Mount Kisco listings](https://leadpaintroster.com/ny/city/mount-kisco/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=mount-kisco&st=ny) [All Mount Kisco listings](https://leadpaintroster.com/ny/city/mount-kisco/)
 
 ## What should I ask a lead inspector in Mount Kisco before hiring?
 

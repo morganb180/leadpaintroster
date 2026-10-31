@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/finkelstein-timberger-re-ny1017/
 * Google rating: 2.3 from 56 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F206564-2 (exp. 2027-12-07)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1017
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1017
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1017

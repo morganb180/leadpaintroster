@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/lead-safe-inspections-ma0042/
 * Email: jack.mason1@gmail.com
 * Address: Somerville, MA
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0042
+Get a quote: https://leadpaintroster.com/quotes/?firm=MA0042
 
 Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0042

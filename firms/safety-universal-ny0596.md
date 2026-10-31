@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/safety-universal-ny0596/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F165073-4 (exp. 2028-08-25)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F165073-4 (exp. 2028-08-25)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0596
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0596
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0596

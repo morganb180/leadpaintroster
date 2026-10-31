@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/ronkonkoma/guide/
 
 5 listings give an address in Ronkonkoma: 2 inspection/risk-assessment and 4 abatement. Another 61 are elsewhere in Suffolk County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=ronkonkoma&st=ny) [All Ronkonkoma listings](https://leadpaintroster.com/ny/city/ronkonkoma/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=ronkonkoma&st=ny) [All Ronkonkoma listings](https://leadpaintroster.com/ny/city/ronkonkoma/)
 
 ## How much does a lead paint inspection cost in Ronkonkoma?
 

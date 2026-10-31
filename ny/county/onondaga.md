@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/onondaga/
 
 # Certified lead paint inspectors & abatement firms in Onondaga County, NY
 
-**38 EPA-licensed listings** with an address of record in Onondaga County (13 lead inspection / evaluation, 30 lead abatement): 38 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=onondaga&st=ny)
+**38 EPA-licensed listings** with an address of record in Onondaga County (13 lead inspection / evaluation, 30 lead abatement): 38 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=onondaga&st=ny)
 
 City pages: [Syracuse](https://leadpaintroster.com/ny/city/syracuse/)
 

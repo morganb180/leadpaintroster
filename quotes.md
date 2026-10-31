@@ -1,14 +1,14 @@
 ---
 title: "Get free quotes from certified lead pros | Lead Paint Roster"
 description: "How to get 2-3 written quotes from certified lead inspectors near you, using the free Lead Paint Roster listings: who to call, what to ask and what it costs."
-canonical: https://leadpaintroster.com/get-quotes/
+canonical: https://leadpaintroster.com/quotes/
 ---
 
 # Get free quotes from up to 3 certified lead pros
 
 Tell us what you need and where. We send your request to up to 3 certified lead inspectors, risk assessors or abatement firms nearest you that are licensed for your state (NJ DCA, US EPA in New York, or Massachusetts), and email you their names. They contact you directly. It's free, and there's no obligation.
 
-Use the form at https://leadpaintroster.com/get-quotes/ (needs JavaScript or a normal form post).
+Use the form at https://leadpaintroster.com/quotes/ (needs JavaScript or a normal form post).
 
 ## How it works
 

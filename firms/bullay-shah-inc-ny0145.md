@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/bullay-shah-inc-ny0145/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F244188-2 (exp. 2029-01-24)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F244188-2 (exp. 2029-01-24)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0145
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0145
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0145

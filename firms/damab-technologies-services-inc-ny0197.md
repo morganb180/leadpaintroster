@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/damab-technologies-services-inc-ny0
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F238768-2 (exp. 2028-08-12)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F238768-2 (exp. 2028-08-12)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0197
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0197
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0197

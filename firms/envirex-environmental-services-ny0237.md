@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/envirex-environmental-services-ny02
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F346509-1 (exp. 2029-09-09)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F346509-1 (exp. 2029-09-09)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0237
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0237
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0237

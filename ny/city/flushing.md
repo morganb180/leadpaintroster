@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/flushing/
 
 [**Read the Flushing hiring guide →**](https://leadpaintroster.com/ny/city/flushing/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Flushing](https://leadpaintroster.com/get-quotes/?city=flushing&st=ny)
+[How to get quotes in Flushing](https://leadpaintroster.com/quotes/?city=flushing&st=ny)
 
 ## Which certified lead paint firms are based in Flushing, NY?
 

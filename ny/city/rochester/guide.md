@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/rochester/guide/
 
 35 listings give an address in Rochester: 12 inspection/risk-assessment and 27 abatement. Another 10 are elsewhere in Monroe County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=rochester&st=ny) [All Rochester listings](https://leadpaintroster.com/ny/city/rochester/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=rochester&st=ny) [All Rochester listings](https://leadpaintroster.com/ny/city/rochester/)
 
 ## How do I verify a lead inspector's certification in Rochester?
 

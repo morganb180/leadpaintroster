@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/poughkeepsie/
 
 [**Read the Poughkeepsie hiring guide →**](https://leadpaintroster.com/ny/city/poughkeepsie/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Poughkeepsie](https://leadpaintroster.com/get-quotes/?city=poughkeepsie&st=ny)
+[How to get quotes in Poughkeepsie](https://leadpaintroster.com/quotes/?city=poughkeepsie&st=ny)
 
 ## Which certified lead paint firms are based in Poughkeepsie, NY?
 

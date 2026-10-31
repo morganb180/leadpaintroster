@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/syracuse/guide/
 
 21 listings give an address in Syracuse: 7 inspection/risk-assessment and 16 abatement. Another 17 are elsewhere in Onondaga County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=syracuse&st=ny) [All Syracuse listings](https://leadpaintroster.com/ny/city/syracuse/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=syracuse&st=ny) [All Syracuse listings](https://leadpaintroster.com/ny/city/syracuse/)
 
 ## What should I ask a lead inspector in Syracuse before hiring?
 

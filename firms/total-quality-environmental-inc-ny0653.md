@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/total-quality-environmental-inc-ny0
 * Address: 116 Bay 19th St, Brooklyn, NY 11214
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F196630-3 (exp. 2028-05-13)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0653
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0653
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0653

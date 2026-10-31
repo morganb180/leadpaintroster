@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/vanasse-hangen-brustlin-inc-nj0176/
 * Google rating: 2.0 from 2 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00699 (exp. 2027-11-30)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NJ0176
+Get a quote: https://leadpaintroster.com/quotes/?firm=NJ0176
 
 Source: https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval_contrs.pdf, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NJ0176

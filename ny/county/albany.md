@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/albany/
 
 # Certified lead paint inspectors & abatement firms in Albany County, NY
 
-**29 EPA-licensed listings** with an address of record in Albany County (13 lead inspection / evaluation, 21 lead abatement): 29 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=albany&st=ny)
+**29 EPA-licensed listings** with an address of record in Albany County (13 lead inspection / evaluation, 21 lead abatement): 29 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=albany&st=ny)
 
 City pages: [Albany](https://leadpaintroster.com/ny/city/albany/)
 

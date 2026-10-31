@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/northshore-industries-inc-ny1307/
 * Google rating: 4.9 from 39 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F222349-2 (exp. 2028-02-05)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1307
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1307
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1307

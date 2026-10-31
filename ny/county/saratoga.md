@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/saratoga/
 
 # Certified lead paint inspectors & abatement firms in Saratoga County, NY
 
-**4 EPA-licensed listings** with an address of record in Saratoga County (1 lead inspection / evaluation, 4 lead abatement): 4 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=saratoga&st=ny)
+**4 EPA-licensed listings** with an address of record in Saratoga County (1 lead inspection / evaluation, 4 lead abatement): 4 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=saratoga&st=ny)
 
 ## Where can I get a lead paint inspection in Saratoga County, NY? (1)
 

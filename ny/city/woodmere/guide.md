@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/woodmere/guide/
 
 4 listings give an address in Woodmere: 3 inspection/risk-assessment and 2 abatement. Another 146 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=woodmere&st=ny) [All Woodmere listings](https://leadpaintroster.com/ny/city/woodmere/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=woodmere&st=ny) [All Woodmere listings](https://leadpaintroster.com/ny/city/woodmere/)
 
 ## What should I ask a lead inspector in Woodmere before hiring?
 

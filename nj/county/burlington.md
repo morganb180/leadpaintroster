@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/nj/county/burlington/
 
 # Certified lead paint inspectors & abatement firms in Burlington County, NJ
 
-**13 NJ DCA-licensed listings** with an address of record in Burlington County (10 lead inspection / evaluation, 3 lead abatement): 13 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=burlington&st=nj)
+**13 NJ DCA-licensed listings** with an address of record in Burlington County (10 lead inspection / evaluation, 3 lead abatement): 13 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=burlington&st=nj)
 
 ## Where can I get a lead paint inspection in Burlington County, NJ? (10)
 

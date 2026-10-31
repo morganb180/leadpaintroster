@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/little-neck/guide/
 
 5 listings give an address in Little Neck: 2 inspection/risk-assessment and 3 abatement. Another 319 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=little-neck&st=ny) [All Little Neck listings](https://leadpaintroster.com/ny/city/little-neck/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=little-neck&st=ny) [All Little Neck listings](https://leadpaintroster.com/ny/city/little-neck/)
 
 ## What are New York's lead paint rules?
 

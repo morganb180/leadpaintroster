@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/great-neck/guide/
 
 15 listings give an address in Great Neck: 8 inspection/risk-assessment and 12 abatement. Another 136 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=great-neck&st=ny) [All Great Neck listings](https://leadpaintroster.com/ny/city/great-neck/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=great-neck&st=ny) [All Great Neck listings](https://leadpaintroster.com/ny/city/great-neck/)
 
 ## How much does a lead paint inspection cost in Great Neck?
 

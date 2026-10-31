@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/roslyn-heights/
 
 [**Read the Roslyn Heights hiring guide →**](https://leadpaintroster.com/ny/city/roslyn-heights/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Roslyn Heights](https://leadpaintroster.com/get-quotes/?city=roslyn-heights&st=ny)
+[How to get quotes in Roslyn Heights](https://leadpaintroster.com/quotes/?city=roslyn-heights&st=ny)
 
 ## Which certified lead paint firms are based in Roslyn Heights, NY?
 

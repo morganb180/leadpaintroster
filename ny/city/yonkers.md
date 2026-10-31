@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/yonkers/
 
 [**Read the Yonkers hiring guide →**](https://leadpaintroster.com/ny/city/yonkers/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Yonkers](https://leadpaintroster.com/get-quotes/?city=yonkers&st=ny)
+[How to get quotes in Yonkers](https://leadpaintroster.com/quotes/?city=yonkers&st=ny)
 
 ## Which certified lead paint firms are based in Yonkers, NY?
 

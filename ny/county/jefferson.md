@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/jefferson/
 
 # Certified lead paint inspectors & abatement firms in Jefferson County, NY
 
-**8 EPA-licensed listings** with an address of record in Jefferson County (2 lead inspection / evaluation, 7 lead abatement): 8 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=jefferson&st=ny)
+**8 EPA-licensed listings** with an address of record in Jefferson County (2 lead inspection / evaluation, 7 lead abatement): 8 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=jefferson&st=ny)
 
 City pages: [Watertown](https://leadpaintroster.com/ny/city/watertown/)
 

@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/dutchess/
 
 # Certified lead paint inspectors & abatement firms in Dutchess County, NY
 
-**10 EPA-licensed listings** with an address of record in Dutchess County (6 lead inspection / evaluation, 8 lead abatement): 10 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=dutchess&st=ny)
+**10 EPA-licensed listings** with an address of record in Dutchess County (6 lead inspection / evaluation, 8 lead abatement): 10 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=dutchess&st=ny)
 
 City pages: [Poughkeepsie](https://leadpaintroster.com/ny/city/poughkeepsie/)
 

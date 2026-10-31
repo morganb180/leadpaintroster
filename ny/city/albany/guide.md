@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/albany/guide/
 
 22 listings give an address in Albany: 12 inspection/risk-assessment and 14 abatement. Another 7 are elsewhere in Albany County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=albany&st=ny) [All Albany listings](https://leadpaintroster.com/ny/city/albany/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=albany&st=ny) [All Albany listings](https://leadpaintroster.com/ny/city/albany/)
 
 ## What are New York's lead paint rules?
 

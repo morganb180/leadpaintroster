@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/frontier-management-and-development
 * Google rating: 4.4 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F215476-1 (exp. 2029-05-11)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1028
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1028
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1028

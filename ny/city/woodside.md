@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/woodside/
 
 [**Read the Woodside hiring guide →**](https://leadpaintroster.com/ny/city/woodside/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Woodside](https://leadpaintroster.com/get-quotes/?city=woodside&st=ny)
+[How to get quotes in Woodside](https://leadpaintroster.com/quotes/?city=woodside&st=ny)
 
 ## Which certified lead paint firms are based in Woodside, NY?
 

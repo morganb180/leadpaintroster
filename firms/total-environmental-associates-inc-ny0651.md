@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/total-environmental-associates-inc-
 * Google rating: 1.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-126681-2 (exp. 2029-04-19)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0651
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0651
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0651

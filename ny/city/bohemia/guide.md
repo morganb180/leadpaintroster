@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/bohemia/guide/
 
 4 listings give an address in Bohemia: 1 inspection/risk-assessment and 3 abatement. Another 62 are elsewhere in Suffolk County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=bohemia&st=ny) [All Bohemia listings](https://leadpaintroster.com/ny/city/bohemia/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=bohemia&st=ny) [All Bohemia listings](https://leadpaintroster.com/ny/city/bohemia/)
 
 ## What are New York's lead paint rules?
 

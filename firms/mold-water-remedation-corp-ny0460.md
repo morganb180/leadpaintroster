@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/mold-water-remedation-corp-ny0460/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F263343-1 (exp. 2027-05-02)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F263343-1 (exp. 2027-05-02)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0460
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0460
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0460

@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/orleans/
 
 # Certified lead paint inspectors & abatement firms in Orleans County, NY
 
-**1 EPA-licensed listings** with an address of record in Orleans County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=orleans&st=ny)
+**1 EPA-licensed listings** with an address of record in Orleans County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=orleans&st=ny)
 
 ## Who does lead paint abatement in Orleans County, NY? (1)
 

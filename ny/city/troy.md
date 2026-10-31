@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/troy/
 
 [**Read the Troy hiring guide →**](https://leadpaintroster.com/ny/city/troy/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Troy](https://leadpaintroster.com/get-quotes/?city=troy&st=ny)
+[How to get quotes in Troy](https://leadpaintroster.com/quotes/?city=troy&st=ny)
 
 ## Which certified lead paint firms are based in Troy, NY?
 

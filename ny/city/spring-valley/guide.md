@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/spring-valley/guide/
 
 5 listings give an address in Spring Valley: 3 inspection/risk-assessment and 3 abatement. Another 42 are elsewhere in Rockland County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=spring-valley&st=ny) [All Spring Valley listings](https://leadpaintroster.com/ny/city/spring-valley/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=spring-valley&st=ny) [All Spring Valley listings](https://leadpaintroster.com/ny/city/spring-valley/)
 
 ## How do I verify a lead inspector's certification in Spring Valley?
 

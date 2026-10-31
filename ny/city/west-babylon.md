@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/west-babylon/
 
 [**Read the West Babylon hiring guide →**](https://leadpaintroster.com/ny/city/west-babylon/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in West Babylon](https://leadpaintroster.com/get-quotes/?city=west-babylon&st=ny)
+[How to get quotes in West Babylon](https://leadpaintroster.com/quotes/?city=west-babylon&st=ny)
 
 ## Which certified lead paint firms are based in West Babylon, NY?
 

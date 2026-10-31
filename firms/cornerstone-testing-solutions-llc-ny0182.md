@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/cornerstone-testing-solutions-llc-n
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F285833-1 (exp. 2028-02-27)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F285833-1 (exp. 2028-02-27)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0182
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0182
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0182

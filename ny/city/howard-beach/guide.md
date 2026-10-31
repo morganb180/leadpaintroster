@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/howard-beach/guide/
 
 5 listings give an address in Howard Beach: 2 inspection/risk-assessment and 4 abatement. Another 319 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=howard-beach&st=ny) [All Howard Beach listings](https://leadpaintroster.com/ny/city/howard-beach/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=howard-beach&st=ny) [All Howard Beach listings](https://leadpaintroster.com/ny/city/howard-beach/)
 
 ## What should I ask a lead inspector in Howard Beach before hiring?
 

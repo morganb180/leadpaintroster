@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/west-seneca/
 
 [**Read the West Seneca hiring guide →**](https://leadpaintroster.com/ny/city/west-seneca/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in West Seneca](https://leadpaintroster.com/get-quotes/?city=west-seneca&st=ny)
+[How to get quotes in West Seneca](https://leadpaintroster.com/quotes/?city=west-seneca&st=ny)
 
 ## Which certified lead paint firms are based in West Seneca, NY?
 

@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/total-inspection-pros-ny0652/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F285105-1 (exp. 2028-02-20)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F285105-1 (exp. 2028-02-20)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0652
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0652
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0652

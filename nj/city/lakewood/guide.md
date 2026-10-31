@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/nj/city/lakewood/guide/
 
 5 listings give an address in Lakewood: 5 inspection/risk-assessment and 2 abatement. Another 5 are elsewhere in Ocean County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=lakewood&st=nj) [All Lakewood listings](https://leadpaintroster.com/nj/city/lakewood/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=lakewood&st=nj) [All Lakewood listings](https://leadpaintroster.com/nj/city/lakewood/)
 
 ## How do I verify a lead inspector's certification in Lakewood?
 

@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/westbury/guide/
 
 7 listings give an address in Westbury: 3 inspection/risk-assessment and 5 abatement. Another 143 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=westbury&st=ny) [All Westbury listings](https://leadpaintroster.com/ny/city/westbury/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=westbury&st=ny) [All Westbury listings](https://leadpaintroster.com/ny/city/westbury/)
 
 ## How much does a lead paint inspection cost in Westbury?
 

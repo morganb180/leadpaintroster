@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/melville/guide/
 
 7 listings give an address in Melville: 2 inspection/risk-assessment and 6 abatement. Another 59 are elsewhere in Suffolk County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=melville&st=ny) [All Melville listings](https://leadpaintroster.com/ny/city/melville/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=melville&st=ny) [All Melville listings](https://leadpaintroster.com/ny/city/melville/)
 
 ## How much does a lead paint inspection cost in Melville?
 

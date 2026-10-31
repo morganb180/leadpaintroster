@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/yonkers/guide/
 
 35 listings give an address in Yonkers: 10 inspection/risk-assessment and 33 abatement. Another 88 are elsewhere in Westchester County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=yonkers&st=ny) [All Yonkers listings](https://leadpaintroster.com/ny/city/yonkers/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=yonkers&st=ny) [All Yonkers listings](https://leadpaintroster.com/ny/city/yonkers/)
 
 ## What are New York's lead paint rules?
 

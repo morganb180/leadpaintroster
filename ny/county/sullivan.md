@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/sullivan/
 
 # Certified lead paint inspectors & abatement firms in Sullivan County, NY
 
-**2 EPA-licensed listings** with an address of record in Sullivan County (2 lead abatement): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=sullivan&st=ny)
+**2 EPA-licensed listings** with an address of record in Sullivan County (2 lead abatement): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=sullivan&st=ny)
 
 ## Who does lead paint abatement in Sullivan County, NY? (2)
 

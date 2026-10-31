@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/clinton/
 
 # Certified lead paint inspectors & abatement firms in Clinton County, NY
 
-**2 EPA-licensed listings** with an address of record in Clinton County (2 lead abatement): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=clinton&st=ny)
+**2 EPA-licensed listings** with an address of record in Clinton County (2 lead abatement): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=clinton&st=ny)
 
 ## Who does lead paint abatement in Clinton County, NY? (2)
 

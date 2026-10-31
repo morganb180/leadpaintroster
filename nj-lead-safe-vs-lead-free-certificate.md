@@ -67,7 +67,7 @@ At tenant turnover, give the tenant and the municipality evidence of the certifi
 
 Find DCA-certified lead evaluation firms across [New Jersey](https://leadpaintroster.com/nj/), including [Bergen](https://leadpaintroster.com/nj/county/bergen/), [Essex](https://leadpaintroster.com/nj/county/essex/), [Hudson](https://leadpaintroster.com/nj/county/hudson/), [Middlesex](https://leadpaintroster.com/nj/county/middlesex/) and [Union](https://leadpaintroster.com/nj/county/union/) counties.
 
-[Get free quotes](https://leadpaintroster.com/get-quotes/) One request to up to 3 certified pros near you.
+[Get free quotes](https://leadpaintroster.com/quotes/) One request to up to 3 certified pros near you.
 
 ## Frequently asked questions
 

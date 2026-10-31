@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/plainview/guide/
 
 5 listings give an address in Plainview: 2 inspection/risk-assessment and 5 abatement. Another 145 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=plainview&st=ny) [All Plainview listings](https://leadpaintroster.com/ny/city/plainview/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=plainview&st=ny) [All Plainview listings](https://leadpaintroster.com/ny/city/plainview/)
 
 ## What should I ask a lead inspector in Plainview before hiring?
 

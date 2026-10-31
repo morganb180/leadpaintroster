@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/alpine-painting-sandblasting-nj0191
 * Address: 17 Florida Ave, Paterson, NJ 07503
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00084 (exp. 2027-12-31)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NJ0191
+Get a quote: https://leadpaintroster.com/quotes/?firm=NJ0191
 
 Source: https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat_c.pdf, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NJ0191

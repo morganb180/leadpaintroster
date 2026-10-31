@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/putnam/
 
 # Certified lead paint inspectors & abatement firms in Putnam County, NY
 
-**7 EPA-licensed listings** with an address of record in Putnam County (3 lead inspection / evaluation, 5 lead abatement): 7 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=putnam&st=ny)
+**7 EPA-licensed listings** with an address of record in Putnam County (3 lead inspection / evaluation, 5 lead abatement): 7 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=putnam&st=ny)
 
 ## Where can I get a lead paint inspection in Putnam County, NY? (3)
 

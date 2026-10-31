@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/middle-village/
 
 [**Read the Middle Village hiring guide →**](https://leadpaintroster.com/ny/city/middle-village/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Middle Village](https://leadpaintroster.com/get-quotes/?city=middle-village&st=ny)
+[How to get quotes in Middle Village](https://leadpaintroster.com/quotes/?city=middle-village&st=ny)
 
 ## Which certified lead paint firms are based in Middle Village, NY?
 

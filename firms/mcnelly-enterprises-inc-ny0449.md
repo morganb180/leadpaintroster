@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/mcnelly-enterprises-inc-ny0449/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-46808-1 (exp. 2028-07-14)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-46808-1 (exp. 2028-07-14)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0449
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0449
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0449

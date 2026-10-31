@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/hicksville/guide/
 
 6 listings give an address in Hicksville: 3 inspection/risk-assessment and 4 abatement. Another 144 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=hicksville&st=ny) [All Hicksville listings](https://leadpaintroster.com/ny/city/hicksville/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=hicksville&st=ny) [All Hicksville listings](https://leadpaintroster.com/ny/city/hicksville/)
 
 ## What should I ask a lead inspector in Hicksville before hiring?
 

@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ma/county/suffolk/
 
 # Certified lead paint inspectors & abatement firms in Suffolk County, MA
 
-**2 MA-licensed listings** with an address of record in Suffolk County (2 lead risk assessment): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=suffolk&st=ma)
+**2 MA-licensed listings** with an address of record in Suffolk County (2 lead risk assessment): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=suffolk&st=ma)
 
 ## Which licensed lead inspectors and risk assessors are in Suffolk County, MA? (2)
 

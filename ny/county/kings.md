@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/kings/
 
 # Certified lead paint inspectors & abatement firms in Kings County, NY
 
-**254 EPA-licensed listings** with an address of record in Kings County (117 lead inspection / evaluation, 223 lead abatement): 254 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=kings&st=ny)
+**254 EPA-licensed listings** with an address of record in Kings County (117 lead inspection / evaluation, 223 lead abatement): 254 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=kings&st=ny)
 
 City pages: [Brooklyn](https://leadpaintroster.com/ny/city/brooklyn/)
 

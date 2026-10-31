@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/alberti-and-sons-general-contractor
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295186-1 (exp. 2028-05-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F295186-1 (exp. 2028-05-23)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0076
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0076
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0076

@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/olmsted-environmental-services-inc-
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F120678-4 (exp. 2029-02-26)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0508
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0508
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0508

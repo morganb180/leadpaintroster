@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/medford/
 
 [**Read the Medford hiring guide →**](https://leadpaintroster.com/ny/city/medford/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Medford](https://leadpaintroster.com/get-quotes/?city=medford&st=ny)
+[How to get quotes in Medford](https://leadpaintroster.com/quotes/?city=medford&st=ny)
 
 ## Which certified lead paint firms are based in Medford, NY?
 

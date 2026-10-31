@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/nj/city/newark/
 
 [**Read the Newark hiring guide →**](https://leadpaintroster.com/nj/city/newark/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Newark](https://leadpaintroster.com/get-quotes/?city=newark&st=nj)
+[How to get quotes in Newark](https://leadpaintroster.com/quotes/?city=newark&st=nj)
 
 ## Which certified lead paint firms are based in Newark, NJ?
 

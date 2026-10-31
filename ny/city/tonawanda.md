@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/tonawanda/
 
 [**Read the Tonawanda hiring guide →**](https://leadpaintroster.com/ny/city/tonawanda/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Tonawanda](https://leadpaintroster.com/get-quotes/?city=tonawanda&st=ny)
+[How to get quotes in Tonawanda](https://leadpaintroster.com/quotes/?city=tonawanda&st=ny)
 
 ## Which certified lead paint firms are based in Tonawanda, NY?
 

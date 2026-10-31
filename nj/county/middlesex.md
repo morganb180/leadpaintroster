@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/nj/county/middlesex/
 
 # Certified lead paint inspectors & abatement firms in Middlesex County, NJ
 
-**15 NJ DCA-licensed listings** with an address of record in Middlesex County (11 lead inspection / evaluation, 5 lead abatement): 15 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=middlesex&st=nj)
+**15 NJ DCA-licensed listings** with an address of record in Middlesex County (11 lead inspection / evaluation, 5 lead abatement): 15 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=middlesex&st=nj)
 
 ## Where can I get a lead paint inspection in Middlesex County, NJ? (11)
 

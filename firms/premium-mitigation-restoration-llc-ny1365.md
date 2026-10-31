@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/premium-mitigation-restoration-llc-
 * Google rating: 5.0 from 15 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F271589-1 (exp. 2027-10-08)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1365
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1365
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1365

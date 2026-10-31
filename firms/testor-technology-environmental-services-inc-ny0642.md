@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/testor-technology-environmental-ser
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-67559-4 (exp. 2028-08-10)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-67559-4 (exp. 2028-08-10)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0642
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0642
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0642

@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/cedarhurst/
 
 [**Read the Cedarhurst hiring guide →**](https://leadpaintroster.com/ny/city/cedarhurst/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Cedarhurst](https://leadpaintroster.com/get-quotes/?city=cedarhurst&st=ny)
+[How to get quotes in Cedarhurst](https://leadpaintroster.com/quotes/?city=cedarhurst&st=ny)
 
 ## Which certified lead paint firms are based in Cedarhurst, NY?
 

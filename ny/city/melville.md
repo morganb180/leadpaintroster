@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/melville/
 
 [**Read the Melville hiring guide →**](https://leadpaintroster.com/ny/city/melville/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Melville](https://leadpaintroster.com/get-quotes/?city=melville&st=ny)
+[How to get quotes in Melville](https://leadpaintroster.com/quotes/?city=melville&st=ny)
 
 ## Which certified lead paint firms are based in Melville, NY?
 

@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/e-contracting-inc-dba-erie-contract
 * Address: 188 Erie St, Lancaster, NY 14086
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-40453-2 (exp. 2028-09-30)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0961
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0961
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0961

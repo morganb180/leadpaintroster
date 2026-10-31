@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/bayside/guide/
 
 7 listings give an address in Bayside: 2 inspection/risk-assessment and 6 abatement. Another 317 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=bayside&st=ny) [All Bayside listings](https://leadpaintroster.com/ny/city/bayside/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=bayside&st=ny) [All Bayside listings](https://leadpaintroster.com/ny/city/bayside/)
 
 ## How much does a lead paint inspection cost in Bayside?
 

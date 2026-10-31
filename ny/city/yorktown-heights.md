@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/yorktown-heights/
 
 [**Read the Yorktown Heights hiring guide →**](https://leadpaintroster.com/ny/city/yorktown-heights/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Yorktown Heights](https://leadpaintroster.com/get-quotes/?city=yorktown-heights&st=ny)
+[How to get quotes in Yorktown Heights](https://leadpaintroster.com/quotes/?city=yorktown-heights&st=ny)
 
 ## Which certified lead paint firms are based in Yorktown Heights, NY?
 

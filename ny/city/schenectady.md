@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/schenectady/
 
 [**Read the Schenectady hiring guide →**](https://leadpaintroster.com/ny/city/schenectady/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Schenectady](https://leadpaintroster.com/get-quotes/?city=schenectady&st=ny)
+[How to get quotes in Schenectady](https://leadpaintroster.com/quotes/?city=schenectady&st=ny)
 
 ## Which certified lead paint firms are based in Schenectady, NY?
 

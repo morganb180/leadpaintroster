@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/enviroworks-inc-dba-envirotech-grou
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F343196-1 (exp. 2029-08-06)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F343196-1 (exp. 2029-08-06)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0258
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0258
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0258

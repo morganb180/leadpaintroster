@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/nj/city/newark/guide/
 
 8 listings give an address in Newark: 3 inspection/risk-assessment and 5 abatement. Another 16 are elsewhere in Essex County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=newark&st=nj) [All Newark listings](https://leadpaintroster.com/nj/city/newark/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=newark&st=nj) [All Newark listings](https://leadpaintroster.com/nj/city/newark/)
 
 ## What are New Jersey's lead paint rules?
 

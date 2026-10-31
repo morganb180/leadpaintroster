@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/west-hempstead/guide/
 
 4 listings give an address in West Hempstead: 1 inspection/risk-assessment and 3 abatement. Another 146 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=west-hempstead&st=ny) [All West Hempstead listings](https://leadpaintroster.com/ny/city/west-hempstead/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=west-hempstead&st=ny) [All West Hempstead listings](https://leadpaintroster.com/ny/city/west-hempstead/)
 
 ## How do I verify a lead inspector's certification in West Hempstead?
 

@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/abatek-corp-ny0741/
 * Google rating: 5.0 from 25 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-50209-3 (exp. 2028-08-16)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0741
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0741
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0741

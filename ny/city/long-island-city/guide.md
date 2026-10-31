@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/long-island-city/guide/
 
 31 listings give an address in Long Island City: 12 inspection/risk-assessment and 28 abatement. Another 293 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=long-island-city&st=ny) [All Long Island City listings](https://leadpaintroster.com/ny/city/long-island-city/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=long-island-city&st=ny) [All Long Island City listings](https://leadpaintroster.com/ny/city/long-island-city/)
 
 ## What should I ask a lead inspector in Long Island City before hiring?
 

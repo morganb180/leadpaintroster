@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/tompkins/
 
 # Certified lead paint inspectors & abatement firms in Tompkins County, NY
 
-**2 EPA-licensed listings** with an address of record in Tompkins County (2 lead inspection / evaluation, 1 lead abatement): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=tompkins&st=ny)
+**2 EPA-licensed listings** with an address of record in Tompkins County (2 lead inspection / evaluation, 1 lead abatement): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=tompkins&st=ny)
 
 ## Where can I get a lead paint inspection in Tompkins County, NY? (2)
 

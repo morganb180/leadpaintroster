@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/vision-21-inc-ny0670/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F218442-3 (exp. 2029-10-08)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F218442-3 (exp. 2029-10-08)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0670
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0670
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0670

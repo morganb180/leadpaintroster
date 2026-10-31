@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/nj/city/cherry-hill/
 
 [**Read the Cherry Hill hiring guide →**](https://leadpaintroster.com/nj/city/cherry-hill/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Cherry Hill](https://leadpaintroster.com/get-quotes/?city=cherry-hill&st=nj)
+[How to get quotes in Cherry Hill](https://leadpaintroster.com/quotes/?city=cherry-hill&st=nj)
 
 ## Which certified lead paint firms are based in Cherry Hill, NJ?
 

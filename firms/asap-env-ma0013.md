@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/asap-env-ma0013/
 * Email: mlm1973.mm@gmail.com
 * Address: Dorchester, MA
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0013
+Get a quote: https://leadpaintroster.com/quotes/?firm=MA0013
 
 Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0013

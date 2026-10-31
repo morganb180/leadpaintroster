@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/niagara/
 
 # Certified lead paint inspectors & abatement firms in Niagara County, NY
 
-**17 EPA-licensed listings** with an address of record in Niagara County (3 lead inspection / evaluation, 17 lead abatement): 17 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=niagara&st=ny)
+**17 EPA-licensed listings** with an address of record in Niagara County (3 lead inspection / evaluation, 17 lead abatement): 17 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=niagara&st=ny)
 
 City pages: [Lockport](https://leadpaintroster.com/ny/city/lockport/) · [Niagara Falls](https://leadpaintroster.com/ny/city/niagara-falls/)
 

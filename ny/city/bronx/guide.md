@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/bronx/guide/
 
 116 listings give an address in Bronx: 47 inspection/risk-assessment and 103 abatement. Another 2 are elsewhere in Bronx County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=bronx&st=ny) [All Bronx listings](https://leadpaintroster.com/ny/city/bronx/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=bronx&st=ny) [All Bronx listings](https://leadpaintroster.com/ny/city/bronx/)
 
 ## How do I verify a lead inspector's certification in Bronx?
 

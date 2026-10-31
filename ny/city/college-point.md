@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/college-point/
 
 [**Read the College Point hiring guide →**](https://leadpaintroster.com/ny/city/college-point/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in College Point](https://leadpaintroster.com/get-quotes/?city=college-point&st=ny)
+[How to get quotes in College Point](https://leadpaintroster.com/quotes/?city=college-point&st=ny)
 
 ## Which certified lead paint firms are based in College Point, NY?
 

@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/floral-park/guide/
 
 5 listings give an address in Floral Park: 3 inspection/risk-assessment and 4 abatement. Another 145 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=floral-park&st=ny) [All Floral Park listings](https://leadpaintroster.com/ny/city/floral-park/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=floral-park&st=ny) [All Floral Park listings](https://leadpaintroster.com/ny/city/floral-park/)
 
 ## What should I ask a lead inspector in Floral Park before hiring?
 

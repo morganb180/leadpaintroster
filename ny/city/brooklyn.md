@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/brooklyn/
 
 [**Read the Brooklyn hiring guide →**](https://leadpaintroster.com/ny/city/brooklyn/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Brooklyn](https://leadpaintroster.com/get-quotes/?city=brooklyn&st=ny)
+[How to get quotes in Brooklyn](https://leadpaintroster.com/quotes/?city=brooklyn&st=ny)
 
 ## Which certified lead paint firms are based in Brooklyn, NY?
 

@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/j-express-realty-ny0338/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295226-1 (exp. 2028-05-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F295226-1 (exp. 2028-05-23)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0338
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0338
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0338

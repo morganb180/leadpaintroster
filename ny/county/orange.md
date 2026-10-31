@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/orange/
 
 # Certified lead paint inspectors & abatement firms in Orange County, NY
 
-**21 EPA-licensed listings** with an address of record in Orange County (9 lead inspection / evaluation, 17 lead abatement): 21 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=orange&st=ny)
+**21 EPA-licensed listings** with an address of record in Orange County (9 lead inspection / evaluation, 17 lead abatement): 21 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=orange&st=ny)
 
 ## Where can I get a lead paint inspection in Orange County, NY? (9)
 

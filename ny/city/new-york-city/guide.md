@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/new-york-city/guide/
 
 4 listings give an address in New York City: 1 inspection/risk-assessment and 4 abatement. Another 116 are elsewhere in New York County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=new-york-city&st=ny) [All New York City listings](https://leadpaintroster.com/ny/city/new-york-city/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=new-york-city&st=ny) [All New York City listings](https://leadpaintroster.com/ny/city/new-york-city/)
 
 ## What should I ask a lead inspector in New York City before hiring?
 

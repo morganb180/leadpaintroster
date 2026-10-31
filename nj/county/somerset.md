@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/nj/county/somerset/
 
 # Certified lead paint inspectors & abatement firms in Somerset County, NJ
 
-**6 NJ DCA-licensed listings** with an address of record in Somerset County (6 lead inspection / evaluation): 6 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=somerset&st=nj)
+**6 NJ DCA-licensed listings** with an address of record in Somerset County (6 lead inspection / evaluation): 6 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=somerset&st=nj)
 
 ## Where can I get a lead paint inspection in Somerset County, NJ? (6)
 

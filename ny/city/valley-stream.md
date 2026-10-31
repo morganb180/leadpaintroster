@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/valley-stream/
 
 [**Read the Valley Stream hiring guide →**](https://leadpaintroster.com/ny/city/valley-stream/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Valley Stream](https://leadpaintroster.com/get-quotes/?city=valley-stream&st=ny)
+[How to get quotes in Valley Stream](https://leadpaintroster.com/quotes/?city=valley-stream&st=ny)
 
 ## Which certified lead paint firms are based in Valley Stream, NY?
 

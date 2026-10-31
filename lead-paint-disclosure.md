@@ -81,7 +81,7 @@ Keep a signed copy of the disclosures for 3 years after the sale closes or the l
 * **New Jersey:** sellers of rentals covered by the state lead inspection law must give the buyer the rules, any certifications and DCA's guidance document ([N.J.A.C. 5:28A-3.1](https://www.nj.gov/dca/codes/codreg/pdf_regs/njac_5_28A.pdf)). See [NJ's rental lead law](https://leadpaintroster.com/nj-lead-paint-inspection-law/).
 * **New York City:** landlords of covered buildings certify turnover work on a Lease/Commencement of Occupancy Notice and give tenants HPD's pamphlet ([NYC HPD](https://www.nyc.gov/site/hpd/services-and-information/lead-based-paint-correction-child-under-6-unit.page)). See [NYC Local Law 1](https://leadpaintroster.com/nyc-local-law-1-lead-paint/).
 
-[Get free quotes](https://leadpaintroster.com/get-quotes/) One request to up to 3 certified pros near you.
+[Get free quotes](https://leadpaintroster.com/quotes/) One request to up to 3 certified pros near you.
 
 ## Frequently asked questions
 

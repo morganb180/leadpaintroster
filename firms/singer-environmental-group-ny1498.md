@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/singer-environmental-group-ny1498/
 * Address: 5318 New Utrecht Ave, Brooklyn, NY 11219
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221580-2 (exp. 2027-02-10)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1498
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1498
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1498

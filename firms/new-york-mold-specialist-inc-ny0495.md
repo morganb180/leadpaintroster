@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/new-york-mold-specialist-inc-ny0495
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F323657-1 (exp. 2029-03-04)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F323657-1 (exp. 2029-03-04)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0495
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0495
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0495

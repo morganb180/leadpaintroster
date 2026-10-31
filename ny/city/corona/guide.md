@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/corona/guide/
 
 7 listings give an address in Corona: 2 inspection/risk-assessment and 7 abatement. Another 317 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=corona&st=ny) [All Corona listings](https://leadpaintroster.com/ny/city/corona/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=corona&st=ny) [All Corona listings](https://leadpaintroster.com/ny/city/corona/)
 
 ## What should I ask a lead inspector in Corona before hiring?
 

@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/watertown/
 
 [**Read the Watertown hiring guide →**](https://leadpaintroster.com/ny/city/watertown/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Watertown](https://leadpaintroster.com/get-quotes/?city=watertown&st=ny)
+[How to get quotes in Watertown](https://leadpaintroster.com/quotes/?city=watertown&st=ny)
 
 ## Which certified lead paint firms are based in Watertown, NY?
 

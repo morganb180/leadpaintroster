@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/falconer/guide/
 
 4 listings give an address in Falconer: 0 inspection/risk-assessment and 4 abatement. Another 6 are elsewhere in Chautauqua County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=falconer&st=ny) [All Falconer listings](https://leadpaintroster.com/ny/city/falconer/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=falconer&st=ny) [All Falconer listings](https://leadpaintroster.com/ny/city/falconer/)
 
 ## What are New York's lead paint rules?
 

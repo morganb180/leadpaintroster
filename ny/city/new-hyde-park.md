@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/new-hyde-park/
 
 [**Read the New Hyde Park hiring guide →**](https://leadpaintroster.com/ny/city/new-hyde-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in New Hyde Park](https://leadpaintroster.com/get-quotes/?city=new-hyde-park&st=ny)
+[How to get quotes in New Hyde Park](https://leadpaintroster.com/quotes/?city=new-hyde-park&st=ny)
 
 ## Which certified lead paint firms are based in New Hyde Park, NY?
 

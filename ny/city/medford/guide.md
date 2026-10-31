@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/medford/guide/
 
 4 listings give an address in Medford: 0 inspection/risk-assessment and 4 abatement. Another 62 are elsewhere in Suffolk County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=medford&st=ny) [All Medford listings](https://leadpaintroster.com/ny/city/medford/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=medford&st=ny) [All Medford listings](https://leadpaintroster.com/ny/city/medford/)
 
 ## How do I verify a lead inspector's certification in Medford?
 

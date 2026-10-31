@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/adam-electrical-contracting-llc-ny0
 * Google rating: 4.7 from 13 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F235831-2 (exp. 2028-05-10)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0748
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0748
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0748

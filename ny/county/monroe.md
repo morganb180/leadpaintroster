@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/monroe/
 
 # Certified lead paint inspectors & abatement firms in Monroe County, NY
 
-**45 EPA-licensed listings** with an address of record in Monroe County (18 lead inspection / evaluation, 36 lead abatement): 45 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=monroe&st=ny)
+**45 EPA-licensed listings** with an address of record in Monroe County (18 lead inspection / evaluation, 36 lead abatement): 45 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=monroe&st=ny)
 
 City pages: [Rochester](https://leadpaintroster.com/ny/city/rochester/)
 

@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/forest-hills/guide/
 
 6 listings give an address in Forest Hills: 3 inspection/risk-assessment and 5 abatement. Another 319 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=forest-hills&st=ny) [All Forest Hills listings](https://leadpaintroster.com/ny/city/forest-hills/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=forest-hills&st=ny) [All Forest Hills listings](https://leadpaintroster.com/ny/city/forest-hills/)
 
 ## How do I verify a lead inspector's certification in Forest Hills?
 

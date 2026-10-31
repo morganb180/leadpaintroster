@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ma/county/norfolk/
 
 # Certified lead paint inspectors & abatement firms in Norfolk County, MA
 
-**9 MA-licensed listings** with an address of record in Norfolk County (4 lead inspection / evaluation, 5 lead risk assessment): 4 firms and 5 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=norfolk&st=ma)
+**9 MA-licensed listings** with an address of record in Norfolk County (4 lead inspection / evaluation, 5 lead risk assessment): 4 firms and 5 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=norfolk&st=ma)
 
 ## Which licensed lead inspectors and risk assessors are in Norfolk County, MA? (5)
 

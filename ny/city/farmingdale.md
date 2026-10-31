@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/farmingdale/
 
 [**Read the Farmingdale hiring guide →**](https://leadpaintroster.com/ny/city/farmingdale/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Farmingdale](https://leadpaintroster.com/get-quotes/?city=farmingdale&st=ny)
+[How to get quotes in Farmingdale](https://leadpaintroster.com/quotes/?city=farmingdale&st=ny)
 
 ## Which certified lead paint firms are based in Farmingdale, NY?
 

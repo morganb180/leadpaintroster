@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/nj/city/union/guide/
 
 4 listings give an address in Union: 3 inspection/risk-assessment and 2 abatement. Another 16 are elsewhere in Union County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=union&st=nj) [All Union listings](https://leadpaintroster.com/nj/city/union/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=union&st=nj) [All Union listings](https://leadpaintroster.com/nj/city/union/)
 
 ## How do I verify a lead inspector's certification in Union?
 

@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/bayside/
 
 [**Read the Bayside hiring guide →**](https://leadpaintroster.com/ny/city/bayside/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Bayside](https://leadpaintroster.com/get-quotes/?city=bayside&st=ny)
+[How to get quotes in Bayside](https://leadpaintroster.com/quotes/?city=bayside&st=ny)
 
 ## Which certified lead paint firms are based in Bayside, NY?
 

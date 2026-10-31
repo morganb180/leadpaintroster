@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/college-point/guide/
 
 6 listings give an address in College Point: 2 inspection/risk-assessment and 6 abatement. Another 318 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=college-point&st=ny) [All College Point listings](https://leadpaintroster.com/ny/city/college-point/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=college-point&st=ny) [All College Point listings](https://leadpaintroster.com/ny/city/college-point/)
 
 ## What are New York's lead paint rules?
 

@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/glendale/
 
 [**Read the Glendale hiring guide →**](https://leadpaintroster.com/ny/city/glendale/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Glendale](https://leadpaintroster.com/get-quotes/?city=glendale&st=ny)
+[How to get quotes in Glendale](https://leadpaintroster.com/quotes/?city=glendale&st=ny)
 
 ## Which certified lead paint firms are based in Glendale, NY?
 

@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/south-ozone-park/
 
 [**Read the South Ozone Park hiring guide →**](https://leadpaintroster.com/ny/city/south-ozone-park/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in South Ozone Park](https://leadpaintroster.com/get-quotes/?city=south-ozone-park&st=ny)
+[How to get quotes in South Ozone Park](https://leadpaintroster.com/quotes/?city=south-ozone-park&st=ny)
 
 ## Which certified lead paint firms are based in South Ozone Park, NY?
 

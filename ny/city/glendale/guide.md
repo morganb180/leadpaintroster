@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/glendale/guide/
 
 4 listings give an address in Glendale: 0 inspection/risk-assessment and 4 abatement. Another 320 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=glendale&st=ny) [All Glendale listings](https://leadpaintroster.com/ny/city/glendale/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=glendale&st=ny) [All Glendale listings](https://leadpaintroster.com/ny/city/glendale/)
 
 ## How much does a lead paint inspection cost in Glendale?
 

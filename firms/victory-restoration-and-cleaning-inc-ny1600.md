@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/victory-restoration-and-cleaning-in
 * Google rating: 3.9 from 15 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F276836-1 (exp. 2027-12-05)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1600
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1600
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1600

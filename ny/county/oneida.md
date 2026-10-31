@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/oneida/
 
 # Certified lead paint inspectors & abatement firms in Oneida County, NY
 
-**11 EPA-licensed listings** with an address of record in Oneida County (2 lead inspection / evaluation, 10 lead abatement): 11 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=oneida&st=ny)
+**11 EPA-licensed listings** with an address of record in Oneida County (2 lead inspection / evaluation, 10 lead abatement): 11 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=oneida&st=ny)
 
 ## Where can I get a lead paint inspection in Oneida County, NY? (2)
 

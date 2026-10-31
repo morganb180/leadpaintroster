@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/joseph-c-lu-engineering-pc-ny0361/
 * Google rating: 3.4 from 10 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F107925-3 (exp. 2028-08-04)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0361
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0361
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0361

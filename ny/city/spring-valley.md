@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/spring-valley/
 
 [**Read the Spring Valley hiring guide →**](https://leadpaintroster.com/ny/city/spring-valley/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Spring Valley](https://leadpaintroster.com/get-quotes/?city=spring-valley&st=ny)
+[How to get quotes in Spring Valley](https://leadpaintroster.com/quotes/?city=spring-valley&st=ny)
 
 ## Which certified lead paint firms are based in Spring Valley, NY?
 

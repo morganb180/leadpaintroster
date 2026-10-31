@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/airmont/guide/
 
 6 listings give an address in Airmont: 3 inspection/risk-assessment and 5 abatement. Another 41 are elsewhere in Rockland County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=airmont&st=ny) [All Airmont listings](https://leadpaintroster.com/ny/city/airmont/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=airmont&st=ny) [All Airmont listings](https://leadpaintroster.com/ny/city/airmont/)
 
 ## What should I ask a lead inspector in Airmont before hiring?
 

@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/port-washington/guide/
 
 6 listings give an address in Port Washington: 4 inspection/risk-assessment and 5 abatement. Another 144 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=port-washington&st=ny) [All Port Washington listings](https://leadpaintroster.com/ny/city/port-washington/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=port-washington&st=ny) [All Port Washington listings](https://leadpaintroster.com/ny/city/port-washington/)
 
 ## What are New York's lead paint rules?
 

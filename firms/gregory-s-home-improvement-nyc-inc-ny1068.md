@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/gregory-s-home-improvement-nyc-inc-
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F219639-2 (exp. 2026-11-23)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1068
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1068
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1068

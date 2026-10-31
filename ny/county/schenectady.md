@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/schenectady/
 
 # Certified lead paint inspectors & abatement firms in Schenectady County, NY
 
-**22 EPA-licensed listings** with an address of record in Schenectady County (5 lead inspection / evaluation, 20 lead abatement): 22 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=schenectady&st=ny)
+**22 EPA-licensed listings** with an address of record in Schenectady County (5 lead inspection / evaluation, 20 lead abatement): 22 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=schenectady&st=ny)
 
 City pages: [Schenectady](https://leadpaintroster.com/ny/city/schenectady/)
 

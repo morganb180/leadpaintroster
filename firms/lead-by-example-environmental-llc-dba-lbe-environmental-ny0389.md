@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/lead-by-example-environmental-llc-d
 * Address: 656 Putnam Ave, Brooklyn, NY 11221
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F164216-4 (exp. 2028-05-24)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0389
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0389
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0389

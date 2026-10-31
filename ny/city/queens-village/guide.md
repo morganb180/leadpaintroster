@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/queens-village/guide/
 
 6 listings give an address in Queens Village: 3 inspection/risk-assessment and 6 abatement. Another 318 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=queens-village&st=ny) [All Queens Village listings](https://leadpaintroster.com/ny/city/queens-village/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=queens-village&st=ny) [All Queens Village listings](https://leadpaintroster.com/ny/city/queens-village/)
 
 ## How much does a lead paint inspection cost in Queens Village?
 

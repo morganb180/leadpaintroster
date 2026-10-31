@@ -91,7 +91,7 @@ Federal law requires disclosure when pre-1978 homes are sold or rented (see our 
 
 Browse certified pros by state: [New Jersey](https://leadpaintroster.com/nj/), [New York](https://leadpaintroster.com/ny/) and [Massachusetts](https://leadpaintroster.com/ma/).
 
-[Get free quotes](https://leadpaintroster.com/get-quotes/) One request to up to 3 certified pros near you.
+[Get free quotes](https://leadpaintroster.com/quotes/) One request to up to 3 certified pros near you.
 
 ## Frequently asked questions
 

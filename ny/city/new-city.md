@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/new-city/
 
 [**Read the New City hiring guide →**](https://leadpaintroster.com/ny/city/new-city/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in New City](https://leadpaintroster.com/get-quotes/?city=new-city&st=ny)
+[How to get quotes in New City](https://leadpaintroster.com/quotes/?city=new-city&st=ny)
 
 ## Which certified lead paint firms are based in New City, NY?
 

@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/bronx/
 
 # Certified lead paint inspectors & abatement firms in Bronx County, NY
 
-**118 EPA-licensed listings** with an address of record in Bronx County (49 lead inspection / evaluation, 105 lead abatement): 118 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=bronx&st=ny)
+**118 EPA-licensed listings** with an address of record in Bronx County (49 lead inspection / evaluation, 105 lead abatement): 118 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=bronx&st=ny)
 
 City pages: [Bronx](https://leadpaintroster.com/ny/city/bronx/)
 

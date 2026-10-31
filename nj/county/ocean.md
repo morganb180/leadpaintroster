@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/nj/county/ocean/
 
 # Certified lead paint inspectors & abatement firms in Ocean County, NJ
 
-**10 NJ DCA-licensed listings** with an address of record in Ocean County (10 lead inspection / evaluation, 3 lead abatement): 10 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=ocean&st=nj)
+**10 NJ DCA-licensed listings** with an address of record in Ocean County (10 lead inspection / evaluation, 3 lead abatement): 10 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=ocean&st=nj)
 
 City pages: [Lakewood](https://leadpaintroster.com/nj/city/lakewood/)
 

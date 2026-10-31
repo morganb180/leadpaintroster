@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/genesee/
 
 # Certified lead paint inspectors & abatement firms in Genesee County, NY
 
-**1 EPA-licensed listings** with an address of record in Genesee County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=genesee&st=ny)
+**1 EPA-licensed listings** with an address of record in Genesee County (1 lead abatement): 1 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=genesee&st=ny)
 
 ## Who does lead paint abatement in Genesee County, NY? (1)
 

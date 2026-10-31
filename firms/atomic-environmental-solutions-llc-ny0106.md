@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/atomic-environmental-solutions-llc-
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F200559-3 (exp. 2028-11-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F200559-3 (exp. 2028-11-23)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0106
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0106
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0106

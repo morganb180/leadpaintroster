@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/bellerose/guide/
 
 7 listings give an address in Bellerose: 4 inspection/risk-assessment and 4 abatement. Another 317 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=bellerose&st=ny) [All Bellerose listings](https://leadpaintroster.com/ny/city/bellerose/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=bellerose&st=ny) [All Bellerose listings](https://leadpaintroster.com/ny/city/bellerose/)
 
 ## How much does a lead paint inspection cost in Bellerose?
 

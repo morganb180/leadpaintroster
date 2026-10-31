@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/troy/guide/
 
 5 listings give an address in Troy: 2 inspection/risk-assessment and 3 abatement. Another 7 are elsewhere in Rensselaer County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=troy&st=ny) [All Troy listings](https://leadpaintroster.com/ny/city/troy/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=troy&st=ny) [All Troy listings](https://leadpaintroster.com/ny/city/troy/)
 
 ## What should I ask a lead inspector in Troy before hiring?
 

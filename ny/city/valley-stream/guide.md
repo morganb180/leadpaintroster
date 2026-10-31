@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/valley-stream/guide/
 
 12 listings give an address in Valley Stream: 6 inspection/risk-assessment and 10 abatement. Another 138 are elsewhere in Nassau County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=valley-stream&st=ny) [All Valley Stream listings](https://leadpaintroster.com/ny/city/valley-stream/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=valley-stream&st=ny) [All Valley Stream listings](https://leadpaintroster.com/ny/city/valley-stream/)
 
 ## What should I ask a lead inspector in Valley Stream before hiring?
 

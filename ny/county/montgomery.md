@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/ny/county/montgomery/
 
 # Certified lead paint inspectors & abatement firms in Montgomery County, NY
 
-**2 EPA-licensed listings** with an address of record in Montgomery County (1 lead inspection / evaluation, 2 lead abatement): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=montgomery&st=ny)
+**2 EPA-licensed listings** with an address of record in Montgomery County (1 lead inspection / evaluation, 2 lead abatement): 2 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=montgomery&st=ny)
 
 ## Where can I get a lead paint inspection in Montgomery County, NY? (1)
 

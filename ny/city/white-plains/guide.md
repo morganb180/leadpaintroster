@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/white-plains/guide/
 
 8 listings give an address in White Plains: 5 inspection/risk-assessment and 5 abatement. Another 115 are elsewhere in Westchester County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=white-plains&st=ny) [All White Plains listings](https://leadpaintroster.com/ny/city/white-plains/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=white-plains&st=ny) [All White Plains listings](https://leadpaintroster.com/ny/city/white-plains/)
 
 ## How do I verify a lead inspector's certification in White Plains?
 

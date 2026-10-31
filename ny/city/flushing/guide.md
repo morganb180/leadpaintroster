@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/flushing/guide/
 
 22 listings give an address in Flushing: 9 inspection/risk-assessment and 19 abatement. Another 302 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=flushing&st=ny) [All Flushing listings](https://leadpaintroster.com/ny/city/flushing/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=flushing&st=ny) [All Flushing listings](https://leadpaintroster.com/ny/city/flushing/)
 
 ## What should I ask a lead inspector in Flushing before hiring?
 

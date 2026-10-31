@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/new-rochelle/
 
 [**Read the New Rochelle hiring guide →**](https://leadpaintroster.com/ny/city/new-rochelle/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in New Rochelle](https://leadpaintroster.com/get-quotes/?city=new-rochelle&st=ny)
+[How to get quotes in New Rochelle](https://leadpaintroster.com/quotes/?city=new-rochelle&st=ny)
 
 ## Which certified lead paint firms are based in New Rochelle, NY?
 

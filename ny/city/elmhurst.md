@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/elmhurst/
 
 [**Read the Elmhurst hiring guide →**](https://leadpaintroster.com/ny/city/elmhurst/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Elmhurst](https://leadpaintroster.com/get-quotes/?city=elmhurst&st=ny)
+[How to get quotes in Elmhurst](https://leadpaintroster.com/quotes/?city=elmhurst&st=ny)
 
 ## Which certified lead paint firms are based in Elmhurst, NY?
 

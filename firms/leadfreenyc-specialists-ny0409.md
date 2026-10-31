@@ -14,6 +14,6 @@ canonical: https://leadpaintroster.com/firms/leadfreenyc-specialists-ny0409/
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F307488-1 (exp. 2029-09-24)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F307488-1 (exp. 2029-09-24)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0409
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0409
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0409

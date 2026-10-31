@@ -8,7 +8,7 @@ canonical: https://leadpaintroster.com/nj/county/atlantic/
 
 # Certified lead paint inspectors & abatement firms in Atlantic County, NJ
 
-**3 NJ DCA-licensed listings** with an address of record in Atlantic County (2 lead inspection / evaluation, 2 lead abatement): 3 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/get-quotes/?county=atlantic&st=nj)
+**3 NJ DCA-licensed listings** with an address of record in Atlantic County (2 lead inspection / evaluation, 2 lead abatement): 3 firms and 0 individual licensees. [How to get quotes](https://leadpaintroster.com/quotes/?county=atlantic&st=nj)
 
 ## Where can I get a lead paint inspection in Atlantic County, NJ? (2)
 

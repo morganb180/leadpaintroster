@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/richmond-hill/
 
 [**Read the Richmond Hill hiring guide →**](https://leadpaintroster.com/ny/city/richmond-hill/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Richmond Hill](https://leadpaintroster.com/get-quotes/?city=richmond-hill&st=ny)
+[How to get quotes in Richmond Hill](https://leadpaintroster.com/quotes/?city=richmond-hill&st=ny)
 
 ## Which certified lead paint firms are based in Richmond Hill, NY?
 

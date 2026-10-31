@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/rego-park/guide/
 
 6 listings give an address in Rego Park: 3 inspection/risk-assessment and 4 abatement. Another 318 are elsewhere in Queens County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=rego-park&st=ny) [All Rego Park listings](https://leadpaintroster.com/ny/city/rego-park/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=rego-park&st=ny) [All Rego Park listings](https://leadpaintroster.com/ny/city/rego-park/)
 
 ## What should I ask a lead inspector in Rego Park before hiring?
 

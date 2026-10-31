@@ -12,7 +12,7 @@ canonical: https://leadpaintroster.com/ny/city/new-rochelle/guide/
 
 11 listings give an address in New Rochelle: 1 inspection/risk-assessment and 10 abatement. Another 112 are elsewhere in Westchester County.
 
-[Get quotes](https://leadpaintroster.com/get-quotes/?city=new-rochelle&st=ny) [All New Rochelle listings](https://leadpaintroster.com/ny/city/new-rochelle/)
+[Get quotes](https://leadpaintroster.com/quotes/?city=new-rochelle&st=ny) [All New Rochelle listings](https://leadpaintroster.com/ny/city/new-rochelle/)
 
 ## How much does a lead paint inspection cost in New Rochelle?
 

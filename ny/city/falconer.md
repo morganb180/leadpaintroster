@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/falconer/
 
 [**Read the Falconer hiring guide →**](https://leadpaintroster.com/ny/city/falconer/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Falconer](https://leadpaintroster.com/get-quotes/?city=falconer&st=ny)
+[How to get quotes in Falconer](https://leadpaintroster.com/quotes/?city=falconer&st=ny)
 
 ## Which certified lead paint firms are based in Falconer, NY?
 

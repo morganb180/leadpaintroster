@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/lawrence-env-llc-ny0385/
 * Google rating: 4.0 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F160528-3 (exp. 2028-02-04)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY0385
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY0385
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY0385

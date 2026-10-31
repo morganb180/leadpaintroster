@@ -13,7 +13,7 @@
       "type": "skill-md",
       "description": "Request quotes from certified lead inspectors, risk assessors and abatement firms in NJ, NY and MA for a homeowner via Lead Paint Roster; the homeowner confirms by email before anything is sent.",
       "url": "https://leadpaintroster.com/.well-known/agent-skills/lead-paint-roster-request-quote/SKILL.md",
-      "digest": "sha256:01bc73d23512b41ccb145fccef449d4fedd3bae826038418e7e30b8840f0e3c0"
+      "digest": "sha256:3e649f833db4a4831752398c567ecd22eee3ca92d5a90f4fa04d57aa397ea750"
     }
   ]
 }

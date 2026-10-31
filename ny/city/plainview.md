@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/plainview/
 
 [**Read the Plainview hiring guide →**](https://leadpaintroster.com/ny/city/plainview/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Plainview](https://leadpaintroster.com/get-quotes/?city=plainview&st=ny)
+[How to get quotes in Plainview](https://leadpaintroster.com/quotes/?city=plainview&st=ny)
 
 ## Which certified lead paint firms are based in Plainview, NY?
 

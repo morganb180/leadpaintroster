@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/great-neck/
 
 [**Read the Great Neck hiring guide →**](https://leadpaintroster.com/ny/city/great-neck/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Great Neck](https://leadpaintroster.com/get-quotes/?city=great-neck&st=ny)
+[How to get quotes in Great Neck](https://leadpaintroster.com/quotes/?city=great-neck&st=ny)
 
 ## Which certified lead paint firms are based in Great Neck, NY?
 

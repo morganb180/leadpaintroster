@@ -13,6 +13,6 @@ canonical: https://leadpaintroster.com/firms/sunstream-corporation-ny1521/
 * Google rating: 4.6 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2583-3 (exp. 2028-05-07)
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=NY1521
+Get a quote: https://leadpaintroster.com/quotes/?firm=NY1521
 
 Source: https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=NY1521

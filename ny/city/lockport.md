@@ -14,7 +14,7 @@ canonical: https://leadpaintroster.com/ny/city/lockport/
 
 [**Read the Lockport hiring guide →**](https://leadpaintroster.com/ny/city/lockport/guide/) (licence checks, questions to ask, costs, FAQ)
 
-[How to get quotes in Lockport](https://leadpaintroster.com/get-quotes/?city=lockport&st=ny)
+[How to get quotes in Lockport](https://leadpaintroster.com/quotes/?city=lockport&st=ny)
 
 ## Which certified lead paint firms are based in Lockport, NY?
 

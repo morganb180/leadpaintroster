@@ -12,6 +12,6 @@ canonical: https://leadpaintroster.com/firms/m-lemay-lead-paint-consulting-ma001
 * Email: mickie@lemayleadpaintconsulting.com
 * Address: Fitchburg, MA
 
-Get a quote: https://leadpaintroster.com/get-quotes/?firm=MA0017
+Get a quote: https://leadpaintroster.com/quotes/?firm=MA0017
 
 Source: https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download, retrieved 2026-10-12. Claim / correct: https://leadpaintroster.com/claim-listing/?id=MA0017
