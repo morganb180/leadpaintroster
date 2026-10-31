@@ -49,3 +49,24 @@ Browse Lead Paint Roster by state: [New Jersey](https://leadpaintroster.com/nj/)
 [New Jersey](https://leadpaintroster.com/nj/) · [New York](https://leadpaintroster.com/ny/) · [Massachusetts](https://leadpaintroster.com/ma/)
 
 **Detailed guides:** [NJ rental lead inspection law](https://leadpaintroster.com/nj-lead-paint-inspection-law/) · [NJ lead-safe vs lead-free](https://leadpaintroster.com/nj-lead-safe-vs-lead-free-certificate/) · [NYC Local Law 1](https://leadpaintroster.com/nyc-local-law-1-lead-paint/) · [Massachusetts Lead Law](https://leadpaintroster.com/massachusetts-lead-law/) · [Lead paint disclosure](https://leadpaintroster.com/lead-paint-disclosure/)
+
+## Frequently asked questions
+
+### What are New Jersey's lead paint rules for rentals?
+
+New Jersey municipalities must inspect, or have a DCA-certified lead evaluation contractor inspect, many rental dwellings for lead-based paint hazards every three years or at tenant turnover, unless there is a valid lead-safe certification. Owners and landlords may hire a certified lead evaluation contractor directly.
+
+### Who certifies lead paint inspectors in New York?
+
+New York State has no lead-based paint certification of its own, so EPA certifies the firms and individuals who inspect, assess or abate lead paint in pre-1978 housing there. In New York City, Local Law 1 of 2004 adds duties for landlords of older multiple dwellings where young children live.
+
+### What does the Massachusetts Lead Law require?
+
+Under the Massachusetts Lead Law, homes built before 1978 where a child under 6 lives must have lead hazards corrected, and a licensed lead inspector or risk assessor does the inspection. Deleading itself must be done by a licensed deleading contractor or, for some tasks, the owner after training.
+
+## Related guides
+
+- [How to hire a lead inspector](https://leadpaintroster.com/hiring-a-lead-inspector/): Questions to ask, certification checks and typical cost.
+- [Lead paint inspection and abatement cost](https://leadpaintroster.com/lead-inspection-cost/): National inspection and removal ranges, plus an estimate tool.
+- [Lead inspection vs risk assessment](https://leadpaintroster.com/lead-inspection-vs-risk-assessment/): Which test finds lead paint and which finds lead hazards.
+- [All guides](https://leadpaintroster.com/guides/)
