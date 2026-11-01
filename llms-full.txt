@@ -29,11 +29,13 @@ Lead Paint Roster is for landlords, tenants, buyers and parents who need a certi
 - [NJ lead-safe vs lead-free](https://leadpaintroster.com/nj-lead-safe-vs-lead-free-certificate/)
 - [Pre-1978 housing by county](https://leadpaintroster.com/pre-1978-housing-by-county/)
 - [How to get quotes](https://leadpaintroster.com/quotes/): find 2-3 licensed pros near you and what to ask
+- [Lead paint licence data by county](https://leadpaintroster.com/lead-paint-licence-data/): 1,952 listings by county, firm vs individual, CSV
 
 ## For professionals
 - [For professionals](https://leadpaintroster.com/for-pros/): free listings and planned advertising
 - [Claim, correct, add or remove a listing](https://leadpaintroster.com/claim-listing/): request form
 - [How we make money](https://leadpaintroster.com/how-we-make-money/)
+- [Certification badge kit](https://leadpaintroster.com/badges/): free badges that link to your listing
 
 ## About
 - [About](https://leadpaintroster.com/about/)

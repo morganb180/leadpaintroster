@@ -14,6 +14,10 @@ Every current licensee on the NJ DCA, EPA, MA lists gets a free listing on Lead 
 * Shows your license numbers and a link to the state record, so homeowners can check you.
 * [Claim it](https://leadpaintroster.com/claim-listing/?type=claim) to add a phone number, website or service area, or to fix an error.
 
+## Certification badge
+
+Add a free badge to your website that shows your certification and links to your listing: https://leadpaintroster.com/badges/
+
 ## Featured placement
 
 Not available yet. When it is, featured spots will be labeled "Ad", limited per county, open only to current licensees, and shown alongside the full free list, never instead of it. To hear when it opens, send an [advertising request](https://leadpaintroster.com/claim-listing/?type=ads).

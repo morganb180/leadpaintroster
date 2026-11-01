@@ -117,3 +117,4 @@ Plain-language guides for landlords, owners, buyers and parents hiring a certifi
 - [Woodside](https://leadpaintroster.com/ny/city/woodside/guide/)
 - [Yonkers](https://leadpaintroster.com/ny/city/yonkers/guide/)
 - [Yorktown Heights](https://leadpaintroster.com/ny/city/yorktown-heights/guide/)
+- [Lead paint licence data](https://leadpaintroster.com/lead-paint-licence-data/): 1,952 certified listings counted by county, firm vs individual, service and expiry, with a CSV.

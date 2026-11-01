@@ -1,0 +1,87 @@
+listed_state,county,listings,firms,individuals,inspection,risk_assessment,abatement,page_url
+NY,Queens County,324,324,0,132,0,283,https://leadpaintroster.com/ny/county/queens/
+NY,Kings County,254,254,0,117,0,223,https://leadpaintroster.com/ny/county/kings/
+NY,Nassau County,150,150,0,82,0,121,https://leadpaintroster.com/ny/county/nassau/
+NY,Westchester County,123,123,0,45,0,108,https://leadpaintroster.com/ny/county/westchester/
+NY,New York County,120,120,0,63,0,99,https://leadpaintroster.com/ny/county/new-york/
+NY,Bronx County,118,118,0,49,0,105,https://leadpaintroster.com/ny/county/bronx/
+NY,Richmond County,72,72,0,31,0,62,https://leadpaintroster.com/ny/county/richmond/
+NY,Suffolk County,66,66,0,24,0,59,https://leadpaintroster.com/ny/county/suffolk/
+NY,Erie County,47,47,0,15,0,41,https://leadpaintroster.com/ny/county/erie/
+NY,Rockland County,47,47,0,23,0,40,https://leadpaintroster.com/ny/county/rockland/
+NY,Monroe County,45,45,0,18,0,36,https://leadpaintroster.com/ny/county/monroe/
+NY,Onondaga County,38,38,0,13,0,30,https://leadpaintroster.com/ny/county/onondaga/
+NY,Albany County,29,29,0,13,0,21,https://leadpaintroster.com/ny/county/albany/
+NY,Schenectady County,22,22,0,5,0,20,https://leadpaintroster.com/ny/county/schenectady/
+NY,Orange County,21,21,0,9,0,17,https://leadpaintroster.com/ny/county/orange/
+NY,Niagara County,17,17,0,3,0,17,https://leadpaintroster.com/ny/county/niagara/
+NY,Rensselaer County,12,12,0,4,0,9,https://leadpaintroster.com/ny/county/rensselaer/
+NY,Broome County,11,11,0,5,0,7,https://leadpaintroster.com/ny/county/broome/
+NY,Oneida County,11,11,0,2,0,10,https://leadpaintroster.com/ny/county/oneida/
+NY,Chautauqua County,10,10,0,2,0,8,https://leadpaintroster.com/ny/county/chautauqua/
+NY,Dutchess County,10,10,0,6,0,8,https://leadpaintroster.com/ny/county/dutchess/
+NY,Ulster County,10,10,0,2,0,10,https://leadpaintroster.com/ny/county/ulster/
+NY,Jefferson County,8,8,0,2,0,7,https://leadpaintroster.com/ny/county/jefferson/
+NY,Putnam County,7,7,0,3,0,5,https://leadpaintroster.com/ny/county/putnam/
+NY,Chemung County,6,6,0,3,0,6,https://leadpaintroster.com/ny/county/chemung/
+NY,Delaware County,5,5,0,0,0,5,https://leadpaintroster.com/ny/county/delaware/
+NY,Cayuga County,4,4,0,1,0,3,https://leadpaintroster.com/ny/county/cayuga/
+NY,Saratoga County,4,4,0,1,0,4,https://leadpaintroster.com/ny/county/saratoga/
+NY,Wayne County,4,4,0,1,0,3,https://leadpaintroster.com/ny/county/wayne/
+NY,Columbia County,3,3,0,0,0,3,https://leadpaintroster.com/ny/county/columbia/
+NY,Cortland County,3,3,0,3,0,1,https://leadpaintroster.com/ny/county/cortland/
+NY,Franklin County,3,3,0,0,0,3,https://leadpaintroster.com/ny/county/franklin/
+NY,St. Lawrence County,3,3,0,2,0,2,https://leadpaintroster.com/ny/county/st-lawrence/
+NY,Clinton County,2,2,0,0,0,2,https://leadpaintroster.com/ny/county/clinton/
+NY,Montgomery County,2,2,0,1,0,2,https://leadpaintroster.com/ny/county/montgomery/
+NY,Oswego County,2,2,0,0,0,2,https://leadpaintroster.com/ny/county/oswego/
+NY,Steuben County,2,2,0,0,0,2,https://leadpaintroster.com/ny/county/steuben/
+NY,Sullivan County,2,2,0,0,0,2,https://leadpaintroster.com/ny/county/sullivan/
+NY,Tompkins County,2,2,0,2,0,1,https://leadpaintroster.com/ny/county/tompkins/
+NY,Washington County,2,2,0,1,0,1,https://leadpaintroster.com/ny/county/washington/
+NY,Allegany County,1,1,0,0,0,1,https://leadpaintroster.com/ny/county/allegany/
+NY,Cattaraugus County,1,1,0,0,0,1,https://leadpaintroster.com/ny/county/cattaraugus/
+NY,Essex County,1,1,0,0,0,1,https://leadpaintroster.com/ny/county/essex/
+NY,Fulton County,1,1,0,0,0,1,https://leadpaintroster.com/ny/county/fulton/
+NY,Genesee County,1,1,0,0,0,1,https://leadpaintroster.com/ny/county/genesee/
+NY,Greene County,1,1,0,0,0,1,https://leadpaintroster.com/ny/county/greene/
+NY,Herkimer County,1,1,0,0,0,1,https://leadpaintroster.com/ny/county/herkimer/
+NY,Lewis County,1,1,0,0,0,1,https://leadpaintroster.com/ny/county/lewis/
+NY,Ontario County,1,1,0,1,0,0,https://leadpaintroster.com/ny/county/ontario/
+NY,Orleans County,1,1,0,0,0,1,https://leadpaintroster.com/ny/county/orleans/
+NY,Otsego County,1,1,0,0,0,1,https://leadpaintroster.com/ny/county/otsego/
+NY,Schoharie County,1,1,0,0,0,1,https://leadpaintroster.com/ny/county/schoharie/
+NY,Tioga County,1,1,0,1,0,1,https://leadpaintroster.com/ny/county/tioga/
+NY,Warren County,1,1,0,1,0,0,https://leadpaintroster.com/ny/county/warren/
+NY,Address outside New York,1,1,0,0,0,1,https://leadpaintroster.com/ny/out-of-state/
+NJ,Bergen County,28,28,0,21,0,7,https://leadpaintroster.com/nj/county/bergen/
+NJ,Essex County,24,24,0,14,0,12,https://leadpaintroster.com/nj/county/essex/
+NJ,Morris County,21,21,0,15,0,7,https://leadpaintroster.com/nj/county/morris/
+NJ,Union County,20,20,0,13,0,10,https://leadpaintroster.com/nj/county/union/
+NJ,Monmouth County,16,16,0,10,0,6,https://leadpaintroster.com/nj/county/monmouth/
+NJ,Middlesex County,15,15,0,11,0,5,https://leadpaintroster.com/nj/county/middlesex/
+NJ,Burlington County,13,13,0,10,0,3,https://leadpaintroster.com/nj/county/burlington/
+NJ,Camden County,13,13,0,12,0,1,https://leadpaintroster.com/nj/county/camden/
+NJ,Passaic County,12,12,0,8,0,4,https://leadpaintroster.com/nj/county/passaic/
+NJ,Ocean County,10,10,0,10,0,3,https://leadpaintroster.com/nj/county/ocean/
+NJ,Cumberland County,7,7,0,5,0,2,https://leadpaintroster.com/nj/county/cumberland/
+NJ,Mercer County,6,6,0,5,0,1,https://leadpaintroster.com/nj/county/mercer/
+NJ,Somerset County,6,6,0,6,0,0,https://leadpaintroster.com/nj/county/somerset/
+NJ,Gloucester County,5,5,0,4,0,1,https://leadpaintroster.com/nj/county/gloucester/
+NJ,Warren County,5,5,0,5,0,0,https://leadpaintroster.com/nj/county/warren/
+NJ,Hudson County,4,4,0,2,0,2,https://leadpaintroster.com/nj/county/hudson/
+NJ,Atlantic County,3,3,0,2,0,2,https://leadpaintroster.com/nj/county/atlantic/
+NJ,Sussex County,3,3,0,3,0,0,https://leadpaintroster.com/nj/county/sussex/
+NJ,Cape May County,1,1,0,1,0,0,https://leadpaintroster.com/nj/county/cape-may/
+NJ,Address outside New Jersey,44,44,0,23,0,22,https://leadpaintroster.com/nj/out-of-state/
+MA,Middlesex County,18,12,6,12,7,0,https://leadpaintroster.com/ma/county/middlesex/
+MA,Norfolk County,9,4,5,4,5,0,https://leadpaintroster.com/ma/county/norfolk/
+MA,Bristol County,8,5,3,4,5,0,https://leadpaintroster.com/ma/county/bristol/
+MA,Worcester County,8,7,1,5,3,0,https://leadpaintroster.com/ma/county/worcester/
+MA,Essex County,7,5,2,2,5,0,https://leadpaintroster.com/ma/county/essex/
+MA,Hampden County,2,1,1,2,1,0,https://leadpaintroster.com/ma/county/hampden/
+MA,Plymouth County,2,2,0,0,2,0,https://leadpaintroster.com/ma/county/plymouth/
+MA,Suffolk County,2,2,0,0,2,0,https://leadpaintroster.com/ma/county/suffolk/
+MA,Berkshire County,1,1,0,0,1,0,https://leadpaintroster.com/ma/county/berkshire/
+MA,Hampshire County,1,1,0,1,1,0,https://leadpaintroster.com/ma/county/hampshire/
+MA,Address outside Massachusetts,2,2,0,0,2,0,https://leadpaintroster.com/ma/out-of-state/
