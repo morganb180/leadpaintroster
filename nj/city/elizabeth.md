@@ -1,6 +1,6 @@
 ---
-title: "Lead Paint Inspection & Abatement in Elizabeth, NJ"
-description: "5 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms based in Elizabeth, New Jersey, plus 15 more in Union County. Licence numbers and expiry dates."
+title: "Lead Paint Inspection in Elizabeth, NJ: 5 Licensed Firms"
+description: "5 NJ DCA-licensed lead paint inspection and abatement firms based in Elizabeth, NJ, plus 15 more in Union County. Licence numbers, expiry dates and a local hiring guide."
 canonical: https://leadpaintroster.com/nj/city/elizabeth/
 ---
 

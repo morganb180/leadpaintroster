@@ -1,6 +1,6 @@
 ---
-title: "Enviroscience Consultants: Lead Inspector, Ronkonkoma NY"
-description: "Enviroscience Consultants, LLC in Ronkonkoma, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
+title: "Enviroscience Consultants, LLC: Lead Inspector, Ronkonkoma NY"
+description: "Enviroscience Consultants, LLC, 2150 Smithtown Ave, Ronkonkoma (Suffolk County): EPA-certified lead inspection firm, licence LBP-1327-3 to 2028-08-19. Phone (631) 580-3191."
 canonical: https://leadpaintroster.com/firms/enviroscience-consultants-llc-ny0257/
 ---
 

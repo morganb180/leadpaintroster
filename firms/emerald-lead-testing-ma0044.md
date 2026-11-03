@@ -1,6 +1,6 @@
 ---
-title: "Emerald Lead Testing, Springfield, MA | Lead Paint Roster"
-description: "Emerald Lead Testing: Lead inspection / evaluation, Lead risk assessment in Springfield, MA. Licence details, contact and quotes."
+title: "Emerald Lead Testing, Springfield MA: Lead Inspector"
+description: "Emerald Lead Testing in Springfield, MA is on the state's licensed lead inspector list for inspection and risk assessment. Google 4.4 (7 reviews). Phone (413) 736-5323, free quotes."
 canonical: https://leadpaintroster.com/firms/emerald-lead-testing-ma0044/
 ---
 

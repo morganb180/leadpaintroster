@@ -1,6 +1,6 @@
 ---
-title: "Certified Lead Paint Inspection & Abatement in Massachusetts"
-description: "Find MA-licensed lead paint inspectors, risk assessors and abatement firms in Massachusetts: 60 listings by county and city, with licence numbers, expiry dates and source links."
+title: "Lead Paint Inspectors in Massachusetts: Licensed List"
+description: "Find Massachusetts-licensed lead paint inspectors and risk assessors: 60 listings by county and city from the state list, with phone and email, plus how the MA Lead Law works."
 canonical: https://leadpaintroster.com/ma/
 ---
 

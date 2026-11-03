@@ -1,6 +1,6 @@
 ---
-title: "Angad Renovations: Lead Abatement, South Ozone Park NY"
-description: "Angad Renovations, Corp. in South Ozone Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
+title: "Angad Renovations Corp: Lead Abatement, South Ozone Park NY"
+description: "Angad Renovations, Corp., 13537 122nd Pl, South Ozone Park (Queens): EPA lead abatement licence LBP-F264084-1, exp. 2027-05-20. Phone (718) 536-9226 and source record."
 canonical: https://leadpaintroster.com/firms/angad-renovations-corp-ny0784/
 ---
 

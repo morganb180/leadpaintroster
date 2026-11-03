@@ -1,6 +1,6 @@
 ---
-title: "Lead Paint Inspection & Abatement in Erie County, NY"
-description: "47 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Erie County, New York, with licence numbers, expiry dates and source links."
+title: "Lead Removal & Testing in Buffalo and Erie County, NY"
+description: "47 EPA-certified lead removal (abatement) and lead inspection firms in Erie County, NY, including Buffalo: 41 abatement, 15 inspection. Licence numbers, expiry dates, free quotes."
 canonical: https://leadpaintroster.com/ny/county/erie/
 ---
 

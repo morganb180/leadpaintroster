@@ -1,6 +1,6 @@
 ---
-title: "Certified NY Environmental Services, Airmont NY"
-description: "Certified NY Environmental Services LLC: Lead abatement, Lead inspection / evaluation in Airmont, NY. Licence details, contact and quotes."
+title: "Certified NY Environmental Services: Lead Testing, Airmont NY"
+description: "EPA-certified lead testing (inspection, risk assessment) and abatement firm in Airmont, Rockland County, NY. Licence LBP-19631-3, exp. 2028-01-20. Phone (718) 851-3263."
 canonical: https://leadpaintroster.com/firms/certified-ny-environmental-services-llc-ny0161/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Accredited Environmental Safety: Lead Inspector, Maspeth NY"
-description: "Accredited Environmental Safety Corp.: Lead inspection / evaluation in Maspeth, NY. Licence details, contact and quotes."
+title: "Accredited Environmental Safety: Certified Lead Testing, Maspeth NY"
+description: "EPA-certified lead inspection, risk assessment and clearance testing firm in Maspeth, Queens. Licence LBP-F267838-1 (exp. 2027-08-20). Google 5.0 from 20 reviews. (929) 418-5281."
 canonical: https://leadpaintroster.com/firms/accredited-environmental-safety-corp-ny0063/
 ---
 

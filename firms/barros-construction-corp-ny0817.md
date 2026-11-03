@@ -1,6 +1,6 @@
 ---
-title: "Barros Construction Corp: Lead Abatement, Richmond Hill NY"
-description: "Barros Construction Corp in Richmond Hill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
+title: "Barros Construction Corp, Richmond Hill NY: Lead Abatement"
+description: "Barros Construction Corp, 107-22 117th St, Richmond Hill (Queens): EPA lead abatement licence LBP-F112397-4, exp. 2028-05-06. Google 4.2 from 5 reviews. (646) 996-7282."
 canonical: https://leadpaintroster.com/firms/barros-construction-corp-ny0817/
 ---
 

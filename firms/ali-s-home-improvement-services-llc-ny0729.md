@@ -1,6 +1,6 @@
 ---
-title: "ALI’S Home Improvement Services, Tonawanda NY"
-description: "ALI’S Home Improvement Services LLC in Tonawanda, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
+title: "ALI’S Home Improvement Services: Lead Abatement, Tonawanda NY"
+description: "ALI’S Home Improvement Services LLC in Tonawanda, NY (Erie County): EPA lead abatement licence LBP-F282562-1 to 2028-02-10. Google 5.0 (2 reviews). Phone (716) 418-9748."
 canonical: https://leadpaintroster.com/firms/ali-s-home-improvement-services-llc-ny0729/
 ---
 

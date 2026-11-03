@@ -1,6 +1,6 @@
 ---
-title: "CNY Lead Testing, LLC, Syracuse, NY | Lead Paint Roster"
-description: "CNY Lead Testing, LLC: Lead abatement, Lead inspection / evaluation in Syracuse, NY. Licence details, contact and quotes."
+title: "CNY Lead Testing, LLC, Syracuse NY: Certified Lead Testing"
+description: "CNY Lead Testing, LLC, 114 Edgewood Ave, Syracuse: EPA-certified for lead inspection, testing and abatement, licence LBP-F252472-2 to 2029-08-07. Phone (315) 399-2186."
 canonical: https://leadpaintroster.com/firms/cny-lead-testing-llc-ny0154/
 ---
 

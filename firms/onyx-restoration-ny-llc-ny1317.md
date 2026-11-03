@@ -1,6 +1,6 @@
 ---
-title: "Onyx Restoration NY LLC, New City, NY | Lead Paint Roster"
-description: "Onyx Restoration NY LLC in New City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+title: "Onyx Restoration NY LLC: Lead Abatement in New City, NY"
+description: "Onyx Restoration NY LLC, 368 New Hempstead Rd, New City (Rockland County): EPA-certified lead abatement firm, licence LBP-F301063-1 to 2028-07-14. Call (347) 824-2106."
 canonical: https://leadpaintroster.com/firms/onyx-restoration-ny-llc-ny1317/
 ---
 

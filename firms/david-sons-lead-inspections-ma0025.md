@@ -1,6 +1,6 @@
 ---
-title: "David & Sons Lead Inspections, Lynn, MA | Lead Paint Roster"
-description: "David & Sons Lead Inspections in Lynn, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
+title: "David & Sons Lead Inspections, Lynn MA: Lead Risk Assessor"
+description: "David & Sons Lead Inspections in Lynn, MA (Essex County) is a Massachusetts-licensed lead risk assessor. Google 5.0 (3 reviews). Phone (617) 884-2979 or request a free quote."
 canonical: https://leadpaintroster.com/firms/david-sons-lead-inspections-ma0025/
 ---
 

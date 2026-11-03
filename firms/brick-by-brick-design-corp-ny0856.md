@@ -1,6 +1,6 @@
 ---
-title: "Brick By Brick Design Corp, Bronx, NY | Lead Paint Roster"
-description: "Brick By Brick Design Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+title: "Brick By Brick Design Corp, Bronx NY: Lead Abatement"
+description: "Brick By Brick Design Corp, 1601 Bronxdale Ave, Bronx: EPA-certified lead abatement firm, licence LBP-F305578-1 to 2028-09-08. Phone (914) 501-8185 or request a free quote."
 canonical: https://leadpaintroster.com/firms/brick-by-brick-design-corp-ny0856/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "A & A Lead Inspections, Saugus, MA | Lead Paint Roster"
-description: "A & A Lead Inspections in Saugus, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates and contact details."
+title: "A & A Lead Inspections, Saugus MA: Licensed Lead Inspector"
+description: "A & A Lead Inspections in Saugus, MA (Essex County) is on Massachusetts' licensed private lead inspector list. Phone (617) 470-6837, email and a free quote request."
 canonical: https://leadpaintroster.com/firms/a-a-lead-inspections-ma0040/
 ---
 

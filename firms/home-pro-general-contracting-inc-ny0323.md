@@ -1,6 +1,6 @@
 ---
-title: "Home Pro General Contracting: Lead Inspector, Flushing NY"
-description: "Home Pro General Contracting Inc in Flushing, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
+title: "Home Pro General Contracting, Flushing NY: EPA Lead Inspector"
+description: "Home Pro General Contracting Inc, 4724 Union St, Flushing (Queens): EPA-certified lead inspection and risk assessment firm, licence LBP-F208562-3 to 2028-10-08. (646) 269-9869."
 canonical: https://leadpaintroster.com/firms/home-pro-general-contracting-inc-ny0323/
 ---
 

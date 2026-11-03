@@ -1,6 +1,6 @@
 ---
-title: "Hudson Valley Repair & Remediation, Poughkeepsie NY"
-description: "Hudson Valley Repair & Remediation in Poughkeepsie, NY: US EPA certified for lead abatement. Licence numbers, expiry dates and contact details."
+title: "Hudson Valley Repair & Remediation: Lead Abatement, Poughkeepsie"
+description: "EPA-certified lead abatement firm in Poughkeepsie, NY (Dutchess County), licence LBP-F304603-1 to 2028-08-14. Phone (845) 219-3879. Compare Dutchess County lead testing."
 canonical: https://leadpaintroster.com/firms/hudson-valley-repair-remediation-ny1087/
 ---
 

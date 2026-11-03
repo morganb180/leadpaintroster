@@ -1,6 +1,6 @@
 ---
-title: "GNP Environmental Inc., Brooklyn, NY | Lead Paint Roster"
-description: "GNP Environmental Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+title: "GNP Environmental Inc., Brooklyn NY: EPA Lead Abatement"
+description: "GNP Environmental Inc., 1681 65th St, Brooklyn: EPA-certified lead abatement firm, licence LBP-F193389-3 (exp. 2027-11-28). Phone (646) 920-3305 and the official source record."
 canonical: https://leadpaintroster.com/firms/gnp-environmental-inc-ny1044/
 ---
 

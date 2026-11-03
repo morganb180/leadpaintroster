@@ -1,6 +1,6 @@
 ---
-title: "Lead Paint Inspection & Abatement in Hudson County, NJ"
-description: "4 NJ DCA-licensed lead paint inspectors, risk assessors and abatement firms in Hudson County, New Jersey, with licence numbers, expiry dates and source links."
+title: "Certified Lead Testing & Abatement in Hudson County, NJ"
+description: "4 NJ DCA-licensed lead testing (inspection) and abatement firms in Hudson County, New Jersey, with licence numbers and expiry dates. Not NY's Hudson Valley."
 canonical: https://leadpaintroster.com/nj/county/hudson/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Peak Construction, Fishkill, NY | Lead Paint Roster"
-description: "Peak Construction in Fishkill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+title: "Peak Construction, Fishkill NY: EPA Lead Abatement Firm"
+description: "Peak Construction, 164 Old Route 9, Fishkill (Dutchess County): EPA-certified lead abatement firm, licence LBP-41861-3. Google 4.5 from 118 reviews. Phone (845) 896-5496."
 canonical: https://leadpaintroster.com/firms/peak-construction-ny1349/
 ---
 

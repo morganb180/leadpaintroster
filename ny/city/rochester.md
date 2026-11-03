@@ -1,6 +1,6 @@
 ---
-title: "Lead Paint Inspection & Abatement in Rochester, NY"
-description: "35 EPA-licensed lead paint inspectors, risk assessors and abatement firms based in Rochester, New York, plus 10 more in Monroe County. Licence numbers and expiry dates."
+title: "EPA-Certified Lead Inspectors in Rochester, NY (35 Firms)"
+description: "35 EPA-certified lead paint inspectors and abatement firms based in Rochester, NY (12 inspection, 27 abatement), plus 10 more in Monroe County. Licence numbers and expiry dates."
 canonical: https://leadpaintroster.com/ny/city/rochester/
 ---
 

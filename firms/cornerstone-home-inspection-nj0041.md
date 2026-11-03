@@ -1,6 +1,6 @@
 ---
-title: "Cornerstone Home Inspection, Warren, NJ | Lead Paint Roster"
-description: "Cornerstone Home Inspection in Warren, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates and contact details."
+title: "Cornerstone Home Inspection, Warren NJ: Lead Inspector"
+description: "Cornerstone Home Inspection in Warren, NJ (Somerset County) holds NJ DCA lead evaluation licence #00748 (exp. 2027-05-31). Phone (973) 650-4151 or request a free quote."
 canonical: https://leadpaintroster.com/firms/cornerstone-home-inspection-nj0041/
 ---
 

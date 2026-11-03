@@ -1,6 +1,6 @@
 ---
-title: "Lead Paint Inspection & Abatement in Suffolk County, NY"
-description: "66 EPA-licensed lead paint inspectors, risk assessors and abatement firms in Suffolk County, New York, with licence numbers, expiry dates and source links."
+title: "Lead Testing Services in Suffolk County, NY: 66 EPA Firms"
+description: "Compare 66 EPA-certified lead testing, inspection and abatement firms in Suffolk County, NY (24 inspection, 59 abatement), with licence numbers, expiry dates and free quotes."
 canonical: https://leadpaintroster.com/ny/county/suffolk/
 ---
 

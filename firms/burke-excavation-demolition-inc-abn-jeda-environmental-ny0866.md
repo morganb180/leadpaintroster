@@ -1,6 +1,6 @@
 ---
-title: "Burke Excavation Demolition, Inc. ABN: JEDA Environmental"
-description: "Burke Excavation Demolition, Inc. ABN: JEDA Environmental: Lead abatement in Massena, NY. Licence details, contact and quotes."
+title: "Burke Excavation Demolition (JEDA Environmental): Lead, Massena NY"
+description: "Burke Excavation Demolition, Inc. ABN: JEDA Environmental, Massena, NY (St. Lawrence County): EPA lead abatement licence LBP-F207724-3 to 2028-09-25. (315) 769-3685."
 canonical: https://leadpaintroster.com/firms/burke-excavation-demolition-inc-abn-jeda-environmental-ny0866/
 ---
 

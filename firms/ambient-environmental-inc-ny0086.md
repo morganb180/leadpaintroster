@@ -1,6 +1,6 @@
 ---
-title: "Ambient Environmental, Inc., Albany, NY | Lead Paint Roster"
-description: "Ambient Environmental, Inc. in Albany, NY: US EPA certified for lead inspection. Licence numbers, expiry dates and contact details."
+title: "Ambient Environmental, Inc., Albany NY: Lead Inspector"
+description: "Ambient Environmental, Inc., 828 Washington Ave, Albany: EPA-certified lead inspection and risk assessment firm, licence LBP-16658-4 to 2029-05-12. Google 4.3. Free quote."
 canonical: https://leadpaintroster.com/firms/ambient-environmental-inc-ny0086/
 ---
 

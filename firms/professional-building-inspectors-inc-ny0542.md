@@ -1,6 +1,6 @@
 ---
-title: "Professional Building Inspectors, East Setauket NY"
-description: "Professional Building Inspectors Inc.: Lead inspection / evaluation in East Setauket, NY. Licence details, contact and quotes."
+title: "Professional Building Inspectors, East Setauket NY: Lead Inspector"
+description: "EPA-certified lead inspection, risk assessment and clearance firm at 6 Julia Cir, East Setauket, NY (Suffolk County). Licence LBP-15689-3, exp. 2026-12-19. Call (631) 474-1534."
 canonical: https://leadpaintroster.com/firms/professional-building-inspectors-inc-ny0542/
 ---
 

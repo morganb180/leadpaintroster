@@ -1,6 +1,6 @@
 ---
-title: "Anderson Lead Inspections, Stow, MA | Lead Paint Roster"
-description: "Anderson Lead Inspections in Stow, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates and contact details."
+title: "Anderson Lead Inspections, Stow MA: Lead Risk Assessor"
+description: "Anderson Lead Inspections is a Massachusetts-licensed lead risk assessor based in Stow, MA (Middlesex County). Google 5.0 (3 reviews). Phone (978) 875-3081, email, free quote."
 canonical: https://leadpaintroster.com/firms/anderson-lead-inspections-ma0045/
 ---
 

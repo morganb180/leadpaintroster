@@ -1,6 +1,6 @@
 ---
-title: "Accredited Lead Inspection, Port Washington NY"
-description: "Accredited Lead Inspection, Inc.: Lead abatement, Lead inspection / evaluation in Port Washington, NY. Licence details, contact and quotes."
+title: "Accredited Lead Inspection, Port Washington NY: Lead Testing"
+description: "Accredited Lead Inspection, Inc., 156 Shore Rd, Port Washington (Nassau County): EPA-certified for lead inspection, testing and abatement. Google 5.0 (4 reviews). Free quote."
 canonical: https://leadpaintroster.com/firms/accredited-lead-inspection-inc-ny0064/
 ---
 

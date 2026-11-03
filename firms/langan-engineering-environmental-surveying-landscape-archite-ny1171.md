@@ -1,6 +1,6 @@
 ---
-title: "Langan Engineering, Environmental, Surveying, Landscape"
-description: "Langan Engineering, Environmental, Surveying, Landscape Architecture & Geology D.P.C.: Lead abatement in New York, NY. Licence details, contact and quotes."
+title: "Langan Engineering, Environmental, Surveying, Landscape Architecture & Geology, D.P.C.: EPA Lead Firm"
+description: "EPA lead abatement licence LBP-2233-3 (exp. 2027-08-02) for Langan Engineering, Environmental, Surveying, Landscape Architecture & Geology D.P.C. Phone (973) 560-4900."
 canonical: https://leadpaintroster.com/firms/langan-engineering-environmental-surveying-landscape-archite-ny1171/
 ---
 
