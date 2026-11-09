@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/caulfield-environmental-ma0024/
 
 * Lead risk assessment
 * Leominster, MA (Worcester County)
-* Phone: (508) 561-1281
-* Email: Caulf@comcast.net
 * Address: Leominster, MA
 * Google rating: 5.0 from 10 reviews (as of Oct 18, 2026)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/metollis-construction-renovation-in
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 681-3876
 * Address: 309 96th St, Brooklyn, NY 11209
 * Google rating: 5.0 from 9 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F228338-2 (exp. 2027-10-24)

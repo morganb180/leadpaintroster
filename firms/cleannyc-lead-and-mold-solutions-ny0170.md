@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cleannyc-lead-and-mold-solutions-ny
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (212) 381-6001
 * Address: 841 Knickerbocker Ave, Brooklyn, NY 11207
 * Google rating: 5.0 from 147 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F256950-1 (exp. 2026-12-08)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gravesend-construction-corp-ny1063/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 528-4156
 * Address: 1747 E 3rd St, Brooklyn, NY 11223
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221773-2 (exp. 2027-02-15)
 

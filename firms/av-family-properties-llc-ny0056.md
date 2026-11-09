@@ -1,6 +1,6 @@
 ---
 title: "AV Family Properties LLC, Monroe, NY | Lead Paint Roster"
-description: "AV Family Properties LLC in Monroe, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "AV Family Properties LLC in Monroe, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/av-family-properties-llc-ny0056/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/av-family-properties-llc-ny0056/
 
 * Lead inspection / evaluation
 * Monroe, NY (Orange County)
-* Phone: (917) 349-9601
 * Address: 33 Center Hill Rd, Monroe, NY 10950
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F325877-1 (exp. 2029-03-17)
 

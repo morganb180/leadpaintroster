@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/eikon-planning-design-llc-nj0052/
 
 * Lead inspection / evaluation
 * Hackettstown, NJ (Warren County)
-* Phone: (908) 813-2323
 * Address: 221 High St, Hackettstown, NJ 07840
 * Google rating: 2.3 from 3 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00849 (exp. 2026-11-30)

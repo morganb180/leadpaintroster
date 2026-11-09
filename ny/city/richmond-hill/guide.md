@@ -41,8 +41,6 @@ Look the firm up in the official EPA list, then ask for the firm's certification
 Licensed firm
 
 9326 123rd St, Richmond Hill, NY  
-☎ [(347) 771-4405](tel:3477714405)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F265771-1 (exp. 2027-06-27)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F265771-1 (exp. 2027-06-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -55,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 12319 Hillside Ave, Richmond Hill, NY  
-☎ [(718) 600-3151](tel:7186003151)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F343612-1 (exp. 2029-08-13)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F343612-1 (exp. 2029-08-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -69,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 12329 95th Ave, Richmond Hill, NY  
-☎ [(718) 846-0371](tel:7188460371)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F161163-2 (exp. 2028-03-20)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F161163-2 (exp. 2028-03-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -83,8 +77,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 13202 89th Ave, Richmond Hill, NY  
-☎ [(718) 436-5500](tel:7184365500)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F276488-1 (exp. 2027-11-29)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0560)

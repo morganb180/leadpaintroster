@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lozier-inc-ny0426/
 
 * Lead abatement, Lead inspection / evaluation
 * Whitestone, NY (Queens County)
-* Phone: (929) 224-6628
 * Address: 15048 14th Ave, Whitestone, NY 11357
 * Google rating: 3.3 from 3 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F224113-2 (exp. 2027-04-26)

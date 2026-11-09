@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/asbestos-lead-mold-abatement-llc-ny
 
 * Lead abatement
 * Albany, NY (Albany County)
-* Phone: (845) 978-8963
 * Address: 1971 Western Ave, Albany, NY 12203
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F348453-1 (exp. 2029-10-05)
 

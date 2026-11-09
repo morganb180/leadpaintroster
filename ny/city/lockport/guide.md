@@ -47,8 +47,6 @@ Lead Paint Roster lists 4 listings with an address in Lockport: 0 inspection/ris
 Licensed firm
 
 6193 Raymond Rd, Lockport, NY  
-☎ [(716) 550-9811](tel:7165509811)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F265540-1 (exp. 2027-06-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1125)
@@ -60,8 +58,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 6670 Slayton Settlement Rd, Lockport, NY  
-☎ [(716) 990-2273](tel:7169902273)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-14305-3 (exp. 2029-03-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1205)

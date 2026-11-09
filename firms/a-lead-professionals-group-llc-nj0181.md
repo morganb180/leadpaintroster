@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-lead-professionals-group-llc-nj01
 
 * Lead abatement
 * Montclair, NJ (Essex County)
-* Phone: (732) 301-4599
 * Address: 10 Walnut Pkwy, Montclair, NJ 07042
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00889 (exp. 2027-07-31)
 

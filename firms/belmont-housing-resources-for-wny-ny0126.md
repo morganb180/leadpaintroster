@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/belmont-housing-resources-for-wny-n
 
 * Lead inspection / evaluation
 * Buffalo, NY (Erie County)
-* Phone: (716) 884-7791
 * Address: 2393 Main St, Buffalo, NY 14214
 * Google rating: 3.0 from 102 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F225705-2 (exp. 2027-05-31)

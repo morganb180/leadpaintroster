@@ -29,8 +29,6 @@ Lead Paint Roster lists 4 EPA-licensed listings with an address in West Seneca: 
 Licensed firm
 
 1500 Union Rd, West Seneca, NY  
-☎ [(716) 608-6803](tel:7166086803)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F119051-4 (exp. 2029-01-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0108)
@@ -44,8 +42,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 20 Brian Ln, West Seneca, NY  
-☎ [(716) 331-8983](tel:7163318983)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F348509-1 (exp. 2029-10-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0909)
@@ -57,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 19 Waltercrest Ter, West Seneca, NY  
-☎ [(716) 697-8655](tel:7166978655)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F265401-1 (exp. 2027-06-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1169)
@@ -70,8 +64,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 36 Thorndale Ave, West Seneca, NY  
-☎ [(716) 392-8300](tel:7163928300)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F174936-1 (exp. 2028-06-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1604)

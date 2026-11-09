@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/city-safe-testing-llc-ny0151/
 
 * Lead abatement, Lead inspection / evaluation
 * Great Neck, NY (Nassau County)
-* Phone: (347) 926-3049
 * Address: 444 Middle Neck Rd, Great Neck, NY 11023
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F256840-1 (exp. 2026-12-05)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F256840-1 (exp. 2026-12-05)

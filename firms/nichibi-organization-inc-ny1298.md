@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nichibi-organization-inc-ny1298/
 
 * Lead abatement
 * Great Neck, NY (Nassau County)
-* Phone: (917) 567-7529
 * Address: 36 Strathmore Rd, Great Neck, NY 11023
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221610-2 (exp. 2027-02-10)
 

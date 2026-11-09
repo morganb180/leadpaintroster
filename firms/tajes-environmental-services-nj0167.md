@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tajes-environmental-services-nj0167
 
 * Lead inspection / evaluation
 * Lyndhurst, NJ (Bergen County)
-* Phone: (201) 705-6346
 * Address: 514 Fern Ave, Lyndhurst, NJ 07071
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00879 (exp. 2027-04-30)
 

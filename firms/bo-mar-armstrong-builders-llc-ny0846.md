@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bo-mar-armstrong-builders-llc-ny084
 
 * Lead abatement
 * New Hartford, NY (Oneida County)
-* Phone: (315) 404-5898
 * Address: 3805 Oneida St, New Hartford, NY 13413
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F185720-3 (exp. 2030-03-19)
 

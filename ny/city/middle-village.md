@@ -29,8 +29,6 @@ Lead Paint Roster lists 4 EPA-licensed listings with an address in Middle Villag
 Licensed firm
 
 6008 74th St, Middle Village, NY  
-☎ [(914) 999-2073](tel:9149992073)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F149177-4 (exp. 2030-01-12)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F149177-4 (exp. 2030-01-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 6323 Metropolitan Ave, Middle Village, NY  
-☎ [(347) 556-7411](tel:3475567411)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F299558-1 (exp. 2028-07-07)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F299558-1 (exp. 2028-07-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -59,8 +55,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 6919 79th St, Middle Village, NY  
-☎ [(929) 254-4114](tel:9292544114)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F279479-1 (exp. 2027-12-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0969)
@@ -72,8 +66,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 5810 76th St, Middle Village, NY  
-☎ [(917) 797-0220](tel:9177970220)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-46879-1 (exp. 2028-05-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1274)

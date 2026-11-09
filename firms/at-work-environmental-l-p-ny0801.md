@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/at-work-environmental-l-p-ny0801/
 
 * Lead abatement
 * Laurelton, NY (Queens County)
-* Phone: (347) 386-7679
 * Address: 139 47 225th St, Laurelton, NY 11413
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F190126-3 (exp. 2027-11-08)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-tech-solutions-llc-ny
 
 * Lead abatement, Lead inspection / evaluation
 * Mount Kisco, NY (Westchester County)
-* Phone: (929) 949-9939
 * Address: 487 E Main St, Mount Kisco, NY 10549
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F263862-1 (exp. 2027-05-15)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F263862-1 (exp. 2027-05-15)

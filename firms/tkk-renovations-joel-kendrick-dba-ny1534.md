@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tkk-renovations-joel-kendrick-dba-n
 
 * Lead abatement
 * Lackawanna, NY (Erie County)
-* Phone: (716) 826-2308
 * Address: 154 Point St, Lackawanna, NY 14218
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-118695-3 (exp. 2029-10-22)
 

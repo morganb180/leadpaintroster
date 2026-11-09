@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/urban-restoration-general-contracti
 
 * Lead abatement
 * Jewett, NY (Greene County)
-* Phone: (212) 799-0703
 * Address: 3213 Rt 23C, Jewett, NY 12444
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-40251-1 (exp. 2028-05-06)
 

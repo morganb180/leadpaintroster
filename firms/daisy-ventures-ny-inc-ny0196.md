@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/daisy-ventures-ny-inc-ny0196/
 
 * Lead abatement, Lead inspection / evaluation
 * Schenectady, NY (Schenectady County)
-* Phone: (518) 391-1864
 * Address: 2021 Lenox Rd, Schenectady, NY 12308
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F329800-1 (exp. 2029-04-08)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F329800-1 (exp. 2029-04-08)

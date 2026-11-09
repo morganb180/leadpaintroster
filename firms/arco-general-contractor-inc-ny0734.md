@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/arco-general-contractor-inc-ny0734/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 698-6815
 * Address: 929 Coney Island Ave, Brooklyn, NY 11230
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F315413-1 (exp. 2028-11-26)
 

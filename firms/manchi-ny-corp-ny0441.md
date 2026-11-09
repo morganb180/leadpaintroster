@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/manchi-ny-corp-ny0441/
 
 * Lead abatement, Lead inspection / evaluation
 * East Greenbush, NY (Rensselaer County)
-* Phone: (718) 406-5783
 * Address: 53 Old Troy Rd, East Greenbush, NY 12061
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F213400-2 (exp. 2028-04-18)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F213400-2 (exp. 2028-04-18)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pro-build-restoration-inc-ny0541/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (347) 240-4619
 * Address: 770 Coney Island Ave, Brooklyn, NY 11218
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F262537-1 (exp. 2027-04-18)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262537-1 (exp. 2027-04-18)

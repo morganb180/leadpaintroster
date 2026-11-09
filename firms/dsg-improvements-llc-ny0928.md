@@ -1,6 +1,6 @@
 ---
 title: "DSG Improvements, LLC, Bayside, NY | Lead Paint Roster"
-description: "DSG Improvements, LLC in Bayside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "DSG Improvements, LLC in Bayside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/dsg-improvements-llc-ny0928/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dsg-improvements-llc-ny0928/
 
 * Lead abatement
 * Bayside, NY (Queens County)
-* Phone: (917) 597-3727
 * Address: 2606 202nd St, Bayside, NY 11360
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F261428-1 (exp. 2027-03-25)
 

@@ -13,9 +13,9 @@ Updated Oct 30, 2026. This policy covers Lead Paint Roster (leadpaintroster.com,
 ## Quote requests
 
 * **What you enter:** your name, email, optionally your phone, the ZIP code of the property, the service you need and an optional note.
-* **Who gets it:** when you check the consent box and submit, we send your request by email to **up to 3 certified lead professionals** that offer that service near that ZIP code. Only those pros get your contact details. We email you a list of the pros we contacted.
+* **Who gets it:** when you check the consent box and submit, we connect you with **up to 3 nearby certified lead professionals** that offer that service near that ZIP code. They contact you directly. Only those pros get your contact details. The confirmation names the firms you were connected with.
 * **What we keep:** we keep a copy of each quote request: the details you submit (your name, email, phone if given, ZIP code, the service you need and any note), the pros it went to and the date. We use it to run and improve the service, and we don't sell it. We only use it to send you lead-safety tips and offers if you opt in (below). Our server also keeps routing records: a request ID, the date and time, state, first three digits of your ZIP, the service requested and which pros were contacted. These records are kept for up to about 13 months.
-* **Email delivery:** requests are sent through our email provider, SendGrid (Twilio), which processes the message to deliver it and keeps delivery logs under its own retention policy. Pros that receive your request keep it under their own policies; contact them directly to ask them to delete it.
+* **Delivery:** a service provider, SendGrid (Twilio), processes the request so it reaches those firms and keeps delivery logs under its own retention policy. Pros that receive your request keep it under their own policies; contact them directly to ask them to delete it.
 * **Spam protection:** the form uses Cloudflare Turnstile and per-connection rate limits. To rate-limit, we keep a one-way hash of your IP address for about an hour.
 
 ## Tips and offers (optional)
@@ -49,7 +49,7 @@ We use Google Analytics to collect aggregate usage statistics (pages viewed, the
 
 ## Business listings
 
-Listings come from public licensing or certification records (see [About our data](/about-our-data/)). Pros receive homeowner requests by email; every request email has a one-click link to stop receiving them, and pros can claim, correct or remove their listing at any time.
+Listings come from public licensing or certification records (see [About our data](/about-our-data/)). Pros receive homeowner requests through that provider; every request has a one-click link to stop receiving them, and pros can claim, correct or remove their listing at any time.
 
 ## Your choices
 

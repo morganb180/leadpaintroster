@@ -1,6 +1,6 @@
 ---
 title: "SRG Industries, Buffalo, NY | Lead Paint Roster"
-description: "SRG Industries in Buffalo, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "SRG Industries in Buffalo, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/srg-industries-ny1461/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/srg-industries-ny1461/
 
 * Lead abatement
 * Buffalo, NY (Erie County)
-* Phone: (716) 873-3553
 * Address: 520 Hinman Ave, Buffalo, NY 14216
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F214164-3 (exp. 2029-07-30)
 

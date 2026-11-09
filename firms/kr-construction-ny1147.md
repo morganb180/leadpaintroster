@@ -1,6 +1,6 @@
 ---
 title: "KR Construction, Schenectady, NY | Lead Paint Roster"
-description: "KR Construction in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "KR Construction in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/kr-construction-ny1147/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/kr-construction-ny1147/
 
 * Lead abatement
 * Schenectady, NY (Schenectady County)
-* Phone: (518) 847-8466
 * Address: 17 Corlaer Ave, Schenectady, NY 12304
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F222278-2 (exp. 2027-02-24)
 

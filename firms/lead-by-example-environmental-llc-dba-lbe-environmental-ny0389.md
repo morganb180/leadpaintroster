@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lead-by-example-environmental-llc-d
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 982-9417
 * Address: 656 Putnam Ave, Brooklyn, NY 11221
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F164216-4 (exp. 2028-05-24)
 

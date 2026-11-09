@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/curren-environmental-inc-nj0043/
 
 * Lead inspection / evaluation
 * Cherry Hill, NJ (Camden County)
-* Phone: (856) 858-9509
 * Address: 10 Penn Ave, Cherry Hill, NJ 08002
 * Google rating: 4.4 from 74 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00725 (exp. 2026-10-31)

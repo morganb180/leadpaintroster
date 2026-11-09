@@ -23,8 +23,6 @@ Lead Paint Roster lists 2 EPA-licensed listings for lead inspection / evaluation
 Licensed firm
 
 45477 State Route 12, Alexandria Bay, NY  
-☎ [(315) 277-7167](tel:3152777167)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F202820-3 (exp. 2028-05-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0301)
@@ -36,8 +34,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 22967 County Route 59, Dexter, NY  
-☎ [(315) 783-5044](tel:3157835044)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F237875-2 (exp. 2028-07-07)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F237875-2 (exp. 2028-07-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -54,8 +50,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 16374 State Route 12E, Dexter, NY  
-☎ [(315) 489-0399](tel:3154890399)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F348146-1 (exp. 2029-09-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1120)
@@ -67,8 +61,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 27004 Loomis Rd, Lorraine, NY  
-☎ [(315) 232-4076](tel:3152324076)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-18163-2 (exp. 2028-05-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1098)
@@ -80,8 +72,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 175 Arsenal St, Watertown, NY  
-☎ [(315) 785-5130](tel:3157855130)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F240443-2 (exp. 2028-10-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1137)
@@ -93,8 +83,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 27520 Perch Lake Rd, Watertown, NY  
-☎ [(315) 681-7784](tel:3156817784)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F117544-2 (exp. 2029-08-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1457)
@@ -106,8 +94,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 215 Washington St, Watertown, NY  
-☎ [(315) 775-3115](tel:3157753115)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F267159-1 (exp. 2027-07-31)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1554)
@@ -119,8 +105,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 26252 State Route 3, Watertown, NY  
-☎ [(315) 818-4188](tel:3158184188)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F253648-1 (exp. 2028-11-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1559)

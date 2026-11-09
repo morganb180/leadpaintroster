@@ -1,6 +1,6 @@
 ---
 title: "Oualie Construction Inc., Bronx, NY | Lead Paint Roster"
-description: "Oualie Construction Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Oualie Construction Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/oualie-construction-inc-ny1323/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/oualie-construction-inc-ny1323/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 772-7952
 * Address: 958 E 228th St, Bronx, NY 10466
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F217905-2 (exp. 2027-10-31)
 

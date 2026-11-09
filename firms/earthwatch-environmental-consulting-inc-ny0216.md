@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/earthwatch-environmental-consulting
 
 * Lead inspection / evaluation
 * Jamaica, NY (Queens County)
-* Phone: (516) 939-7681
 * Address: 14548A 105th Ave, Jamaica, NY 11435
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F231880-2 (exp. 2028-01-27)
 

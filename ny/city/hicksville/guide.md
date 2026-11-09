@@ -44,8 +44,6 @@ Lead Paint Roster lists 6 listings with an address in Hicksville: 3 inspection/r
 Licensed firm
 
 43 Bond Ln, Hicksville, NY  
-☎ [(516) 884-7540](tel:5168847540)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F206888-2 (exp. 2028-02-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0169)
@@ -57,8 +55,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 69 Elm St, Hicksville, NY  
-☎ [(929) 369-8098](tel:9293698098)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F208578-1 (exp. 2027-06-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0452)
@@ -70,8 +66,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 230 Princess St, Hicksville, NY  
-☎ [(917) 618-5516](tel:9176185516)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F190560-2 (exp. 2028-02-18)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F190560-2 (exp. 2028-02-18)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -84,8 +78,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 16 Seth Ln, Hicksville, NY  
-☎ [(917) 353-4061](tel:9173534061)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F200210-3 (exp. 2028-04-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0891)

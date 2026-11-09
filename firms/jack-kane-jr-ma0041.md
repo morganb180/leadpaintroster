@@ -1,6 +1,6 @@
 ---
 title: "Jack Kane Jr., Sharon, MA | Lead Paint Roster"
-description: "Jack Kane Jr. in Sharon, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates, contact details and the official source list."
+description: "Jack Kane Jr. in Sharon, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/jack-kane-jr-ma0041/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/jack-kane-jr-ma0041/
 
 * Lead risk assessment
 * Sharon, MA (Norfolk County)
-* Phone: (781) 784-7548
-* Email: jakane4@comcast.net
 * Address: Sharon, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0041

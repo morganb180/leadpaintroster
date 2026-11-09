@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ft-enterprise-group-inc-ny1008/
 
 * Lead abatement
 * East Elmhurst, NY (Queens County)
-* Phone: (718) 779-2073
 * Address: 11024 Ditmars Blvd, East Elmhurst, NY 11369
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F228179-1 (exp. 2029-02-26)
 

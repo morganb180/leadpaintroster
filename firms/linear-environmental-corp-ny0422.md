@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/linear-environmental-corp-ny0422/
 
 * Lead abatement, Lead inspection / evaluation
 * Long Island City, NY (Queens County)
-* Phone: (718) 706-8383
 * Address: 1025 44th Ave, Long Island City, NY 11101
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2261-3 (exp. 2027-11-03)

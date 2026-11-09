@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/around-the-clock-restoration-inc-ny
 
 * Lead abatement
 * Melville, NY (Suffolk County)
-* Phone: (516) 717-6916
 * Address: 201 Mattituck Ct, Melville, NY 11747
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F275958-1 (exp. 2027-11-22)
 

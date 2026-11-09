@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/testor-technology-environmental-ser
 
 * Lead abatement, Lead inspection / evaluation
 * Long Island City, NY (Queens County)
-* Phone: (929) 500-0106
 * Address: 10-59 Jackson Ave, Long Island City, NY 11101
 * Google rating: 4.6 from 27 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-67559-4 (exp. 2028-08-10)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/valor-home-improvement-l-l-c-ny1587
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 830-1607
 * Address: 2334 Tiebout Ave, Bronx, NY 10458
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F325905-1 (exp. 2029-03-17)
 

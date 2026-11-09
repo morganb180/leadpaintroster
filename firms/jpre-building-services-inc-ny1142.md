@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jpre-building-services-inc-ny1142/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 270-6229
 * Address: 1420 Kings Hwy, Brooklyn, NY 11229
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F326973-1 (exp. 2029-03-25)
 

@@ -1,6 +1,6 @@
 ---
 title: "Ivan Interiors, Inc., Astoria, NY | Lead Paint Roster"
-description: "Ivan Interiors, Inc. in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Ivan Interiors, Inc. in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/ivan-interiors-inc-ny1105/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ivan-interiors-inc-ny1105/
 
 * Lead abatement
 * Astoria, NY (Queens County)
-* Phone: (347) 813-2460
 * Address: 1864 41st St, Astoria, NY 11105
 * Google rating: 5.0 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262622-1 (exp. 2027-04-19)

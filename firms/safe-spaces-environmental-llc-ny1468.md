@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/safe-spaces-environmental-llc-ny146
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (917) 736-5141
 * Address: 265 Bedford Park Blvd, Bronx, NY 10458
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F302243-1 (exp. 2028-07-29)
 

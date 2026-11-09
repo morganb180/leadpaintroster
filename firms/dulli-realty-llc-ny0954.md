@@ -1,6 +1,6 @@
 ---
 title: "Dulli Realty, LLC, Bronx, NY | Lead Paint Roster"
-description: "Dulli Realty, LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Dulli Realty, LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/dulli-realty-llc-ny0954/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dulli-realty-llc-ny0954/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (914) 924-1316
 * Address: 2064 Barnes Ave, Bronx, NY 10462
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F260522-1 (exp. 2027-03-09)
 

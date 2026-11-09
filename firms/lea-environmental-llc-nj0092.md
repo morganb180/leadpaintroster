@@ -1,6 +1,6 @@
 ---
 title: "Lea Environmental, LLC, Blackwood, NJ | Lead Paint Roster"
-description: "Lea Environmental, LLC in Blackwood, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Lea Environmental, LLC in Blackwood, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lea-environmental-llc-nj0092/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lea-environmental-llc-nj0092/
 
 * Lead inspection / evaluation
 * Blackwood, NJ (Camden County)
-* Phone: (856) 262-2335
 * Address: 900 Route 168 Suite E4, Blackwood, NJ 08012
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00626 (exp. 2027-05-31)
 

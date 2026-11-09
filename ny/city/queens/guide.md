@@ -50,8 +50,6 @@ Lead Paint Roster lists 15 listings with an address in Queens: 10 inspection/ris
 Licensed firm
 
 10112 46th Ave, Queens, NY  
-☎ [(718) 600-3010](tel:7186003010)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F229701-2 (exp. 2027-10-14)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F229701-2 (exp. 2027-10-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -64,8 +62,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 14112 78th Ave, Queens, NY  
-☎ [(347) 894-7538](tel:3478947538)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F181129-3 (exp. 2029-02-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0019)
@@ -77,8 +73,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 11-49 44th Dr, Queens, NY  
-☎ [(917) 838-4834](tel:9178384834)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F124625-1 (exp. 2027-09-12)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F124625-1 (exp. 2027-09-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -91,8 +85,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3627 31st St, Queens, NY  
-☎ [(212) 756-3939](tel:2127563939)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F267043-1 (exp. 2027-08-02)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F267043-1 (exp. 2027-08-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

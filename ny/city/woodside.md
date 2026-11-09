@@ -29,8 +29,6 @@ Lead Paint Roster lists 6 EPA-licensed listings with an address in Woodside: 2 l
 Licensed firm
 
 5119 63rd St, Woodside, NY  
-☎ [(718) 880-3679](tel:7188803679)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F246837-2 (exp. 2029-03-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0220)
@@ -42,8 +40,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4129 50 St, Woodside, NY  
-☎ [(347) 694-9093](tel:3476949093)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F233025-2 (exp. 2028-02-22)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F233025-2 (exp. 2028-02-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -58,8 +54,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3716 55th St, Woodside, NY  
-☎ [(917) 714-7664](tel:9177147664)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F182523-2 (exp. 2028-09-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1027)
@@ -71,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3238 58th St, Woodside, NY  
-☎ [(718) 607-6632](tel:7186076632)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F221875-2 (exp. 2027-02-16)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1301)
@@ -84,8 +76,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 6411 Broadway, Woodside, NY  
-☎ [(718) 205-2820](tel:7182052820)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-88473-1 (exp. 2027-08-16)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1310)
@@ -97,8 +87,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3031 60th St, Woodside, NY  
-☎ [(516) 208-2214](tel:5162082214)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-30786-2 (exp. 2028-05-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1484)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/asm-construction-of-ny-corporation-
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (718) 698-6365
 * Address: 152 Watchogue Rd, Staten Island, NY 10314
 * Google rating: 4.8 from 20 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-115527-3 (exp. 2028-08-29)

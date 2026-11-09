@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/northstar-contracting-group-nj0231/
 
 * Lead abatement
 * East Hanover, NJ (Morris County)
-* Phone: (973) 884-8682
 * Address: 32 Williams Pkwy, East Hanover, NJ 07936
 * Google rating: 2.4 from 5 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00414 (exp. 2027-01-31)

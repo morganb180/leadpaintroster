@@ -1,6 +1,6 @@
 ---
 title: "Lionshead Renovation, New York, NY | Lead Paint Roster"
-description: "Lionshead Renovation in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Lionshead Renovation in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lionshead-renovation-ny1182/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lionshead-renovation-ny1182/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (917) 589-4204
 * Address: 150 Broadway, New York, NY 10038
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F272019-1 (exp. 2027-10-11)
 

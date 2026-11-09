@@ -1,6 +1,6 @@
 ---
 title: "Pennington Environmental, Bronx, NY | Lead Paint Roster"
-description: "Pennington Environmental in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Pennington Environmental in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/pennington-environmental-ny1352/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pennington-environmental-ny1352/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (718) 328-2868
 * Address: 1391 Stebbins Ave, Bronx, NY 10459
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-86121-2 (exp. 2028-05-28)
 

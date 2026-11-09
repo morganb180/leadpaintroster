@@ -29,8 +29,6 @@ Lead Paint Roster lists 12 EPA-licensed listings with an address in Valley Strea
 Licensed firm
 
 84 Meyer Ave, Valley Stream, NY  
-☎ [(347) 526-8049](tel:3475268049)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F308425-1 (exp. 2028-09-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0172)
@@ -42,8 +40,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 146 E Dover St, Valley Stream, NY  
-☎ [(917) 769-8528](tel:9177698528)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F190716-3 (exp. 2029-03-28)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F190716-3 (exp. 2029-03-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -56,8 +52,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1304 G St, Valley Stream, NY  
-☎ [(347) 998-0316](tel:3479980316)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F270624-1 (exp. 2027-10-08)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F270624-1 (exp. 2027-10-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -70,8 +64,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 625 Michelle Pl, Valley Stream, NY  
-☎ [(516) 508-0845](tel:5165080845)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F256716-1 (exp. 2026-12-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0518)
@@ -83,8 +75,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 49 Ashley Dr, Valley Stream, NY  
-☎ [(718) 200-5228](tel:7182005228)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-68258-1 (exp. 2028-02-18)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-68258-1 (exp. 2028-02-18)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -97,8 +87,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 949 Ascan St, Valley Stream, NY  
-☎ [(646) 235-2461](tel:6462352461)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F179499-2 (exp. 2028-06-05)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F179499-2 (exp. 2028-06-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -113,8 +101,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 918 Balfour St, Valley Stream, NY  
-☎ [(718) 844-4129](tel:7188444129)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F217979-2 (exp. 2029-01-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1208)
@@ -126,8 +112,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1599 Birchwood Dr, Valley Stream, NY  
-☎ [(718) 427-4323](tel:7184274323)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F168650-2 (exp. 2027-08-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1288)
@@ -139,8 +123,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 15 5th St, Valley Stream, NY  
-☎ [(516) 854-8222](tel:5168548222)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F255974-1 (exp. 2026-11-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1268)
@@ -152,8 +134,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 21 Halyard Rd, Valley Stream, NY  
-☎ [(718) 434-5252](tel:7184345252)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F260284-1 (exp. 2027-03-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1406)
@@ -165,8 +145,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 50 Hendrickson Ave, Valley Stream, NY  
-☎ [(347) 972-4900](tel:3479724900)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F304446-1 (exp. 2028-08-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1469)
@@ -178,8 +156,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 15 Gregory St, Valley Stream, NY  
-☎ [(347) 345-8512](tel:3473458512)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F298021-1 (exp. 2028-06-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1492)

@@ -1,6 +1,6 @@
 ---
 title: "Maq Nailed It LLC., Bronx, NY | Lead Paint Roster"
-description: "Maq Nailed It LLC. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Maq Nailed It LLC. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/maq-nailed-it-llc-ny1223/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/maq-nailed-it-llc-ny1223/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (347) 264-4351
 * Address: 145 W Kingsbridge Rd, Bronx, NY 10468
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F231654-2 (exp. 2027-12-29)
 

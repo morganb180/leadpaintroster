@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rc-group-inc-ny0554/
 
 * Lead abatement, Lead inspection / evaluation
 * Rye, NY (Westchester County)
-* Phone: (610) 513-1646
 * Address: 411 Theodore Fremd Ave, Rye, NY 10580
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F180415-3 (exp. 2026-11-30)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F180415-3 (exp. 2026-11-30)

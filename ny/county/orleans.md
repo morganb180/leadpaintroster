@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/orleans/
 Licensed firm
 
 14109 W Ave, Albion, NY  
-☎ [(585) 657-4223](tel:5856574223)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-35752-4 (exp. 2028-08-16)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0994)

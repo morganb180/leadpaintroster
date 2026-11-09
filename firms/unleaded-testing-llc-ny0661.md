@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/unleaded-testing-llc-ny0661/
 
 * Lead abatement, Lead inspection / evaluation
 * Cedarhurst, NY (Nassau County)
-* Phone: (718) 436-0845
 * Address: 125R Cedarhurst Ave, Cedarhurst, NY 11516
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F119308-4 (exp. 2029-01-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F119308-4 (exp. 2029-01-23)

@@ -1,6 +1,6 @@
 ---
 title: "Lce Group LLC, Elizabeth, NJ | Lead Paint Roster"
-description: "Lce Group LLC in Elizabeth, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Lce Group LLC in Elizabeth, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lce-group-llc-nj0227/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lce-group-llc-nj0227/
 
 * Lead abatement
 * Elizabeth, NJ (Union County)
-* Phone: (908) 764-3532
 * Address: 520 S Park St, Elizabeth, NJ 07206
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00682 (exp. 2027-03-31)
 

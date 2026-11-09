@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cortland-county-community-action-pr
 
 * Lead inspection / evaluation
 * Cortland, NY (Cortland County)
-* Phone: (607) 344-3112
 * Address: 32 N Main St, Cortland, NY 13045
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-22323-1 (exp. 2029-04-02)
 

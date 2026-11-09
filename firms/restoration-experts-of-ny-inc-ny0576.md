@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/restoration-experts-of-ny-inc-ny057
 
 * Lead abatement, Lead inspection / evaluation
 * Ronkonkoma, NY (Suffolk County)
-* Phone: (631) 588-1110
 * Address: 775 Portion Rd, Ronkonkoma, NY 11779
 * Google rating: 4.7 from 86 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F115794-3 (exp. 2027-08-04)

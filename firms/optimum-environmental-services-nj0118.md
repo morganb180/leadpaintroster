@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/optimum-environmental-services-nj01
 
 * Lead inspection / evaluation
 * Freehold, NJ (Monmouth County)
-* Phone: (732) 614-5320
 * Address: 41 Desai Ct, Freehold, NJ 07728
 * Google rating: 2.0 from 1 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00897 (exp. 2027-10-31)

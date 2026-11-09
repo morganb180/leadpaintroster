@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sankar-lead-abatement-corp-ny0599/
 
 * Lead abatement, Lead inspection / evaluation
 * South Ozone Park, NY (Queens County)
-* Phone: (917) 756-6037
 * Address: 11711 132nd St, South Ozone Park, NY 11420
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F210974-3 (exp. 2027-10-10)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F210974-3 (exp. 2027-10-10)

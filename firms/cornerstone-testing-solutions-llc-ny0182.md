@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cornerstone-testing-solutions-llc-n
 
 * Lead abatement, Lead inspection / evaluation
 * Jackson Hts, NY (Queens County)
-* Phone: (929) 500-9310
 * Address: 8211 37th Ave, Jackson Hts, NY 11372
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F285833-1 (exp. 2028-02-27)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F285833-1 (exp. 2028-02-27)

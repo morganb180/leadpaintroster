@@ -1,6 +1,6 @@
 ---
 title: "Allcon Contracting Corp, Westbury, NY | Lead Paint Roster"
-description: "Allcon Contracting Corp in Westbury, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Allcon Contracting Corp in Westbury, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/allcon-contracting-corp-ny0080/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/allcon-contracting-corp-ny0080/
 
 * Lead inspection / evaluation
 * Westbury, NY (Nassau County)
-* Phone: (516) 333-3339
 * Address: 66 Brooklyn Ave, Westbury, NY 11590
 * Google rating: 5.0 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-11544-4 (exp. 2028-08-16)

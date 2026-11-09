@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tps-cleaning-services-corp-ny1537/
 
 * Lead abatement
 * Melville, NY (Suffolk County)
-* Phone: (929) 396-9063
 * Address: 25 Melville Park Rd, Melville, NY 11747
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F295465-1 (exp. 2028-06-05)
 

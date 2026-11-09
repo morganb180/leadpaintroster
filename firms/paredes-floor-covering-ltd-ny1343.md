@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/paredes-floor-covering-ltd-ny1343/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 388-7148
 * Address: 416 Hopper St, Brooklyn, NY 11211
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F242058-2 (exp. 2028-11-16)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/debono-bros-builders-developers-inc
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (718) 231-7037
 * Address: 3310 Delavall Ave, Bronx, NY 10475
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-115218-2 (exp. 2027-09-03)
 

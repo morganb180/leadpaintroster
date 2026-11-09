@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/smyler-smyler-inc-ny1503/
 
 * Lead abatement
 * Jackson Heights, NY (Queens County)
-* Phone: (917) 444-2165
 * Address: 3421 78th St, Jackson Heights, NY 11372
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F294278-1 (exp. 2028-05-22)
 

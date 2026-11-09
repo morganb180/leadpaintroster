@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/maksuti-painting-and-general-contra
 
 * Lead abatement, Lead inspection / evaluation
 * Delmar, NY (Albany County)
-* Phone: (518) 424-5188
 * Address: 45 Borthwick Ave, Delmar, NY 12054
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F120422-1 (exp. 2028-02-10)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F120422-1 (exp. 2028-02-10)

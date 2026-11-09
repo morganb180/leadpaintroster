@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/finkelstein-timberger-re-ny1017/
 
 * Lead abatement
 * Scarsdale, NY (Westchester County)
-* Phone: (914) 472-4900
 * Address: 111 Brook St, Scarsdale, NY 10583
 * Google rating: 2.3 from 56 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F206564-2 (exp. 2027-12-07)

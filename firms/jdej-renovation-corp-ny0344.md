@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jdej-renovation-corp-ny0344/
 
 * Lead abatement, Lead inspection / evaluation
 * Hempstead, NY (Nassau County)
-* Phone: (516) 750-5546
 * Address: 95 Kellum Pl, Hempstead, NY 11550
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F114702-3 (exp. 2029-02-05)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F114702-3 (exp. 2029-02-05)

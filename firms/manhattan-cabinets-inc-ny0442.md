@@ -1,6 +1,6 @@
 ---
 title: "Manhattan Cabinets Inc., New York, NY | Lead Paint Roster"
-description: "Manhattan Cabinets Inc. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Manhattan Cabinets Inc. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/manhattan-cabinets-inc-ny0442/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/manhattan-cabinets-inc-ny0442/
 
 * Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (212) 548-2436
 * Address: 1349 Second Ave, New York, NY 10021
 * Google rating: 4.4 from 35 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F181688-2 (exp. 2028-08-17)

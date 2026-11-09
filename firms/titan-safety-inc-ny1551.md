@@ -1,6 +1,6 @@
 ---
 title: "Titan Safety Inc., New York, NY | Lead Paint Roster"
-description: "Titan Safety Inc. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Titan Safety Inc. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/titan-safety-inc-ny1551/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/titan-safety-inc-ny1551/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (917) 502-8795
 * Address: 497 3rd Ave, New York, NY 10016
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F295535-1 (exp. 2028-06-05)
 

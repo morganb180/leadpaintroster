@@ -1,6 +1,6 @@
 ---
 title: "CNS Management Corp., Plainview, NY | Lead Paint Roster"
-description: "CNS Management Corp. in Plainview, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "CNS Management Corp. in Plainview, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/cns-management-corp-ny0877/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cns-management-corp-ny0877/
 
 * Lead abatement
 * Plainview, NY (Nassau County)
-* Phone: (516) 932-3228
 * Address: 208 Newtown Rd, Plainview, NY 11803
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F258048-2 (exp. 2030-01-04)
 

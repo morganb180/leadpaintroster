@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/building-environmental-consultants-
 
 * Lead inspection / evaluation
 * New Rochelle, NY (Westchester County)
-* Phone: (914) 637-7505
 * Address: 2525 Palmer Ave, New Rochelle, NY 10801
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-937-3 (exp. 2028-02-03)
 

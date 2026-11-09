@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/niagara-coatings-services-llc-ny129
 
 * Lead abatement
 * Niagara Falls, NY (Niagara County)
-* Phone: (716) 297-5834
 * Address: 8025 Quarry Rd, Niagara Falls, NY 14304
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-87069-4 (exp. 2029-01-19)
 

@@ -1,6 +1,6 @@
 ---
 title: "Carnation Realty, Katonah, NY | Lead Paint Roster"
-description: "Carnation Realty in Katonah, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Carnation Realty in Katonah, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/carnation-realty-ny0884/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/carnation-realty-ny0884/
 
 * Lead abatement
 * Katonah, NY (Westchester County)
-* Phone: (914) 673-6773
 * Address: 100 Lyon Ridge Rd, Katonah, NY 10536
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F316957-1 (exp. 2028-12-04)
 

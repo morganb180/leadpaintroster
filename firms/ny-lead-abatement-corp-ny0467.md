@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ny-lead-abatement-corp-ny0467/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 221-2323
 * Address: 1384 Carroll St, Brooklyn, NY 11213
 * Google rating: 5.0 from 12 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-59366-3 (exp. 2027-01-04)

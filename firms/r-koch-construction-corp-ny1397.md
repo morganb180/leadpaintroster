@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/r-koch-construction-corp-ny1397/
 
 * Lead abatement
 * Syracuse, NY (Onondaga County)
-* Phone: (315) 673-3422
 * Address: 4547 Beef St, Syracuse, NY 13215
 * Google rating: 3.4 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-38144-3 (exp. 2029-03-06)

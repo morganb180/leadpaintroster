@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/honduras-contractor-ii-corp-ny1070/
 
 * Lead abatement
 * Hempstead, NY (Nassau County)
-* Phone: (516) 902-8388
 * Address: 565 Fulton Ave, Hempstead, NY 11550
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-12381-2 (exp. 2027-02-11)
 

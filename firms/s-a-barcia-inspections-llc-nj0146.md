@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/s-a-barcia-inspections-llc-nj0146/
 
 * Lead inspection / evaluation
 * Hackensack, NJ (Bergen County)
-* Phone: (201) 487-5005
 * Address: 341 Park St 2FLR, Hackensack, NJ 07601
 * Google rating: 5.0 from 21 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00656 (exp. 2027-03-31)

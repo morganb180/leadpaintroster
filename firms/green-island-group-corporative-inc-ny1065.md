@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/green-island-group-corporative-inc-
 
 * Lead abatement
 * Bohemia, NY (Suffolk County)
-* Phone: (631) 456-3720
 * Address: 380 Central Ave, Bohemia, NY 11716
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F284293-1 (exp. 2028-02-12)
 

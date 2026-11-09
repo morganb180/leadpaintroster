@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/d-d-interiors-inc-ny0918/
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (212) 685-8989
 * Address: 36-28 9th St, Long Island City, NY 11106
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-55387-3 (exp. 2029-09-29)
 

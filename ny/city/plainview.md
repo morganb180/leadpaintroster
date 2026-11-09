@@ -29,8 +29,6 @@ Lead Paint Roster lists 5 EPA-licensed listings with an address in Plainview: 2 
 Licensed firm
 
 208 Newtown Rd, Plainview, NY  
-☎ [(516) 932-3228](tel:5169323228)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F159751-3 (exp. 2027-12-22)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F159751-3 (exp. 2027-12-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 125 Grohmans Ln, Plainview, NY  
-☎ [(516) 946-2660](tel:5169462660)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F258473-1 (exp. 2027-01-23)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F258473-1 (exp. 2027-01-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -59,8 +55,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 208 Newtown Rd, Plainview, NY  
-☎ [(516) 932-3228](tel:5169323228)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F258048-2 (exp. 2030-01-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0877)
@@ -72,8 +66,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 206 Terminal Dr, Plainview, NY  
-☎ [(718) 961-9404](tel:7189619404)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-1956-3 (exp. 2028-07-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0989)
@@ -85,8 +77,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 30 E Mall, Plainview, NY  
-☎ [(516) 734-6669](tel:5167346669)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F158448-2 (exp. 2027-02-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1258)

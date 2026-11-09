@@ -1,6 +1,6 @@
 ---
 title: "EnviroNova LLC, Bronx, NY | Lead Paint Roster"
-description: "EnviroNova LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "EnviroNova LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/environova-llc-ny0992/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environova-llc-ny0992/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 520-6270
 * Address: 152 Tier St, Bronx, NY 10464
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F281549-1 (exp. 2028-02-04)
 

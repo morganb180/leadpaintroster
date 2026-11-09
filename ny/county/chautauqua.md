@@ -23,8 +23,6 @@ Lead Paint Roster lists 2 EPA-licensed listings for lead inspection / evaluation
 Licensed firm
 
 200 E 3rd St, Jamestown, NY  
-☎ [(716) 581-2020](tel:7165812020)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F346725-1 (exp. 2029-09-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0163)
@@ -36,8 +34,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2 Academy St, Mayville, NY  
-☎ [(716) 753-4650](tel:7167534650)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1820-3 (exp. 2028-12-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0164)
@@ -53,8 +49,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 17 W Courtney St, Dunkirk, NY  
-☎ [(716) 366-3333](tel:7163663333)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F170520-3 (exp. 2027-10-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0894)
@@ -66,8 +60,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3013 Water St, Falconer, NY  
-☎ [(716) 986-5491](tel:7169865491)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F255950-1 (exp. 2026-11-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1218)
@@ -79,8 +71,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 16 Cross St, Falconer, NY  
-☎ [(716) 338-7093](tel:7163387093)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F330952-1 (exp. 2029-04-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1470)
@@ -92,8 +82,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 16 Cross St, Falconer, NY  
-☎ [(716) 922-4091](tel:7169224091)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F201641-1 (exp. 2029-04-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1474)
@@ -105,8 +93,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2145 Hanson Rd, Falconer, NY  
-☎ [(716) 397-6892](tel:7163976892)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F267957-1 (exp. 2027-08-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1504)
@@ -118,8 +104,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2475 Route 39, Forestville, NY  
-☎ [(716) 378-9895](tel:7163789895)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F229422-2 (exp. 2029-10-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1314)
@@ -131,8 +115,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 111 Cheney St, Jamestown, NY  
-☎ [(716) 450-2811](tel:7164502811)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F266119-1 (exp. 2027-07-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0939)
@@ -144,8 +126,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 772 Harding Ave, Jamestown, NY  
-☎ [(716) 489-6428](tel:7164896428)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F243177-2 (exp. 2028-12-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1584)

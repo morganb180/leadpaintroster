@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sumner-builders-corporation-ny1519/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (646) 996-7388
 * Address: 99 Rector St, Staten Island, NY 10310
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F219571-1 (exp. 2028-02-11)
 

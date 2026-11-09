@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/eastwood-analytics-llc-ny0218/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (917) 836-4070
 * Address: 146 Sullivan St, New York, NY 10012
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F230790-2 (exp. 2028-01-27)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F230790-2 (exp. 2028-01-27)

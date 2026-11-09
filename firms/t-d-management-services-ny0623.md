@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/t-d-management-services-ny0623/
 
 * Lead abatement, Lead inspection / evaluation
 * Middle Village, NY (Queens County)
-* Phone: (347) 556-7411
 * Address: 6323 Metropolitan Ave, Middle Village, NY 11379
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F299558-1 (exp. 2028-07-07)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F299558-1 (exp. 2028-07-07)

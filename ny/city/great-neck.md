@@ -29,8 +29,6 @@ Lead Paint Roster lists 15 EPA-licensed listings with an address in Great Neck: 
 Licensed firm
 
 16 Middle Neck Rd, Great Neck, NY  
-☎ [(516) 352-5461](tel:5163525461)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-9979-4 (exp. 2029-01-15)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-9979-4 (exp. 2029-01-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 10 Briar Ln, Great Neck, NY  
-☎ [(516) 602-9330](tel:5166029330)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F305191-1 (exp. 2028-08-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0079)
@@ -56,8 +52,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 444 Middle Neck Rd, Great Neck, NY  
-☎ [(347) 926-3049](tel:3479263049)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F256840-1 (exp. 2026-12-05)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F256840-1 (exp. 2026-12-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -70,8 +64,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 23 Maple Grove St, Great Neck, NY  
-☎ [(718) 233-7032](tel:7182337032)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F262634-1 (exp. 2027-04-19)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F262634-1 (exp. 2027-04-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -84,8 +76,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 7 Olive St, Great Neck, NY  
-☎ [(718) 908-5349](tel:7189085349)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F305630-1 (exp. 2028-09-08)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F305630-1 (exp. 2028-09-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -98,8 +88,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 185 Great Neck Rd, Great Neck, NY  
-☎ [(212) 540-5323](tel:2125405323)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F319878-1 (exp. 2029-01-22)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F319878-1 (exp. 2029-01-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -112,8 +100,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4 Summer Ave, Great Neck, NY  
-☎ [(646) 866-0249](tel:6468660249)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F266337-1 (exp. 2027-07-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0627)
@@ -125,8 +111,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 25450 Bates Rd, Great Neck, NY  
-☎ [(516) 312-6589](tel:5163126589)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F218558-3 (exp. 2029-10-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0665)
@@ -140,8 +124,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 51 Tanners Rd, Great Neck, NY  
-☎ [(917) 716-8994](tel:9177168994)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F264263-1 (exp. 2027-05-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0820)
@@ -153,8 +135,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 25 Oak Dr, Great Neck, NY  
-☎ [(917) 275-6026](tel:9172756026)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F323487-1 (exp. 2029-03-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0970)
@@ -166,8 +146,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 98 Cuttermill Rd, Great Neck, NY  
-☎ [(516) 829-9600](tel:5168299600)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-124232-4 (exp. 2030-05-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1131)
@@ -179,8 +157,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 525 Northern Blvd, Great Neck, NY  
-☎ [(516) 829-7300](tel:5168297300)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F348045-1 (exp. 2029-09-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1175)
@@ -192,8 +168,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1 Horizon Way, Great Neck, NY  
-☎ [(917) 583-4559](tel:9175834559)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-16299-3 (exp. 2028-10-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1230)
@@ -205,8 +179,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 36 Strathmore Rd, Great Neck, NY  
-☎ [(917) 567-7529](tel:9175677529)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F221610-2 (exp. 2027-02-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1298)
@@ -218,8 +190,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 60 Cutter Mill Rd, Great Neck, NY  
-☎ [(516) 829-5400](tel:5168295400)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-26045-3 (exp. 2027-09-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1569)

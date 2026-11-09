@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tahir-and-sons-construction-inc-ny1
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (646) 704-0002
 * Address: 41 Outlook Ave, Yonkers, NY 10710
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F121961-2 (exp. 2029-07-01)
 

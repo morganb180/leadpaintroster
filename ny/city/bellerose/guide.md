@@ -47,8 +47,6 @@ Lead Paint Roster lists 7 listings with an address in Bellerose: 4 inspection/ri
 Licensed firm
 
 25211 Elkmont Ave, Bellerose, NY  
-☎ [(516) 574-3314](tel:5165743314)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F211354-1 (exp. 2027-11-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0260)
@@ -60,8 +58,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 8445 248th St, Bellerose, NY  
-☎ [(917) 515-9404](tel:9175159404)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F307422-1 (exp. 2028-09-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0470)
@@ -73,8 +69,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 25229 82nd Rd, Bellerose, NY  
-☎ [(917) 756-9434](tel:9177569434)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F217921-1 (exp. 2028-12-18)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F217921-1 (exp. 2028-12-18)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -87,8 +81,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 25121 Jericho Turnpike, Bellerose, NY  
-☎ [(516) 926-0776](tel:5169260776)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F258136-1 (exp. 2027-01-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0658)
@@ -100,8 +92,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 25333 85th Rd, Bellerose, NY  
-☎ [(646) 662-3902](tel:6466623902)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F198535-2 (exp. 2027-01-18)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1447)

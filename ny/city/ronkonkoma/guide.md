@@ -47,8 +47,6 @@ Lead Paint Roster lists 5 listings with an address in Ronkonkoma: 2 inspection/r
 Licensed firm
 
 2150 Smithtown Ave, Ronkonkoma, NY  
-☎ [(631) 580-3191](tel:6315803191)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1327-3 (exp. 2028-08-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0257)
@@ -60,8 +58,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 775 Portion Rd, Ronkonkoma, NY  
-☎ [(631) 588-1110](tel:6315881110)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F115794-3 (exp. 2027-08-04)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F115794-3 (exp. 2027-08-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -74,8 +70,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2099 9th Ave, Ronkonkoma, NY  
-☎ [(631) 467-6600](tel:6314676600)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-796-3 (exp. 2027-11-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0688)

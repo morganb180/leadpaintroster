@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/icu-home-inspection-llc-nj0083/
 
 * Lead inspection / evaluation
 * River Vale, NJ (Bergen County)
-* Phone: (201) 213-3480
 * Address: 667 Woodside Ave, River Vale, NJ 07675
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00779 (exp. 2028-06-30)
 

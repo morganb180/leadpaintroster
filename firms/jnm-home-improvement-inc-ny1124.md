@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jnm-home-improvement-inc-ny1124/
 
 * Lead abatement
 * West Hempstead, NY (Nassau County)
-* Phone: (516) 881-6007
 * Address: 1006 Saranac Rd, West Hempstead, NY 11552
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F259848-1 (exp. 2027-02-23)
 

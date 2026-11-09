@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/operation-restoration-ny1318/
 
 * Lead abatement
 * Mount Vernon, NY (Westchester County)
-* Phone: (914) 557-7276
 * Address: 332 Locust St, Mount Vernon, NY 10550
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F301240-1 (exp. 2028-07-16)
 

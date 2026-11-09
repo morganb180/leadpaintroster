@@ -29,7 +29,6 @@ Lead Paint Roster lists 5 NJ DCA-licensed listings with an address in Cherry Hil
 Licensed firm
 
 2060 Fairfax Ave, Cherry Hill, NJ  
-☎ [(215) 284-0086](tel:2152840086)  
 Contact listed by NJ DCA: William P. O'Donnell
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00432 (exp. 2027-01-31)  
@@ -43,7 +42,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 80 Barclay Farms Shop. Ctr., Cherry Hill, NJ  
-☎ [(856) 888-2396](tel:8568882396)  
 Contact listed by NJ DCA: Bassey Akpan
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00620 (exp. 2027-12-31)  
@@ -57,7 +55,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 10 Penn Ave, Cherry Hill, NJ  
-☎ [(856) 858-9509](tel:8568589509)  
 Contact listed by NJ DCA: David C. Sulock
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00725 (exp. 2026-10-31)  
@@ -71,7 +68,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 2059 Springdale Rd, Cherry Hill, NJ  
-☎ [(856) 795-9595](tel:8567959595)  
 Contact listed by NJ DCA: Edward Vernick
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00902 (exp. 2027-11-30)  
@@ -87,7 +83,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 80 Barclay Farms Shop. Ctr., Cherry Hill, NJ  
-☎ [(856) 888-2396](tel:8568882396)  
 Contact listed by NJ DCA: Bassey Akpan
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00638 (exp. 2028-05-31)  

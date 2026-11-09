@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/topline-property-maintenance-inc-ny
 
 * Lead abatement
 * Flushing, NY (Queens County)
-* Phone: (212) 858-9684
 * Address: 4266 Kissena Blvd, Flushing, NY 11355
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F243596-2 (exp. 2029-07-30)
 

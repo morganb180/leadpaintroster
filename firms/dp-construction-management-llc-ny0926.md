@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dp-construction-management-llc-ny09
 
 * Lead abatement
 * Manhattan, NY (New York County)
-* Phone: (718) 216-8274
 * Address: 228 Park Ave S, Manhattan, NY 10003
 * Google rating: 5.0 from 47 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F257720-1 (exp. 2026-12-27)

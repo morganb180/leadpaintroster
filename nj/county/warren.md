@@ -21,7 +21,6 @@ Lead Paint Roster lists 5 NJ DCA-licensed listings for lead inspection / evaluat
 Licensed firm
 
 221 High St, Hackettstown, NJ  
-☎ [(908) 813-2323](tel:9088132323)  
 Contact listed by NJ DCA: Glenn P. Brukardt
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00849 (exp. 2026-11-30)  
@@ -35,7 +34,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 114 Bullman St, Phillipsburg, NJ  
-☎ [(347) 892-5148](tel:3478925148)  
 Contact listed by NJ DCA: Yerani Maria H. de Rosado
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00859 (exp. 2027-02-28)  
@@ -49,7 +47,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 277 N Main St, Phillipsburg, NJ  
-☎ [(908) 827-1315](tel:9088271315)  
 Contact listed by NJ DCA: Badway P. Karam
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00817 (exp. 2028-07-07)  
@@ -63,7 +60,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 317 Jessamine Ln, Stewartsville, NJ  
-☎ [(908) 954-8946](tel:9089548946)  
 Contact listed by NJ DCA: Daniel Medina
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00773 (exp. 2027-12-31)  
@@ -77,7 +73,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 76 Bryan Rd, Washington, NJ  
-☎ [(908) 619-8755](tel:9086198755)  
 Contact listed by NJ DCA: Edward M. Novak III
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00758 (exp. 2027-03-31)  

@@ -50,8 +50,6 @@ Lead Paint Roster lists 13 listings with an address in East Elmhurst: 7 inspecti
 Licensed firm
 
 9517 24th Ave, East Elmhurst, NY  
-☎ [(718) 831-8597](tel:7188318597)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F285089-1 (exp. 2028-02-21)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F285089-1 (exp. 2028-02-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -64,8 +62,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 9517 24th Ave, East Elmhurst, NY  
-☎ [(347) 603-9124](tel:3476039124)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F347597-1 (exp. 2029-09-22)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F347597-1 (exp. 2029-09-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -78,8 +74,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 8008 24th Ave, East Elmhurst, NY  
-☎ [(718) 565-6100](tel:7185656100)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-56922-4 (exp. 2028-11-03)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-56922-4 (exp. 2028-11-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -92,8 +86,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 8307 32nd Ave, East Elmhurst, NY  
-☎ [(917) 627-1389](tel:9176271389)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F187965-4 (exp. 2030-08-31)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F187965-4 (exp. 2030-08-31)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

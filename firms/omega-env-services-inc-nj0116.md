@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/omega-env-services-inc-nj0116/
 
 * Lead inspection / evaluation
 * South Hackensack, NJ (Bergen County)
-* Phone: (201) 489-8700
 * Address: 280 Huyler St, South Hackensack, NJ 07606
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00120 (exp. 2027-08-31)
 

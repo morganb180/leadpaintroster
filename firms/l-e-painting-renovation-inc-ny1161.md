@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/l-e-painting-renovation-inc-ny1161/
 
 * Lead abatement
 * Forest Hills, NY (Queens County)
-* Phone: (347) 866-0555
 * Address: 10230 Queens Blvd, Forest Hills, NY 11375
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-89848-4 (exp. 2028-12-16)
 

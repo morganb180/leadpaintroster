@@ -1,6 +1,6 @@
 ---
 title: "Day & Zimmermann Nps, Lancaster, PA | Lead Paint Roster"
-description: "Day & Zimmermann Nps in Lancaster, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Day & Zimmermann Nps in Lancaster, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/day-zimmermann-nps-nj0211/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/day-zimmermann-nps-nj0211/
 
 * Lead abatement
 * Lancaster, PA (Lancaster County)
-* Phone: (717) 481-5600
 * Address: 1809 Olde Homestead Ln, Lancaster, PA 17601
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00650 (exp. 2027-05-31)
 

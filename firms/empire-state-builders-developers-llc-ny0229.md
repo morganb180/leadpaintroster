@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/empire-state-builders-developers-ll
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (646) 935-9138
 * Address: 967 E Gun Hill Rd, Bronx, NY 10469
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F224004-2 (exp. 2029-02-26)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F224004-2 (exp. 2029-02-26)

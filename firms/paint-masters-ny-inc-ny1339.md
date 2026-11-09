@@ -1,6 +1,6 @@
 ---
 title: "Paint Masters NY Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Paint Masters NY Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Paint Masters NY Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/paint-masters-ny-inc-ny1339/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/paint-masters-ny-inc-ny1339/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (646) 208-2508
 * Address: 7520 Ridge Blvd, Brooklyn, NY 11209
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F204230-1 (exp. 2028-08-13)
 

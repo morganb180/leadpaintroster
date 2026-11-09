@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mgm-builders-corporation-ny1208/
 
 * Lead abatement
 * Valley Stream, NY (Nassau County)
-* Phone: (718) 844-4129
 * Address: 918 Balfour St, Valley Stream, NY 11580
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F217979-2 (exp. 2029-01-22)
 

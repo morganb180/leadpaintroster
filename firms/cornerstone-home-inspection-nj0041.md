@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cornerstone-home-inspection-nj0041/
 
 * Lead inspection / evaluation
 * Warren, NJ (Somerset County)
-* Phone: (973) 650-4151
 * Address: 62 Mountain Ave, Warren, NJ 07059
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00748 (exp. 2027-05-31)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/foreview-mep-service-llc-ny0268/
 
 * Lead abatement, Lead inspection / evaluation
 * Flushing, NY (Queens County)
-* Phone: (646) 835-0888
 * Address: 3370 Prince St, Flushing, NY 11354
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F319745-1 (exp. 2029-01-22)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F319745-1 (exp. 2029-01-22)

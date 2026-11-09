@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/vergara-design-and-construction-inc
 
 * Lead abatement
 * Queens, NY (Queens County)
-* Phone: (917) 749-7897
 * Address: 4220 27th St, Queens, NY 11101
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F243769-2 (exp. 2029-07-14)

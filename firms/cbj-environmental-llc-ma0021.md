@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/cbj-environmental-llc-ma0021/
 
 * Lead risk assessment
 * Hopedale, MA (Worcester County)
-* Phone: (508) 341-0837
-* Email: jacobs@cbjenvironmental.com
 * Address: Hopedale, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0021

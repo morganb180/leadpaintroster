@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/central-construction-management-llc
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (718) 472-0830
 * Address: 40-05 Crescent St, Long Island City, NY 11101
 * Google rating: 3.8 from 12 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-18549-3 (exp. 2027-03-05)

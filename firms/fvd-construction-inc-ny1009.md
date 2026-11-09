@@ -1,6 +1,6 @@
 ---
 title: "FVD Construction Inc, New York, NY | Lead Paint Roster"
-description: "FVD Construction Inc in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "FVD Construction Inc in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/fvd-construction-inc-ny1009/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/fvd-construction-inc-ny1009/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (917) 349-5899
 * Address: 151 E 43rd St, New York, NY 10017
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F242847-2 (exp. 2028-12-12)
 

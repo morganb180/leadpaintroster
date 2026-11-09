@@ -1,6 +1,6 @@
 ---
 title: "Pow/r/save, Inc., Cedar Grove, NJ | Lead Paint Roster"
-description: "Pow/r/save, Inc. in Cedar Grove, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Pow/r/save, Inc. in Cedar Grove, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/pow-r-save-inc-nj0237/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pow-r-save-inc-nj0237/
 
 * Lead abatement
 * Cedar Grove, NJ (Essex County)
-* Phone: (973) 470-0200
 * Address: 9 Sand Park Rd, Unit 6, Cedar Grove, NJ 07009
 * Google rating: 3.7 from 3 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00071 (exp. 2027-10-31)

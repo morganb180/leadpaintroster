@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rodz-inc-dba-rigid-security-ny1440/
 
 * Lead abatement
 * Franklin Square, NY (Nassau County)
-* Phone: (516) 503-4961
 * Address: 672 Dogwood Ave, Franklin Square, NY 11010
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F279818-1 (exp. 2027-12-27)
 

@@ -1,6 +1,6 @@
 ---
 title: "Blu Besi Construction LLC, Yonkers, NY | Lead Paint Roster"
-description: "Blu Besi Construction LLC in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Blu Besi Construction LLC in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/blu-besi-construction-llc-ny0842/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/blu-besi-construction-llc-ny0842/
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (914) 424-3646
 * Address: 794 Mile Square Rd, Yonkers, NY 10704
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F154616-2 (exp. 2028-04-25)
 

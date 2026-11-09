@@ -1,6 +1,6 @@
 ---
 title: "Rock Environmental, Rochester, NY | Lead Paint Roster"
-description: "Rock Environmental in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Rock Environmental in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/rock-environmental-ny1437/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rock-environmental-ny1437/
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (585) 340-6799
 * Address: 69 Seneca Ave, Rochester, NY 14621
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F117848-3 (exp. 2028-11-12)
 

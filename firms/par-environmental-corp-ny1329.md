@@ -1,6 +1,6 @@
 ---
 title: "PAR Environmental Corp., Suffern, NY | Lead Paint Roster"
-description: "PAR Environmental Corp. in Suffern, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "PAR Environmental Corp. in Suffern, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/par-environmental-corp-ny1329/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/par-environmental-corp-ny1329/
 
 * Lead abatement
 * Suffern, NY (Rockland County)
-* Phone: (845) 369-7500
 * Address: 313 Spook Rock Rd, Suffern, NY 10901
 * Google rating: 4.3 from 6 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2416-3 (exp. 2028-01-04)

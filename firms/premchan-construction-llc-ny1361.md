@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/premchan-construction-llc-ny1361/
 
 * Lead abatement
 * Schenectady, NY (Schenectady County)
-* Phone: (518) 878-5474
 * Address: 42 Cheltingham Ave, Schenectady, NY 12306
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F267870-1 (exp. 2027-08-26)
 

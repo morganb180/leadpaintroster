@@ -1,6 +1,6 @@
 ---
 title: "ASA Electric Inc, Rosedale, NY | Lead Paint Roster"
-description: "ASA Electric Inc in Rosedale, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "ASA Electric Inc in Rosedale, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/asa-electric-inc-ny0737/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/asa-electric-inc-ny0737/
 
 * Lead abatement
 * Rosedale, NY (Queens County)
-* Phone: (917) 586-6862
 * Address: 24214 Merrick Blvd, Rosedale, NY 11422
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F315693-1 (exp. 2028-12-02)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/flatiron-klein-kitchen-bath-corp-ny
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (212) 717-1726
 * Address: 25 W 26th St, New York, NY 10010
 * Google rating: 4.6 from 45 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F312477-1 (exp. 2028-11-03)

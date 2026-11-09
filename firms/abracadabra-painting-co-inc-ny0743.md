@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/abracadabra-painting-co-inc-ny0743/
 
 * Lead abatement
 * Mamaroneck, NY (Westchester County)
-* Phone: (914) 698-0700
 * Address: 180 E Prospect Ave, Mamaroneck, NY 10543
 * Google rating: 3.7 from 3 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-58199-2 (exp. 2028-05-09)

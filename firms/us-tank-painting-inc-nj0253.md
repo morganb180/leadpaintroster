@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/us-tank-painting-inc-nj0253/
 
 * Lead abatement
 * Millstone Township, NJ (Monmouth County)
-* Phone: (609) 448-2444
 * Address: 900 Rike Dr, Millstone Township, NJ 08535
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00319 (exp. 2027-06-30)

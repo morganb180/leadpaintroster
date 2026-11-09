@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mccabe-environmental-services-nj010
 
 * Lead inspection / evaluation
 * Lyndhurst, NJ (Bergen County)
-* Phone: (201) 438-4839
 * Address: 464 Valley Brook Ave, Lyndhurst, NJ 07071
 * Google rating: 4.7 from 3 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00338 (exp. 2027-08-31)

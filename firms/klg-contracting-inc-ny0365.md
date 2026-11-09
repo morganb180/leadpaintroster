@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/klg-contracting-inc-ny0365/
 
 * Lead abatement, Lead inspection / evaluation
 * Corona, NY (Queens County)
-* Phone: (917) 745-6289
 * Address: 10231 43rd Ave, Corona, NY 11368
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F166844-3 (exp. 2026-12-19)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F166844-3 (exp. 2026-12-19)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pegasus-consulting-international-co
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (929) 384-6411
 * Address: 1140 Ave Of The Americas, New York, NY 10036
 * Google rating: 5.0 from 50 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F301518-1 (exp. 2028-07-22)

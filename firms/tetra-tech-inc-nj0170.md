@@ -1,6 +1,6 @@
 ---
 title: "Tetra Tech, Inc., Kansas City, MO | Lead Paint Roster"
-description: "Tetra Tech, Inc. in Kansas City, MO: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Tetra Tech, Inc. in Kansas City, MO: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/tetra-tech-inc-nj0170/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tetra-tech-inc-nj0170/
 
 * Lead inspection / evaluation
 * Kansas City, MO (Jackson County)
-* Phone: (816) 412-1773
 * Address: 415 Oak St, Kansas City, MO 64106
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00858 (exp. 2027-04-30)
 

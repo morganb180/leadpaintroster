@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/marpro-construction-corp-ny0446/
 
 * Lead abatement, Lead inspection / evaluation
 * East Elmhurst, NY (Queens County)
-* Phone: (646) 294-3903
 * Address: 2925 Humphreys St, East Elmhurst, NY 11369
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F278018-1 (exp. 2027-12-06)

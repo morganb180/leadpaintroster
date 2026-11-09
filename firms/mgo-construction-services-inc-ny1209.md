@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mgo-construction-services-inc-ny120
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 240-1188
 * Address: 1853A Cropsey Ave, Brooklyn, NY 11214
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F295932-1 (exp. 2028-06-04)
 

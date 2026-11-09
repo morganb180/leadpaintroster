@@ -47,8 +47,6 @@ Lead Paint Roster lists 10 listings with an address in Whitestone: 5 inspection/
 Licensed firm
 
 13915 14th Ave, Whitestone, NY  
-☎ [(917) 939-0019](tel:9179390019)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F215713-3 (exp. 2029-06-23)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F215713-3 (exp. 2029-06-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -61,8 +59,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 907 149th St, Whitestone, NY  
-☎ [(917) 568-3350](tel:9175683350)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F294617-1 (exp. 2028-05-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0077)
@@ -74,8 +70,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 151-40 12th Ave, Whitestone, NY  
-☎ [(917) 945-6387](tel:9179456387)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F120914-1 (exp. 2028-02-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0267)
@@ -87,8 +81,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1252 Clintonville St, Whitestone, NY  
-☎ [(404) 542-0502](tel:4045420502)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F288396-1 (exp. 2028-03-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0284)
@@ -100,8 +92,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 15048 14th Ave, Whitestone, NY  
-☎ [(929) 224-6628](tel:9292246628)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F224113-2 (exp. 2027-04-26)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F224113-2 (exp. 2027-04-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

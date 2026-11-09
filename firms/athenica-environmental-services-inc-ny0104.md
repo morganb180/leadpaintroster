@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/athenica-environmental-services-inc
 
 * Lead inspection / evaluation
 * Astoria, NY (Queens County)
-* Phone: (718) 784-7490
 * Address: 3133 31 St, Astoria, NY 11106
 * Google rating: 4.1 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1731-3 (exp. 2027-05-10)

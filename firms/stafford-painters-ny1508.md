@@ -1,6 +1,6 @@
 ---
 title: "Stafford Painters, Stafford, NY | Lead Paint Roster"
-description: "Stafford Painters in Stafford, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Stafford Painters in Stafford, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/stafford-painters-ny1508/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/stafford-painters-ny1508/
 
 * Lead abatement
 * Stafford, NY (Genesee County)
-* Phone: (585) 343-2390
 * Address: 6319 Main Rd, Stafford, NY 14143
 * Google rating: 4.5 from 21 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-42334-2 (exp. 2028-03-20)

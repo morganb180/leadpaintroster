@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ap-investors-corp-ny0050/
 
 * Lead abatement, Lead inspection / evaluation
 * Baldwin, NY (Nassau County)
-* Phone: (516) 217-1450
 * Address: 1900 Grand Ave, Baldwin, NY 11510
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F340794-1 (exp. 2029-07-21)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F340794-1 (exp. 2029-07-21)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rona-maintenance-inc-ny1442/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (917) 609-4869
 * Address: 286 Cleveland Ave, Staten Island, NY 10308
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F218037-3 (exp. 2029-09-29)
 

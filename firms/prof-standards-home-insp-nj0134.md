@@ -1,6 +1,6 @@
 ---
 title: "Prof. Standards Home Insp., Brick, NJ | Lead Paint Roster"
-description: "Prof. Standards Home Insp. in Brick, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Prof. Standards Home Insp. in Brick, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/prof-standards-home-insp-nj0134/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/prof-standards-home-insp-nj0134/
 
 * Lead inspection / evaluation
 * Brick, NJ (Ocean County)
-* Phone: (848) 480-5945
 * Address: 718 Tall Oaks Dr, Brick, NJ 08724
 * Google rating: 4.9 from 40 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00761 (exp. 2027-08-31)

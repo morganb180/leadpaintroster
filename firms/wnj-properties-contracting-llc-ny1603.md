@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/wnj-properties-contracting-llc-ny16
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 262-5786
 * Address: 1034 E 218th St, Bronx, NY 10469
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221054-2 (exp. 2028-02-05)
 

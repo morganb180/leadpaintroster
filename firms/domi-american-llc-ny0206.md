@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/domi-american-llc-ny0206/
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (631) 601-9955
 * Address: 2727 Gifford Ave, Bronx, NY 10465
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F231873-2 (exp. 2028-01-27)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F231873-2 (exp. 2028-01-27)

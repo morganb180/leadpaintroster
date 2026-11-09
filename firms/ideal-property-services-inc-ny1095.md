@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ideal-property-services-inc-ny1095/
 
 * Lead abatement
 * Glenville, NY (Schenectady County)
-* Phone: (518) 728-3971
 * Address: 601 Sanders Ave, Glenville, NY 12302
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F207251-1 (exp. 2029-05-21)
 

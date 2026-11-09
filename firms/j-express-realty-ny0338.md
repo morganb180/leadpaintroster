@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/j-express-realty-ny0338/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 536-7964
 * Address: 2265 E 28th St, Brooklyn, NY 11229
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295226-1 (exp. 2028-05-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F295226-1 (exp. 2028-05-23)

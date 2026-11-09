@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/l-d-painting-lead-abatement-inc-ny1
 
 * Lead abatement
 * Medford, NY (Suffolk County)
-* Phone: (718) 809-6614
 * Address: 2601 Wave Ave, Medford, NY 11763
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-12039-4 (exp. 2029-05-31)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lead-diagnostic-llc-ny0391/
 
 * Lead abatement, Lead inspection / evaluation
 * Queens Village, NY (Queens County)
-* Phone: (347) 545-2892
 * Address: 21108 82nd Ave, Queens Village, NY 11427
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F263646-1 (exp. 2027-05-10)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F263646-1 (exp. 2027-05-10)

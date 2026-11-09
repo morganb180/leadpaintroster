@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/shining-sky-inc-ny0608/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (929) 257-5818
 * Address: 2611 W 2nd St, Brooklyn, NY 11223
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F185035-2 (exp. 2028-07-12)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F185035-2 (exp. 2028-07-12)

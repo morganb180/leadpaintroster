@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/advance-team-construction-managemen
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 522-9838
 * Address: 253 36th St, Brooklyn, NY 11232
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-78778-2 (exp. 2028-06-04)
 

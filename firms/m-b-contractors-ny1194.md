@@ -1,6 +1,6 @@
 ---
 title: "M&B Contractors, Wheatfield, NY | Lead Paint Roster"
-description: "M&B Contractors in Wheatfield, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "M&B Contractors in Wheatfield, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/m-b-contractors-ny1194/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/m-b-contractors-ny1194/
 
 * Lead abatement
 * Wheatfield, NY (Niagara County)
-* Phone: (716) 868-5145
 * Address: 2995 Krueger Rd, Wheatfield, NY 14120
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F160095-2 (exp. 2028-05-09)
 

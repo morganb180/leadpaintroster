@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/j-al-construction-ny-inc-ny1106/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (917) 532-7633
 * Address: 1120 Morris Park Ave, Bronx, NY 10462
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F219688-2 (exp. 2027-06-03)
 

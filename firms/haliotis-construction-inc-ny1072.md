@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/haliotis-construction-inc-ny1072/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 589-4208
 * Address: 378 90th St, Brooklyn, NY 11209
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F113457-3 (exp. 2028-04-18)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/actlien-property-management-nj0019/
 
 * Lead inspection / evaluation
 * Hainesport, NJ (Burlington County)
-* Phone: (215) 939-1803
 * Address: 901 Park Ave, Hainesport, NJ 08036
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00909 (exp. 2028-02-28)
 

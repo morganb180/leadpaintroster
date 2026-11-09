@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nyc-lead-inspections-ny0475/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (Kings County)
-* Phone: (917) 765-5523
 * Address: 25 Montrose Ave, New York, NY 11206
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F242647-2 (exp. 2028-12-12)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F242647-2 (exp. 2028-12-12)

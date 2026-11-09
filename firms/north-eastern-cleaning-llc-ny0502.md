@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/north-eastern-cleaning-llc-ny0502/
 
 * Lead abatement, Lead inspection / evaluation
 * Deer Park, NY (Suffolk County)
-* Phone: (888) 908-6924
 * Address: 697 Acorn St, Deer Park, NY 11729
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F216018-2 (exp. 2026-12-25)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F216018-2 (exp. 2026-12-25)

@@ -1,6 +1,6 @@
 ---
 title: "Travani Construction, Watertown, NY | Lead Paint Roster"
-description: "Travani Construction in Watertown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Travani Construction in Watertown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/travani-construction-ny1559/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/travani-construction-ny1559/
 
 * Lead abatement
 * Watertown, NY (Jefferson County)
-* Phone: (315) 818-4188
 * Address: 26252 State Route 3, Watertown, NY 13601
 * Google rating: 3.7 from 6 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F253648-1 (exp. 2028-11-19)

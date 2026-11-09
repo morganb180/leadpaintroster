@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmea-llc-ny0247/
 
 * Lead abatement, Lead inspection / evaluation
 * Poughkeepsie, NY (Dutchess County)
-* Phone: (201) 308-3832
 * Address: 198 Rochdale Rd, Poughkeepsie, NY 12603
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F291986-1 (exp. 2028-04-30)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F291986-1 (exp. 2028-04-30)

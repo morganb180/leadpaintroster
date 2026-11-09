@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/blue-kangaroo-packoutz-of-newburgh-
 
 * Lead abatement
 * Newburgh, NY (Orange County)
-* Phone: (845) 427-4200
 * Address: 100 Third St, Newburgh, NY 12550
 * Google rating: 4.7 from 13 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F295943-1 (exp. 2028-06-04)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/avraham-restoration-inc-ny0110/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 916-9180
 * Address: 744 Coney Island Ave, Brooklyn, NY 11218
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F285428-1 (exp. 2028-03-04)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F285428-1 (exp. 2028-03-04)

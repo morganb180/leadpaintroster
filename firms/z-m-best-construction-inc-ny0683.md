@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/z-m-best-construction-inc-ny0683/
 
 * Lead abatement, Lead inspection / evaluation
 * East Elmhurst, NY (Queens County)
-* Phone: (646) 342-8554
 * Address: 2723 Curtis St, East Elmhurst, NY 11369
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F296039-1 (exp. 2028-06-04)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F296039-1 (exp. 2028-06-04)

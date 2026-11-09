@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/northeast-lead-inspections-inc-ma00
 
 * Lead inspection / evaluation
 * Everett, MA (Middlesex County)
-* Phone: (617) 293-7719
-* Email: northeastleadinspections@gmail.com
 * Address: Everett, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0015

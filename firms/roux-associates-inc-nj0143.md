@@ -1,6 +1,6 @@
 ---
 title: "Roux Associates (NJ DCA listing), Islandia NY"
-description: "Roux Associates, Inc. in Islandia, NY: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Roux Associates, Inc. in Islandia, NY: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/roux-associates-inc-nj0143/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/roux-associates-inc-nj0143/
 
 * Lead inspection / evaluation
 * Islandia, NY (Suffolk County)
-* Phone: (631) 232-2600
 * Address: 209 Shafter St, Islandia, NY 11749
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00792 (exp. 2028-03-31)

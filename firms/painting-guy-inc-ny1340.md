@@ -1,6 +1,6 @@
 ---
 title: "Painting Guy Inc., Richmond Hill, NY | Lead Paint Roster"
-description: "Painting Guy Inc. in Richmond Hill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Painting Guy Inc. in Richmond Hill, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/painting-guy-inc-ny1340/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/painting-guy-inc-ny1340/
 
 * Lead abatement
 * Richmond Hill, NY (Queens County)
-* Phone: (646) 773-4707
 * Address: 8555 115th St, Richmond Hill, NY 11418
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F168308-2 (exp. 2027-08-02)

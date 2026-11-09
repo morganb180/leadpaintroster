@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nfc-construction-corp-ny1268/
 
 * Lead abatement
 * Valley Stream, NY (Nassau County)
-* Phone: (516) 854-8222
 * Address: 15 5th St, Valley Stream, NY 11581
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F255974-1 (exp. 2026-11-15)
 

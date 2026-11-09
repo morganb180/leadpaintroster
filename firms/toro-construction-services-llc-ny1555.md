@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/toro-construction-services-llc-ny15
 
 * Lead abatement
 * New York, NY (Queens County)
-* Phone: (917) 579-6070
 * Address: 15049 Horace Harding Expy, New York, NY 11367
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F255441-1 (exp. 2026-10-24)
 

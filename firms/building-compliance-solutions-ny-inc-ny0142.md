@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/building-compliance-solutions-ny-in
 
 * Lead abatement, Lead inspection / evaluation
 * Long Island City, NY (Queens County)
-* Phone: (516) 788-4164
 * Address: 3835 Crescent St, Long Island City, NY 11101
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295970-1 (exp. 2028-06-04)

@@ -21,7 +21,6 @@ Lead Paint Roster lists 11 NJ DCA-licensed listings for lead inspection / evalua
 Licensed firm
 
 88 Roosevelt Ave, #318, Carteret, NJ  
-☎ [(201) 341-9966](tel:2013419966)  
 Contact listed by NJ DCA: Alicia Y. Mingo
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00847 (exp. 2026-11-30)  
@@ -35,7 +34,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 25 Bearsley Dr, East Brunswick, NJ  
-☎ [(201) 323-2632](tel:2013232632)  
 Contact listed by NJ DCA: Parthen S. Parikh
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00830 (exp. 2028-07-31)  
@@ -49,7 +47,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 7 Pitt Rd, East Brunswick, NJ  
-☎ [(908) 705-4538](tel:9087054538)  
 Contact listed by NJ DCA: Robert Geist
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00854 (exp. 2026-12-31)  
@@ -63,7 +60,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 159 Oakland Ave, Edison, NJ  
-☎ [(848) 702-0973](tel:8487020973)  
 Contact listed by NJ DCA: Anita Poon-Lam
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00855 (exp. 2028-03-31)  
@@ -77,7 +73,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 28 Meeker Ave, Edison, NJ  
-☎ [(908) 540-0087](tel:9085400087)  
 Contact listed by NJ DCA: Louis M. Esposito
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00914 (exp. 2028-05-31)  
@@ -91,7 +86,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 495 Union Ave, Suite 1D, Middlesex, NJ  
-☎ [(732) 469-8888](tel:7324698888)  
 Contact listed by NJ DCA: Christopher Martell
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00737 (exp. 2027-03-31)  
@@ -105,7 +99,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 2227 US Hwy 1, Suite 123, North Brunswick, NJ  
-☎ [(732) 882-5741](tel:7328825741)  
 Contact listed by NJ DCA: Raymond Schroeder
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00409 (exp. 2028-05-31)  
@@ -119,7 +112,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 30 Knightsbridge Rd #250, Piscataway, NJ  
-☎ [(732) 564-3200](tel:7325643200)  
 Contact listed by NJ DCA: Mark T. Connors
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00711 (exp. 2028-05-31)  
@@ -133,7 +125,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 1297 Centennial Ave # 5-305, Piscataway, NJ  
-☎ [(732) 384-2068](tel:7323842068)  
 Contact listed by NJ DCA: Harish J. Chauhan
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00866 (exp. 2027-03-31)  
@@ -147,7 +138,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 31 Dawn Dr, Port Reading, NJ  
-☎ [(201) 362-1751](tel:2013621751)  
 Contact listed by NJ DCA: Julio Lujan
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00732 (exp. 2027-08-31)  
@@ -162,7 +152,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 9 Elizabeth St, Sayreville, NJ  
-☎ [(201) 737-8553](tel:2017378553)  
 Contact listed by NJ DCA: Lynda Okwuosa
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00872 (exp. 2027-04-30)  
@@ -180,7 +169,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 404 Douglas Ave, Avenel, NJ  
-☎ [(732) 238-7500](tel:7322387500)  
 Contact listed by NJ DCA: Carlos Almeida
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00011 (exp. 2026-10-31)  
@@ -194,7 +182,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 400 Roosevelt Ave, Carteret, NJ  
-☎ [(732) 612-9451](tel:7326129451)  
 Contact listed by NJ DCA: William Matre
 
 NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00784 (exp. 2028-05-31)  
@@ -208,7 +195,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 26 Woodland Ave, Fords, NJ  
-☎ [(908) 405-6658](tel:9084056658)  
 Contact listed by NJ DCA: Ola Ibrahim
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00446 (exp. 2027-10-31)  
@@ -222,7 +208,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 900 King Georges Rd, Fords, NJ  
-☎ [(732) 738-7900](tel:7327387900)  
 Contact listed by NJ DCA: David Zack
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00075 (exp. 2027-08-31)  

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mandell-lead-inspectors-inc-nj0104/
 
 * Lead inspection / evaluation
 * Totowa, NJ (Passaic County)
-* Phone: (973) 785-7574
 * Address: 409 Minnisink Rd, Suite 204, Totowa, NJ 07512
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00076 (exp. 2027-08-31)

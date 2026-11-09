@@ -1,6 +1,6 @@
 ---
 title: "DUV Home Improvement, Hollis, NY | Lead Paint Roster"
-description: "DUV Home Improvement in Hollis, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "DUV Home Improvement in Hollis, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/duv-home-improvement-ny0929/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/duv-home-improvement-ny0929/
 
 * Lead abatement
 * Hollis, NY (Queens County)
-* Phone: (917) 678-4639
 * Address: 19025 Woodhull Ave, Hollis, NY 11423
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F234610-2 (exp. 2028-04-11)
 

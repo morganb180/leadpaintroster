@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/atarch-group-llc-ny0055/
 
 * Lead abatement, Lead inspection / evaluation
 * Elmont, NY (Nassau County)
-* Phone: (917) 444-1045
 * Address: 2069 Baylis Ave, Elmont, NY 11003
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F201931-3 (exp. 2028-09-24)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F201931-3 (exp. 2028-09-24)

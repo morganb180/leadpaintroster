@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/metro-contracting-environmental-inc
 
 * Lead abatement
 * Niagara Falls, NY (Niagara County)
-* Phone: (716) 285-9280
 * Address: 2939 Lockport Rd, Niagara Falls, NY 14305
 * Google rating: 5.0 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F236405-2 (exp. 2028-05-24)

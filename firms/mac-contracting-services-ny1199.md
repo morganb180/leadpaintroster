@@ -1,6 +1,6 @@
 ---
 title: "MAC Contracting Services, Rome, NY | Lead Paint Roster"
-description: "MAC Contracting Services in Rome, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "MAC Contracting Services in Rome, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/mac-contracting-services-ny1199/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mac-contracting-services-ny1199/
 
 * Lead abatement
 * Rome, NY (Oneida County)
-* Phone: (315) 337-2040
 * Address: 402 Scott Ave, Rome, NY 13440
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F259895-1 (exp. 2027-02-26)
 

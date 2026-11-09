@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/brotherly-contractors-llc-ny0860/
 
 * Lead abatement
 * Riidgewood, NY (Queens County)
-* Phone: (718) 755-8729
 * Address: 955 Seneca Ave, Riidgewood, NY 11385
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F292288-1 (exp. 2028-08-11)
 

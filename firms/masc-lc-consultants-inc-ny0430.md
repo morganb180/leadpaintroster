@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/masc-lc-consultants-inc-ny0430/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 219-8001
 * Address: 779 60th St, Brooklyn, NY 11220
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F276402-1 (exp. 2027-11-28)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F276402-1 (exp. 2027-11-28)

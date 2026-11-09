@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bristol-environmental-llc-nj0205/
 
 * Lead abatement
 * Bristol, PA (Bucks County)
-* Phone: (215) 788-6040
 * Address: 1123 Beaver St, Bristol, PA 19007
 * Google rating: 3.5 from 8 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00046 (exp. 2026-12-31)

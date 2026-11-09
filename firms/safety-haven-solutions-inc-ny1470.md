@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/safety-haven-solutions-inc-ny1470/
 
 * Lead abatement
 * Falconer, NY (Chautauqua County)
-* Phone: (716) 338-7093
 * Address: 16 Cross St, Falconer, NY 14733
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F330952-1 (exp. 2029-04-28)
 

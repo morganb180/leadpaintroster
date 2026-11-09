@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nyc-perfect-builders-inc-ny0479/
 
 * Lead abatement, Lead inspection / evaluation
 * Huntington Station, NY (Suffolk County)
-* Phone: (212) 288-5752
 * Address: 3 Peter Ct, Huntington Station, NY 11746
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-73157-3 (exp. 2029-06-24)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-73157-3 (exp. 2029-06-24)

@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/sullivan/
 Licensed firm
 
 7 Dutch Hill Rd, Pond Eddy, NY  
-☎ [(845) 754-1839](tel:8457541839)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F220238-2 (exp. 2026-12-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0934)
@@ -34,8 +32,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 35 Maple Ave, Woodridge, NY  
-☎ [(845) 217-0706](tel:8452170706)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F236750-2 (exp. 2028-06-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1622)

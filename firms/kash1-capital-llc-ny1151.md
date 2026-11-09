@@ -1,6 +1,6 @@
 ---
 title: "Kash1 Capital LLC, New York, NY | Lead Paint Roster"
-description: "Kash1 Capital LLC in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Kash1 Capital LLC in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/kash1-capital-llc-ny1151/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/kash1-capital-llc-ny1151/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (347) 680-9446
 * Address: 40 Thayer St, New York, NY 10040
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F344440-1 (exp. 2029-08-24)
 

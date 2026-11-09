@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/trinity-property-preservation-nj024
 
 * Lead abatement
 * East Orange, NJ (Essex County)
-* Phone: (973) 710-6048
 * Address: 22 Morse Ave, East Orange, NJ 07017
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00774 (exp. 2028-06-25)
 

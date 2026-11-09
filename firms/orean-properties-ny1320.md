@@ -1,6 +1,6 @@
 ---
 title: "Orean Properties, Buffalo, NY | Lead Paint Roster"
-description: "Orean Properties in Buffalo, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Orean Properties in Buffalo, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/orean-properties-ny1320/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/orean-properties-ny1320/
 
 * Lead abatement
 * Buffalo, NY (Erie County)
-* Phone: (716) 573-5298
 * Address: 71 Peach St, Buffalo, NY 14204
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F282958-1 (exp. 2028-06-12)
 

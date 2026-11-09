@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/emerald-lead-testing-ma0044/
 
 * Lead inspection / evaluation, Lead risk assessment
 * Springfield, MA (Hampden County)
-* Phone: (413) 736-5323
-* Email: EBM@emeraldleadtesting.com
 * Address: Springfield, MA
 * Google rating: 4.4 from 7 reviews (as of Oct 18, 2026)
 

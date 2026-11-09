@@ -1,6 +1,6 @@
 ---
 title: "Swift Works, Webster, NY | Lead Paint Roster"
-description: "Swift Works in Webster, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Swift Works in Webster, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/swift-works-ny1527/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/swift-works-ny1527/
 
 * Lead abatement
 * Webster, NY (Monroe County)
-* Phone: (585) 208-1986
 * Address: 36 Webster Manor Dr, Webster, NY 14580
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F341506-1 (exp. 2029-07-30)
 

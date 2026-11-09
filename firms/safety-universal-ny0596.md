@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/safety-universal-ny0596/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 676-8090
 * Address: 383 Kingston Ave, Brooklyn, NY 11213
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F165073-4 (exp. 2028-08-25)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F165073-4 (exp. 2028-08-25)

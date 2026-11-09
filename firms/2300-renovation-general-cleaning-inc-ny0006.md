@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/2300-renovation-general-cleaning-in
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (917) 577-9627
 * Address: 2300 Grand Concourse, Bronx, NY 10458
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F236069-2 (exp. 2029-02-21)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F236069-2 (exp. 2029-02-21)

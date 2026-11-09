@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/affordable-lead-inspections-ma0039/
 
 * Lead risk assessment
 * Raynham, MA (Bristol County)
-* Phone: (617) 293-5583
-* Email: Affordablelead@aol.com
 * Address: Raynham, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0039

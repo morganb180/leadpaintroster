@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/optimum-environmental-solution-nj01
 
 * Lead abatement, Lead inspection / evaluation
 * Union, NJ (Union County)
-* Phone: (908) 418-2737
 * Address: 2717 Linwood Rd, Union, NJ 07083
 * Google rating: 3.7 from 3 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00627 (exp. 2026-10-31)

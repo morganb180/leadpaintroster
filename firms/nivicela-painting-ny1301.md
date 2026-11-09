@@ -1,6 +1,6 @@
 ---
 title: "Nivicela Painting, Woodside, NY | Lead Paint Roster"
-description: "Nivicela Painting in Woodside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Nivicela Painting in Woodside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/nivicela-painting-ny1301/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nivicela-painting-ny1301/
 
 * Lead abatement
 * Woodside, NY (Queens County)
-* Phone: (718) 607-6632
 * Address: 3238 58th St, Woodside, NY 11377
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221875-2 (exp. 2027-02-16)
 

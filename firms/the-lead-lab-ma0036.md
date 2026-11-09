@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/the-lead-lab-ma0036/
 
 * Lead risk assessment
 * Pittsfield, MA (Berkshire County)
-* Phone: (413) 499-3015
-* Email: tmpack@aol.com
 * Address: Pittsfield, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0036

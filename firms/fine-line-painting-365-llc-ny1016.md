@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/fine-line-painting-365-llc-ny1016/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (718) 869-9533
 * Address: 242 Chelsea St, Staten Island, NY 10307
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F298961-1 (exp. 2028-06-23)
 

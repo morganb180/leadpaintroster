@@ -1,6 +1,6 @@
 ---
 title: "OK Management, Inc., Harrison, NY | Lead Paint Roster"
-description: "OK Management, Inc. in Harrison, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "OK Management, Inc. in Harrison, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/ok-management-inc-ny1309/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ok-management-inc-ny1309/
 
 * Lead abatement
 * Harrison, NY (Westchester County)
-* Phone: (914) 490-3247
 * Address: 38 Westerleigh Rd, Harrison, NY 10577
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262199-1 (exp. 2027-04-10)
 

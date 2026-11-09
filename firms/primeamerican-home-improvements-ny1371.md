@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/primeamerican-home-improvements-ny1
 
 * Lead abatement
 * Tivoli, NY (Dutchess County)
-* Phone: (917) 686-4192
 * Address: 7 Memorial Dr, Tivoli, NY 12583
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F220534-3 (exp. 2029-12-30)
 

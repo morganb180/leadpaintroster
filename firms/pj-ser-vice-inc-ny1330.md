@@ -1,6 +1,6 @@
 ---
 title: "PJ Ser Vice, Inc., Warwick, NY | Lead Paint Roster"
-description: "PJ Ser Vice, Inc. in Warwick, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "PJ Ser Vice, Inc. in Warwick, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/pj-ser-vice-inc-ny1330/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pj-ser-vice-inc-ny1330/
 
 * Lead abatement
 * Warwick, NY (Orange County)
-* Phone: (347) 583-9906
 * Address: 12 County Route 1, Warwick, NY 10990
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F342232-1 (exp. 2029-08-06)
 

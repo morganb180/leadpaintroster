@@ -1,6 +1,6 @@
 ---
 title: "Pedrol Contracting, Brooklyn, NY | Lead Paint Roster"
-description: "Pedrol Contracting in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Pedrol Contracting in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/pedrol-contracting-ny1350/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pedrol-contracting-ny1350/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 383-5577
 * Address: 232 India St, Brooklyn, NY 11222
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F275652-1 (exp. 2027-11-21)

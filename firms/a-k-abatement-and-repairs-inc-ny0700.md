@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-k-abatement-and-repairs-inc-ny070
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (929) 488-3222
 * Address: 8300 4th Ave, Brooklyn, NY 11209
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F211759-3 (exp. 2029-01-22)
 

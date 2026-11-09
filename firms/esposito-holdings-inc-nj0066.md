@@ -1,6 +1,6 @@
 ---
 title: "Esposito Holdings, Inc., Edison, NJ | Lead Paint Roster"
-description: "Esposito Holdings, Inc. in Edison, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Esposito Holdings, Inc. in Edison, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/esposito-holdings-inc-nj0066/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/esposito-holdings-inc-nj0066/
 
 * Lead inspection / evaluation
 * Edison, NJ (Middlesex County)
-* Phone: (908) 540-0087
 * Address: 28 Meeker Ave, Edison, NJ 08817
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00914 (exp. 2028-05-31)
 

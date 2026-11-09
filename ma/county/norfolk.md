@@ -23,9 +23,6 @@ Listings holding more than one licence type are shown once, in the first matchin
 Licensed firm
 
 Braintree, MA  
-☎ [(781) 718-9231](tel:7817189231)  
-✉ [bobpowers107@verizon.net](mailto:bobpowers107@verizon.net)
-
 1 licensed individual
 
 * Robert Powers (MA DLS Inspector/Risk Assessor #3651 (exp. 2026-11-15))
@@ -40,9 +37,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Westwood, MA  
-☎ [(781) 329-0404](tel:7813290404)  
-✉ [Gary@leadinspection.net](mailto:Gary@leadinspection.net)
-
 1 licensed individual
 
 * Gary Kellner (MA DLS Master Inspector/Risk Assessor #1981 (exp. 2027-05-13))
@@ -57,9 +51,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Weymouth, MA  
-☎ [(617) 529-1578](tel:6175291578)  
-✉ [pbinspect2000@yahoo.com](mailto:pbinspect2000@yahoo.com)
-
 1 licensed individual
 
 * Anthony Jakaitis (MA DLS Master Inspector/Risk Assessor #2929 (exp. 2027-07-23))
@@ -73,12 +64,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Braintree, MA  
-☎ [(508) 583-8893](tel:5085838893)  
-✉ [bobhartin@outlook.com](mailto:bobhartin@outlook.com)
-
 MA DLS Inspector/Risk Assessor #3045 (exp. 2027-10-05)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0007)
@@ -89,12 +77,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Sharon, MA  
-☎ [(781) 784-7548](tel:7817847548)  
-✉ [jakane4@comcast.net](mailto:jakane4@comcast.net)
-
 MA DLS Inspector/Risk Assessor #3722 (exp. 2027-07-23)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0041)
@@ -110,9 +95,6 @@ Lead Paint Roster lists 4 Massachusetts-licensed listings for lead inspection / 
 Licensed firm
 
 Quincy, MA  
-☎ [(857) 939-6910](tel:8579396910)  
-✉ [OliviaPalazzi@gmail.com](mailto:OliviaPalazzi@gmail.com)
-
 1 licensed individual
 
 * Olivia Palazzi (MA DLS Inspector #004319 (exp. 2027-08-22))
@@ -126,12 +108,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Canton, MA  
-☎ [(617) 309-9997](tel:6173099997)  
-✉ [beckyfranco2@gmail.com](mailto:beckyfranco2@gmail.com)
-
 MA DLS Inspector #004278 (exp. 2026-12-08)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0010)
@@ -142,12 +121,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Quincy, MA  
-☎ [(617) 774-9291](tel:6177749291)  
-✉ [laurenxa91@icloud.com](mailto:laurenxa91@icloud.com)
-
 MA DLS Inspector #004545 (exp. 2026-12-31)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0038)
@@ -158,12 +134,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 South Weymouth, MA  
-☎ [(781) 974-9150](tel:7819749150)  
-✉ [eric.jakaitis1993@gmail.com](mailto:eric.jakaitis1993@gmail.com)
-
 MA DLS Inspector #4214 (exp. 2026-11-04)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0043)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/metro-building-compliance-inc-ny124
 
 * Lead abatement
 * Little Neck, NY (Queens County)
-* Phone: (917) 285-3306
 * Address: 24825 Northern Blvd, Little Neck, NY 11362
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F317249-1 (exp. 2028-12-09)
 

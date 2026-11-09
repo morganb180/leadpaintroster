@@ -1,6 +1,6 @@
 ---
 title: "Lead-Free NYC Corp., Maspeth, NY | Lead Paint Roster"
-description: "Lead-Free NYC Corp. in Maspeth, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Lead-Free NYC Corp. in Maspeth, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lead-free-nyc-corp-ny0406/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lead-free-nyc-corp-ny0406/
 
 * Lead inspection / evaluation
 * Maspeth, NY (Queens County)
-* Phone: (327) 828-6115
 * Address: 5754 58th Pl, Maspeth, NY 11378
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F288158-1 (exp. 2028-03-20)
 

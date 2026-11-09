@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-i-c-general-contracting-inc-dba-r
 
 * Lead abatement
 * Farmingdale, NY (Nassau County)
-* Phone: (516) 888-1708
 * Address: 170 Central Ave, Farmingdale, NY 11735
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F174803-3 (exp. 2028-07-22)
 

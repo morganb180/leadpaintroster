@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/m-m-environmental-ny0427/
 
 * Lead abatement, Lead inspection / evaluation
 * Long Island City, NY (Queens County)
-* Phone: (212) 219-8218
 * Address: 39-27 29th St, Long Island City, NY 11101
 * Google rating: 3.4 from 51 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-14695-3 (exp. 2027-11-28)

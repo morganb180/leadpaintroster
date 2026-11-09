@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/oasis-indoor-environmental-inc-ny05
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 277-5551
 * Address: 266 47th St, Brooklyn, NY 11220
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F223537-2 (exp. 2027-03-29)
 

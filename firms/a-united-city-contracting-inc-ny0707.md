@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-united-city-contracting-inc-ny070
 
 * Lead abatement
 * Ardsley, NY (Westchester County)
-* Phone: (718) 231-3939
 * Address: 625 Ashford Ave, Ardsley, NY 10502
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F223084-1 (exp. 2026-12-19)

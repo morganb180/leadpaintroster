@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/uriah-cole-d-b-a-uc-proper-painting
 
 * Lead abatement
 * Jamestown, NY (Chautauqua County)
-* Phone: (716) 489-6428
 * Address: 772 Harding Ave, Jamestown, NY 14701
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F243177-2 (exp. 2028-12-21)
 

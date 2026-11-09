@@ -21,8 +21,6 @@ Lead Paint Roster lists 1 EPA-licensed listing for lead inspection / evaluation 
 Licensed firm
 
 18 Blackberry Ln, Queensbury, NY  
-☎ [(518) 307-0130](tel:5183070130)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F294197-1 (exp. 2028-09-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0171)

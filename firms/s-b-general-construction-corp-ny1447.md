@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/s-b-general-construction-corp-ny144
 
 * Lead abatement
 * Bellerose, NY (Queens County)
-* Phone: (646) 662-3902
 * Address: 25333 85th Rd, Bellerose, NY 11426
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F198535-2 (exp. 2027-01-18)
 

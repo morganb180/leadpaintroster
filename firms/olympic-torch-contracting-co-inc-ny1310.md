@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/olympic-torch-contracting-co-inc-ny
 
 * Lead abatement
 * Woodside, NY (Queens County)
-* Phone: (718) 205-2820
 * Address: 6411 Broadway, Woodside, NY 11377
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-88473-1 (exp. 2027-08-16)
 

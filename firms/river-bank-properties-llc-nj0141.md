@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/river-bank-properties-llc-nj0141/
 
 * Lead inspection / evaluation
 * Hainesport, NJ (Burlington County)
-* Phone: (856) 313-1194
 * Address: 720 Rancocas Ave, Hainesport, NJ 08036
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00772 (exp. 2027-06-30)
 

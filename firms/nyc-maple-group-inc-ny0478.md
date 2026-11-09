@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nyc-maple-group-inc-ny0478/
 
 * Lead abatement, Lead inspection / evaluation
 * Uniondale, NY (Nassau County)
-* Phone: (347) 720-6107
 * Address: 1294 Warwick St, Uniondale, NY 11553
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F224335-1 (exp. 2029-06-11)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F224335-1 (exp. 2029-06-11)

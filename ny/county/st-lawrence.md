@@ -21,8 +21,6 @@ Lead Paint Roster lists 2 EPA-licensed listings for lead inspection / evaluation
 Licensed firm
 
 6431 US Hwy 11, Canton, NY  
-☎ [(315) 386-4578](tel:3153864578)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-8962-4 (exp. 2028-04-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0105)
@@ -34,8 +32,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 18 McKabe Rd, Colton, NY  
-☎ [(315) 262-2150](tel:3152622150)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-126701-3 (exp. 2028-12-03)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-126701-3 (exp. 2028-12-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -52,8 +48,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 273 S Grasse River Rd, Massena, NY  
-☎ [(315) 769-3685](tel:3157693685)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F207724-3 (exp. 2028-09-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0866)

@@ -21,7 +21,6 @@ Lead Paint Roster lists 4 NJ DCA-licensed listings for lead inspection / evaluat
 Licensed firm
 
 619 Wills Ave, Deptford, NJ  
-☎ [(215) 783-7261](tel:2157837261)  
 Contact listed by NJ DCA: Michael Stefkovic
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00531 (exp. 2027-01-31)  
@@ -35,7 +34,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 35 Hickory Ridge Ct, Mullica Hill, NJ  
-☎ [(856) 434-4975](tel:8564344975)  
 Contact listed by NJ DCA: Matthew Scott
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00911 (exp. 2028-03-31)  
@@ -49,7 +47,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 8 Tranquility Ct, Sewell, NJ  
-☎ [(856) 553-6162](tel:8565536162)  
 Contact listed by NJ DCA: Janae Fiorelli
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00846 (exp. 2026-11-30)  
@@ -63,7 +60,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 24 Derby Rd, Swedesboro, NJ  
-☎ [(609) 828-0479](tel:6098280479)  
 Contact listed by NJ DCA: Michael B. Kogut
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00723 (exp. 2027-03-31)  
@@ -81,7 +77,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 1330 N.black Horse Pike, Suite B, Williamstown, NJ  
-☎ [(856) 429-3400](tel:8564293400)  
 Contact listed by NJ DCA: James Cannon
 
 NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00136 (exp. 2027-09-30)  

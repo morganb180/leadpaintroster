@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dg-builders-group-inc-ny0190/
 
 * Lead abatement, Lead inspection / evaluation
 * Farmingdale, NY (Nassau County)
-* Phone: (631) 839-2144
 * Address: 4 Darlene Ter, Farmingdale, NY 11735
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F228144-1 (exp. 2028-02-21)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F228144-1 (exp. 2028-02-21)

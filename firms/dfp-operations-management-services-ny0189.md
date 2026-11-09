@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dfp-operations-management-services-
 
 * Lead abatement, Lead inspection / evaluation
 * Miller Place, NY (Suffolk County)
-* Phone: (631) 766-7385
 * Address: 14 White Birch Cir, Miller Place, NY 11764
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F304824-1 (exp. 2028-08-20)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F304824-1 (exp. 2028-08-20)

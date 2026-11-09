@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/satisfaction-maintenance-and-lead-r
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (646) 404-9866
 * Address: 789 Astor Ave, Bronx, NY 10467
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-125970-3 (exp. 2027-09-25)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-125970-3 (exp. 2027-09-25)

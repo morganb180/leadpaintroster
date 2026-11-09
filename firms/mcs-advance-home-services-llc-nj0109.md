@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mcs-advance-home-services-llc-nj010
 
 * Lead inspection / evaluation
 * Collingswood, NJ (Camden County)
-* Phone: (856) 869-0866
 * Address: 124 E Franklin Ave, Collingswood, NJ 08108
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00892 (exp. 2027-09-30)
 

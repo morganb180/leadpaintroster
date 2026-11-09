@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/grb-environmental-services-inc-ny10
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (212) 564-8640
 * Address: 14 Penn Plaza, New York, NY 10122
 * Google rating: 4.2 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F172931-4 (exp. 2029-02-02)

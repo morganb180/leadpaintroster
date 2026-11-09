@@ -1,6 +1,6 @@
 ---
 title: "MLA Construction Inc., Glendale, NY | Lead Paint Roster"
-description: "MLA Construction Inc. in Glendale, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "MLA Construction Inc. in Glendale, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/mla-construction-inc-ny1213/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mla-construction-inc-ny1213/
 
 * Lead abatement
 * Glendale, NY (Queens County)
-* Phone: (347) 739-4800
 * Address: 7547 61st St, Glendale, NY 11385
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F180303-2 (exp. 2027-02-23)
 

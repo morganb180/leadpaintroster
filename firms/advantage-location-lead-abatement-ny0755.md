@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/advantage-location-lead-abatement-n
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 740-3825
 * Address: 150 Joralemon, Brooklyn, NY 11216
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F275069-2 (exp. 2030-11-12)
 

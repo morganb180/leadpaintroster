@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/c-j-markoulis-contractors-inc-ny087
 
 * Lead abatement
 * Astoria, NY (Queens County)
-* Phone: (718) 274-3613
 * Address: 31-50 31st St, Astoria, NY 11106
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F166529-1 (exp. 2029-05-11)
 

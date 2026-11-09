@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/brian-morrissey-contracting-ny0855/
 
 * Lead abatement
 * White Plains, NY (Westchester County)
-* Phone: (914) 760-6658
 * Address: 50 Doyer Ave, White Plains, NY 10605
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F240988-2 (exp. 2028-10-12)
 

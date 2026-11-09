@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/peak-construction-ny1349/
 
 * Lead abatement
 * Fishkill, NY (Dutchess County)
-* Phone: (845) 896-5496
 * Address: 164 Old Route 9, Fishkill, NY 12524
 * Google rating: 4.5 from 118 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-41861-3 (exp. 2027-04-17)

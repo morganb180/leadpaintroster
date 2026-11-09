@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/coverall-contracting-inc-ny0908/
 
 * Lead abatement
 * Voorheesville, NY (Albany County)
-* Phone: (518) 768-2447
 * Address: 19 Devane Ln, Voorheesville, NY 12186
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-600-3 (exp. 2028-08-04)
 

@@ -1,6 +1,6 @@
 ---
 title: "R & W Construction NY LLC, Nyack, NY | Lead Paint Roster"
-description: "R & W Construction NY LLC in Nyack, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "R & W Construction NY LLC in Nyack, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/r-w-construction-ny-llc-ny1394/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/r-w-construction-ny-llc-ny1394/
 
 * Lead abatement
 * Nyack, NY (Rockland County)
-* Phone: (845) 598-8575
 * Address: 72 S Broadway, Nyack, NY 10960
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F315051-1 (exp. 2028-11-19)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-design-inc-nj0058/
 
 * Lead inspection / evaluation
 * Pennsauken, NJ (Camden County)
-* Phone: (856) 616-9516
 * Address: 5434 King Ave, Suite 101, Pennsauken, NJ 08109
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00552 (exp. 2027-05-31)
 

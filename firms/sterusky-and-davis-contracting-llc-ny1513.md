@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sterusky-and-davis-contracting-llc-
 
 * Lead abatement
 * Dolgeville, NY (Herkimer County)
-* Phone: (315) 868-3249
 * Address: 23 Brockett St, Dolgeville, NY 13329
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F281536-1 (exp. 2028-04-04)
 

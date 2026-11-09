@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jy-building-services-llc-ny0356/
 
 * Lead inspection / evaluation
 * Flushing, NY (Queens County)
-* Phone: (347) 259-8638
 * Address: 19624 42nd Rd, Flushing, NY 11358
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F302031-1 (exp. 2028-07-28)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/zaman-construction-corp-ny1631/
 
 * Lead abatement
 * Ozone Park, NY (Queens County)
-* Phone: (212) 964-0189
 * Address: 9753 85th St, Ozone Park, NY 11416
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-11080-3 (exp. 2028-04-25)
 

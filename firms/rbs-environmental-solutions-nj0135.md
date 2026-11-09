@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rbs-environmental-solutions-nj0135/
 
 * Lead inspection / evaluation
 * Media, PA (Delaware County)
-* Phone: (267) 865-0031
 * Address: 24 Veterans Square, Media, PA 19063
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00907 (exp. 2028-01-31)
 

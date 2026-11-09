@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/l-m-lead-paint-pros-ny0376/
 
 * Lead abatement, Lead inspection / evaluation
 * Glen Cove, NY (Nassau County)
-* Phone: (516) 503-8928
 * Address: 14 Continental Ct, Glen Cove, NY 11542
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F246082-2 (exp. 2029-03-08)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F246082-2 (exp. 2029-03-08)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bond-construction-inc-ny0136/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (212) 203-8877
 * Address: 303 5th Ave, New York, NY 10016
 * Google rating: 4.9 from 12 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F115726-1 (exp. 2028-09-18)

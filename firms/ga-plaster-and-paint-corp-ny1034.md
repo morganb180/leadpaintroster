@@ -1,6 +1,6 @@
 ---
 title: "GA Plaster And Paint Corp, Yonkers, NY | Lead Paint Roster"
-description: "GA Plaster And Paint Corp in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "GA Plaster And Paint Corp in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/ga-plaster-and-paint-corp-ny1034/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ga-plaster-and-paint-corp-ny1034/
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (917) 284-7604
 * Address: 1 Glenwood Ave, Yonkers, NY 10701
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F333512-1 (exp. 2029-05-11)
 

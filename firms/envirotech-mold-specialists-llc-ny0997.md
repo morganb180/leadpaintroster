@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/envirotech-mold-specialists-llc-ny0
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (305) 785-8065
 * Address: 981 E 10th St, Brooklyn, NY 11230
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221357-2 (exp. 2027-01-29)
 

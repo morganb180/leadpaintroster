@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/blackstone-environmental-solutions-
 
 * Lead inspection / evaluation
 * Woodmere, NY (Nassau County)
-* Phone: (516) 672-1161
 * Address: 915 Harvard Ct, Woodmere, NY 11598
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F240420-1 (exp. 2027-04-04)
 

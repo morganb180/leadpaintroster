@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/creative-touch-construction-corp-ny
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 916-4707
 * Address: 817 Foster Ave, Brooklyn, NY 11230
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F118703-3 (exp. 2028-06-21)
 

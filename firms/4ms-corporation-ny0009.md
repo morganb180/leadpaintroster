@@ -1,6 +1,6 @@
 ---
 title: "4MS Corporation, Brooklyn, NY | Lead Paint Roster"
-description: "4MS Corporation in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "4MS Corporation in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/4ms-corporation-ny0009/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/4ms-corporation-ny0009/
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (347) 236-6005
 * Address: 2125 E 14th St, Brooklyn, NY 11229
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F224089-1 (exp. 2029-04-28)
 

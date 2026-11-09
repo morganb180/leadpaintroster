@@ -1,6 +1,6 @@
 ---
 title: "Bilcap Contracting LLC, Walton, NY | Lead Paint Roster"
-description: "Bilcap Contracting LLC in Walton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Bilcap Contracting LLC in Walton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/bilcap-contracting-llc-ny0834/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bilcap-contracting-llc-ny0834/
 
 * Lead abatement
 * Walton, NY (Delaware County)
-* Phone: (607) 291-2100
 * Address: 44 W St, Walton, NY 13856
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F285356-1 (exp. 2028-02-21)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jp-home-construction-corp-ny1126/
 
 * Lead abatement
 * Floral Park, NY (Nassau County)
-* Phone: (718) 406-6491
 * Address: 8632 257th St, Floral Park, NY 11001
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F270463-1 (exp. 2027-10-03)
 

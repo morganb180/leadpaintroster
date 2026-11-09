@@ -1,6 +1,6 @@
 ---
 title: "Sra Home Inspection, Landing, NJ | Lead Paint Roster"
-description: "Sra Home Inspection in Landing, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Sra Home Inspection in Landing, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/sra-home-inspection-nj0158/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sra-home-inspection-nj0158/
 
 * Lead inspection / evaluation
 * Landing, NJ (Morris County)
-* Phone: (201) 401-1634
 * Address: 26 Luke Pl, Landing, NJ 07850
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00734 (exp. 2027-11-30)
 

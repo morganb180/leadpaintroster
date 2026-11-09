@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/midlantic-environmental-inc-ny1250/
 
 * Lead abatement
 * Utica, NY (Oneida County)
-* Phone: (315) 798-8026
 * Address: 2249 State Route 5, Utica, NY 13502
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2322-4 (exp. 2028-06-23)
 

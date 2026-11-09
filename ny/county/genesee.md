@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/genesee/
 Licensed firm
 
 6319 Main Rd, Stafford, NY  
-☎ [(585) 343-2390](tel:5853432390)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-42334-2 (exp. 2028-03-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1508)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/advanced-management-us-inc-ny0754/
 
 * Lead abatement
 * Spring Valley, NY (Rockland County)
-* Phone: (845) 474-0666
 * Address: 2 Mezritch Rd, Spring Valley, NY 10977
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F284309-1 (exp. 2028-02-12)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hunt-engineers-architects-land-surv
 
 * Lead inspection / evaluation
 * Binghamton, NY (Broome County)
-* Phone: (607) 798-8081
 * Address: 143 Ct St, Binghamton, NY 13901
 * Google rating: 4.7 from 3 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F247882-2 (exp. 2029-05-14)

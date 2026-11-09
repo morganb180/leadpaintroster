@@ -1,6 +1,6 @@
 ---
 title: "Edward Sherry, Westford, MA | Lead Paint Roster"
-description: "Edward Sherry in Westford, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Edward Sherry in Westford, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/edward-sherry-ma0053/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/edward-sherry-ma0053/
 
 * Lead inspection / evaluation
 * Westford, MA (Middlesex County)
-* Phone: (978) 692-1339
-* Email: lizecsiii@msn.com
 * Address: Westford, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0053

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ace-mold-inspection-inc-ny0066/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 285-6783
 * Address: 1274 49th St 262, Brooklyn, NY 11219
 * Google rating: 4.7 from 34 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F279859-1 (exp. 2027-12-27)

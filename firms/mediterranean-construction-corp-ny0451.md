@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mediterranean-construction-corp-ny0
 
 * Lead inspection / evaluation
 * Rosedale, NY (Queens County)
-* Phone: (917) 440-4665
 * Address: 14646 Huxley St, Rosedale, NY 11422
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-67038-2 (exp. 2028-02-05)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tower-bridge-consultant-inc-ny0654/
 
 * Lead abatement, Lead inspection / evaluation
 * Bellmore, NY (Nassau County)
-* Phone: (718) 300-9383
 * Address: 2395 Elk Ct, Bellmore, NY 11710
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F267421-1 (exp. 2027-08-12)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F267421-1 (exp. 2027-08-12)

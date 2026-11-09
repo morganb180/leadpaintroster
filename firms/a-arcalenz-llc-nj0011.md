@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-arcalenz-llc-nj0011/
 
 * Lead abatement, Lead inspection / evaluation
 * West Orange, NJ (Essex County)
-* Phone: (862) 224-2356
 * Address: 571 Pleasant Valley Way, West Orange, NJ 07052
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00721 (exp. 2027-01-31)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00720 (exp. 2027-01-31)

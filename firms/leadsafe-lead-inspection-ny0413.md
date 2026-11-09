@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/leadsafe-lead-inspection-ny0413/
 
 * Lead inspection / evaluation
 * Spring Valley, NY (Rockland County)
-* Phone: (845) 222-1088
 * Address: 42 Ellish Pkwy, Spring Valley, NY 10977
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F317186-1 (exp. 2028-12-12)
 

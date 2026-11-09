@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pal-environmental-safety-corp-nj023
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (718) 349-0900
 * Address: 11-02 Queens Plaza South, Long Island City, NY 11101
 * Google rating: 4.3 from 41 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00454 (exp. 2028-06-24)

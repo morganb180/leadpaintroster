@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/western-systems-corporation-ny1614/
 
 * Lead abatement
 * Jamaica, NY (Queens County)
-* Phone: (917) 300-4891
 * Address: 150-67 115th Dr, Jamaica, NY 11434
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F106510-3 (exp. 2029-01-29)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/greenworks-environmental-nj0074/
 
 * Lead inspection / evaluation
 * Montclair, NJ (Essex County)
-* Phone: (201) 800-3211
 * Address: 41 Watchung Plaza, #253, Montclair, NJ 07042
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00735 (exp. 2027-08-31)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jd-lead-consultants-inc-ny0343/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 438-0370
 * Address: 1973 - 52nd St, Brooklyn, NY 11204
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-8973-3 (exp. 2028-03-26)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-8973-3 (exp. 2028-03-26)

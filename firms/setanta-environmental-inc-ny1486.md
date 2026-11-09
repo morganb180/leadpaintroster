@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/setanta-environmental-inc-ny1486/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (718) 678-7599
 * Address: 385 5th Ave, New York, NY 10016
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F275558-1 (exp. 2027-11-18)
 

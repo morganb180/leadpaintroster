@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/american-environmental-remediation-
 
 * Lead abatement
 * Lewiston, NY (Niagara County)
-* Phone: (716) 754-2610
 * Address: 763 Cayuga St, Lewiston, NY 14092
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F148410-3 (exp. 2027-01-31)
 

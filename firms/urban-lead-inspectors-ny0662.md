@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/urban-lead-inspectors-ny0662/
 
 * Lead abatement, Lead inspection / evaluation
 * Plainview, NY (Nassau County)
-* Phone: (516) 946-2660
 * Address: 125 Grohmans Ln, Plainview, NY 11803
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F258473-1 (exp. 2027-01-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F258473-1 (exp. 2027-01-23)

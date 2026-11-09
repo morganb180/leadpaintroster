@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/brave-industrial-paint-llc-nj0203/
 
 * Lead abatement
 * Long Branch, NJ (Monmouth County)
-* Phone: (732) 483-6403
 * Address: 177 Elmwood Ave, Long Branch, NJ 07740
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00594 (exp. 2026-11-30)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/asap-environmental-consultants-llc-
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (646) 389-3361
 * Address: 740 E 243rd St, Bronx, NY 10470
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F190026-3 (exp. 2028-12-12)

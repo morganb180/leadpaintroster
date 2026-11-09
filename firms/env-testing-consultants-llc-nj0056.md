@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/env-testing-consultants-llc-nj0056/
 
 * Lead inspection / evaluation
 * Runnemede, NJ (Camden County)
-* Phone: (856) 482-1311
 * Address: 413 N Black Horse Pike, Runnemede, NJ 08078
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00335 (exp. 2028-05-31)
 

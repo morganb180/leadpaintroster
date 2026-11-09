@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/eisenbach-ruhnke-engineering-p-c-ny
 
 * Lead inspection / evaluation
 * Utica, NY (Oneida County)
-* Phone: (315) 735-1916
 * Address: 291 Genesee St, Utica, NY 13501
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-611-3 (exp. 2026-11-18)
 

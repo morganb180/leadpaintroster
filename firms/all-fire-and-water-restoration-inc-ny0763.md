@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/all-fire-and-water-restoration-inc-
 
 * Lead abatement
 * Ronkonkoma, NY (Suffolk County)
-* Phone: (631) 585-0007
 * Address: 2460 Ocean Ave, Ronkonkoma, NY 11779
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F231321-1 (exp. 2027-06-27)
 

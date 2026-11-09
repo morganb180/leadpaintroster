@@ -1,6 +1,6 @@
 ---
 title: "Angessy Home Improvements, Corona, NY | Lead Paint Roster"
-description: "Angessy Home Improvements in Corona, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Angessy Home Improvements in Corona, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/angessy-home-improvements-ny0785/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/angessy-home-improvements-ny0785/
 
 * Lead abatement
 * Corona, NY (Queens County)
-* Phone: (917) 749-3597
 * Address: 9608 42nd Ave, Corona, NY 11368
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F236568-1 (exp. 2027-02-08)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/the-bonvie-group-inc-ny0643/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 841-2121
 * Address: 1431 Nostrand Ave, Brooklyn, NY 11226
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F269711-1 (exp. 2027-09-27)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F269711-1 (exp. 2027-09-27)

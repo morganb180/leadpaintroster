@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/housing-preservation-services-ny108
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 401-7285
 * Address: 147 Prince St, Brooklyn, NY 11201
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-73271-4 (exp. 2028-09-20)
 

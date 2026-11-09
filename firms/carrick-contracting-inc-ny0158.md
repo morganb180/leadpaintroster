@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/carrick-contracting-inc-ny0158/
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (718) 432-4710
 * Address: 3045 Godwin Ter, Bronx, NY 10463
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-118255-3 (exp. 2027-05-13)

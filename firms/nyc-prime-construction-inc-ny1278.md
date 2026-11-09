@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nyc-prime-construction-inc-ny1278/
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (203) 707-4042
 * Address: 178 First St, Yonkers, NY 10704
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F291442-1 (exp. 2028-04-18)
 

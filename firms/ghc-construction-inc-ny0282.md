@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ghc-construction-inc-ny0282/
 
 * Lead abatement, Lead inspection / evaluation
 * Astoria, NY (Queens County)
-* Phone: (718) 267-7819
 * Address: 31-06 31st Ave, Astoria, NY 11106
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-68626-1 (exp. 2028-06-24)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-68626-1 (exp. 2028-06-24)

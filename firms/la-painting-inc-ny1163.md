@@ -1,6 +1,6 @@
 ---
 title: "LA Painting Inc, Syracuse, NY | Lead Paint Roster"
-description: "LA Painting Inc in Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "LA Painting Inc in Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/la-painting-inc-ny1163/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/la-painting-inc-ny1163/
 
 * Lead abatement
 * Syracuse, NY (Onondaga County)
-* Phone: (315) 437-2712
 * Address: 6739 Pickard Dr, Syracuse, NY 13211
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-60340-2 (exp. 2026-11-15)

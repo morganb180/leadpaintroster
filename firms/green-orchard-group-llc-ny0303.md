@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/green-orchard-group-llc-ny0303/
 
 * Lead abatement, Lead inspection / evaluation
 * Long Island City, NY (Queens County)
-* Phone: (212) 219-8365
 * Address: 3927 29th St, Long Island City, NY 11101
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F165595-4 (exp. 2028-07-07)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F165595-4 (exp. 2028-07-07)

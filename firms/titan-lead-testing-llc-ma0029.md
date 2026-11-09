@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/titan-lead-testing-llc-ma0029/
 
 * Lead risk assessment
 * Melrose, MA (Middlesex County)
-* Phone: (781) 789-3287
-* Email: ecsepj@hotmail.com
 * Address: Melrose, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0029

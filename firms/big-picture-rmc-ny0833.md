@@ -1,6 +1,6 @@
 ---
 title: "Big Picture RMC, Brooklyn, NY | Lead Paint Roster"
-description: "Big Picture RMC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Big Picture RMC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/big-picture-rmc-ny0833/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/big-picture-rmc-ny0833/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (845) 664-3202
 * Address: 10 Columbia Pl, Brooklyn, NY 11201
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F269896-1 (exp. 2027-09-26)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/park-avenue-maintenance-corp-ny1344
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (718) 601-6020
 * Address: 2883 Heath Ave, Bronx, NY 10463
 * Google rating: 4.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-37246-3 (exp. 2028-08-06)

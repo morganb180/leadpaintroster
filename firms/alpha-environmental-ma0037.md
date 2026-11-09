@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/alpha-environmental-ma0037/
 
 * Lead inspection / evaluation
 * Quincy, MA (Norfolk County)
-* Phone: (857) 939-6910
-* Email: OliviaPalazzi@gmail.com
 * Address: Quincy, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0037

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sh-general-contractors-corp-ny1455/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (646) 266-1353
 * Address: 645 W 207th St, New York, NY 10034
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F292988-1 (exp. 2028-05-15)
 

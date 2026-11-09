@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/b-n-k-restoration-co-inc-nj0198/
 
 * Lead abatement
 * Clifton, NJ (Passaic County)
-* Phone: (973) 478-4681
 * Address: 223 Randolph Ave, Clifton, NJ 07011
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00100 (exp. 2027-09-30)
 

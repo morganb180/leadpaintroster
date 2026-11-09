@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/american-fire-restoration-llc-ny078
 
 * Lead abatement
 * Glendale, NY (Queens County)
-* Phone: (718) 383-7006
 * Address: 71-02 80th St, Glendale, NY 11385
 * Google rating: 4.5 from 33 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-48783-4 (exp. 2028-08-07)

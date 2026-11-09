@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/crown-mold-specialists-ny0185/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (347) 203-7731
 * Address: 490 Kings Hwy, Brooklyn, NY 11223
 * Google rating: 5.0 from 458 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F322843-1 (exp. 2029-02-19)

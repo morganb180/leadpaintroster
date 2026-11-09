@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/loyal-stars-construction-inc-ny1185
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (516) 369-2109
 * Address: 4570 Manhattan College Pkwy, Bronx, NY 10471
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-20346-3 (exp. 2028-01-14)
 

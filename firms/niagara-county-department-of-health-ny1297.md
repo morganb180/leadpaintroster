@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/niagara-county-department-of-health
 
 * Lead abatement
 * Lockport, NY (Niagara County)
-* Phone: (716) 439-7444
 * Address: 55 Stevens St, Lockport, NY 14094
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-117659-4 (exp. 2029-11-09)
 

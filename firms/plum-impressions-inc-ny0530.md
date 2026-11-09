@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/plum-impressions-inc-ny0530/
 
 * Lead abatement, Lead inspection / evaluation
 * Buffalo, NY (Erie County)
-* Phone: (716) 335-8105
 * Address: 330 Watson St, Buffalo, NY 14212
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F266431-1 (exp. 2027-07-11)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F266431-1 (exp. 2027-07-11)

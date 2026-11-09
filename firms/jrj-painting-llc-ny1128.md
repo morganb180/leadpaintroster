@@ -1,6 +1,6 @@
 ---
 title: "JRJ Painting LLC, Syracuse, NY | Lead Paint Roster"
-description: "JRJ Painting LLC in Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "JRJ Painting LLC in Syracuse, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/jrj-painting-llc-ny1128/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jrj-painting-llc-ny1128/
 
 * Lead abatement
 * Syracuse, NY (Onondaga County)
-* Phone: (315) 484-4740
 * Address: 105 Homer Ave, Syracuse, NY 13219
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F317484-1 (exp. 2028-12-15)
 

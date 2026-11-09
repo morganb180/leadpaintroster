@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nyc-department-of-housing-preservat
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (212) 863-8747
 * Address: 100 Gold St, New York, NY 10038
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-59416-4 (exp. 2028-07-16)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-59416-4 (exp. 2028-07-16)

@@ -1,6 +1,6 @@
 ---
 title: "ASAP ENV, Dorchester, MA | Lead Paint Roster"
-description: "ASAP ENV in Dorchester, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates, contact details and the official source list."
+description: "ASAP ENV in Dorchester, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/asap-env-ma0013/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/asap-env-ma0013/
 
 * Lead risk assessment
 * Dorchester, MA (Suffolk County)
-* Phone: (781) 534-2095
-* Email: mlm1973.mm@gmail.com
 * Address: Dorchester, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0013

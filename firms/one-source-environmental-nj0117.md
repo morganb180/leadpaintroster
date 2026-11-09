@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/one-source-environmental-nj0117/
 
 * Lead inspection / evaluation
 * Charlotte, NC (Mecklenburg County)
-* Phone: (704) 376-3594
 * Address: 3717 Latrobe Dr, Unit 760, Charlotte, NC 28211
 * Google rating: 4.3 from 3 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00783 (exp. 2027-11-30)

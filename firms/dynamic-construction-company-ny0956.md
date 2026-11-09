@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dynamic-construction-company-ny0956
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 758-1240
 * Address: 1149 E 34th St, Brooklyn, NY 11210
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-68725-4 (exp. 2029-10-22)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/safe-environmental-llc-ny0593/
 
 * Lead abatement, Lead inspection / evaluation
 * Elmont, NY (Nassau County)
-* Phone: (646) 393-6898
 * Address: 681 Doblin St, Elmont, NY 11003
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F301487-2 (exp. 2031-07-22)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F301487-2 (exp. 2031-07-22)

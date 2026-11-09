@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/apc-specialist-llc-ny0054/
 
 * Lead abatement, Lead inspection / evaluation
 * Long Island City, NY (Queens County)
-* Phone: (718) 924-2089
 * Address: 3100 47th Ave, Long Island City, NY 11101
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F173072-2 (exp. 2027-08-28)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F173072-2 (exp. 2027-08-28)

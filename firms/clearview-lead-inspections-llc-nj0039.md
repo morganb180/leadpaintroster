@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/clearview-lead-inspections-llc-nj00
 
 * Lead inspection / evaluation
 * Lakewood, NJ (Ocean County)
-* Phone: (732) 598-0472
 * Address: 2 Hawthorne St, Lakewood, NJ 08701
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00916 (exp. 2028-04-30)
 

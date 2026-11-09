@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/crossett-construction-and-property-
 
 * Lead abatement
 * Syracuse, NY (Onondaga County)
-* Phone: (518) 844-0555
 * Address: 409 Crossett St, Syracuse, NY 13207
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F335841-1 (exp. 2029-06-03)
 

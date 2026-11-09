@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hrc-environmental-llc-ny0311/
 
 * Lead abatement, Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (518) 253-4216
 * Address: 576 Cary Ave, Staten Island, NY 10310
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F286046-1 (exp. 2028-03-03)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F286046-1 (exp. 2028-03-03)

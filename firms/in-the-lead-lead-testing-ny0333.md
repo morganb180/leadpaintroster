@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/in-the-lead-lead-testing-ny0333/
 
 * Lead inspection / evaluation
 * Walworth, NY (Wayne County)
-* Phone: (585) 704-2886
 * Address: 4501 Lewis Rd, Walworth, NY 14568
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F237445-2 (exp. 2028-06-24)
 

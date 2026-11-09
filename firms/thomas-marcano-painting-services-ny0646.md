@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/thomas-marcano-painting-services-ny
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (646) 406-6382
 * Address: 166W 18th St, New York, NY 10011
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F208738-1 (exp. 2029-05-14)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F208738-1 (exp. 2029-05-14)

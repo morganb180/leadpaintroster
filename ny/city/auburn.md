@@ -29,8 +29,6 @@ Lead Paint Roster lists 4 EPA-licensed listings with an address in Auburn: 1 lea
 Licensed firm
 
 64 S St, Auburn, NY  
-☎ [(315) 253-7301](tel:3152537301)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1746-3 (exp. 2026-12-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0125)
@@ -44,8 +42,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 7055 Basswood Rd, Auburn, NY  
-☎ [(315) 730-2996](tel:3157302996)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F329644-1 (exp. 2029-04-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0823)
@@ -57,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 20 Fitch Ave, Auburn, NY  
-☎ [(516) 650-9458](tel:5166509458)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F281845-1 (exp. 2028-02-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0940)
@@ -70,8 +64,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 31 Elizabeth St, Auburn, NY  
-☎ [(315) 252-1897](tel:3152521897)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-20020-1 (exp. 2027-03-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1533)

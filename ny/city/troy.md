@@ -29,8 +29,6 @@ Lead Paint Roster lists 5 EPA-licensed listings with an address in Troy: 2 lead 
 Licensed firm
 
 68 2nd St, Troy, NY  
-☎ [(518) 479-9044](tel:5184799044)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F312674-1 (exp. 2028-11-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0335)
@@ -42,8 +40,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1600 7th Ave, Troy, NY  
-☎ [(518) 270-2626](tel:5182702626)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2482-3 (exp. 2028-02-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0572)
@@ -57,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1 Harrison St, Troy, NY  
-☎ [(518) 272-2715](tel:5182722715)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F259559-1 (exp. 2027-02-16)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0802)
@@ -70,8 +64,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 295 1st St, Troy, NY  
-☎ [(518) 274-6871](tel:5182746871)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-33146-4 (exp. 2032-05-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1026)
@@ -83,8 +75,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 550 1st Ave, Troy, NY  
-☎ [(518) 847-2469](tel:5188472469)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-125517-3 (exp. 2027-01-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1260)

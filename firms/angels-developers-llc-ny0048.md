@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/angels-developers-llc-ny0048/
 
 * Lead abatement, Lead inspection / evaluation
 * Floral Park, NY (Nassau County)
-* Phone: (631) 787-4822
 * Address: 8460 258th St, Floral Park, NY 11001
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F292820-1 (exp. 2028-06-10)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F292820-1 (exp. 2028-06-10)

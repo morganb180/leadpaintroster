@@ -21,7 +21,6 @@ Lead Paint Roster lists 5 NJ DCA-licensed listings for lead inspection / evaluat
 Licensed firm
 
 53 Albertson Ave, Bridgeton, NJ  
-☎ [(856) 451-1344](tel:8564511344)  
 Contact listed by NJ DCA: Edward Rivera
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00210 (exp. 2027-09-30)  
@@ -35,7 +34,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 1 Slade Ln, Bridgeton, NJ  
-☎ [(856) 392-3142](tel:8563923142)  
 Contact listed by NJ DCA: Anthony Ortiz
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00851 (exp. 2026-12-31)  
@@ -49,7 +47,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 963 Ye Greate St, Greenwich, NJ  
-☎ [(856) 459-9300](tel:8564599300)  
 Contact listed by NJ DCA: Gary D. Albert
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00769 (exp. 2027-04-30)  
@@ -63,7 +60,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 2124 N 2nd St, #1008, Millville, NJ  
-☎ [(609) 319-3149](tel:6093193149)  
 Contact listed by NJ DCA: Marissa Peterson
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00883 (exp. 2027-07-31)  
@@ -77,7 +73,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 2236 Vine Rd, Vineland, NJ  
-☎ [(856) 701-6462](tel:8567016462)  
 Contact listed by NJ DCA: Drew Side
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00747 (exp. 2027-05-31)  
@@ -95,7 +90,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 5 Purdue Ave, Bridgeton, NJ  
-☎ [(856) 457-0342](tel:8564570342)  
 Contact listed by NJ DCA: Anthony Peterson
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00442 (exp. 2027-08-31)  
@@ -109,7 +103,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 1819 Cedar Ave, Suite B, Vineland, NJ  
-☎ [(856) 690-9500](tel:8566909500)  
 Contact listed by NJ DCA: Ronald W. Yarbrough
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00670 (exp. 2028-03-31)  

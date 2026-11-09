@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/leadsafe-inspections-nyc-ny0412/
 
 * Lead inspection / evaluation
 * Ridgewood, NY (Queens County)
-* Phone: (347) 533-2605
 * Address: 5948 Madison St, Ridgewood, NY 11385
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F304482-1 (exp. 2028-08-13)
 

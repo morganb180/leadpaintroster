@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/1-all-american-lead-services-nj0001
 
 * Lead inspection / evaluation
 * Millville, NJ (Cumberland County)
-* Phone: (609) 319-3149
 * Address: 2124 N 2nd St, #1008, Millville, NJ 08332
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00883 (exp. 2027-07-31)
 

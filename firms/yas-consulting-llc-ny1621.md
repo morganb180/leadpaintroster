@@ -1,6 +1,6 @@
 ---
 title: "YAS Consulting LLC, Thiells, NY | Lead Paint Roster"
-description: "YAS Consulting LLC in Thiells, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "YAS Consulting LLC in Thiells, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/yas-consulting-llc-ny1621/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/yas-consulting-llc-ny1621/
 
 * Lead abatement
 * Thiells, NY (Rockland County)
-* Phone: (347) 524-9941
 * Address: 16 Locust Dr, Thiells, NY 10984
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F282866-1 (exp. 2028-02-10)
 

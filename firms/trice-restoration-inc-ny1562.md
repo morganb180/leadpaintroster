@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/trice-restoration-inc-ny1562/
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (212) 257-1661
 * Address: 3418 Northern Blvd, Long Island City, NY 11101
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F294061-1 (exp. 2028-05-08)
 

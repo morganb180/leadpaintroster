@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jcr-management-specialist-llc-nj022
 
 * Lead abatement
 * Neptune, NJ (Monmouth County)
-* Phone: (732) 403-1471
 * Address: 306 Victor Pl, Neptune, NJ 07753
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00749 (exp. 2027-05-31)
 

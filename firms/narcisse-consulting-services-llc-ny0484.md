@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/narcisse-consulting-services-llc-ny
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (929) 213-2523
 * Address: 962 E 80th St, Brooklyn, NY 11236
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F310602-1 (exp. 2028-12-24)
 

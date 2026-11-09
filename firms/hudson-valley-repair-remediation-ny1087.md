@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hudson-valley-repair-remediation-ny
 
 * Lead abatement
 * Poughkeepsie, NY (Dutchess County)
-* Phone: (845) 219-3879
 * Address: 75 Fairview Ave, Poughkeepsie, NY 12601
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F304603-1 (exp. 2028-08-14)
 

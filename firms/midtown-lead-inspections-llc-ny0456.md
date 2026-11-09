@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/midtown-lead-inspections-llc-ny0456
 
 * Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (646) 225-0168
 * Address: 1520 Story Ave, Bronx, NY 10473
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F294244-1 (exp. 2028-05-22)
 

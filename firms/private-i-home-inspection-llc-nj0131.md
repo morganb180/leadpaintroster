@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/private-i-home-inspection-llc-nj013
 
 * Lead inspection / evaluation
 * Randolph, NJ (Morris County)
-* Phone: (973) 440-9894
 * Address: 52 Radtke Rd, Randolph, NJ 07869
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00814 (exp. 2028-05-31)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lahifa-construction-corporation-ny1
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 254-6481
 * Address: 2082 E 56th St, Brooklyn, NY 11234
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F208608-3 (exp. 2028-10-10)
 

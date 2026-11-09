@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/galermo-ny0289/
 
 * Lead abatement, Lead inspection / evaluation
 * Flushing, NY (Queens County)
-* Phone: (347) 694-9093
 * Address: 143-05 41st Ave, Flushing, NY 11355
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F161709-4 (exp. 2029-10-08)

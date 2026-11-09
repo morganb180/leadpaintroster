@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mj-s-contracting-services-inc-ny121
 
 * Lead abatement
 * Waterville, NY (Oneida County)
-* Phone: (315) 202-4006
 * Address: 7722 State Route 20, Waterville, NY 13480
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F217869-3 (exp. 2029-09-18)
 

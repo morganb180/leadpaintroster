@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lead-testing-services-llc-nj0097/
 
 * Lead inspection / evaluation
 * Philadelphia, PA (Philadelphia County)
-* Phone: (610) 357-7964
 * Address: 1516 N 5th St, Philadelphia, PA 19122
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00745 (exp. 2027-05-31)
 

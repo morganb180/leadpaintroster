@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/new-york-mold-specialist-inc-ny0495
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (800) 497-6650
 * Address: 4904 Ave L, Brooklyn, NY 11234
 * Google rating: 5.0 from 403 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F323657-1 (exp. 2029-03-04)

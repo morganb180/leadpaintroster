@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/emergency-remediation-services-ny09
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (631) 890-9064
 * Address: 50 W St, New York, NY 10006
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F322426-1 (exp. 2029-02-12)
 

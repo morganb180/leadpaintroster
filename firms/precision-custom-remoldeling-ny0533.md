@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/precision-custom-remoldeling-ny0533
 
 * Lead abatement, Lead inspection / evaluation
 * Huntington, NY (Suffolk County)
-* Phone: (516) 971-2235
 * Address: 69 Brand Dr, Huntington, NY 11743
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F256163-1 (exp. 2026-11-15)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F256163-1 (exp. 2026-11-15)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/enviro-nyc-ny0238/
 
 * Lead abatement, Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (347) 581-8080
 * Address: 74 Meade Loop, Staten Island, NY 10309
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F253308-2 (exp. 2029-08-30)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F253308-2 (exp. 2029-08-30)

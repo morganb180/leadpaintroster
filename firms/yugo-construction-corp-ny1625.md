@@ -1,6 +1,6 @@
 ---
 title: "YUGO Construction Corp., New York, NY | Lead Paint Roster"
-description: "YUGO Construction Corp. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "YUGO Construction Corp. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/yugo-construction-corp-ny1625/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/yugo-construction-corp-ny1625/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (917) 435-0987
 * Address: 435 E 79th St, New York, NY 10075
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F216153-2 (exp. 2028-06-30)
 

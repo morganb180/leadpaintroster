@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/baystate-lead-inspection-ma0052/
 
 * Lead risk assessment
 * Waltham, MA (Middlesex County)
-* Phone: (781) 454-7185
-* Email: davidmcdonnell06@gmail.com
 * Address: Waltham, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0052

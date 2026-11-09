@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/meticulous-homes-construction-ny123
 
 * Lead abatement
 * Brewerton, NY (Onondaga County)
-* Phone: (315) 532-7949
 * Address: 6383 Mud Mill Rd, Brewerton, NY 13029
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F330675-1 (exp. 2029-04-15)
 

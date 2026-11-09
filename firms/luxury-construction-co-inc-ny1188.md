@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/luxury-construction-co-inc-ny1188/
 
 * Lead abatement
 * Ozone Park, NY (Queens County)
-* Phone: (718) 937-3642
 * Address: 105-27 79th St, Ozone Park, NY 11417
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-112988-3 (exp. 2028-02-15)

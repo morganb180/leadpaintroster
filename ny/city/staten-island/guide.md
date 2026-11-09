@@ -46,8 +46,6 @@ Lead Paint Roster lists 72 listings with an address in Staten Island: 31 inspect
 Licensed firm
 
 446 Laconia Ave, Staten Island, NY  
-☎ [(646) 387-3667](tel:6463873667)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F124568-2 (exp. 2027-05-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0008)
@@ -59,8 +57,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 76 Sandal Wood Dr, Staten Island, NY  
-☎ [(917) 939-9195](tel:9179399195)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F294689-1 (exp. 2028-08-11)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F294689-1 (exp. 2028-08-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -73,8 +69,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 503 King St, Staten Island, NY  
-☎ [(646) 707-8946](tel:6467078946)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F284664-1 (exp. 2028-02-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0020)
@@ -86,8 +80,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 103 Willowbrook Rd, Staten Island, NY  
-☎ [(347) 479-3410](tel:3474793410)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F327782-1 (exp. 2029-03-31)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F327782-1 (exp. 2029-03-31)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

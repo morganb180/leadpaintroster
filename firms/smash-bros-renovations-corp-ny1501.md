@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/smash-bros-renovations-corp-ny1501/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (917) 624-5573
 * Address: 5680 Broadway, Bronx, NY 10463
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F260467-1 (exp. 2027-03-14)
 

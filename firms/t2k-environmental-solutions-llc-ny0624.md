@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/t2k-environmental-solutions-llc-ny0
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 559-9911
 * Address: 4015 8th Ave, Brooklyn, NY 11232
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F217354-3 (exp. 2029-08-26)
 

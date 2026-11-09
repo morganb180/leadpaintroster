@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/miller-environmental-group-inc-ny12
 
 * Lead abatement
 * Calverton, NY (Suffolk County)
-* Phone: (631) 369-4900
 * Address: 538 Edwards Ave, Calverton, NY 11933
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2326-1 (exp. 2028-10-30)
 

@@ -23,8 +23,6 @@ Lead Paint Roster lists 6 EPA-licensed listings for lead inspection / evaluation
 Licensed firm
 
 3 Neptune Rd, Poughkeepsie, NY  
-☎ [(845) 462-0200](tel:8454620200)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F288614-1 (exp. 2028-03-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0037)
@@ -36,8 +34,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 85 Civic Center Plaza, Poughkeepsie, NY  
-☎ [(845) 486-3404](tel:8454863404)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1926-3 (exp. 2027-10-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0187)
@@ -49,8 +45,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 198 Rochdale Rd, Poughkeepsie, NY  
-☎ [(201) 308-3832](tel:2013083832)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F291986-1 (exp. 2028-04-30)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F291986-1 (exp. 2028-04-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -63,8 +57,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3 Neptune Rd, Poughkeepsie, NY  
-☎ [(845) 462-1466](tel:8454621466)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F201419-3 (exp. 2028-04-25)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F201419-3 (exp. 2028-04-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -77,8 +69,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1731 Jackson Corners Rd, Red Hook, NY  
-☎ [(929) 777-0973](tel:9297770973)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F287650-1 (exp. 2028-03-13)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F287650-1 (exp. 2028-03-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -91,8 +81,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 765 Sergeant Palmateer Way, Wappingers Falls, NY  
-☎ [(845) 288-3882](tel:8452883882)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F159776-1 (exp. 2027-05-02)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F159776-1 (exp. 2027-05-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -109,8 +97,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 164 Old Route 9, Fishkill, NY  
-☎ [(845) 896-5496](tel:8458965496)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-41861-3 (exp. 2027-04-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1349)
@@ -122,8 +108,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 67 Page Park Dr, Poughkeepsie, NY  
-☎ [(845) 226-0868](tel:8452260868)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F258567-1 (exp. 2027-01-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1020)
@@ -135,8 +119,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 75 Fairview Ave, Poughkeepsie, NY  
-☎ [(845) 219-3879](tel:8452193879)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F304603-1 (exp. 2028-08-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1087)
@@ -148,8 +130,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 7 Memorial Dr, Tivoli, NY  
-☎ [(917) 686-4192](tel:9176864192)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F220534-3 (exp. 2029-12-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1371)

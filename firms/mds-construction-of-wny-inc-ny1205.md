@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mds-construction-of-wny-inc-ny1205/
 
 * Lead abatement
 * Lockport, NY (Niagara County)
-* Phone: (716) 990-2273
 * Address: 6670 Slayton Settlement Rd, Lockport, NY 14094
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-14305-3 (exp. 2029-03-15)
 

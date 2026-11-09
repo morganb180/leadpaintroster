@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/north-shore-lead-paint-testing-serv
 
 * Lead risk assessment
 * Beverly, MA (Essex County)
-* Phone: (978) 836-0072
-* Email: admiraltd@aol.com
 * Address: Beverly, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0005

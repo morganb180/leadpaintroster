@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/errands-pro-inc-ny0259/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (646) 387-8642
 * Address: 502 Amsterdam Ave, New York, NY 10024
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F259248-1 (exp. 2027-02-15)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F259248-1 (exp. 2027-02-15)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pro-vista-home-inspections-nj0132/
 
 * Lead inspection / evaluation
 * Passaic, NJ (Passaic County)
-* Phone: (862) 232-9372
 * Address: 20 Ascension St, Passaic, NJ 07055
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00808 (exp. 2028-05-31)
 

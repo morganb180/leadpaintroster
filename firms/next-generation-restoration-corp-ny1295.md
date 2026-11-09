@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/next-generation-restoration-corp-ny
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 753-5007
 * Address: 2842 Brigham St, Brooklyn, NY 11235
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F243243-1 (exp. 2027-03-07)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/alpine-environmental-services-inc-n
 
 * Lead inspection / evaluation
 * Albany, NY (Albany County)
-* Phone: (518) 250-4047
 * Address: 438 New Karner Rd, Albany, NY 12205
 * Google rating: 4.4 from 30 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-113-3 (exp. 2028-02-21)

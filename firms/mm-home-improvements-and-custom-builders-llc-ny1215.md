@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mm-home-improvements-and-custom-bui
 
 * Lead abatement
 * Kingston, NY (Ulster County)
-* Phone: (845) 616-0407
 * Address: 63 Stephan St, Kingston, NY 12401
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F274758-1 (exp. 2027-11-22)
 

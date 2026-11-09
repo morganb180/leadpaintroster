@@ -21,8 +21,6 @@ Lead Paint Roster lists 2 EPA-licensed listings for lead inspection / evaluation
 Licensed firm
 
 116 Roosevelt Ave, Groton, NY  
-☎ [(607) 269-7657](tel:6072697657)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F261164-1 (exp. 2027-03-20)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F261164-1 (exp. 2027-03-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -35,8 +33,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 213 Sydney Ter, Newfield, NY  
-☎ [(607) 351-0148](tel:6073510148)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F229091-2 (exp. 2028-02-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0219)

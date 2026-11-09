@@ -1,6 +1,6 @@
 ---
 title: "Padma Contracting Corp, Bronx, NY | Lead Paint Roster"
-description: "Padma Contracting Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Padma Contracting Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/padma-contracting-corp-ny1338/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/padma-contracting-corp-ny1338/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (718) 880-0090
 * Address: 2249 Powell Ave, Bronx, NY 10462
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-127341-3 (exp. 2028-06-10)

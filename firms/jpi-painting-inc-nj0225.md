@@ -1,6 +1,6 @@
 ---
 title: "Jpi Painting Inc., Lowellville, OH | Lead Paint Roster"
-description: "Jpi Painting Inc. in Lowellville, OH: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Jpi Painting Inc. in Lowellville, OH: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/jpi-painting-inc-nj0225/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jpi-painting-inc-nj0225/
 
 * Lead abatement
 * Lowellville, OH (Mahoning County)
-* Phone: (330) 536-4400
 * Address: 6150 Center Rd, Lowellville, OH 44436
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00425 (exp. 2028-06-25)
 

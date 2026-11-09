@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ripple-restoration-llc-dba-servpro-
 
 * Lead abatement
 * Fresh Meadows, NY (Queens County)
-* Phone: (718) 905-0496
 * Address: 6522 Fresh Meadow Ln, Fresh Meadows, NY 11365
 * Google rating: 4.7 from 13 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F304015-1 (exp. 2028-08-11)

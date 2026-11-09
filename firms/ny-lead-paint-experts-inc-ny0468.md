@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ny-lead-paint-experts-inc-ny0468/
 
 * Lead abatement, Lead inspection / evaluation
 * Glen Oaks, NY (Queens County)
-* Phone: (646) 632-7154
 * Address: 260-12 Hillside Ave, Glen Oaks, NY 11004
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F113581-4 (exp. 2028-06-20)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F113581-4 (exp. 2028-06-20)

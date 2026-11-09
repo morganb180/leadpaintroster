@@ -1,6 +1,6 @@
 ---
 title: "Pure Environmental, Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Pure Environmental, Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Pure Environmental, Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/pure-environmental-inc-ny1385/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pure-environmental-inc-ny1385/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (212) 431-2094
 * Address: 1 12th St, Brooklyn, NY 11215
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F304554-1 (exp. 2028-08-13)
 

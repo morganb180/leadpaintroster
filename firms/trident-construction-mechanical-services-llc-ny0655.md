@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/trident-construction-mechanical-ser
 
 * Lead abatement, Lead inspection / evaluation
 * Brewerton, NY (Onondaga County)
-* Phone: (315) 414-9912
 * Address: 4729 Becker Rd, Brewerton, NY 13029
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F240776-2 (exp. 2028-10-04)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F240776-2 (exp. 2028-10-04)

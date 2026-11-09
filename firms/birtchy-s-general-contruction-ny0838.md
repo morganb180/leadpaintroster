@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/birtchy-s-general-contruction-ny083
 
 * Lead abatement
 * Binghamton, NY (Broome County)
-* Phone: (607) 759-1455
 * Address: 64 Felters Rd, Binghamton, NY 13903
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F244581-1 (exp. 2027-10-24)
 

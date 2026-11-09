@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/new-concept-environmental-cleaning-
 
 * Lead abatement
 * Maspeth, NY (Queens County)
-* Phone: (201) 923-4265
 * Address: 6250 60th Rd, Maspeth, NY 11378
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-83394-1 (exp. 2027-02-19)
 

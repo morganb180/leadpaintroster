@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-b-inspection-services-corp-ny0011
 
 * Lead inspection / evaluation
 * Arverne, NY (Queens County)
-* Phone: (516) 849-6961
 * Address: 543 Beach 68th St, Arverne, NY 11692
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F146243-4 (exp. 2029-10-22)
 

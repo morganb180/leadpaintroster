@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rscan-home-inspections-ny0585/
 
 * Lead abatement, Lead inspection / evaluation
 * Schenectady, NY (Schenectady County)
-* Phone: (518) 986-2193
 * Address: 2110 Broadway, Schenectady, NY 12306
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F330016-1 (exp. 2029-04-14)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F330016-1 (exp. 2029-04-14)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tna-field-services-inc-ny0628/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (347) 536-2202
 * Address: 701 Eldert Ln, Brooklyn, NY 11208
 * Google rating: 5.0 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F216667-3 (exp. 2029-08-14)

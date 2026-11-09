@@ -29,8 +29,6 @@ Lead Paint Roster lists 7 EPA-licensed listings with an address in Bayside: 2 le
 Licensed firm
 
 21502 23rd Rd, Bayside, NY  
-☎ [(718) 406-1226](tel:7184061226)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F219160-2 (exp. 2027-10-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0131)
@@ -42,8 +40,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1402 Michael Pl, Bayside, NY  
-☎ [(917) 355-4878](tel:9173554878)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F299440-1 (exp. 2028-06-30)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F299440-1 (exp. 2028-06-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -58,8 +54,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 21721 50th Ave, Bayside, NY  
-☎ [(347) 236-0745](tel:3472360745)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-729-3 (exp. 2027-10-31)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0687)
@@ -71,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2606 202nd St, Bayside, NY  
-☎ [(917) 597-3727](tel:9175973727)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F261428-1 (exp. 2027-03-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0928)
@@ -84,8 +76,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4014 209th St, Bayside, NY  
-☎ [(917) 214-6209](tel:9172146209)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F281168-1 (exp. 2028-01-29)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0988)
@@ -97,8 +87,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 21544 29th Ave, Bayside, NY  
-☎ [(718) 458-5545](tel:7184585545)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-79740-2 (exp. 2028-07-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1152)
@@ -110,8 +98,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3620 221st St, Bayside, NY  
-☎ [(347) 891-7114](tel:3478917114)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F307395-1 (exp. 2028-09-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1424)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/carpinelli-contracting-ny0885/
 
 * Lead abatement
 * Chenango Bridge, NY (Broome County)
-* Phone: (607) 644-4094
 * Address: 56 Willette Park Rd, Chenango Bridge, NY 13745
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F273183-1 (exp. 2027-10-31)
 

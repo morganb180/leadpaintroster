@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/synertech-environmental-llc-nj0163/
 
 * Lead inspection / evaluation
 * Philadelphia, PA (Philadelphia County)
-* Phone: (215) 755-2305
 * Address: 228 Moore St, Philadelphia, PA 19148
 * Google rating: 4.8 from 25 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00545 (exp. 2027-11-30)

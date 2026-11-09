@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/home-improvement-gallery-inc-ny0322
 
 * Lead abatement, Lead inspection / evaluation
 * South Glens Falls, NY (Saratoga County)
-* Phone: (518) 745-5097
 * Address: 10 Saratoga Ave, South Glens Falls, NY 12803
 * Google rating: 4.4 from 24 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-40865-1 (exp. 2027-10-30)

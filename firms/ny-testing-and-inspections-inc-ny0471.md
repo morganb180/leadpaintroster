@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ny-testing-and-inspections-inc-ny04
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (347) 786-2213
 * Address: 4403 15th Ave, Brooklyn, NY 11219
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F301009-1 (exp. 2028-07-14)
 

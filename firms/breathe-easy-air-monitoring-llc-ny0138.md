@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/breathe-easy-air-monitoring-llc-ny0
 
 * Lead abatement, Lead inspection / evaluation
 * Lawrence, NY (Nassau County)
-* Phone: (516) 374-1858
 * Address: 81 Washington Ave South, Lawrence, NY 11559
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F149343-3 (exp. 2027-03-09)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F149343-3 (exp. 2027-03-09)

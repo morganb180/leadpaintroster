@@ -29,8 +29,6 @@ Lead Paint Roster lists 4 EPA-licensed listings with an address in Suffern: 2 le
 Licensed firm
 
 15 Marget Ann Ln, Suffern, NY  
-☎ [(347) 984-6699](tel:3479846699)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F304870-1 (exp. 2028-08-21)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F304870-1 (exp. 2028-08-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 15 Marget Ann Ln, Suffern, NY  
-☎ [(347) 984-6699](tel:3479846699)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F336963-1 (exp. 2029-06-09)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F336963-1 (exp. 2029-06-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -59,8 +55,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 313 Spook Rock Rd, Suffern, NY  
-☎ [(845) 369-7500](tel:8453697500)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2416-3 (exp. 2028-01-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1329)
@@ -72,8 +66,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 11 N Airmont Rd, Suffern, NY  
-☎ [(718) 782-2668](tel:7187822668)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-10276-3 (exp. 2028-07-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1416)

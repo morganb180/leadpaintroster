@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lumitech-contracting-corp-ny1187/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (347) 979-5622
 * Address: 1950 Clove Rd, Staten Island, NY 10304
 * Google rating: 4.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F342223-1 (exp. 2029-08-06)

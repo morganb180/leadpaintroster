@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/diagrama-construction-l-l-c-ny0944/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 418-4446
 * Address: 1573 Bay Ridge Pkwy, Brooklyn, NY 11228
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-109957-2 (exp. 2028-05-05)
 

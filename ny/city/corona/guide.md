@@ -45,8 +45,6 @@ Lead Paint Roster lists 7 listings with an address in Corona: 2 inspection/risk-
 Licensed firm
 
 4045 99th St, Corona, NY  
-☎ [(646) 643-0881](tel:6466430881)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-19012-3 (exp. 2027-09-09)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-19012-3 (exp. 2027-09-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -59,8 +57,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 10231 43rd Ave, Corona, NY  
-☎ [(917) 745-6289](tel:9177456289)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F166844-3 (exp. 2026-12-19)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F166844-3 (exp. 2026-12-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

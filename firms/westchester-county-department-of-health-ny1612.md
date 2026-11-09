@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/westchester-county-department-of-he
 
 * Lead abatement
 * Mount Kisco, NY (Westchester County)
-* Phone: (914) 336-1296
 * Address: 25 Moore Ave, Mount Kisco, NY 10549
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2693-3 (exp. 2027-04-26)
 

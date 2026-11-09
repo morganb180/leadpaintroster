@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/elevation-builders-ny-ny0223/
 
 * Lead abatement, Lead inspection / evaluation
 * Rochester, NY (Monroe County)
-* Phone: (585) 713-5973
 * Address: 277 Alexander St, Rochester, NY 14607
 * Google rating: 5.0 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F260544-1 (exp. 2027-03-09)

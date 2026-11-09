@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/brotherly-builds-construction-corp-
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (917) 587-3010
 * Address: 2538 Young Ave, Bronx, NY 10469
 * Google rating: 4.8 from 23 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F292379-1 (exp. 2028-05-05)

@@ -1,6 +1,6 @@
 ---
 title: "Tile and Construction LLC, Cohoes, NY | Lead Paint Roster"
-description: "Tile and Construction LLC in Cohoes, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Tile and Construction LLC in Cohoes, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/tile-and-construction-llc-ny1550/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tile-and-construction-llc-ny1550/
 
 * Lead abatement
 * Cohoes, NY (Albany County)
-* Phone: (518) 651-4106
 * Address: 61 Main St, Cohoes, NY 12047
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F272417-1 (exp. 2027-10-22)
 

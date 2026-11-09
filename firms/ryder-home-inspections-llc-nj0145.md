@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ryder-home-inspections-llc-nj0145/
 
 * Lead inspection / evaluation
 * Brick, NJ (Ocean County)
-* Phone: (732) 995-5195
 * Address: 1681 Forge Pond Rd, Brick, NJ 08724
 * Google rating: 5.0 from 69 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00722 (exp. 2026-12-31)

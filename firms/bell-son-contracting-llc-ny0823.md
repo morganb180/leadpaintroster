@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bell-son-contracting-llc-ny0823/
 
 * Lead abatement
 * Auburn, NY (Cayuga County)
-* Phone: (315) 730-2996
 * Address: 7055 Basswood Rd, Auburn, NY 13021
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F329644-1 (exp. 2029-04-07)
 

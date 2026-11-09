@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mulberry-restoration-inc-ny1264/
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (646) 851-0669
 * Address: 2705 41st Ave, Long Island City, NY 11101
 * Google rating: 5.0 from 16 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F257661-1 (exp. 2026-12-28)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-d-peterson-enterprises-inc-nj0182
 
 * Lead abatement
 * Bridgeton, NJ (Cumberland County)
-* Phone: (856) 457-0342
 * Address: 5 Purdue Ave, Bridgeton, NJ 08302
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00442 (exp. 2027-08-31)
 

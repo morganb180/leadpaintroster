@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jupiter-painting-cont-co-inc-nj0226
 
 * Lead abatement
 * Croydon, PA (Bucks County)
-* Phone: (215) 785-6920
 * Address: 1500 River Rd, Croydon, PA 19021
 * Google rating: 4.8 from 4 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00166 (exp. 2027-12-31)

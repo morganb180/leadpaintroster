@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/prism-environmental-solutions-ny053
 
 * Lead abatement, Lead inspection / evaluation
 * Woodmere, NY (Nassau County)
-* Phone: (516) 382-7458
 * Address: 396 Westwood Rd, Woodmere, NY 11598
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F226246-2 (exp. 2027-06-17)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F226246-2 (exp. 2027-06-17)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tristate-contracting-solutions-inc-
 
 * Lead abatement
 * College Point, NY (Queens County)
-* Phone: (929) 300-4863
 * Address: 12314 18th Ave, College Point, NY 11356
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F206193-3 (exp. 2028-08-19)
 

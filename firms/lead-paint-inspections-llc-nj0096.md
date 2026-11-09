@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lead-paint-inspections-llc-nj0096/
 
 * Lead inspection / evaluation
 * Hillsdale, NJ (Bergen County)
-* Phone: (201) 522-3204
 * Address: 26 Whitman Pl, Hillsdale, NJ 07642
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00763 (exp. 2027-08-31)
 

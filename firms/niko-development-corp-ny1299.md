@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/niko-development-corp-ny1299/
 
 * Lead abatement
 * West Hempstead, NY (Nassau County)
-* Phone: (516) 292-4520
 * Address: 170 Cherry Valley Ave, West Hempstead, NY 11552
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-105084-1 (exp. 2026-12-14)
 

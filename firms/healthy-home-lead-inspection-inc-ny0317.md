@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/healthy-home-lead-inspection-inc-ny
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (646) 875-7392
 * Address: 1641 71st St, Brooklyn, NY 11204
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F304530-1 (exp. 2028-08-13)
 

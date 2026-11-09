@@ -21,7 +21,6 @@ Lead Paint Roster lists 3 NJ DCA-licensed listings for lead inspection / evaluat
 Licensed firm
 
 4 E.gate Dr, PO Box 483, Glenwood, NJ  
-☎ [(973) 583-8500](tel:9735838500)  
 Contact listed by NJ DCA: Andrew Scott Higgins
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00812 (exp. 2028-06-30)  
@@ -35,7 +34,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 12 Maple Ave, Newton, NJ  
-☎ [(201) 253-6778](tel:2012536778)  
 Contact listed by NJ DCA: Michael Bucci
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00903 (exp. 2027-12-31)  
@@ -49,7 +47,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 655 W Shore Trail, Sparta, NJ  
-☎ [(973) 729-5649](tel:9737295649)  
 Contact listed by NJ DCA: William S Kerbel
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00388 (exp. 2027-07-31)  

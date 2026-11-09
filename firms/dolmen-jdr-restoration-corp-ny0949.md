@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dolmen-jdr-restoration-corp-ny0949/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 575-1297
 * Address: 548 81st St, Brooklyn, NY 11209
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F259594-1 (exp. 2027-02-16)
 

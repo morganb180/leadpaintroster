@@ -23,8 +23,6 @@ Lead Paint Roster lists 4 EPA-licensed listings for lead inspection / evaluation
 Licensed firm
 
 53 Old Troy Rd, East Greenbush, NY  
-☎ [(718) 406-5783](tel:7184065783)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F213400-2 (exp. 2028-04-18)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F213400-2 (exp. 2028-04-18)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -37,8 +35,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 856 Knickerbocker Rd, Schaghticoke, NY  
-☎ [(518) 488-2538](tel:5184882538)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F292951-1 (exp. 2028-05-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0122)
@@ -50,8 +46,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 68 2nd St, Troy, NY  
-☎ [(518) 479-9044](tel:5184799044)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F312674-1 (exp. 2028-11-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0335)
@@ -63,8 +57,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1600 7th Ave, Troy, NY  
-☎ [(518) 270-2626](tel:5182702626)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2482-3 (exp. 2028-02-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0572)
@@ -80,8 +72,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 263 Totem Lodge Rd, Averill Park, NY  
-☎ [(518) 527-7002](tel:5185277002)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F209863-1 (exp. 2027-08-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1224)
@@ -93,8 +83,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 869 Stony Point Rd, Castleton On Hudson, NY  
-☎ [(518) 380-0119](tel:5183800119)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F341447-1 (exp. 2029-07-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1564)
@@ -106,8 +94,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3 Rolling Ridge Dr, East Greenbush, NY  
-☎ [(518) 879-2686](tel:5188792686)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F185608-3 (exp. 2028-02-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1090)
@@ -119,8 +105,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 73 Hansen Rd, Schaghticoke, NY  
-☎ [(518) 753-9526](tel:5187539526)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-45403-4 (exp. 2029-01-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1617)
@@ -132,8 +116,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 207 Ridge Rd, Schodack Landing, NY  
-☎ [(518) 766-0221](tel:5187660221)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F258704-1 (exp. 2028-02-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0931)
@@ -145,8 +127,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1 Harrison St, Troy, NY  
-☎ [(518) 272-2715](tel:5182722715)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F259559-1 (exp. 2027-02-16)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0802)
@@ -158,8 +138,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 295 1st St, Troy, NY  
-☎ [(518) 274-6871](tel:5182746871)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-33146-4 (exp. 2032-05-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1026)
@@ -171,8 +149,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 550 1st Ave, Troy, NY  
-☎ [(518) 847-2469](tel:5188472469)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-125517-3 (exp. 2027-01-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1260)

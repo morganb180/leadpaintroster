@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/prestige-home-inspection-services-c
 
 * Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (917) 979-4404
 * Address: 4300 Broadway, New York, NY 10033
 * Google rating: 4.7 from 11 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F228191-2 (exp. 2027-08-25)

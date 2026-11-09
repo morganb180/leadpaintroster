@@ -1,6 +1,6 @@
 ---
 title: "Nycha, Long Island City, NY | Lead Paint Roster"
-description: "Nycha in Long Island City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Nycha in Long Island City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/nycha-ny1280/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nycha-ny1280/
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (718) 707-8914
 * Address: 2402 49th Ave, Long Island City, NY 11101
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2365-3 (exp. 2027-05-30)
 

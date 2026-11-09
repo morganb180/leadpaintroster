@@ -1,6 +1,6 @@
 ---
 title: "PuroClean of Baldwin, Lynbrook, NY | Lead Paint Roster"
-description: "PuroClean of Baldwin in Lynbrook, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "PuroClean of Baldwin in Lynbrook, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/puroclean-of-baldwin-ny1386/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/puroclean-of-baldwin-ny1386/
 
 * Lead abatement
 * Lynbrook, NY (Nassau County)
-* Phone: (516) 200-1416
 * Address: 303 Merrick Rd, Lynbrook, NY 11563
 * Google rating: 5.0 from 25 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F303930-1 (exp. 2028-08-06)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rayon-home-inspection-inc-ny1415/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (347) 309-8681
 * Address: 262 Slater Blvd, Staten Island, NY 10305
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F228213-3 (exp. 2030-08-31)
 

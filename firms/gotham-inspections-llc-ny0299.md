@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gotham-inspections-llc-ny0299/
 
 * Lead inspection / evaluation
 * Roosevelt, NY (Nassau County)
-* Phone: (516) 424-7628
 * Address: 84 Henry St, Roosevelt, NY 11575
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F163068-2 (exp. 2029-07-30)
 

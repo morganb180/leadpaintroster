@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/eric-jakaitis-ma0043/
 
 * Lead inspection / evaluation
 * South Weymouth, MA (Norfolk County)
-* Phone: (781) 974-9150
-* Email: eric.jakaitis1993@gmail.com
 * Address: South Weymouth, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0043

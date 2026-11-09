@@ -1,6 +1,6 @@
 ---
 title: "Gc Zarnas & Co. Inc-Nj, Bethlehem, PA | Lead Paint Roster"
-description: "Gc Zarnas & Co. Inc-Nj in Bethlehem, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Gc Zarnas & Co. Inc-Nj in Bethlehem, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/gc-zarnas-co-inc-nj-nj0216/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gc-zarnas-co-inc-nj-nj0216/
 
 * Lead abatement
 * Bethlehem, PA (Northampton County)
-* Phone: (610) 866-0923
 * Address: 850 Jennings St, Bethlehem, PA 18017
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00359 (exp. 2027-08-31)

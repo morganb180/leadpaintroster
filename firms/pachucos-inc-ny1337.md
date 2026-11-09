@@ -1,6 +1,6 @@
 ---
 title: "Pachucos Inc., Rochester, NY | Lead Paint Roster"
-description: "Pachucos Inc. in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Pachucos Inc. in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/pachucos-inc-ny1337/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pachucos-inc-ny1337/
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (585) 733-8081
 * Address: 1208 Lake Ave, Rochester, NY 14613
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F327019-1 (exp. 2029-04-14)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F261854-1 (exp. 2027-04-03)

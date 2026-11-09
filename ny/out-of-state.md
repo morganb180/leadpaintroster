@@ -19,8 +19,6 @@ canonical: https://leadpaintroster.com/ny/out-of-state/
 Licensed firm
 
 321 Newark St, Hoboken, NY  
-☎ [(201) 653-2577](tel:2016532577)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-114757-1 (exp. 2029-08-18)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1283)

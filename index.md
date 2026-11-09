@@ -4,9 +4,9 @@ description: "Lead Paint Roster is a free directory of certified lead paint insp
 canonical: https://leadpaintroster.com/
 ---
 
-# Lead Paint Roster: find a certified lead paint inspector in NJ, NY or MA
+# Hire a certified lead paint pro you can actually verify.
 
-Lead Paint Roster is a free, independent directory of certified lead-based paint inspectors, risk assessors and abatement firms in New Jersey, New York and Massachusetts, built from NJ DCA, US EPA and Massachusetts licence records.
+Lead Paint Roster is a free, independent directory of certified lead-based paint inspectors, risk assessors and abatement firms in New Jersey, New York and Massachusetts, built from NJ DCA, US EPA and Massachusetts licence records. We connect you with up to 3 nearby certified firms. They contact you directly.
 
 1,952 listings from official licence records (896 lead inspection / evaluation, 34 lead risk assessment, 1489 lead abatement), covering 1,934 firms and 77 licensed individuals. Every listing shows its licence numbers and links the source.
 

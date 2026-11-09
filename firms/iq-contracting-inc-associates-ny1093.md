@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/iq-contracting-inc-associates-ny109
 
 * Lead abatement
 * Ossining, NY (Westchester County)
-* Phone: (914) 703-5835
 * Address: 95 Croton Ave, Ossining, NY 10562
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F173259-3 (exp. 2027-06-06)
 

@@ -1,6 +1,6 @@
 ---
 title: "Liro Engineers, Inc., Syosset, NY | Lead Paint Roster"
-description: "Liro Engineers, Inc. in Syosset, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Liro Engineers, Inc. in Syosset, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/liro-engineers-inc-ny0423/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/liro-engineers-inc-ny0423/
 
 * Lead inspection / evaluation
 * Syosset, NY (Nassau County)
-* Phone: (716) 882-5476
 * Address: Three Aerial Way, Syosset, NY 11791
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-14409-3 (exp. 2027-05-18)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/berenato-env-associates-llc-nj0034/
 
 * Lead inspection / evaluation
 * Ocean City, NJ (Cape May County)
-* Phone: (609) 399-6653
 * Address: 205 W Seaspray Rd, Ocean City, NJ 08226
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00853 (exp. 2026-12-31)
 

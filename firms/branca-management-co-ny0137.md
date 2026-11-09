@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/branca-management-co-ny0137/
 
 * Lead abatement, Lead inspection / evaluation
 * Port Chester, NY (Westchester County)
-* Phone: (914) 356-3224
 * Address: 78 S Regent St, Port Chester, NY 10573
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F301440-1 (exp. 2028-07-22)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F301440-1 (exp. 2028-07-22)

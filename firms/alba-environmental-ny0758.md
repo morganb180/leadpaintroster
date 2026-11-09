@@ -1,6 +1,6 @@
 ---
 title: "Alba Environmental, New York, NY | Lead Paint Roster"
-description: "Alba Environmental in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Alba Environmental in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/alba-environmental-ny0758/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/alba-environmental-ny0758/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (212) 643-6936
 * Address: 240 W 52nd St, New York, NY 10019
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F154829-3 (exp. 2027-09-03)
 

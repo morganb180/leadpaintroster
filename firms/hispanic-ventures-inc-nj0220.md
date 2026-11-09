@@ -1,6 +1,6 @@
 ---
 title: "Hispanic Ventures, Inc., Absecon, NJ | Lead Paint Roster"
-description: "Hispanic Ventures, Inc. in Absecon, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Hispanic Ventures, Inc. in Absecon, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/hispanic-ventures-inc-nj0220/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hispanic-ventures-inc-nj0220/
 
 * Lead abatement
 * Absecon, NJ (Atlantic County)
-* Phone: (609) 344-5300
 * Address: 750 California Ave, Absecon, NJ 08201
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00811 (exp. 2028-05-31)
 

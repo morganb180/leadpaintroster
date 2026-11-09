@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/new-american-construction-inc-ny128
 
 * Lead abatement
 * Valley Stream, NY (Nassau County)
-* Phone: (718) 427-4323
 * Address: 1599 Birchwood Dr, Valley Stream, NY 11580
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F168650-2 (exp. 2027-08-20)
 

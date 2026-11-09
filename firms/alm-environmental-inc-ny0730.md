@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/alm-environmental-inc-ny0730/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (718) 608-2290
 * Address: 20 Brick Ct, Staten Island, NY 10309
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F300701-1 (exp. 2028-07-14)
 

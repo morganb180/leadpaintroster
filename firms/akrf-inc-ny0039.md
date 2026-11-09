@@ -1,6 +1,6 @@
 ---
 title: "AKRF, Inc., New York, NY | Lead Paint Roster"
-description: "AKRF, Inc. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "AKRF, Inc. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/akrf-inc-ny0039/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/akrf-inc-ny0039/
 
 * Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (212) 696-0670
 * Address: 440 Park Ave South, New York, NY 10016
 * Google rating: 5.0 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-18244-3 (exp. 2028-06-11)

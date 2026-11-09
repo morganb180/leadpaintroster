@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sensible-choice-contracting-llc-ny1
 
 * Lead abatement
 * Ossining, NY (Westchester County)
-* Phone: (914) 963-5644
 * Address: 2 Sherman Pl, Ossining, NY 10710
 * Google rating: 4.7 from 25 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F121059-1 (exp. 2027-02-01)

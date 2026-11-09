@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/heartland-environmental-svcs-nj0078
 
 * Lead inspection / evaluation
 * Washington, NJ (Warren County)
-* Phone: (908) 619-8755
 * Address: 76 Bryan Rd, Washington, NJ 07882
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00758 (exp. 2027-03-31)
 

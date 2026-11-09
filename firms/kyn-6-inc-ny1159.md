@@ -1,6 +1,6 @@
 ---
 title: "Kyn 6 Inc, Centereach, NY | Lead Paint Roster"
-description: "Kyn 6 Inc in Centereach, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Kyn 6 Inc in Centereach, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/kyn-6-inc-ny1159/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/kyn-6-inc-ny1159/
 
 * Lead abatement
 * Centereach, NY (Suffolk County)
-* Phone: (631) 384-8663
 * Address: 1685 Middle Country Rd, Centereach, NY 11720
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F258195-1 (exp. 2027-01-12)
 

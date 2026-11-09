@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bvthl-llc-ny0121/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (914) 888-6008
 * Address: 367 St Marks Ave, Brooklyn, NY 11238
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F312259-1 (exp. 2028-10-30)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F312259-1 (exp. 2028-10-30)

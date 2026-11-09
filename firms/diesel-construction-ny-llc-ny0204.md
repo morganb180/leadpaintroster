@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/diesel-construction-ny-llc-ny0204/
 
 * Lead abatement, Lead inspection / evaluation
 * Yorkville, NY (Oneida County)
-* Phone: (315) 749-3095
 * Address: 87 Whitesboro St, Yorkville, NY 13495
 * Google rating: 4.5 from 99 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F213219-1 (exp. 2029-07-07)

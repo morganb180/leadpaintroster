@@ -29,8 +29,6 @@ Lead Paint Roster lists 6 EPA-licensed listings with an address in College Point
 Licensed firm
 
 11018 15th Ave, College Point, NY  
-☎ [(917) 935-5254](tel:9179355254)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F305074-1 (exp. 2029-01-22)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F305074-1 (exp. 2029-01-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 12203 14th Ave, College Point, NY  
-☎ [(718) 888-1881](tel:7188881881)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F259078-1 (exp. 2027-02-07)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F259078-1 (exp. 2027-02-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -59,8 +55,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 129-06 18th Ave, College Point, NY  
-☎ [(718) 359-2100](tel:7183592100)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-41426-2 (exp. 2028-05-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1216)
@@ -72,8 +66,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 12005 9th Rd, College Point, NY  
-☎ [(347) 375-6128](tel:3473756128)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F262379-1 (exp. 2027-04-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1500)
@@ -85,8 +77,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 12314 18th Ave, College Point, NY  
-☎ [(929) 300-4863](tel:9293004863)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F206193-3 (exp. 2028-08-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1565)
@@ -98,8 +88,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 110-32A 15th Ave, College Point, NY  
-☎ [(718) 358-4272](tel:7183584272)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-96537-1 (exp. 2029-09-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1620)

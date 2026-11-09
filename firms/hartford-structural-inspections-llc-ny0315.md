@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hartford-structural-inspections-llc
 
 * Lead abatement, Lead inspection / evaluation
 * Scarsdale, NY (Westchester County)
-* Phone: (860) 805-7885
 * Address: 59 Woodford Rd, Scarsdale, NY 10583
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F260274-1 (exp. 2027-03-06)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F260274-1 (exp. 2027-03-06)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/indoor-env-concepts-llc-nj0084/
 
 * Lead inspection / evaluation
 * Runnemede, NJ (Camden County)
-* Phone: (856) 463-0777
 * Address: 117 N.black Horse Pike, Runnemede, NJ 08078
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00777 (exp. 2027-09-30)
 

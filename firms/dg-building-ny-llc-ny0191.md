@@ -1,6 +1,6 @@
 ---
 title: "DG Building NY LLC, Rego Park, NY | Lead Paint Roster"
-description: "DG Building NY LLC in Rego Park, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "DG Building NY LLC in Rego Park, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/dg-building-ny-llc-ny0191/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dg-building-ny-llc-ny0191/
 
 * Lead inspection / evaluation
 * Rego Park, NY (Queens County)
-* Phone: (917) 683-2790
 * Address: 6237 Ellwell Crescent, Rego Park, NY 11374
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F262514-1 (exp. 2027-06-27)
 

@@ -1,6 +1,6 @@
 ---
 title: "Robinson@firm, New Rochelle, NY | Lead Paint Roster"
-description: "Robinson@firm in New Rochelle, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Robinson@firm in New Rochelle, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/robinson-firm-ny1436/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/robinson-firm-ny1436/
 
 * Lead abatement
 * New Rochelle, NY (Westchester County)
-* Phone: (914) 563-8711
 * Address: 6 Mt Etna Pl, New Rochelle, NY 10805
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F323271-1 (exp. 2029-03-03)
 

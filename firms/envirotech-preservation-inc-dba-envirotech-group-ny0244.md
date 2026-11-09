@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/envirotech-preservation-inc-dba-env
 
 * Lead abatement, Lead inspection / evaluation
 * Monsey, NY (Rockland County)
-* Phone: (718) 437-6511
 * Address: 46 Main St, Monsey, NY 10952
 * Google rating: 4.2 from 9 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-116786-3 (exp. 2027-02-23)

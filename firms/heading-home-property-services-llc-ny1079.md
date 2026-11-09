@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/heading-home-property-services-llc-
 
 * Lead abatement
 * Liverpool, NY (Onondaga County)
-* Phone: (315) 395-0204
 * Address: 4751 4 Seasons Dr, Liverpool, NY 13088
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F285045-1 (exp. 2028-02-19)
 

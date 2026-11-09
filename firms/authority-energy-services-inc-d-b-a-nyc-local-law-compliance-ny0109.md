@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/authority-energy-services-inc-d-b-a
 
 * Lead inspection / evaluation
 * New City, NY (Rockland County)
-* Phone: (516) 491-8000
 * Address: 2 Summit Dr, New City, NY 10956
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F234379-2 (exp. 2028-04-04)
 

@@ -29,8 +29,6 @@ Lead Paint Roster lists 6 EPA-licensed listings with an address in Airmont: 3 le
 Licensed firm
 
 4 Potter Ln, Airmont, NY  
-☎ [(718) 436-1500](tel:7184361500)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F257273-1 (exp. 2026-12-15)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F257273-1 (exp. 2026-12-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 15 Stillo Dr, Airmont, NY  
-☎ [(718) 851-3263](tel:7188513263)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-19631-3 (exp. 2028-01-20)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-19631-3 (exp. 2028-01-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -57,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4 Apple Blossom Ct, Airmont, NY  
-☎ [(845) 533-4089](tel:8455334089)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F230696-2 (exp. 2027-11-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0536)
@@ -72,8 +66,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 15 Stillo Dr, Airmont, NY  
-☎ [(718) 749-8464](tel:7187498464)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F326072-1 (exp. 2029-03-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0893)
@@ -85,8 +77,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 410 NY- 59, Airmont, NY  
-☎ [(845) 367-4240](tel:8453674240)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F268307-1 (exp. 2027-09-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0904)
@@ -98,8 +88,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 178 Rt 59, Airmont, NY  
-☎ [(212) 243-4600](tel:2122434600)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F347389-1 (exp. 2029-09-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1360)

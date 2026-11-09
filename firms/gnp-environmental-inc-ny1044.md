@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gnp-environmental-inc-ny1044/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (646) 920-3305
 * Address: 1681 65th St, Brooklyn, NY 11204
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F193389-3 (exp. 2027-11-28)
 

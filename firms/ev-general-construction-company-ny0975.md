@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ev-general-construction-company-ny0
 
 * Lead abatement
 * Syracuse, Ny 13206, NY (Onondaga County)
-* Phone: (315) 744-5052
 * Address: 163 Hazelhurst Ave, Syracuse, Ny 13206, NY 13206
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F287796-1 (exp. 2028-03-18)
 

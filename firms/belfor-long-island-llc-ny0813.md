@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/belfor-long-island-llc-ny0813/
 
 * Lead abatement
 * Ronkonkoma, NY (Suffolk County)
-* Phone: (631) 964-8900
 * Address: 60 Raynor Ave, Ronkonkoma, NY 11779
 * Google rating: 4.7 from 13 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-49271-4 (exp. 2028-09-27)

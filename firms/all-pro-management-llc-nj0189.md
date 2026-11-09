@@ -1,6 +1,6 @@
 ---
 title: "All Pro Management LLC, Garfield, NJ | Lead Paint Roster"
-description: "All Pro Management LLC in Garfield, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "All Pro Management LLC in Garfield, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/all-pro-management-llc-nj0189/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/all-pro-management-llc-nj0189/
 
 * Lead abatement
 * Garfield, NJ (Bergen County)
-* Phone: (973) 928-4888
 * Address: 27 Outwater Ln, Suite B, Garfield, NJ 07026
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00625 (exp. 2027-06-30)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/legend-j-construction-inc-ny1179/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (646) 979-7804
 * Address: 22 Mt Morris Park West, New York, NY 10027
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F343801-1 (exp. 2029-08-18)
 

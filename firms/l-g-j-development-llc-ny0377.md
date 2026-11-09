@@ -1,6 +1,6 @@
 ---
 title: "L.G.J. Development, LLC, Syracuse, NY | Lead Paint Roster"
-description: "L.G.J. Development, LLC in Syracuse, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "L.G.J. Development, LLC in Syracuse, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/l-g-j-development-llc-ny0377/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/l-g-j-development-llc-ny0377/
 
 * Lead inspection / evaluation
 * Syracuse, NY (Onondaga County)
-* Phone: (315) 471-3210
 * Address: 101 Bast Newell St, Syracuse, NY 13205
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2249-3 (exp. 2027-06-11)
 

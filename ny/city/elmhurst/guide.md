@@ -44,8 +44,6 @@ Lead Paint Roster lists 5 listings with an address in Elmhurst: 2 inspection/ris
 Licensed firm
 
 2116 80th St, Elmhurst, NY  
-☎ [(732) 207-6598](tel:7322076598)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F228101-2 (exp. 2027-08-23)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F228101-2 (exp. 2027-08-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -58,8 +56,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 87-42 Elmhurst Ave, Elmhurst, NY  
-☎ [(347) 567-8276](tel:3475678276)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F176975-2 (exp. 2027-12-31)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F176975-2 (exp. 2027-12-31)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

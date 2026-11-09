@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/new-world-home-design-ny1292/
 
 * Lead abatement
 * Niagara Falls, NY (Niagara County)
-* Phone: (716) 990-9868
 * Address: 501 Hyde Park Blvd, Niagara Falls, NY 14301
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F305604-1 (exp. 2028-09-08)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/skyline-environmental-services-nj01
 
 * Lead inspection / evaluation
 * Ringwood, NJ (Passaic County)
-* Phone: (862) 684-0094
 * Address: 323 Skyline Dr, Ringwood, NJ 07456
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00754 (exp. 2027-04-30)
 

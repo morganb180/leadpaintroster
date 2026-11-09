@@ -1,6 +1,6 @@
 ---
 title: "Nv5, Inc., Morristown, NJ | Lead Paint Roster"
-description: "Nv5, Inc. in Morristown, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Nv5, Inc. in Morristown, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/nv5-inc-nj0115/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nv5-inc-nj0115/
 
 * Lead inspection / evaluation
 * Morristown, NJ (Morris County)
-* Phone: (973) 946-5600
 * Address: 412 Mt. Kemble Ave, Suite 100C, Morristown, NJ 07960
 * Google rating: 4.0 from 4 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00574 (exp. 2028-04-30)

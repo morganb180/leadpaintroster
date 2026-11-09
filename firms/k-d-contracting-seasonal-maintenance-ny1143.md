@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/k-d-contracting-seasonal-maintenanc
 
 * Lead abatement
 * Malone, NY (Franklin County)
-* Phone: (315) 350-0967
 * Address: 25 Willow St, Malone, NY 12953
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F319098-1 (exp. 2029-01-12)
 

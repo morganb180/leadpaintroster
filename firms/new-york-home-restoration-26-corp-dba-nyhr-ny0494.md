@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/new-york-home-restoration-26-corp-d
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (212) 300-6974
 * Address: 25 W 26th St, New York, NY 10010
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F326065-1 (exp. 2029-03-17)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F326065-1 (exp. 2029-03-17)

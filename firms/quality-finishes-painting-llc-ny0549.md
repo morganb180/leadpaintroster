@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/quality-finishes-painting-llc-ny054
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (917) 383-2500
 * Address: 100 Bellamy Loop, Bronx, NY 10475
 * Google rating: 5.0 from 72 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F206297-1 (exp. 2027-08-27)

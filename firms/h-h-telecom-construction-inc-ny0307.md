@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/h-h-telecom-construction-inc-ny0307
 
 * Lead abatement, Lead inspection / evaluation
 * Forest Hills, NY (Queens County)
-* Phone: (347) 754-3491
 * Address: 11835 Queens Blvd, Forest Hills, NY 11375
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F238629-2 (exp. 2029-01-19)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F238629-2 (exp. 2029-01-19)

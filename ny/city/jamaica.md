@@ -29,8 +29,6 @@ Lead Paint Roster lists 20 EPA-licensed listings with an address in Jamaica: 8 l
 Licensed firm
 
 10652 Guy R Brewer Blvd, Jamaica, NY  
-☎ [(646) 456-4526](tel:6464564526)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F222810-2 (exp. 2027-03-10)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F222810-2 (exp. 2027-03-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 11820 180th St, Jamaica, NY  
-☎ [(347) 351-4587](tel:3473514587)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F194985-3 (exp. 2027-11-28)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F194985-3 (exp. 2027-11-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -57,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 17950 Selover Rd, Jamaica, NY  
-☎ [(347) 821-8386](tel:3478218386)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-16761-4 (exp. 2029-06-03)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-16761-4 (exp. 2029-06-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -71,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 14548A 105th Ave, Jamaica, NY  
-☎ [(516) 939-7681](tel:5169397681)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F231880-2 (exp. 2028-01-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0216)
@@ -84,8 +76,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 14537 180th St, Jamaica, NY  
-☎ [(347) 530-6098](tel:3475306098)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F148592-3 (exp. 2027-03-22)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F148592-3 (exp. 2027-03-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -98,8 +88,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 14617 133rd Ave, Jamaica, NY  
-☎ [(718) 926-4229](tel:7189264229)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F250421-2 (exp. 2029-06-21)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F250421-2 (exp. 2029-06-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -112,8 +100,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 146-47 106 Ave, Jamaica, NY  
-☎ [(347) 495-0728](tel:3474950728)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F163589-4 (exp. 2029-07-14)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F163589-4 (exp. 2029-07-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -126,8 +112,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 111-17 148th St, Jamaica, NY  
-☎ [(347) 233-2419](tel:3472332419)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-15009-3 (exp. 2028-03-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0547)
@@ -141,8 +125,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 13330 76th St, Jamaica, NY  
-☎ [(646) 533-6560](tel:6465336560)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F285159-1 (exp. 2028-02-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0799)
@@ -154,8 +136,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 8686 Midland Pkwy, Jamaica, NY  
-☎ [(718) 523-7800](tel:7185237800)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F258328-1 (exp. 2027-01-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0977)
@@ -167,8 +147,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 17815 145th Rd, Jamaica, NY  
-☎ [(347) 495-7700](tel:3474957700)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F288527-1 (exp. 2028-03-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1029)
@@ -180,8 +158,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 8512 169th St, Jamaica, NY  
-☎ [(516) 361-0658](tel:5163610658)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F154873-3 (exp. 2027-06-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1127)
@@ -193,8 +169,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 9527 86th St, Jamaica, NY  
-☎ [(917) 287-9521](tel:9172879521)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F216335-3 (exp. 2029-07-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1202)
@@ -206,8 +180,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 148-53 87th Rd, Jamaica, NY  
-☎ [(917) 804-1015](tel:9178041015)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F167925-3 (exp. 2028-06-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1287)
@@ -219,8 +191,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 175-14 Hillside Ave, Jamaica, NY  
-☎ [(718) 658-0911](tel:7186580911)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F181419-3 (exp. 2029-07-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1291)
@@ -232,8 +202,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 17214 89th Ave, Jamaica, NY  
-☎ [(516) 815-8252](tel:5168158252)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F229713-2 (exp. 2028-05-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1345)
@@ -245,8 +213,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 85-51 164th St, Jamaica, NY  
-☎ [(646) 523-9238](tel:6465239238)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-15131-4 (exp. 2028-06-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1411)
@@ -258,8 +224,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 145-45 106th Ave, Jamaica, NY  
-☎ [(718) 898-0500](tel:7188980500)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F149773-3 (exp. 2027-02-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1535)
@@ -271,8 +235,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 150-67 115th Dr, Jamaica, NY  
-☎ [(917) 300-4891](tel:9173004891)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F106510-3 (exp. 2029-01-29)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1614)
@@ -284,8 +246,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 16607 Hillside Ave, Jamaica, NY  
-☎ [(347) 571-2780](tel:3475712780)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-85954-3 (exp. 2026-10-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1633)

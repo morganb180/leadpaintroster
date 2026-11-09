@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rafalex-contracting-corp-ny0561/
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (929) 413-3652
 * Address: 1252 W Farms Rd, Bronx, NY 10459
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F278936-1 (exp. 2027-12-20)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F278936-1 (exp. 2027-12-20)

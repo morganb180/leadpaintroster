@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/j-d-advisory-inc-dba-b-g-contractin
 
 * Lead abatement
 * Mineola, NY (Nassau County)
-* Phone: (516) 280-2695
 * Address: 111B Roosevelt Ave, Mineola, NY 11501
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-46976-1 (exp. 2029-04-21)
 

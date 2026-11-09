@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/maspeth-environmental-corp-ny1231/
 
 * Lead abatement
 * Maspeth, NY (Queens County)
-* Phone: (888) 723-2325
 * Address: 54-30 44th St, Maspeth, NY 11378
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-120362-3 (exp. 2027-11-14)
 

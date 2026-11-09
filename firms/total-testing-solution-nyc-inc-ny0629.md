@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/total-testing-solution-nyc-inc-ny06
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (Bronx County)
-* Phone: (469) 881-2975
 * Address: 2935 Wilson Ave, New York, NY 10469
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F303818-1 (exp. 2028-08-06)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F303818-1 (exp. 2028-08-06)

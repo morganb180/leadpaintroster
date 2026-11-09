@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/archetypal-imagery-corp-ny0790/
 
 * Lead abatement
 * Little Neck, NY (Queens County)
-* Phone: (917) 335-6731
 * Address: 25031 Rushmore Ter, Little Neck, NY 11362
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F196789-3 (exp. 2028-02-12)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/atlas-building-concepts-llc-ny0805/
 
 * Lead abatement
 * Ausable Forks, NY (Clinton County)
-* Phone: (518) 593-0891
 * Address: 44 Broad Ln, Ausable Forks, NY 12912
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F322484-1 (exp. 2029-02-12)
 

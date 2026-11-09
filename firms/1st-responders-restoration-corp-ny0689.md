@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/1st-responders-restoration-corp-ny0
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 314-8975
 * Address: 1461 Shore Pkwy, Brooklyn, NY 11214
 * Google rating: 4.8 from 20 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F179222-5 (exp. 2029-09-06)

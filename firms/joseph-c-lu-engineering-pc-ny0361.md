@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/joseph-c-lu-engineering-pc-ny0361/
 
 * Lead inspection / evaluation
 * Rochester, NY (Monroe County)
-* Phone: (585) 385-7417
 * Address: 280 E Broad St, Rochester, NY 14604
 * Google rating: 3.4 from 10 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F107925-3 (exp. 2028-08-04)

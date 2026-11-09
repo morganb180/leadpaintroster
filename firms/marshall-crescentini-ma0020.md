@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/marshall-crescentini-ma0020/
 
 * Lead inspection / evaluation
 * Holyoke, MA (Hampden County)
-* Phone: (413) 433-0293
-* Email: mcrescentini@revitalizecdc.com
 * Address: Holyoke, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0020

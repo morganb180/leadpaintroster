@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nrn-enviro-restoration-corp-ny1271/
 
 * Lead abatement
 * Astoria, NY (Queens County)
-* Phone: (929) 420-4602
 * Address: 2370 29th St, Astoria, NY 11105
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F220199-2 (exp. 2027-01-16)
 

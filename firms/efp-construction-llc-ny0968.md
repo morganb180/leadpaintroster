@@ -1,6 +1,6 @@
 ---
 title: "EFP Construction, LLC, Bronx, NY | Lead Paint Roster"
-description: "EFP Construction, LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "EFP Construction, LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/efp-construction-llc-ny0968/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/efp-construction-llc-ny0968/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (347) 784-8850
 * Address: 1713 Hone Ave, Bronx, NY 10461
 * Google rating: 5.0 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F261771-1 (exp. 2027-04-02)

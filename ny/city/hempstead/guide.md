@@ -47,8 +47,6 @@ Lead Paint Roster lists 4 listings with an address in Hempstead: 3 inspection/ri
 Licensed firm
 
 130 Brown Ave, Hempstead, NY  
-☎ [(516) 489-2685](tel:5164892685)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F146112-3 (exp. 2027-09-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0065)
@@ -60,8 +58,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 261 S Franklin St, Hempstead, NY  
-☎ [(516) 430-1295](tel:5164301295)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F158376-2 (exp. 2028-03-25)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F158376-2 (exp. 2028-03-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -74,8 +70,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 95 Kellum Pl, Hempstead, NY  
-☎ [(516) 750-5546](tel:5167505546)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F114702-3 (exp. 2029-02-05)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F114702-3 (exp. 2029-02-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gotham-compliance-ny0298/
 
 * Lead abatement, Lead inspection / evaluation
 * Red Hook, NY (Dutchess County)
-* Phone: (929) 777-0973
 * Address: 1731 Jackson Corners Rd, Red Hook, NY 12571
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F287650-1 (exp. 2028-03-13)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F287650-1 (exp. 2028-03-13)

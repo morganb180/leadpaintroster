@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/five-star-environmental-inc-ny0275/
 
 * Lead inspection / evaluation
 * Howard Beach, NY (Queens County)
-* Phone: (718) 971-9191
 * Address: 15140 88th St, Howard Beach, NY 11414
 * Google rating: 5.0 from 12 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F177038-4 (exp. 2029-06-08)

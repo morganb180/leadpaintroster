@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/abcz-consulting-corporation-ny0028/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 803-9156
 * Address: 400 Marlborough Rd, Brooklyn, NY 11226
 * Google rating: 4.2 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F146410-4 (exp. 2029-09-09)

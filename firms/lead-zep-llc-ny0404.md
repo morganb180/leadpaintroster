@@ -1,6 +1,6 @@
 ---
 title: "Lead Zep LLC, Lawrence, NY | Lead Paint Roster"
-description: "Lead Zep LLC in Lawrence, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Lead Zep LLC in Lawrence, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lead-zep-llc-ny0404/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lead-zep-llc-ny0404/
 
 * Lead inspection / evaluation
 * Lawrence, NY (Nassau County)
-* Phone: (516) 225-6619
 * Address: 2 Herrick Dr, Lawrence, NY 11559
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-13552-3 (exp. 2027-02-16)
 

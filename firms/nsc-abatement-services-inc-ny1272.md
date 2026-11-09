@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nsc-abatement-services-inc-ny1272/
 
 * Lead abatement
 * Mount Vernon, NY (Westchester County)
-* Phone: (914) 668-4111
 * Address: 122 E Third St, Mount Vernon, NY 10550
 * Google rating: 3.9 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2337-4 (exp. 2029-12-30)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/plus-construction-services-inc-ny13
 
 * Lead abatement
 * Medford, NY (Suffolk County)
-* Phone: (631) 485-7557
 * Address: 62 Elmhurst Ave, Medford, NY 11763
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F154971-1 (exp. 2027-09-06)
 

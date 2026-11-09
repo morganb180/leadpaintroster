@@ -41,8 +41,6 @@ Look the firm up in the official EPA list, then ask for the firm's certification
 Licensed firm
 
 15 Sky Ridge Dr, Rochester, NY  
-☎ [(315) 771-3738](tel:3157713738)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F331658-1 (exp. 2029-04-29)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0098)
@@ -54,8 +52,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 277 Alexander St, Rochester, NY  
-☎ [(585) 713-5973](tel:5857135973)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F260544-1 (exp. 2027-03-09)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F260544-1 (exp. 2027-03-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -68,8 +64,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 9 White St, Rochester, NY  
-☎ [(585) 360-3401](tel:5853603401)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-18598-2 (exp. 2027-06-07)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-18598-2 (exp. 2027-06-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -82,8 +76,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 842 Partridge Ln, Rochester, NY  
-☎ [(585) 794-1056](tel:5857941056)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-16195-4 (exp. 2029-01-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0261)

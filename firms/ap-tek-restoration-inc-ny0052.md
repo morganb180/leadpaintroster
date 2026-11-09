@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ap-tek-restoration-inc-ny0052/
 
 * Lead abatement, Lead inspection / evaluation
 * East Elmhurst, NY (Queens County)
-* Phone: (718) 565-6100
 * Address: 8008 24th Ave, East Elmhurst, NY 11370
 * Google rating: 5.0 from 6 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-56922-4 (exp. 2028-11-03)

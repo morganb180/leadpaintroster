@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/agt-renovation-services-corp-ny0035
 
 * Lead abatement, Lead inspection / evaluation
 * East Elmhurst, NY (Queens County)
-* Phone: (718) 831-8597
 * Address: 9517 24th Ave, East Elmhurst, NY 11369
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F285089-1 (exp. 2028-02-21)

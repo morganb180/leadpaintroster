@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-logic-llc-nj0060/
 
 * Lead inspection / evaluation
 * Lawrenceville, NJ (Mercer County)
-* Phone: (609) 910-0720
 * Address: 15 Princess Rd, Suite K, Lawrenceville, NJ 08648
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00702 (exp. 2027-09-30)
 

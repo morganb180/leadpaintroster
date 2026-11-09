@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/smart-business-strategies-nj0156/
 
 * Lead inspection / evaluation
 * Burlington, NJ (Burlington County)
-* Phone: (609) 556-0921
 * Address: 60 Anthony Dr, Burlington, NJ 08016
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00820 (exp. 2026-10-31)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/chautauqua-opportunities-inc-ny0894
 
 * Lead abatement
 * Dunkirk, NY (Chautauqua County)
-* Phone: (716) 366-3333
 * Address: 17 W Courtney St, Dunkirk, NY 14048
 * Google rating: 3.8 from 16 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F170520-3 (exp. 2027-10-14)

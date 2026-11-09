@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/fast-and-safe-solution-inc-ny1013/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (973) 907-0275
 * Address: 600 W 157th Streets, New York, NY 10032
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F255604-1 (exp. 2026-10-26)
 

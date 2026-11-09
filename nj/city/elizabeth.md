@@ -29,7 +29,6 @@ Lead Paint Roster lists 5 NJ DCA-licensed listings with an address in Elizabeth:
 Licensed firm
 
 111 Clark Pl, Elizabeth, NJ  
-☎ [(908) 372-8375](tel:9083728375)  
 Contact listed by NJ DCA: Ryan J. Passos
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00806 (exp. 2028-06-22)  
@@ -44,7 +43,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 371 Johnson Ave, Apt C-7, Elizabeth, NJ  
-☎ [(908) 845-3353](tel:9088453353)  
 Contact listed by NJ DCA: Keri-Dean Scarlett
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00739 (exp. 2027-03-31)  
@@ -58,7 +56,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 648 Newark Ave, Elizabeth, NJ  
-☎ [(609) 208-5535](tel:6092085535)  
 Contact listed by NJ DCA: Saheed A. Adeyeri
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00862 (exp. 2027-02-28)  
@@ -74,7 +71,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 520 S Park St, Elizabeth, NJ  
-☎ [(908) 764-3532](tel:9087643532)  
 Contact listed by NJ DCA: Luiz de Oliveira
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00682 (exp. 2027-03-31)  
@@ -88,7 +84,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 654 Maple Ave, Elizabeth, NJ  
-☎ [(908) 772-4188](tel:9087724188)  
 Contact listed by NJ DCA: Ellen Lenczmionka
 
 NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00927 (exp. 2028-06-30)  

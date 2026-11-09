@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/standard-environmental-llc-ny1463/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (212) 308-4886
 * Address: 1199 Park Ave, New York, NY 10128
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-13163-4 (exp. 2029-11-28)
 

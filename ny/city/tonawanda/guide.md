@@ -45,8 +45,6 @@ Lead Paint Roster lists 6 listings with an address in Tonawanda: 1 inspection/ri
 Licensed firm
 
 72 E Niagara St, Tonawanda, NY  
-☎ [(716) 833-0043](tel:7168330043)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-83285-4 (exp. 2028-12-25)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-83285-4 (exp. 2028-12-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -59,8 +57,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 29 Leawood Dr, Tonawanda, NY  
-☎ [(716) 418-9748](tel:7164189748)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F282562-1 (exp. 2028-02-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0729)

@@ -1,6 +1,6 @@
 ---
 title: "JP Construction, Lockport, NY | Lead Paint Roster"
-description: "JP Construction in Lockport, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "JP Construction in Lockport, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/jp-construction-ny1125/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jp-construction-ny1125/
 
 * Lead abatement
 * Lockport, NY (Niagara County)
-* Phone: (716) 550-9811
 * Address: 6193 Raymond Rd, Lockport, NY 14094
 * Google rating: 4.9 from 88 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F265540-1 (exp. 2027-06-24)

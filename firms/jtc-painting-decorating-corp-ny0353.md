@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jtc-painting-decorating-corp-ny0353
 
 * Lead abatement, Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (212) 273-3711
 * Address: 91 Wright Ave, Staten Island, NY 10303
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-90323-3 (exp. 2029-04-23)

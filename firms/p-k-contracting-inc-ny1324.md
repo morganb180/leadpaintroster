@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/p-k-contracting-inc-ny1324/
 
 * Lead abatement
 * New Hyde Park, NY (Nassau County)
-* Phone: (516) 775-5659
 * Address: 1645 Jericho Turnpike, New Hyde Park, NY 11040
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F217267-2 (exp. 2026-12-13)
 

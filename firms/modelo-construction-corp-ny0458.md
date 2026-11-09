@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/modelo-construction-corp-ny0458/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (212) 222-1021
 * Address: 527 W 110th St, New York, NY 10025
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F115585-3 (exp. 2027-09-30)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F115585-3 (exp. 2027-09-30)

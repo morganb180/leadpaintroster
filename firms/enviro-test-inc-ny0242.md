@@ -1,6 +1,6 @@
 ---
 title: "Enviro-Test, Inc., Amityville, NY | Lead Paint Roster"
-description: "Enviro-Test, Inc. in Amityville, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Enviro-Test, Inc. in Amityville, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/enviro-test-inc-ny0242/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/enviro-test-inc-ny0242/
 
 * Lead inspection / evaluation
 * Amityville, NY (Suffolk County)
-* Phone: (631) 774-5296
 * Address: 77 Broadway, Amityville, NY 11701
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1972-3 (exp. 2027-08-28)
 

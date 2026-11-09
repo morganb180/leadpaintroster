@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sri-sai-enterprises-llc-nj0159/
 
 * Lead inspection / evaluation
 * Piscataway, NJ (Middlesex County)
-* Phone: (732) 384-2068
 * Address: 1297 Centennial Ave # 5-305, Piscataway, NJ 08854
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00866 (exp. 2027-03-31)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/northshore-industries-inc-ny1307/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 635-3486
 * Address: 758 60th St, Brooklyn, NY 11220
 * Google rating: 4.9 from 39 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F222349-2 (exp. 2028-02-05)

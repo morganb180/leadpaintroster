@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/eastern-bh-mechanical-inc-ny0977/
 
 * Lead abatement
 * Jamaica, NY (Queens County)
-* Phone: (718) 523-7800
 * Address: 8686 Midland Pkwy, Jamaica, NY 11432
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F258328-1 (exp. 2027-01-19)

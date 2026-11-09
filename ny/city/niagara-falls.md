@@ -29,8 +29,6 @@ Lead Paint Roster lists 8 EPA-licensed listings with an address in Niagara Falls
 Licensed firm
 
 931 Michigan Ave, Niagara Falls, NY  
-☎ [(716) 299-0931](tel:7162990931)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F343294-1 (exp. 2029-08-06)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F343294-1 (exp. 2029-08-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -45,8 +43,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3035 Duluth St, Niagara Falls, NY  
-☎ [(716) 622-8642](tel:7166228642)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F331663-1 (exp. 2029-04-29)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0953)
@@ -58,8 +54,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2315 Whirlpool St, Niagara Falls, NY  
-☎ [(716) 215-6525](tel:7162156525)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F215476-1 (exp. 2029-05-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1028)
@@ -71,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2368 Maryland Ave, Niagara Falls, NY  
-☎ [(716) 282-5244](tel:7162825244)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F198722-4 (exp. 2030-01-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1225)
@@ -84,8 +76,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2939 Lockport Rd, Niagara Falls, NY  
-☎ [(716) 285-9280](tel:7162859280)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F236405-2 (exp. 2028-05-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1244)
@@ -97,8 +87,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 501 Hyde Park Blvd, Niagara Falls, NY  
-☎ [(716) 990-9868](tel:7169909868)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F305604-1 (exp. 2028-09-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1292)
@@ -110,8 +98,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 8025 Quarry Rd, Niagara Falls, NY  
-☎ [(716) 297-5834](tel:7162975834)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-87069-4 (exp. 2029-01-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1296)
@@ -123,8 +109,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 6281 Wendt Dr, Niagara Falls, NY  
-☎ [(716) 284-3366](tel:7162843366)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-125971-3 (exp. 2027-06-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1418)

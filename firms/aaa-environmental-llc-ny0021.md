@@ -1,6 +1,6 @@
 ---
 title: "AAA Environmental LLC, Brooklyn, NY | Lead Paint Roster"
-description: "AAA Environmental LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "AAA Environmental LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/aaa-environmental-llc-ny0021/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aaa-environmental-llc-ny0021/
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (551) 327-6660
 * Address: 11 Palm Ct, Brooklyn, NY 11225
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F264668-1 (exp. 2027-06-03)
 

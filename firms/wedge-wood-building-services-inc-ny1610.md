@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/wedge-wood-building-services-inc-ny
 
 * Lead abatement
 * Bohemia, NY (Suffolk County)
-* Phone: (631) 872-0074
 * Address: 102 Keyland Ct, Bohemia, NY 11716
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F232374-2 (exp. 2028-02-02)
 

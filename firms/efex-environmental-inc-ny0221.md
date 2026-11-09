@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/efex-environmental-inc-ny0221/
 
 * Lead abatement, Lead inspection / evaluation
 * Yonkers, NY (Westchester County)
-* Phone: (646) 350-9079
 * Address: 29 Garfield St, Yonkers, NY 10701
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F199446-3 (exp. 2028-06-04)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F199446-3 (exp. 2028-06-04)

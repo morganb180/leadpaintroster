@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/broome-county-health-department-ny0
 
 * Lead inspection / evaluation
 * Binghamton, NY (Broome County)
-* Phone: (607) 778-2847
 * Address: 225 Front St, Binghamton, NY 13905
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-113487-4 (exp. 2029-07-26)
 

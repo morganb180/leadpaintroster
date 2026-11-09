@@ -1,6 +1,6 @@
 ---
 title: "Torybio Construction, Corp., Bronx, NY | Lead Paint Roster"
-description: "Torybio Construction, Corp. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Torybio Construction, Corp. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/torybio-construction-corp-ny1556/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/torybio-construction-corp-ny1556/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 702-5686
 * Address: 667 E 232nd St, Bronx, NY 10467
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F237181-1 (exp. 2027-06-04)
 

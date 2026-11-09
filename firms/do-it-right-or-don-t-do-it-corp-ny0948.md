@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/do-it-right-or-don-t-do-it-corp-ny0
 
 * Lead abatement
 * Central Islip, NY (Suffolk County)
-* Phone: (516) 304-0492
 * Address: 219 Pinewood Ave, Central Islip, NY 11722
 * Google rating: 4.6 from 10 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F327619-1 (exp. 2029-03-31)

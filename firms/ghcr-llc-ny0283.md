@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ghcr-llc-ny0283/
 
 * Lead abatement, Lead inspection / evaluation
 * Hawthorne, NY (Westchester County)
-* Phone: (914) 479-4751
 * Address: 245 Saw Mill River Rd, Hawthorne, NY 10532
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F159764-1 (exp. 2029-03-26)

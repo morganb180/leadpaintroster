@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/david-j-broderick-llc-ny0198/
 
 * Lead inspection / evaluation
 * Forest Hills, NY (Nassau County)
-* Phone: (718) 830-0700
 * Address: 7020 Austin St, Forest Hills, NY 11581
 * Google rating: 2.7 from 12 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F262373-1 (exp. 2027-04-15)

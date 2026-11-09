@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/roberts-environmental-corp-ny1435/
 
 * Lead abatement
 * Bohemia, NY (Suffolk County)
-* Phone: (631) 562-8440
 * Address: 423 Johnson Path, Bohemia, NY 11716
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F259937-1 (exp. 2027-03-01)
 

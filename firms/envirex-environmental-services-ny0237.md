@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/envirex-environmental-services-ny02
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (212) 220-7301
 * Address: 1 World Trade Center, New York, NY 10007
 * Google rating: 5.0 from 10 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F346509-1 (exp. 2029-09-09)

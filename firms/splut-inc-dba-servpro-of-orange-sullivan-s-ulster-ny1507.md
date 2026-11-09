@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/splut-inc-dba-servpro-of-orange-sul
 
 * Lead abatement
 * Middletown, NY (Orange County)
-* Phone: (845) 342-3333
 * Address: 1259 Dolsontown Rd, Middletown, NY 10940
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-23353-2 (exp. 2027-12-05)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/boswell-incorporated-nj0037/
 
 * Lead inspection / evaluation
 * South Hackensack, NJ (Bergen County)
-* Phone: (201) 373-8906
 * Address: 330 Phillips Ave, South Hackensack, NJ 07606
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00810 (exp. 2028-05-31)
 

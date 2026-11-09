@@ -50,8 +50,6 @@ Lead Paint Roster lists 249 listings with an address in Brooklyn: 112 inspection
 Licensed firm
 
 2145 Ocean Ave, Brooklyn, NY  
-☎ [(718) 787-1125](tel:7187871125)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-118663-1 (exp. 2028-02-06)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-118663-1 (exp. 2028-02-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -64,8 +62,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2125 E 14th St, Brooklyn, NY  
-☎ [(347) 236-6005](tel:3472366005)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F224089-1 (exp. 2029-04-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0009)
@@ -77,8 +73,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4809 Ave N, Brooklyn, NY  
-☎ [(718) 474-7400](tel:7184747400)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F236554-2 (exp. 2028-05-27)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F236554-2 (exp. 2028-05-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -91,8 +85,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 825 E 15th St, Brooklyn, NY  
-☎ [(917) 200-2487](tel:9172002487)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F264196-1 (exp. 2027-05-22)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F264196-1 (exp. 2027-05-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

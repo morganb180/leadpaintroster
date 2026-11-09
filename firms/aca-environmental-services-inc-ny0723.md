@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aca-environmental-services-inc-ny07
 
 * Lead abatement
 * Elmsford, NY (Westchester County)
-* Phone: (914) 965-5829
 * Address: One Hayes St, Elmsford, NY 10523
 * Google rating: 4.8 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F123947-4 (exp. 2029-06-30)

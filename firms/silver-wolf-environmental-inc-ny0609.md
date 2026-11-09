@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/silver-wolf-environmental-inc-ny060
 
 * Lead inspection / evaluation
 * Shoreham, NY (Suffolk County)
-* Phone: (631) 806-8018
 * Address: 74 Cobblestone Dr, Shoreham, NY 11786
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-9657-4 (exp. 2028-07-27)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bp-alliance-construction-services-l
 
 * Lead abatement, Lead inspection / evaluation
 * Jamaica, NY (Queens County)
-* Phone: (347) 821-8386
 * Address: 17950 Selover Rd, Jamaica, NY 11434
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-16761-4 (exp. 2029-06-03)

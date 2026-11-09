@@ -1,6 +1,6 @@
 ---
 title: "Beam Enterprises Inc., Chester, NY | Lead Paint Roster"
-description: "Beam Enterprises Inc. in Chester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Beam Enterprises Inc. in Chester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/beam-enterprises-inc-ny0819/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/beam-enterprises-inc-ny0819/
 
 * Lead abatement
 * Chester, NY (Orange County)
-* Phone: (914) 617-7699
 * Address: 3 Contorino Way, Chester, NY 10918
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F115841-3 (exp. 2028-07-25)

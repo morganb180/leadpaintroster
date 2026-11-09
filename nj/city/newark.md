@@ -29,7 +29,6 @@ Lead Paint Roster lists 8 NJ DCA-licensed listings with an address in Newark: 3 
 Licensed firm
 
 601 15th Ave, #1, Newark, NJ  
-☎ [(609) 433-6258](tel:6094336258)  
 Contact listed by NJ DCA: Ewan E. Oleghe
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00899 (exp. 2027-12-31)  
@@ -43,7 +42,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 One Gateway Center, Newark, NJ  
-☎ [(732) 796-4792](tel:7327964792)  
 Contact listed by NJ DCA: Samsudeen Arakhan
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00701 (exp. 2028-05-31)  
@@ -57,7 +55,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 37 Irving Ave, Newark, NJ  
-☎ [(862) 236-8691](tel:8622368691)  
 Contact listed by NJ DCA: Sulaimun B. Jenkins
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00898 (exp. 2027-10-31)  
@@ -73,7 +70,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 358 Broadway, Newark, NJ  
-☎ [(973) 350-0101](tel:9733500101)  
 Contact listed by NJ DCA: Chinyelu Oraegbunam
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00565 (exp. 2028-03-31)  
@@ -87,7 +83,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 142 N 13th St, Newark, NJ  
-☎ [(973) 390-2416](tel:9733902416)  
 Contact listed by NJ DCA: Chika J. Onwukaife
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00427 (exp. 2027-04-30)  
@@ -101,7 +96,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 80 Varsity Rd, Newark, NJ  
-☎ [(973) 332-1463](tel:9733321463)  
 Contact listed by NJ DCA: Rhett Zidziunas
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00832 (exp. 2026-10-31)  
@@ -115,7 +109,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 200-206 Delancy St, Newark, NJ  
-☎ [(973) 466-2828](tel:9734662828)  
 Contact listed by NJ DCA: Mario Schraier
 
 NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00299 (exp. 2027-09-30)  
@@ -129,7 +122,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 418 S 15th St, Flr 1, Newark, NJ  
-☎ [(973) 444-6059](tel:9734446059)  
 Contact listed by NJ DCA: Tarfa S. Atsaga
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00910 (exp. 2028-01-31)  

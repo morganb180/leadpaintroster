@@ -1,6 +1,6 @@
 ---
 title: "Alpha Labs LLC, Long Island City, NY | Lead Paint Roster"
-description: "Alpha Labs LLC in Long Island City, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Alpha Labs LLC in Long Island City, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/alpha-labs-llc-ny0083/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/alpha-labs-llc-ny0083/
 
 * Lead inspection / evaluation
 * Long Island City, NY (Queens County)
-* Phone: (718) 482-7525
 * Address: 14-26 28th Ave, Long Island City, NY 11102
 * Google rating: 5.0 from 8 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-9115-3 (exp. 2028-07-27)

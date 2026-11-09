@@ -1,6 +1,6 @@
 ---
 title: "Side By Side Mro, Vineland, NJ | Lead Paint Roster"
-description: "Side By Side Mro in Vineland, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Side By Side Mro in Vineland, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/side-by-side-mro-nj0153/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/side-by-side-mro-nj0153/
 
 * Lead inspection / evaluation
 * Vineland, NJ (Cumberland County)
-* Phone: (856) 701-6462
 * Address: 2236 Vine Rd, Vineland, NJ 08361
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00747 (exp. 2027-05-31)
 

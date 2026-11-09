@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/murnane-building-contractors-inc-ny
 
 * Lead abatement
 * Plattsburgh, NY (Clinton County)
-* Phone: (518) 561-4010
 * Address: 104 Sharron Ave, Plattsburgh, NY 12901
 * Google rating: 4.3 from 6 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-118440-4 (exp. 2029-06-17)

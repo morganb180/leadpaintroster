@@ -588,7 +588,7 @@
               "null"
             ],
             "format": "uri",
-            "description": "Public listing page (has phone/contact details where published)."
+            "description": "Public listing page. Phone, email and website are not published. Address and licence numbers are on the page when the record includes them. Homeowners use the quote form."
           },
           "quote_url": {
             "type": [

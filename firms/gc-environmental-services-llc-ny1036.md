@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gc-environmental-services-llc-ny103
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (929) 227-1504
 * Address: 2487 Davidson Ave, Bronx, NY 10468
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F340724-1 (exp. 2029-07-15)
 

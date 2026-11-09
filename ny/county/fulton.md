@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/fulton/
 Licensed firm
 
 215 12 N Perry St, Johnstown, NY  
-☎ [(518) 705-4165](tel:5187054165)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F153170-2 (exp. 2029-06-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0900)

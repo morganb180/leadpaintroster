@@ -1,6 +1,6 @@
 ---
 title: "Leadguys NJ, Newton, NJ | Lead Paint Roster"
-description: "Leadguys NJ in Newton, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Leadguys NJ in Newton, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/leadguys-nj-nj0098/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/leadguys-nj-nj0098/
 
 * Lead inspection / evaluation
 * Newton, NJ (Sussex County)
-* Phone: (201) 253-6778
 * Address: 12 Maple Ave, Newton, NJ 07860
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00903 (exp. 2027-12-31)
 

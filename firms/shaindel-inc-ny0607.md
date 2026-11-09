@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/shaindel-inc-ny0607/
 
 * Lead abatement, Lead inspection / evaluation
 * Ossining, NY (Westchester County)
-* Phone: (914) 762-2296
 * Address: 1183 Estates Dr, Ossining, NY 10562
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2537-3 (exp. 2027-08-06)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2537-3 (exp. 2027-08-06)

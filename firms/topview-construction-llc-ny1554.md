@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/topview-construction-llc-ny1554/
 
 * Lead abatement
 * Watertown, NY (Jefferson County)
-* Phone: (315) 775-3115
 * Address: 215 Washington St, Watertown, NY 13601
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F267159-1 (exp. 2027-07-31)
 

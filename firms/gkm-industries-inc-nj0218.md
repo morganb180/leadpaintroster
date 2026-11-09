@@ -1,6 +1,6 @@
 ---
 title: "Gkm Industries, Inc., Fairview, NJ | Lead Paint Roster"
-description: "Gkm Industries, Inc. in Fairview, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Gkm Industries, Inc. in Fairview, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/gkm-industries-inc-nj0218/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gkm-industries-inc-nj0218/
 
 * Lead abatement
 * Fairview, NJ (Bergen County)
-* Phone: (908) 344-7029
 * Address: 411 Morningside Ave, Unit A, Fairview, NJ 07022
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00896 (exp. 2027-10-31)
 

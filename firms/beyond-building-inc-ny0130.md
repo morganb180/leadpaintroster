@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/beyond-building-inc-ny0130/
 
 * Lead abatement, Lead inspection / evaluation
 * Fresh Meadows, NY (Queens County)
-* Phone: (646) 577-8076
 * Address: 16018 59th Ave, Fresh Meadows, NY 11365
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F299133-1 (exp. 2028-06-26)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F299133-1 (exp. 2028-06-26)

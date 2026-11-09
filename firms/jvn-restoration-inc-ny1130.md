@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jvn-restoration-inc-ny1130/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (718) 605-6256
 * Address: 101 Ellis St, Staten Island, NY 10307
 * Google rating: 4.3 from 11 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2172-3 (exp. 2027-02-20)

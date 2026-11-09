@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sky-environmental-services-inc-nj01
 
 * Lead inspection / evaluation
 * Mountain Lakes, NJ (Morris County)
-* Phone: (973) 769-6946
 * Address: 140 Blvd, Mountain Lakes, NJ 07046
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00479 (exp. 2026-11-30)

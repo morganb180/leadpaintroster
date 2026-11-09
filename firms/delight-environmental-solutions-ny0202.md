@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/delight-environmental-solutions-ny0
 
 * Lead abatement, Lead inspection / evaluation
 * Hempstead, NY (Nassau County)
-* Phone: (516) 430-1295
 * Address: 261 S Franklin St, Hempstead, NY 11550
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F158376-2 (exp. 2028-03-25)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F158376-2 (exp. 2028-03-25)

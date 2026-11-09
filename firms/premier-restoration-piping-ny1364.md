@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/premier-restoration-piping-ny1364/
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (718) 825-2220
 * Address: 677 Palisade Ave, Yonkers, NY 10703
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F195030-1 (exp. 2027-06-18)
 

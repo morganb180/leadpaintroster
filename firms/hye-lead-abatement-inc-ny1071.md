@@ -1,6 +1,6 @@
 ---
 title: "HYE Lead Abatement, Inc., Bronx, NY | Lead Paint Roster"
-description: "HYE Lead Abatement, Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "HYE Lead Abatement, Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/hye-lead-abatement-inc-ny1071/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hye-lead-abatement-inc-ny1071/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 269-7793
 * Address: 1116 White Plains Rd, Bronx, NY 10472
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-19608-3 (exp. 2027-11-01)
 

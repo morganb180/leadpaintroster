@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/prime-home-improvements-inc-ny1369/
 
 * Lead abatement
 * Armonk, NY (Westchester County)
-* Phone: (914) 683-8081
 * Address: 200 Business Park Dr, Armonk, NY 10504
 * Google rating: 4.2 from 26 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-41584-1 (exp. 2029-03-25)

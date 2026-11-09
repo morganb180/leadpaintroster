@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jhg-builders-inc-ny0345/
 
 * Lead abatement, Lead inspection / evaluation
 * Far Rockaway, NY (Queens County)
-* Phone: (516) 724-6709
 * Address: 1011 Nameoke St, Far Rockaway, NY 11691
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F319637-1 (exp. 2029-01-26)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F319637-1 (exp. 2029-01-26)

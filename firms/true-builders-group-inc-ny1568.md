@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/true-builders-group-inc-ny1568/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (646) 533-1253
 * Address: 1045 Brighton Beach Ave, Brooklyn, NY 11235
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F266748-1 (exp. 2027-07-24)
 

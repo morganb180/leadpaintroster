@@ -1,6 +1,6 @@
 ---
 title: "Sunstream Corporation, Binghamton, NY | Lead Paint Roster"
-description: "Sunstream Corporation in Binghamton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Sunstream Corporation in Binghamton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/sunstream-corporation-ny1521/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sunstream-corporation-ny1521/
 
 * Lead abatement
 * Binghamton, NY (Broome County)
-* Phone: (607) 724-4400
 * Address: 6 Spring Forest Ave, Binghamton, NY 13905
 * Google rating: 4.6 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2583-3 (exp. 2028-05-07)

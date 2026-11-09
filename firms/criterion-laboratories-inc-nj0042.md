@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/criterion-laboratories-inc-nj0042/
 
 * Lead inspection / evaluation
 * Bensalem, PA (Bucks County)
-* Phone: (215) 244-1300
 * Address: 400 St Rd, Bensalem, PA 19020
 * Google rating: 4.6 from 48 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00103 (exp. 2028-07-15)

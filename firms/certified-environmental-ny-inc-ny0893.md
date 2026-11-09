@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/certified-environmental-ny-inc-ny08
 
 * Lead abatement
 * Airmont, NY (Rockland County)
-* Phone: (718) 749-8464
 * Address: 15 Stillo Dr, Airmont, NY 10952
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F326072-1 (exp. 2029-03-17)
 

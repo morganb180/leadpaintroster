@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/green-path-environmental-inc-ny0304
 
 * Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (347) 276-2339
 * Address: 26 Ramblewood Ave, Staten Island, NY 10308
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F113768-4 (exp. 2028-06-20)
 

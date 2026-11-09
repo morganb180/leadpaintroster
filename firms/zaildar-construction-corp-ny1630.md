@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/zaildar-construction-corp-ny1630/
 
 * Lead abatement
 * Floral Park, NY (Nassau County)
-* Phone: (516) 928-9009
 * Address: 8417 259th St, Floral Park, NY 11001
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F337455-1 (exp. 2029-06-15)
 

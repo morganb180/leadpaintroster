@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/guimar-general-contractor-llc-nj021
 
 * Lead abatement
 * Freehold, NJ (Monmouth County)
-* Phone: (973) 392-9280
 * Address: 544 Brickyard Rd, Freehold, NJ 07728
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00648 (exp. 2027-01-31)
 

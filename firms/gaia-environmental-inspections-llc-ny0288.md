@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gaia-environmental-inspections-llc-
 
 * Lead inspection / evaluation
 * Elmont, NY (Nassau County)
-* Phone: (516) 906-8422
 * Address: 151 Miriam Pkwy, Elmont, NY 11003
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F285096-1 (exp. 2028-02-21)
 

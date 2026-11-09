@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/star-universe-renovation-corp-ny150
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (917) 929-6887
 * Address: 633 Britton Ave, Staten Island, NY 10304
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F265882-1 (exp. 2027-07-01)
 

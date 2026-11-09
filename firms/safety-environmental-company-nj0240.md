@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/safety-environmental-company-nj0240
 
 * Lead abatement
 * Cream - Ridge, NJ (Monmouth County)
-* Phone: (609) 208-3276
 * Address: 1 Weathervane Cir, Cream - Ridge, NJ 08514
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00856 (exp. 2027-03-31)
 

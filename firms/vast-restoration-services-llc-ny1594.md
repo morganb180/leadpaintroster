@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/vast-restoration-services-llc-ny159
 
 * Lead abatement
 * New York Mills, NY (Oneida County)
-* Phone: (315) 880-9028
 * Address: 20 Greenman Ave, New York Mills, NY 13417
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F284294-1 (exp. 2028-02-11)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/milbrook-properties-ltd-ny1252/
 
 * Lead abatement
 * Manhasset, NY (Nassau County)
-* Phone: (516) 869-1240
 * Address: 42 Bayview Ave, Manhasset, NY 11030
 * Google rating: 3.7 from 19 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-43707-4 (exp. 2028-03-23)

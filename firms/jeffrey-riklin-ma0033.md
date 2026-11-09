@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/jeffrey-riklin-ma0033/
 
 * Lead inspection / evaluation
 * Newton Upper Falls, MA (Middlesex County)
-* Phone: (617) 719-1136
-* Email: jeffriklin@gmail.com
 * Address: Newton Upper Falls, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0033

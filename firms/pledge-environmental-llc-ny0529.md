@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pledge-environmental-llc-ny0529/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (609) 208-5535
 * Address: 1466 Saint Marks Ave, Brooklyn, NY 11233
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F285537-1 (exp. 2028-02-25)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F285537-1 (exp. 2028-02-25)

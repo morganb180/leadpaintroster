@@ -6,7 +6,7 @@ canonical: https://leadpaintroster.com/claim-listing/
 
 # List, claim, correct or remove a listing
 
-Every listing on Lead Paint Roster comes from official state licence or certification records (NJ DCA, EPA, MA). Use this form to claim your free listing (add a phone number, website or service area), fix an error, ask to be added, or ask for a listing to be removed.
+Every listing on Lead Paint Roster comes from official state licence or certification records (NJ DCA, EPA, MA). Use this form to claim your free listing (confirm the record or tell us a service area. Phone numbers, email addresses and websites are not shown on the public listing), fix an error, ask to be added, or ask for a listing to be removed.
 
 ## What happens next
 

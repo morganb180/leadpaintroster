@@ -1,6 +1,6 @@
 ---
 title: "AltCity, Inc., Bronx, NY | Lead Paint Roster"
-description: "AltCity, Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "AltCity, Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/altcity-inc-ny0773/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/altcity-inc-ny0773/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (718) 884-7676
 * Address: 5925 Broadway, Bronx, NY 10463
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-777-3 (exp. 2027-09-24)
 

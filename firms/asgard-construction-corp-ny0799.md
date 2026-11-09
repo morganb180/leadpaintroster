@@ -1,6 +1,6 @@
 ---
 title: "Asgard Construction Corp., Jamaica, NY | Lead Paint Roster"
-description: "Asgard Construction Corp. in Jamaica, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Asgard Construction Corp. in Jamaica, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/asgard-construction-corp-ny0799/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/asgard-construction-corp-ny0799/
 
 * Lead abatement
 * Jamaica, NY (Queens County)
-* Phone: (646) 533-6560
 * Address: 13330 76th St, Jamaica, NY 11414
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F285159-1 (exp. 2028-02-21)
 

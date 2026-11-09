@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/get-it-done-now-usa-llc-ny1052/
 
 * Lead abatement
 * South Richmond Hill, NY (Queens County)
-* Phone: (347) 357-2259
 * Address: 12109 107th Ave, South Richmond Hill, NY 11419
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F148883-1 (exp. 2028-02-04)
 

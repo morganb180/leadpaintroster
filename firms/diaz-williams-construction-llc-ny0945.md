@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/diaz-williams-construction-llc-ny09
 
 * Lead abatement
 * Syracuse, NY (Onondaga County)
-* Phone: (646) 887-4085
 * Address: 140 Mather St, Syracuse, NY 13203
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F312610-1 (exp. 2028-11-05)
 

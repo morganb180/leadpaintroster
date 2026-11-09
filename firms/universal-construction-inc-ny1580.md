@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/universal-construction-inc-ny1580/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 439-3170
 * Address: 5224 3rd Ave, Brooklyn, NY 11220
 * Google rating: 4.3 from 12 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-13736-3 (exp. 2028-06-10)

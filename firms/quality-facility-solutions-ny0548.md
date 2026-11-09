@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/quality-facility-solutions-ny0548/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 935-9923
 * Address: 75 Taaffe Pl, Brooklyn, NY 11205
 * Google rating: 4.8 from 75 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F270088-1 (exp. 2027-09-30)

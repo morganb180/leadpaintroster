@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bedford-road-contracting-ny0822/
 
 * Lead abatement
 * Port Chester, NY (Westchester County)
-* Phone: (914) 690-1561
 * Address: 57 Poningo St, Port Chester, NY 10573
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-32690-1 (exp. 2028-06-23)

@@ -1,6 +1,6 @@
 ---
 title: "Esperanza Remodeling Inc., Bronx, NY | Lead Paint Roster"
-description: "Esperanza Remodeling Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Esperanza Remodeling Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/esperanza-remodeling-inc-ny1001/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/esperanza-remodeling-inc-ny1001/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 730-8678
 * Address: 2050 Anthony Ave, Bronx, NY 10457
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F308725-1 (exp. 2028-09-30)
 

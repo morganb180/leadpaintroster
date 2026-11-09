@@ -1,6 +1,6 @@
 ---
 title: "Marie M Green, Averill Park, NY | Lead Paint Roster"
-description: "Marie M Green in Averill Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Marie M Green in Averill Park, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/marie-m-green-ny1224/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/marie-m-green-ny1224/
 
 * Lead abatement
 * Averill Park, NY (Rensselaer County)
-* Phone: (518) 527-7002
 * Address: 263 Totem Lodge Rd, Averill Park, NY 12018
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F209863-1 (exp. 2027-08-27)
 

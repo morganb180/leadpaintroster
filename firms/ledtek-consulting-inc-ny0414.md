@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ledtek-consulting-inc-ny0414/
 
 * Lead abatement, Lead inspection / evaluation
 * Astoria, NY (Queens County)
-* Phone: (917) 780-5418
 * Address: 2064 42nd St, Astoria, NY 11105
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F262330-1 (exp. 2027-04-12)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262330-1 (exp. 2027-04-12)

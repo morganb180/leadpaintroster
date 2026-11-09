@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/beautiful-consulting-and-constructi
 
 * Lead abatement
 * Great Neck, NY (Nassau County)
-* Phone: (917) 716-8994
 * Address: 51 Tanners Rd, Great Neck, NY 11020
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F264263-1 (exp. 2027-05-23)
 

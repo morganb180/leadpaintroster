@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/leadguard-environmental-inc-ny1176/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (646) 208-2508
 * Address: 7520 Ridge Blvd, Brooklyn, NY 11209
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F304496-1 (exp. 2028-08-13)
 

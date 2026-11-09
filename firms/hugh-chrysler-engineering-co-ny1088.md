@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hugh-chrysler-engineering-co-ny1088
 
 * Lead abatement
 * East Elmhurst, NY (Queens County)
-* Phone: (718) 545-8659
 * Address: 2221 76 St, East Elmhurst, NY 11370
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F302142-1 (exp. 2028-07-28)
 

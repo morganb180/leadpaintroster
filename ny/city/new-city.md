@@ -29,8 +29,6 @@ Lead Paint Roster lists 7 EPA-licensed listings with an address in New City: 3 l
 Licensed firm
 
 40 Red Rock Rd, New City, NY  
-☎ [(646) 784-6013](tel:6467846013)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F221245-2 (exp. 2027-01-25)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F221245-2 (exp. 2027-01-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2 Summit Dr, New City, NY  
-☎ [(516) 491-8000](tel:5164918000)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F234379-2 (exp. 2028-04-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0109)
@@ -56,8 +52,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 37 Parliament Dr, New City, NY  
-☎ [(845) 499-0076](tel:8454990076)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F235650-2 (exp. 2028-08-21)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F235650-2 (exp. 2028-08-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -72,8 +66,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 216 Congers Rd, New City, NY  
-☎ [(305) 785-8065](tel:3057858065)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F319278-1 (exp. 2029-01-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0996)
@@ -85,8 +77,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 173 Old Route 304, New City, NY  
-☎ [(845) 708-5221](tel:8457085221)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F292382-1 (exp. 2028-05-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1207)
@@ -98,8 +88,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 368 New Hempstead Rd, New City, NY  
-☎ [(347) 824-2106](tel:3478242106)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F301063-1 (exp. 2028-07-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1317)
@@ -111,8 +99,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 14 Fair Haven Dr, New City, NY  
-☎ [(914) 349-3349](tel:9143493349)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F259471-1 (exp. 2027-02-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1438)

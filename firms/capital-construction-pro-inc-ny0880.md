@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/capital-construction-pro-inc-ny0880
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (347) 323-1622
 * Address: 75 Highland Ave, Yonkers, NY 10709
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F288536-1 (exp. 2028-03-20)
 

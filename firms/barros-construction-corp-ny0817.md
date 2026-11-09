@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/barros-construction-corp-ny0817/
 
 * Lead abatement
 * Richmond Hill, NY (Queens County)
-* Phone: (646) 996-7282
 * Address: 107-22 117th St, Richmond Hill, NY 11419
 * Google rating: 4.2 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F112397-4 (exp. 2028-05-06)

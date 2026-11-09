@@ -1,6 +1,6 @@
 ---
 title: "Dynamic GC Corp, Bronx, NY | Lead Paint Roster"
-description: "Dynamic GC Corp in Bronx, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Dynamic GC Corp in Bronx, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/dynamic-gc-corp-ny0208/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dynamic-gc-corp-ny0208/
 
 * Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (347) 590-9902
 * Address: 191 Willow Ave, Bronx, NY 10454
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F181823-2 (exp. 2028-08-17)
 

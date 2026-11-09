@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/artstone-contracting-corp-ny0099/
 
 * Lead abatement, Lead inspection / evaluation
 * Eastchester, NY (Westchester County)
-* Phone: (914) 312-5173
 * Address: 5 New St, Eastchester, NY 10709
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F245832-1 (exp. 2027-02-21)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F245832-1 (exp. 2027-02-21)

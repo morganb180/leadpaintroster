@@ -1,6 +1,6 @@
 ---
 title: "26 Bonim LLC, Kew Gardens, NY | Lead Paint Roster"
-description: "26 Bonim LLC in Kew Gardens, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "26 Bonim LLC in Kew Gardens, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/26-bonim-llc-ny0692/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/26-bonim-llc-ny0692/
 
 * Lead abatement
 * Kew Gardens, NY (Queens County)
-* Phone: (718) 441-0200
 * Address: 12420 Metropolitan Ave, Kew Gardens, NY 11415
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F254069-2 (exp. 2029-09-21)
 

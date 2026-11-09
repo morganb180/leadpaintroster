@@ -1,6 +1,6 @@
 ---
 title: "Arthur Engineering DPC, Rochester, NY | Lead Paint Roster"
-description: "Arthur Engineering DPC in Rochester, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Arthur Engineering DPC in Rochester, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/arthur-engineering-dpc-ny0098/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/arthur-engineering-dpc-ny0098/
 
 * Lead inspection / evaluation
 * Rochester, NY (Monroe County)
-* Phone: (315) 771-3738
 * Address: 15 Sky Ridge Dr, Rochester, NY 14625
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F331658-1 (exp. 2029-04-29)
 

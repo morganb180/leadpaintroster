@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/high-quality-home-improvement-inc-n
 
 * Lead abatement
 * East Elmhurst, NY (Queens County)
-* Phone: (917) 346-8008
 * Address: 71-08 30th Ave, East Elmhurst, NY 11370
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F172250-3 (exp. 2029-08-19)
 

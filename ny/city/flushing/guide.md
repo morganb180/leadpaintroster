@@ -46,8 +46,6 @@ Lead Paint Roster lists 22 listings with an address in Flushing: 9 inspection/ri
 Licensed firm
 
 3370 Prince St, Flushing, NY  
-☎ [(646) 835-0888](tel:6468350888)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F319745-1 (exp. 2029-01-22)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F319745-1 (exp. 2029-01-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -60,8 +58,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 143-05 41st Ave, Flushing, NY  
-☎ [(347) 694-9093](tel:3476949093)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F161709-4 (exp. 2029-10-08)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F161709-4 (exp. 2029-10-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -74,8 +70,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4724 Union St, Flushing, NY  
-☎ [(646) 269-9869](tel:6462699869)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F208562-3 (exp. 2028-10-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0323)
@@ -87,8 +81,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2364 92nd St, Flushing, NY  
-☎ [(646) 239-2813](tel:6462392813)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F294122-1 (exp. 2028-05-20)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F294122-1 (exp. 2028-05-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

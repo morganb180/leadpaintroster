@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/martin-environmental-services-inc-n
 
 * Lead abatement
 * Schenectady, NY (Schenectady County)
-* Phone: (518) 372-8200
 * Address: 1710 Erie Blvd, Schenectady, NY 12308
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-20984-3 (exp. 2028-09-11)
 

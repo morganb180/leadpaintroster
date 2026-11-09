@@ -1,6 +1,6 @@
 ---
 title: "Decort Painting Corp, Bay Shore, NY | Lead Paint Roster"
-description: "Decort Painting Corp in Bay Shore, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Decort Painting Corp in Bay Shore, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/decort-painting-corp-ny0936/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/decort-painting-corp-ny0936/
 
 * Lead abatement
 * Bay Shore, NY (Suffolk County)
-* Phone: (718) 610-9343
 * Address: 123 Ocean Ave, Bay Shore, NY 11706
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-11345-2 (exp. 2027-02-07)
 

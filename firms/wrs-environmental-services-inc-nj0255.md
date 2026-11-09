@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/wrs-environmental-services-inc-nj02
 
 * Lead abatement
 * Holtsville, NY (Suffolk County)
-* Phone: (631) 924-8111
 * Address: 65 Corporate Dr, Holtsville, NY 11742
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00538 (exp. 2027-06-30)

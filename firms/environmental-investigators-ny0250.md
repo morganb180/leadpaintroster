@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-investigators-ny0250/
 
 * Lead abatement, Lead inspection / evaluation
 * New York City, NY (New York County)
-* Phone: (646) 488-4318
 * Address: 66 Fort Washington Ave, New York City, NY 10027
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F337341-1 (exp. 2029-06-11)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F337341-1 (exp. 2029-06-11)

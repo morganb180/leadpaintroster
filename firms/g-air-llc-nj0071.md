@@ -1,6 +1,6 @@
 ---
 title: "G-Air, LLC, Greenwich, NJ | Lead Paint Roster"
-description: "G-Air, LLC in Greenwich, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "G-Air, LLC in Greenwich, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/g-air-llc-nj0071/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/g-air-llc-nj0071/
 
 * Lead inspection / evaluation
 * Greenwich, NJ (Cumberland County)
-* Phone: (856) 459-9300
 * Address: 963 Ye Greate St, Greenwich, NJ 08323
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00769 (exp. 2027-04-30)
 

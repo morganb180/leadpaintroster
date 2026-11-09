@@ -1,6 +1,6 @@
 ---
 title: "MKNK Waste Removal, Inc., Brooklyn, NY | Lead Paint Roster"
-description: "MKNK Waste Removal, Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "MKNK Waste Removal, Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/mknk-waste-removal-inc-ny1212/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mknk-waste-removal-inc-ny1212/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 255-7151
 * Address: 3715 Kings Hwy, Brooklyn, NY 11234
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F238034-1 (exp. 2028-05-26)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/quality-air-abatement-inc-ny1392/
 
 * Lead abatement
 * Jackson Heights, NY (Queens County)
-* Phone: (345) 242-3873
 * Address: 8211 37th Ave, Jackson Heights, NY 11372
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F281272-1 (exp. 2028-01-30)
 

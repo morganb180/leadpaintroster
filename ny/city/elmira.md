@@ -29,8 +29,6 @@ Lead Paint Roster lists 6 EPA-licensed listings with an address in Elmira: 3 lea
 Licensed firm
 
 317 E Church St, Elmira, NY  
-☎ [(607) 737-5693](tel:6077375693)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F251797-1 (exp. 2028-06-19)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F251797-1 (exp. 2028-06-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1261 Charles St, Elmira, NY  
-☎ [(607) 744-9530](tel:6077449530)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F298467-1 (exp. 2028-06-17)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F298467-1 (exp. 2028-06-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -57,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 231 W Water St, Elmira, NY  
-☎ [(607) 481-0780](tel:6074810780)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F301630-1 (exp. 2028-07-22)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F301630-1 (exp. 2028-07-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -73,8 +67,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1000 Hall St, Elmira, NY  
-☎ [(607) 684-5507](tel:6076845507)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F318246-1 (exp. 2028-12-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0786)
@@ -86,8 +78,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 Cchd 103 Washington St, Elmira, NY  
-☎ [(607) 737-2019](tel:6077372019)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-1826-3 (exp. 2027-05-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0874)
@@ -99,8 +89,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 710 Benjamin, Elmira, NY  
-☎ [(607) 857-2401](tel:6078572401)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F212445-3 (exp. 2029-03-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0935)

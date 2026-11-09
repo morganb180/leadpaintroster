@@ -1,6 +1,6 @@
 ---
 title: "LB Brothers Corp, New York, NY | Lead Paint Roster"
-description: "LB Brothers Corp in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "LB Brothers Corp in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lb-brothers-corp-ny1164/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lb-brothers-corp-ny1164/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (917) 617-1272
 * Address: 539 W 49th St, New York, NY 10019
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F275664-1 (exp. 2027-11-21)
 

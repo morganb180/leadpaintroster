@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/royalbuildbyte-llc-ny1446/
 
 * Lead abatement
 * Jackson Heights, NY (Queens County)
-* Phone: (929) 684-4196
 * Address: 7702 34th Ave, Jackson Heights, NY 11372
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F319537-1 (exp. 2029-01-19)
 

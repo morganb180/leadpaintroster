@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/structural-contracting-services-inc
 
 * Lead abatement
 * Mount Vernon, NY (Westchester County)
-* Phone: (914) 668-5812
 * Address: 100 Pearl St, Mount Vernon, NY 10550
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-10893-4 (exp. 2028-12-27)

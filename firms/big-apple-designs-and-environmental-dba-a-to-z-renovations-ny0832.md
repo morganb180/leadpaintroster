@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/big-apple-designs-and-environmental
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (800) 257-0440
 * Address: 3404 Ave N, Brooklyn, NY 11234
 * Google rating: 4.9 from 85 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F175846-3 (exp. 2027-05-01)

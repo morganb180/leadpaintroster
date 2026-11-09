@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/niagara-frontier-construction-ny049
 
 * Lead abatement, Lead inspection / evaluation
 * Buffalo, NY (Erie County)
-* Phone: (716) 349-9669
 * Address: 505 Ellicott St, Buffalo, NY 14203
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F341180-1 (exp. 2029-07-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F341180-1 (exp. 2029-07-23)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-construction-group-in
 
 * Lead abatement
 * Albion, NY (Orleans County)
-* Phone: (585) 657-4223
 * Address: 14109 W Ave, Albion, NY 14411
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-35752-4 (exp. 2028-08-16)

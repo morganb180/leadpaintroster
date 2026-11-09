@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/u-s-environmental-abatement-corp-ny
 
 * Lead abatement
 * Westbury, NY (Nassau County)
-* Phone: (800) 300-8734
 * Address: 558 Union Ave, Westbury, NY 11590
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2649-3 (exp. 2027-02-17)
 

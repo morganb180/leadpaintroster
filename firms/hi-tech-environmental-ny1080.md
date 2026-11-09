@@ -1,6 +1,6 @@
 ---
 title: "Hi-Tech Environmental, Brooklyn, NY | Lead Paint Roster"
-description: "Hi-Tech Environmental in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Hi-Tech Environmental in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/hi-tech-environmental-ny1080/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hi-tech-environmental-ny1080/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 903-7288
 * Address: 320 Roebling St, Brooklyn, NY 11211
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F209810-3 (exp. 2028-11-14)
 

@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/tran-lead-inspection-services-ma004
 
 * Lead risk assessment
 * Swampscott, MA (Essex County)
-* Phone: (617) 899-7295
-* Email: info@tranleadinspection.com
 * Address: Swampscott, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0046

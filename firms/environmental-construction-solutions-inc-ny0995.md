@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-construction-solution
 
 * Lead abatement
 * Pelham, NY (Westchester County)
-* Phone: (914) 365-9514
 * Address: 340 Fifth Ave, Pelham, NY 10803
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F123449-1 (exp. 2026-12-21)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/apache-legend-group-corp-ny0092/
 
 * Lead abatement, Lead inspection / evaluation
 * Mount Kisco, NY (Westchester County)
-* Phone: (917) 280-9851
 * Address: 239 Lexington Ave, Mount Kisco, NY 10549
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F231036-1 (exp. 2028-06-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F231036-1 (exp. 2028-06-23)

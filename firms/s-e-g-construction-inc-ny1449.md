@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/s-e-g-construction-inc-ny1449/
 
 * Lead abatement
 * Cheektowaga, NY (Erie County)
-* Phone: (716) 602-9105
 * Address: 3371 Harlem Rd, Cheektowaga, NY 14225
 * Google rating: 5.0 from 6 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-112700-4 (exp. 2029-07-21)

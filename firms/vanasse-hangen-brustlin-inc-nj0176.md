@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/vanasse-hangen-brustlin-inc-nj0176/
 
 * Lead inspection / evaluation
 * Manasquan, NJ (Monmouth County)
-* Phone: (732) 223-2225
 * Address: 1805 Atlantic Ave, Manasquan, NJ 08736
 * Google rating: 2.0 from 2 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00699 (exp. 2027-11-30)

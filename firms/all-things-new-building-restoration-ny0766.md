@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/all-things-new-building-restoration
 
 * Lead abatement
 * Binghamton, NY (Broome County)
-* Phone: (607) 760-6300
 * Address: 126 E Service Rd, Binghamton, NY 13901
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-83499-2 (exp. 2027-04-02)
 

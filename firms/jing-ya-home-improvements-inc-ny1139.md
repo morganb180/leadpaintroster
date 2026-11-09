@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jing-ya-home-improvements-inc-ny113
 
 * Lead abatement
 * Flushing, NY (Queens County)
-* Phone: (347) 884-2795
 * Address: 19835 32nd Rd, Flushing, NY 11358
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F187666-3 (exp. 2028-10-24)
 

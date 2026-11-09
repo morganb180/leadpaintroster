@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pinnacle-environmental-corp-nj0235/
 
 * Lead abatement
 * Carlstadt, NJ (Bergen County)
-* Phone: (201) 939-6565
 * Address: 200 Broad St, Carlstadt, NJ 07072
 * Google rating: 4.8 from 13 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00229 (exp. 2028-02-28)

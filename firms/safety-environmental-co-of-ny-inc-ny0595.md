@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/safety-environmental-co-of-ny-inc-n
 
 * Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (718) 390-0914
 * Address: 33 Clinton Ave, Staten Island, NY 10301
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-104210-3 (exp. 2027-04-18)
 

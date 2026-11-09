@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/omar-s-mega-construction-ny1311/
 
 * Lead abatement
 * Rego Park, NY (Queens County)
-* Phone: (646) 284-4403
 * Address: 6570 Booth St, Rego Park, NY 11374
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F267166-1 (exp. 2027-07-31)
 

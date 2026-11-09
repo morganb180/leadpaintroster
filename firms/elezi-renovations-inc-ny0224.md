@@ -1,6 +1,6 @@
 ---
 title: "Elezi Renovations, Inc., Yonkers, NY | Lead Paint Roster"
-description: "Elezi Renovations, Inc. in Yonkers, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Elezi Renovations, Inc. in Yonkers, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/elezi-renovations-inc-ny0224/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/elezi-renovations-inc-ny0224/
 
 * Lead inspection / evaluation
 * Yonkers, NY (Westchester County)
-* Phone: (646) 294-2983
 * Address: 85 Dartmouth Ave, Yonkers, NY 10701
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F158804-3 (exp. 2028-01-28)
 

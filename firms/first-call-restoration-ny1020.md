@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/first-call-restoration-ny1020/
 
 * Lead abatement
 * Poughkeepsie, NY (Dutchess County)
-* Phone: (845) 226-0868
 * Address: 67 Page Park Dr, Poughkeepsie, NY 12603
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F258567-1 (exp. 2027-01-25)
 

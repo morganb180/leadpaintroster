@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jtk-home-improvement-inc-ny0354/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (718) 744-4960
 * Address: 31W 34th St, New York, NY 10001
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F344093-1 (exp. 2029-08-19)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F344093-1 (exp. 2029-08-19)

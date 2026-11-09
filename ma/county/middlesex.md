@@ -23,10 +23,6 @@ Listings holding more than one licence type are shown once, in the first matchin
 Licensed firm
 
 Melrose, MA  
-☎ [(781) 789-3287](tel:7817893287)  
-✉ [ecsepj@hotmail.com](mailto:ecsepj@hotmail.com)  
-✉ [davepesce@gmail.com](mailto:davepesce@gmail.com)
-
 2 licensed individuals
 
 * John Pesce (MA DLS Master Inspector/Risk Assessor #1201 (exp. 2027-10-15))
@@ -42,9 +38,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Newton, MA  
-☎ [(508) 801-5407](tel:5088015407)  
-✉ [Okie816@gmail.com](mailto:Okie816@gmail.com)
-
 1 licensed individual
 
 * Kevin O'Connell (MA DLS Inspector/Risk Assessor #004505 (exp. 2027-07-08))
@@ -59,10 +52,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Newton, MA  
-☎ [(617) 869-9059](tel:6178699059)  
-✉ [jrisko@jhr82.com](mailto:jrisko@jhr82.com)  
-✉ [ccatlow@jhr82.com](mailto:ccatlow@jhr82.com)
-
 2 licensed individuals
 
 * John Risko (MA DLS Master Inspector/Risk Assessor #1128 (exp. 2026-12-09))
@@ -78,9 +67,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Stow, MA  
-☎ [(978) 875-3081](tel:9788753081)  
-✉ [canderson@andersonlead.com](mailto:canderson@andersonlead.com)
-
 1 licensed individual
 
 * Craig Anderson (MA DLS Master Inspector/Risk Assessor #3801 (exp. 2027-09-11))
@@ -95,9 +81,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Wakefield, MA  
-☎ [(978) 503-1765](tel:9785031765)  
-✉ [actionleadtesting@gmail.com](mailto:actionleadtesting@gmail.com)
-
 1 licensed individual
 
 * David Healey (MA DLS Inspector/Risk Assessor #4041 (exp. 2027-01-07))
@@ -112,9 +95,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Waltham, MA  
-☎ [(781) 454-7185](tel:7814547185)  
-✉ [davidmcdonnell06@gmail.com](mailto:davidmcdonnell06@gmail.com)
-
 1 licensed individual
 
 * David McDonnell (MA DLS Inspector/Risk Assessor #3776 (exp. 2027-07-12))
@@ -129,10 +109,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Wilmington, MA  
-☎ [(603) 216-2177](tel:6032162177)  
-✉ [gdevine@ieetrains.com](mailto:gdevine@ieetrains.com)  
-✉ [Rwood@ieetrains.com](mailto:Rwood@ieetrains.com)
-
 3 licensed individuals
 
 * Gwen Devine (MA DLS Master Inspector/Risk Assessor #1659 (exp. 2027-03-30))
@@ -153,9 +129,6 @@ Lead Paint Roster lists 11 Massachusetts-licensed listings for lead inspection /
 Licensed firm
 
 Ayer, MA  
-☎ [(781) 985-4186](tel:7819854186)  
-✉ [jakaitisinspections@gmail.com](mailto:jakaitisinspections@gmail.com)
-
 1 licensed individual
 
 * Steven Jakaitis (MA DLS Inspector #1651 (exp. 2026-12-17))
@@ -170,9 +143,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Everett, MA  
-☎ [(617) 293-7719](tel:6172937719)  
-✉ [northeastleadinspections@gmail.com](mailto:northeastleadinspections@gmail.com)
-
 1 licensed individual
 
 * Thomas Cosco (MA DLS Inspector #4004 (exp. 2026-11-10))
@@ -187,9 +157,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Somerville, MA  
-☎ [(617) 909-1949](tel:6179091949)  
-✉ [jack.mason1@gmail.com](mailto:jack.mason1@gmail.com)
-
 1 licensed individual
 
 * John Mason (MA DLS Inspector #004547 (exp. 2027-04-23))
@@ -204,9 +171,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Woburn, MA  
-☎ [(617) 913-5398](tel:6179135398)  
-✉ [mosesr163@hotmail.com](mailto:mosesr163@hotmail.com)
-
 1 licensed individual
 
 * Moses Ramirez (MA DLS Inspector #004569 (exp. 2027-08-11))
@@ -221,9 +185,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Woburn, MA  
-☎ [(781) 933-2555](tel:7819332555)  
-✉ [troche@trcsolutions.com](mailto:troche@trcsolutions.com)
-
 1 licensed individual
 
 * Thomas Roche (MA DLS Inspector #1676 (exp. 2027-07-01))
@@ -237,12 +198,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Malden, MA  
-☎ [(978) 766-4499](tel:9787664499)  
-✉ [leadfreehome@yahoo.com](mailto:leadfreehome@yahoo.com)
-
 MA DLS Inspector #1940 (exp. 2027-01-22)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0026)
@@ -253,12 +211,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Medford, MA  
-☎ [(781) 333-3203](tel:7813333203)  
-✉ [MAleadpaintinspector@gmail.com](mailto:MAleadpaintinspector@gmail.com)
-
 MA DLS Inspector #4221 (exp. 2027-02-22)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0028)
@@ -269,12 +224,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Newton Upper Falls, MA  
-☎ [(617) 719-1136](tel:6177191136)  
-✉ [jeffriklin@gmail.com](mailto:jeffriklin@gmail.com)
-
 MA DLS Inspector #4049 (exp. 2027-02-15)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0033)
@@ -285,12 +237,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Waltham, MA  
-☎ [(781) 956-0872](tel:7819560872)  
-✉ [kennethcorb@gmail.com](mailto:kennethcorb@gmail.com)
-
 MA DLS Inspector #4203 (exp. 2027-05-03)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0051)
@@ -301,12 +250,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Westford, MA  
-☎ [(978) 692-1339](tel:9786921339)  
-✉ [lizecsiii@msn.com](mailto:lizecsiii@msn.com)
-
 MA DLS Inspector #2753 (exp. 2027-07-03)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0053)
@@ -317,12 +263,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Weston, MA  
-☎ [(617) 851-6015](tel:6178516015)  
-✉ [ed\_gaw@yahoo.com](mailto:ed_gaw@yahoo.com)
-
 MA DLS Inspector #004302 (exp. 2026-12-06)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0054)

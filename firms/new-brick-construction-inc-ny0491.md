@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/new-brick-construction-inc-ny0491/
 
 * Lead abatement, Lead inspection / evaluation
 * Richmond Hill, NY (Queens County)
-* Phone: (718) 846-0371
 * Address: 12329 95th Ave, Richmond Hill, NY 11419
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F161163-2 (exp. 2028-03-20)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F161163-2 (exp. 2028-03-20)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pyramid-safety-health-solutions-inc
 
 * Lead abatement, Lead inspection / evaluation
 * Jamaica, NY (Queens County)
-* Phone: (347) 495-0728
 * Address: 146-47 106 Ave, Jamaica, NY 11435
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F163589-4 (exp. 2029-07-14)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F163589-4 (exp. 2029-07-14)

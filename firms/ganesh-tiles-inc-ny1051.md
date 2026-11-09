@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ganesh-tiles-inc-ny1051/
 
 * Lead abatement
 * South Richmond Hill, NY (Queens County)
-* Phone: (631) 449-4787
 * Address: 11203 95th Ave, South Richmond Hill, NY 11419
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F186573-2 (exp. 2028-02-11)
 

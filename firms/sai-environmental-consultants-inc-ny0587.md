@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sai-environmental-consultants-inc-n
 
 * Lead inspection / evaluation
 * Astoria, NY (Queens County)
-* Phone: (718) 204-0100
 * Address: 3702 Astoria Boulearvd South, Astoria, NY 11103
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2507-3 (exp. 2028-04-01)

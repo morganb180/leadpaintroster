@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/construction-company-of-the-future-
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (646) 886-5485
 * Address: 1536 Commonwealth Ave, Bronx, NY 10460
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F290858-1 (exp. 2028-04-17)

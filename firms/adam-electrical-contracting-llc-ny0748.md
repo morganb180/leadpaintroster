@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/adam-electrical-contracting-llc-ny0
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (212) 444-2326
 * Address: 2568 E 17th St, Brooklyn, NY 11235
 * Google rating: 4.7 from 13 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F235831-2 (exp. 2028-05-10)

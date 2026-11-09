@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/connecticut-environmental-services-
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (866) 244-3254
 * Address: 165 Ct St, Brooklyn, NY 11201
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-63341-4 (exp. 2028-09-18)
 

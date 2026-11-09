@@ -47,8 +47,6 @@ Lead Paint Roster lists 11 listings with an address in New Rochelle: 1 inspectio
 Licensed firm
 
 2525 Palmer Ave, New Rochelle, NY  
-☎ [(914) 637-7505](tel:9146377505)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-937-3 (exp. 2028-02-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0143)
@@ -60,8 +58,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 17 Cole Ter, New Rochelle, NY  
-☎ [(347) 213-9316](tel:3472139316)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F298344-1 (exp. 2028-06-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0722)
@@ -73,8 +69,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 56 Harrison St, New Rochelle, NY  
-☎ [(347) 231-5155](tel:3472315155)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F319223-1 (exp. 2029-01-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0725)

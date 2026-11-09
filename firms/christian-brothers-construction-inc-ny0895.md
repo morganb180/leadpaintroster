@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/christian-brothers-construction-inc
 
 * Lead abatement
 * Oneonta, NY (Otsego County)
-* Phone: (607) 431-2164
 * Address: 31 Main St, Oneonta, NY 13820
 * Google rating: 3.4 from 9 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-39359-1 (exp. 2029-06-11)

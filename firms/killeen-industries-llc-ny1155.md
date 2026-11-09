@@ -1,6 +1,6 @@
 ---
 title: "Killeen Industries LLC, Shoreham, NY | Lead Paint Roster"
-description: "Killeen Industries LLC in Shoreham, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Killeen Industries LLC in Shoreham, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/killeen-industries-llc-ny1155/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/killeen-industries-llc-ny1155/
 
 * Lead abatement
 * Shoreham, NY (Suffolk County)
-* Phone: (631) 681-6510
 * Address: 26 Dartmouth Rd, Shoreham, NY 11786
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F346379-1 (exp. 2029-09-10)
 

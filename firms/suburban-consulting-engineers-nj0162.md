@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/suburban-consulting-engineers-nj016
 
 * Lead inspection / evaluation
 * Flanders, NJ (Morris County)
-* Phone: (973) 398-1776
 * Address: 96 US Hwy 206, Suite 101, Flanders, NJ 07836
 * Google rating: 4.7 from 20 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00796 (exp. 2028-03-31)

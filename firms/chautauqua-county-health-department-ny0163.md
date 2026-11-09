@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/chautauqua-county-health-department
 
 * Lead inspection / evaluation
 * Jamestown, NY (Chautauqua County)
-* Phone: (716) 581-2020
 * Address: 200 E 3rd St, Jamestown, NY 14701
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F346725-1 (exp. 2029-09-10)
 

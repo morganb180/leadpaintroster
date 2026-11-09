@@ -1,6 +1,6 @@
 ---
 title: "D.V.F. Construction Corp, Bronx, NY | Lead Paint Roster"
-description: "D.V.F. Construction Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "D.V.F. Construction Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/d-v-f-construction-corp-ny0919/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/d-v-f-construction-corp-ny0919/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (347) 652-5779
 * Address: 2343 Arthur Ave, Bronx, NY 10458
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F233136-2 (exp. 2028-03-03)
 

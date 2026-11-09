@@ -1,6 +1,6 @@
 ---
 title: "ClearVU Environmental, Queensbury, NY | Lead Paint Roster"
-description: "ClearVU Environmental in Queensbury, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "ClearVU Environmental in Queensbury, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/clearvu-environmental-ny0171/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/clearvu-environmental-ny0171/
 
 * Lead inspection / evaluation
 * Queensbury, NY (Warren County)
-* Phone: (518) 307-0130
 * Address: 18 Blackberry Ln, Queensbury, NY 12804
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F294197-1 (exp. 2028-09-30)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/allsafe-environmental-llc-ny0768/
 
 * Lead abatement
 * Croton On The Hudson, NY (Westchester County)
-* Phone: (914) 627-9688
 * Address: 616 Half Moon Bay Dr, Croton On The Hudson, NY 10520
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F302222-1 (exp. 2028-07-29)
 

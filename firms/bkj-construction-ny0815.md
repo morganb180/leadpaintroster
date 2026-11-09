@@ -1,6 +1,6 @@
 ---
 title: "BKJ Construction, Schenectady, NY | Lead Paint Roster"
-description: "BKJ Construction in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "BKJ Construction in Schenectady, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/bkj-construction-ny0815/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bkj-construction-ny0815/
 
 * Lead abatement
 * Schenectady, NY (Schenectady County)
-* Phone: (518) 393-1881
 * Address: 15 Corlaer Ave, Schenectady, NY 12304
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-102768-3 (exp. 2028-10-31)
 

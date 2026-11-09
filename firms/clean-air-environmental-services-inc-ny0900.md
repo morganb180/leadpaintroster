@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/clean-air-environmental-services-in
 
 * Lead abatement
 * Johnstown, NY (Fulton County)
-* Phone: (518) 705-4165
 * Address: 215 12 N Perry St, Johnstown, NY 12095
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F153170-2 (exp. 2029-06-02)

@@ -1,6 +1,6 @@
 ---
 title: "Cathedra LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Cathedra LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Cathedra LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/cathedra-llc-ny0888/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cathedra-llc-ny0888/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (212) 518-4050
 * Address: 60 Wharf Dr, Brooklyn, NY 11222
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F292028-1 (exp. 2028-05-01)
 

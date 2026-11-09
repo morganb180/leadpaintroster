@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tai-he-contracting-llc-nj0166/
 
 * Lead inspection / evaluation
 * Boonton Township, NJ (Morris County)
-* Phone: (973) 723-3883
 * Address: 21 Birchwood Ln, Boonton Township, NJ 07005
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00824 (exp. 2028-07-31)
 

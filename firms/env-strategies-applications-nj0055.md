@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/env-strategies-applications-nj0055/
 
 * Lead inspection / evaluation
 * Middlesex, NJ (Middlesex County)
-* Phone: (732) 469-8888
 * Address: 495 Union Ave, Suite 1D, Middlesex, NJ 08846
 * Google rating: 5.0 from 15 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00737 (exp. 2027-03-31)

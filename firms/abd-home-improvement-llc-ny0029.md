@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/abd-home-improvement-llc-ny0029/
 
 * Lead abatement, Lead inspection / evaluation
 * Buffalo, NY (Erie County)
-* Phone: (716) 507-7848
 * Address: 261 Woltz Ave, Buffalo, NY 14211
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F292489-1 (exp. 2028-05-06)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F292489-1 (exp. 2028-05-06)

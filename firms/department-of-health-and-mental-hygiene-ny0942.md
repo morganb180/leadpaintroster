@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/department-of-health-and-mental-hyg
 
 * Lead abatement
 * New York City, NY (New York County)
-* Phone: (646) 632-6002
 * Address: 125 Worth St, New York City, NY 10013
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-872-4 (exp. 2030-02-12)
 

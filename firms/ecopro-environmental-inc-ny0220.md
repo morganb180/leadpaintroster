@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ecopro-environmental-inc-ny0220/
 
 * Lead inspection / evaluation
 * Woodside, NY (Queens County)
-* Phone: (718) 880-3679
 * Address: 5119 63rd St, Woodside, NY 11377
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F246837-2 (exp. 2029-03-27)
 

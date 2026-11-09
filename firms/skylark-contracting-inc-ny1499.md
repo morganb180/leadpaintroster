@@ -1,6 +1,6 @@
 ---
 title: "Skylark Contracting Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Skylark Contracting Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Skylark Contracting Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/skylark-contracting-inc-ny1499/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/skylark-contracting-inc-ny1499/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 782-7433
 * Address: 235 43rd St, Brooklyn, NY 11232
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F282961-1 (exp. 2028-02-11)
 

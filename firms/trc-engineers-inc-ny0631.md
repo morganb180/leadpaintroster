@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/trc-engineers-inc-ny0631/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (212) 221-7822
 * Address: 1407 Broadway, New York, NY 10018
 * Google rating: 3.7 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-19227-2 (exp. 2027-04-04)

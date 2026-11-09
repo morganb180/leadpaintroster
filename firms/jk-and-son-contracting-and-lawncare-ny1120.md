@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jk-and-son-contracting-and-lawncare
 
 * Lead abatement
 * Dexter, NY (Jefferson County)
-* Phone: (315) 489-0399
 * Address: 16374 State Route 12E, Dexter, NY 13634
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F348146-1 (exp. 2029-09-30)
 

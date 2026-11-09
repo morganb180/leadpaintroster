@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/c-s-t-environmental-llc-ny0869/
 
 * Lead abatement
 * East Elmhurst, NY (Queens County)
-* Phone: (646) 406-2735
 * Address: 90 16 24th Rd, East Elmhurst, NY 11369
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F147668-2 (exp. 2029-08-24)
 

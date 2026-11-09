@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-pagano-painting-restoration-ny070
 
 * Lead abatement
 * Hurley, NY (Ulster County)
-* Phone: (845) 706-8704
 * Address: 25 Easy St, Hurley, NY 12443
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F108494-1 (exp. 2028-12-30)
 

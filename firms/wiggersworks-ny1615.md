@@ -1,6 +1,6 @@
 ---
 title: "WiggersWorks, Ancramdale, NY | Lead Paint Roster"
-description: "WiggersWorks in Ancramdale, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "WiggersWorks in Ancramdale, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/wiggersworks-ny1615/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/wiggersworks-ny1615/
 
 * Lead abatement
 * Ancramdale, NY (Columbia County)
-* Phone: (845) 784-6177
 * Address: 23 Ohio Ave, Ancramdale, NY 12503
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F350818-1 (exp. 2029-10-22)
 

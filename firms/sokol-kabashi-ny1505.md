@@ -1,6 +1,6 @@
 ---
 title: "Sokol Kabashi, Sunnyside, NY | Lead Paint Roster"
-description: "Sokol Kabashi in Sunnyside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Sokol Kabashi in Sunnyside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/sokol-kabashi-ny1505/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sokol-kabashi-ny1505/
 
 * Lead abatement
 * Sunnyside, NY (Queens County)
-* Phone: (929) 462-0303
 * Address: 4122 45th St, Sunnyside, NY 11104
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F197804-3 (exp. 2028-02-13)
 

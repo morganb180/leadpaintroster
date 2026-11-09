@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/prime-restoration-abatement-corp-ny
 
 * Lead abatement
 * Ozone Park, NY (Queens County)
-* Phone: (917) 684-0195
 * Address: 9523 86th St, Ozone Park, NY 11416
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F326257-1 (exp. 2029-03-25)
 

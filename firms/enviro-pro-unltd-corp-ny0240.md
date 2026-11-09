@@ -1,6 +1,6 @@
 ---
 title: "Enviro-Pro UnLTD Corp., New York, NY | Lead Paint Roster"
-description: "Enviro-Pro UnLTD Corp. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Enviro-Pro UnLTD Corp. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/enviro-pro-unltd-corp-ny0240/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/enviro-pro-unltd-corp-ny0240/
 
 * Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (212) 858-9449
 * Address: 264 W 40th St, New York, NY 10018
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F117859-4 (exp. 2028-11-26)
 

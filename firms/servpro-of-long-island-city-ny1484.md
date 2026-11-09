@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/servpro-of-long-island-city-ny1484/
 
 * Lead abatement
 * Woodside, NY (Queens County)
-* Phone: (516) 208-2214
 * Address: 3031 60th St, Woodside, NY 11377
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-30786-2 (exp. 2028-05-06)
 

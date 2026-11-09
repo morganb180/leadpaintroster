@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lam-environmental-llc-ny0378/
 
 * Lead abatement, Lead inspection / evaluation
 * Briarwood, NY (Queens County)
-* Phone: (917) 584-2506
 * Address: 8335 139 St, Briarwood, NY 11435
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F237438-2 (exp. 2028-06-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F237438-2 (exp. 2028-06-23)

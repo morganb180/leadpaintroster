@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jp-environmental-ny0348/
 
 * Lead abatement, Lead inspection / evaluation
 * Mamaroneck, NY (Westchester County)
-* Phone: (914) 400-8510
 * Address: 100 Mamaroneck Ave, Mamaroneck, NY 10543
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F167676-4 (exp. 2028-08-15)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F167676-4 (exp. 2028-08-15)

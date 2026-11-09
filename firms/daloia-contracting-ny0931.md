@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/daloia-contracting-ny0931/
 
 * Lead abatement
 * Schodack Landing, NY (Rensselaer County)
-* Phone: (518) 766-0221
 * Address: 207 Ridge Rd, Schodack Landing, NY 12156
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F258704-1 (exp. 2028-02-25)
 

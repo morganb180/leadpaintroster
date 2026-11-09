@@ -21,8 +21,6 @@ Lead Paint Roster lists 3 EPA-licensed listings for lead inspection / evaluation
 Licensed firm
 
 1511 Route 22, Brewster, NY  
-☎ [(845) 278-7710](tel:8452787710)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-15081-3 (exp. 2028-09-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0069)
@@ -34,8 +32,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1992 Route 9, Garrison, NY  
-☎ [(845) 424-4077](tel:8454244077)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F120678-4 (exp. 2029-02-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0508)
@@ -47,8 +43,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1278 Route 311, Patterson, NY  
-☎ [(845) 867-3069](tel:8458673069)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-39869-2 (exp. 2029-05-21)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-39869-2 (exp. 2029-05-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -65,8 +59,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 17 Rockledge Dr, Brewster, NY  
-☎ [(646) 744-7823](tel:6467447823)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F198388-1 (exp. 2027-09-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1588)
@@ -78,8 +70,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 126 Hortontown Rd, Carmel, NY  
-☎ [(212) 814-1480](tel:2128141480)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F298705-1 (exp. 2028-06-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1558)
@@ -91,8 +81,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1760 Route 9, Garrison, NY  
-☎ [(914) 334-9592](tel:9143349592)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F258877-1 (exp. 2029-10-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0704)
@@ -104,8 +92,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 15 Betsy Rd, Mahopac, NY  
-☎ [(845) 661-3168](tel:8456613168)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F168127-4 (exp. 2028-12-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1332)

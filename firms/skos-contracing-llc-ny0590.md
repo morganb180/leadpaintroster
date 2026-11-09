@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/skos-contracing-llc-ny0590/
 
 * Lead abatement, Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (929) 288-8385
 * Address: 837 Post Ave, Staten Island, NY 10310
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F337385-1 (exp. 2029-06-15)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F337385-1 (exp. 2029-06-15)

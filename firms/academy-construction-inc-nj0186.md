@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/academy-construction-inc-nj0186/
 
 * Lead abatement
 * Pompton Plains, NJ (Morris County)
-* Phone: (973) 832-4244
 * Address: 7 E Garden Pl, Pompton Plains, NJ 07444
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00604 (exp. 2027-09-30)
 

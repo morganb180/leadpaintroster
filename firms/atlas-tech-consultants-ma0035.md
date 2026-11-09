@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/atlas-tech-consultants-ma0035/
 
 * Lead inspection / evaluation, Lead risk assessment
 * Northampton, MA (Hampshire County)
-* Phone: (413) 210-5500
-* Email: steve.ganzel@oneatlas.com
 * Address: Northampton, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0035

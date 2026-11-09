@@ -1,6 +1,6 @@
 ---
 title: "Windsor Inspections LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Windsor Inspections LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Windsor Inspections LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/windsor-inspections-llc-ny0678/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/windsor-inspections-llc-ny0678/
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (631) 617-2754
 * Address: 28A Windsor Pl, Brooklyn, NY 11215
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F268284-1 (exp. 2027-09-02)
 

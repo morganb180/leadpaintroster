@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nny-lead-home-inspection-ny0464/
 
 * Lead abatement, Lead inspection / evaluation
 * Dexter, NY (Jefferson County)
-* Phone: (315) 783-5044
 * Address: 22967 County Route 59, Dexter, NY 13634
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F237875-2 (exp. 2028-07-07)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F237875-2 (exp. 2028-07-07)

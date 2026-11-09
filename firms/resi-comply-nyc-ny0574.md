@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/resi-comply-nyc-ny0574/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (929) 213-8335
 * Address: 108 W 39th St, New York, NY 10018
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F300936-1 (exp. 2028-07-14)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F300936-1 (exp. 2028-07-14)

@@ -1,6 +1,6 @@
 ---
 title: "Pronos Construction Corp., Astoria, NY | Lead Paint Roster"
-description: "Pronos Construction Corp. in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Pronos Construction Corp. in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/pronos-construction-corp-ny1380/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pronos-construction-corp-ny1380/
 
 * Lead abatement
 * Astoria, NY (Queens County)
-* Phone: (718) 278-6414
 * Address: 32-33 35th St, Astoria, NY 11106
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F119048-4 (exp. 2029-08-31)
 

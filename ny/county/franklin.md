@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/franklin/
 Licensed firm
 
 12 Freeman Rd, Constable, NY  
-☎ [(518) 353-3884](tel:5183533884)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F229908-2 (exp. 2027-10-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1305)
@@ -34,8 +32,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 25 Willow St, Malone, NY  
-☎ [(315) 350-0967](tel:3153500967)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F319098-1 (exp. 2029-01-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1143)
@@ -47,8 +43,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 50 Cedar Ridge Dr, Saranac Lake, NY  
-☎ [(518) 891-1541](tel:5188911541)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F146063-2 (exp. 2028-04-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1407)

@@ -43,8 +43,6 @@ Look the firm up in the official EPA list, then ask for the firm's certification
 Licensed firm
 
 170 Loder Rd, Yorktown Heights, NY  
-☎ [(914) 962-1086](tel:9149621086)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F204353-3 (exp. 2028-07-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0281)
@@ -56,8 +54,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 225 Underhill Ave, Yorktown Heights, NY  
-☎ [(718) 712-0400](tel:7187120400)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F223929-2 (exp. 2027-04-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0463)
@@ -69,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 575 Anna Ct, Yorktown Heights, NY  
-☎ [(917) 299-0818](tel:9172990818)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-10856-4 (exp. 2029-03-09)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-10856-4 (exp. 2029-03-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -83,8 +77,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3392 N Deerfield Ave, Yorktown Heights, NY  
-☎ [(914) 494-4620](tel:9144944620)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-10414-2 (exp. 2027-03-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0787)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/als-lead-inspections-ny0042/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 345-4022
 * Address: 2044 E 13th St, Brooklyn, NY 11229
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F272303-1 (exp. 2027-10-21)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F272303-1 (exp. 2027-10-21)

@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/tadas-environmental-ma0002/
 
 * Lead inspection / evaluation
 * Auburn, MA (Worcester County)
-* Phone: (508) 762-8847
-* Email: tadasenvironmental@gmail.com
 * Address: Auburn, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0002

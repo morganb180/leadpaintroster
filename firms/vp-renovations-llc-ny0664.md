@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/vp-renovations-llc-ny0664/
 
 * Lead abatement, Lead inspection / evaluation
 * Rochester, NY (Monroe County)
-* Phone: (585) 406-9154
 * Address: 3468 Mount Rad Blvd, Rochester, NY 14616
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F192057-3 (exp. 2028-03-20)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F192057-3 (exp. 2028-03-20)

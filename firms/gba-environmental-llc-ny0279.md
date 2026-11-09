@@ -1,6 +1,6 @@
 ---
 title: "GBA Environmental LLC, Brooklyn, NY | Lead Paint Roster"
-description: "GBA Environmental LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "GBA Environmental LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/gba-environmental-llc-ny0279/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gba-environmental-llc-ny0279/
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (609) 334-2801
 * Address: 93 Underhill Ave, Brooklyn, NY 11238
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F249401-2 (exp. 2029-05-18)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/selva-lead-paint-inspection-nj0152/
 
 * Lead inspection / evaluation
 * Secaucus, NJ (Hudson County)
-* Phone: (551) 327-6660
 * Address: 57 3rd Ave, Apt #2, Secaucus, NJ 07094
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00787 (exp. 2027-11-30)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mch-lead-inspections-llc-nj0108/
 
 * Lead inspection / evaluation
 * Lakewood, NJ (Ocean County)
-* Phone: (732) 534-1175
 * Address: 44 Cir Pl, Lakewood, NJ 08701
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00857 (exp. 2027-02-28)
 

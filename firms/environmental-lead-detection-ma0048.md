@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-lead-detection-ma0048
 
 * Lead risk assessment
 * Swansea, MA (Bristol County)
-* Phone: (508) 674-8730
-* Email: psalm128@comcast.net
 * Address: Swansea, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0048

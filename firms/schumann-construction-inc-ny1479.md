@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/schumann-construction-inc-ny1479/
 
 * Lead abatement
 * Macedon, NY (Wayne County)
-* Phone: (315) 986-9601
 * Address: 19 W Main St, Macedon, NY 14502
 * Google rating: 4.2 from 10 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2531-3 (exp. 2027-07-10)

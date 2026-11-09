@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/federal-property-maintenance-corp-n
 
 * Lead abatement
 * Harrison, NY (Westchester County)
-* Phone: (914) 490-4416
 * Address: 40 Crystal St, Harrison, NY 10528
 * Google rating: 3.7 from 3 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F162266-3 (exp. 2028-06-15)

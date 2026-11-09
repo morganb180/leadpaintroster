@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/all-vac-environmental-inc-ny0767/
 
 * Lead abatement
 * Cornwall, NY (Orange County)
-* Phone: (845) 641-7851
 * Address: 2558 US Route 9W, Cornwall, NY 12518
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-97751-2 (exp. 2027-04-08)
 

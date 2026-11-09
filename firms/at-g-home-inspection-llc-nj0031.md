@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/at-g-home-inspection-llc-nj0031/
 
 * Lead inspection / evaluation
 * Carteret, NJ (Middlesex County)
-* Phone: (201) 341-9966
 * Address: 88 Roosevelt Ave, #318, Carteret, NJ 07008
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00847 (exp. 2026-11-30)
 

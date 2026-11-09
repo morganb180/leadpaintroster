@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/five-star-improvements-inc-ny1021/
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (585) 256-1844
 * Address: 145 Norris Dr, Rochester, NY 14610
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-15989-4 (exp. 2028-04-25)
 

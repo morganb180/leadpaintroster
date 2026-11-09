@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sha-restoration-inc-ny0606/
 
 * Lead abatement, Lead inspection / evaluation
 * East Meadow, NY (Nassau County)
-* Phone: (718) 637-9821
 * Address: 1880 Front St, East Meadow, NY 11554
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F276750-1 (exp. 2027-12-05)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F276750-1 (exp. 2027-12-05)

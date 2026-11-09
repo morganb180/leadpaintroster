@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/alpine-construction-renovation-corp
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (718) 324-3900
 * Address: 4215 Peters Pl, Bronx, NY 10470
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F115067-3 (exp. 2027-03-29)
 

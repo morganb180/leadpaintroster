@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mechabuild-contruction-corp-ny0450/
 
 * Lead abatement, Lead inspection / evaluation
 * Great Neck, NY (Nassau County)
-* Phone: (212) 540-5323
 * Address: 185 Great Neck Rd, Great Neck, NY 11021
 * Google rating: 5.0 from 12 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F319878-1 (exp. 2029-01-22)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/r-and-rj-home-improvements-inc-ny13
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (917) 902-2193
 * Address: 788 Columbus Ave, New York, NY 10025
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F216094-2 (exp. 2028-05-09)
 

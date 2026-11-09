@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/exceptional-inspection-services-ny0
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 431-3535
 * Address: 2266 Mcdonald Ave, Brooklyn, NY 11223
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F237670-2 (exp. 2028-06-30)

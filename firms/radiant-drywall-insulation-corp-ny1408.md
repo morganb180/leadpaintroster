@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/radiant-drywall-insulation-corp-ny1
 
 * Lead abatement
 * Middle Island, NY (Suffolk County)
-* Phone: (516) 996-9130
 * Address: 390 Middle Country Rd, Middle Island, NY 11953
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-88155-3 (exp. 2027-10-24)
 

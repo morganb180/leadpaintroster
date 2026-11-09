@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/onondaga-county-community-developme
 
 * Lead abatement, Lead inspection / evaluation
 * Syracuse, NY (Onondaga County)
-* Phone: (315) 435-3558
 * Address: 421 Montgomery St, Syracuse, NY 13202
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2405-4 (exp. 2029-01-15)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2405-4 (exp. 2029-01-15)

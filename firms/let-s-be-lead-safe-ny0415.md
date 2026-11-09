@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/let-s-be-lead-safe-ny0415/
 
 * Lead abatement, Lead inspection / evaluation
 * Spencerport, NY (Monroe County)
-* Phone: (585) 503-3559
 * Address: 683 Gillett Rd, Spencerport, NY 14559
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F178837-3 (exp. 2027-01-31)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F178837-3 (exp. 2027-01-31)

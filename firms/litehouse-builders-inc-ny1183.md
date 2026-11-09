@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/litehouse-builders-inc-ny1183/
 
 * Lead abatement
 * Port Washington, NY (Nassau County)
-* Phone: (516) 883-8500
 * Address: 7 Carey Pl, Port Washington, NY 11050
 * Google rating: 3.7 from 6 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221557-2 (exp. 2027-02-10)

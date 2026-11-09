@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/all-boro-lead-testing-inc-ny0077/
 
 * Lead inspection / evaluation
 * Whitestone, NY (Queens County)
-* Phone: (917) 568-3350
 * Address: 907 149th St, Whitestone, NY 11357
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F294617-1 (exp. 2028-05-20)
 

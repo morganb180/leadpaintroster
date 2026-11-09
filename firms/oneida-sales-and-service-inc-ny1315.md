@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/oneida-sales-and-service-inc-ny1315
 
 * Lead abatement
 * Lackawanna, NY (Erie County)
-* Phone: (716) 822-8205
 * Address: 155 Commerce Dr, Lackawanna, NY 14218
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F164863-4 (exp. 2028-07-04)

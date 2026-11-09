@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/home-pro-general-contracting-inc-ny
 
 * Lead inspection / evaluation
 * Flushing, NY (Queens County)
-* Phone: (646) 269-9869
 * Address: 4724 Union St, Flushing, NY 11355
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F208562-3 (exp. 2028-10-08)
 

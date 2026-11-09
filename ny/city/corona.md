@@ -29,8 +29,6 @@ Lead Paint Roster lists 7 EPA-licensed listings with an address in Corona: 2 lea
 Licensed firm
 
 4045 99th St, Corona, NY  
-☎ [(646) 643-0881](tel:6466430881)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-19012-3 (exp. 2027-09-09)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-19012-3 (exp. 2027-09-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 10231 43rd Ave, Corona, NY  
-☎ [(917) 745-6289](tel:9177456289)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F166844-3 (exp. 2026-12-19)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F166844-3 (exp. 2026-12-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -59,8 +55,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 98-30 57 Ave, Corona, NY  
-☎ [(929) 282-7054](tel:9292827054)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F331250-1 (exp. 2029-04-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0733)
@@ -72,8 +66,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 9608 42nd Ave, Corona, NY  
-☎ [(917) 749-3597](tel:9177493597)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F236568-1 (exp. 2027-02-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0785)
@@ -85,8 +77,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4313 National St, Corona, NY  
-☎ [(929) 933-8019](tel:9299338019)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F265664-1 (exp. 2027-06-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1066)
@@ -98,8 +88,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 98-17 Horace Harding Expressway, Corona, NY  
-☎ [(929) 544-2206](tel:9295442206)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F258025-1 (exp. 2027-01-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1186)
@@ -111,8 +99,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 11108 39th Ave, Corona, NY  
-☎ [(929) 288-8398](tel:9292888398)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F258357-1 (exp. 2027-01-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1326)

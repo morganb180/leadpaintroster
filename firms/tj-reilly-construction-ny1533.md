@@ -1,6 +1,6 @@
 ---
 title: "TJ Reilly Construction, Auburn, NY | Lead Paint Roster"
-description: "TJ Reilly Construction in Auburn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "TJ Reilly Construction in Auburn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/tj-reilly-construction-ny1533/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tj-reilly-construction-ny1533/
 
 * Lead abatement
 * Auburn, NY (Cayuga County)
-* Phone: (315) 252-1897
 * Address: 31 Elizabeth St, Auburn, NY 13021
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-20020-1 (exp. 2027-03-20)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/global-mold-solutions-llc-ny0297/
 
 * Lead abatement, Lead inspection / evaluation
 * Farmingdale, NY (Nassau County)
-* Phone: (631) 681-4261
 * Address: 128 Duane St, Farmingdale, NY 11735
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F256462-1 (exp. 2026-11-30)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F256462-1 (exp. 2026-11-30)

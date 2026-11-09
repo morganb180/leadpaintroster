@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mcmahon-s-home-improvement-ny1235/
 
 * Lead abatement
 * Gardiner, NY (Ulster County)
-* Phone: (845) 255-2881
 * Address: 1062 Bruynswick Rd, Gardiner, NY 12525
 * Google rating: 5.0 from 22 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-123970-1 (exp. 2029-05-11)

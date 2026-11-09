@@ -1,6 +1,6 @@
 ---
 title: "Esg Inc, Whitestone, NY | Lead Paint Roster"
-description: "Esg Inc in Whitestone, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Esg Inc in Whitestone, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/esg-inc-ny0972/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/esg-inc-ny0972/
 
 * Lead abatement
 * Whitestone, NY (Queens County)
-* Phone: (718) 728-0369
 * Address: 1101 154th St, Whitestone, NY 11357
 * Google rating: 4.5 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-17622-4 (exp. 2029-10-17)

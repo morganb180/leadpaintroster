@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tess-environmental-services-nj0169/
 
 * Lead inspection / evaluation
 * Marlton, NJ (Burlington County)
-* Phone: (856) 595-0888
 * Address: 532 Old Marlton Pike, Suite 113, Marlton, NJ 08053
 * Google rating: 5.0 from 30 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00789 (exp. 2027-11-30)

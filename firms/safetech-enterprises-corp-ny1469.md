@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/safetech-enterprises-corp-ny1469/
 
 * Lead abatement
 * Valley Stream, NY (Nassau County)
-* Phone: (347) 972-4900
 * Address: 50 Hendrickson Ave, Valley Stream, NY 11580
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F304446-1 (exp. 2028-08-13)
 

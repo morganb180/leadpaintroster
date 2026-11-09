@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/montesano-general-contracting-ny126
 
 * Lead abatement
 * Troy, NY (Rensselaer County)
-* Phone: (518) 847-2469
 * Address: 550 1st Ave, Troy, NY 12180
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-125517-3 (exp. 2027-01-02)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/abu-environmental-ny0030/
 
 * Lead abatement, Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (347) 479-3410
 * Address: 103 Willowbrook Rd, Staten Island, NY 10302
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F327782-1 (exp. 2029-03-31)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F327782-1 (exp. 2029-03-31)

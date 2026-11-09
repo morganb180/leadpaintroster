@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nova-environmental-group-llc-ny0503
 
 * Lead inspection / evaluation
 * New York, NY (Kings County)
-* Phone: (917) 426-9944
 * Address: 447 Broadway, New York, NY 11211
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F301657-1 (exp. 2028-07-22)

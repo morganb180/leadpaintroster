@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ep-services-ny-llc-ny0215/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 383-9255
 * Address: 670 Flushing Ave, Brooklyn, NY 11206
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F307548-1 (exp. 2028-11-03)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F307548-1 (exp. 2028-11-03)

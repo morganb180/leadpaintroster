@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/arista-contracting-inc-ny0793/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (917) 865-4845
 * Address: 668 Clove Rd, Staten Island, NY 10310
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F199960-3 (exp. 2029-08-06)
 

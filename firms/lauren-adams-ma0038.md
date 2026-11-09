@@ -1,6 +1,6 @@
 ---
 title: "Lauren Adams, Quincy, MA | Lead Paint Roster"
-description: "Lauren Adams in Quincy, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Lauren Adams in Quincy, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lauren-adams-ma0038/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/lauren-adams-ma0038/
 
 * Lead inspection / evaluation
 * Quincy, MA (Norfolk County)
-* Phone: (617) 774-9291
-* Email: laurenxa91@icloud.com
 * Address: Quincy, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0038

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/erin-construction-and-development-c
 
 * Lead abatement
 * New Hyde Park, NY (Nassau County)
-* Phone: (516) 616-4610
 * Address: 121 Lakeville Rd, New Hyde Park, NY 11040
 * Google rating: 4.0 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2021-4 (exp. 2028-12-25)

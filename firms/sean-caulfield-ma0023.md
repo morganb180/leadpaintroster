@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/sean-caulfield-ma0023/
 
 * Lead inspection / evaluation
 * Leominster, MA (Worcester County)
-* Phone: (508) 561-1281
-* Email: caulf@comcast.net
 * Address: Leominster, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0023

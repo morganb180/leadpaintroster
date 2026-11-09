@@ -43,7 +43,6 @@ Look the firm up in the official NJ DCA list, then ask for the firm's certificat
 Licensed firm
 
 1600 Route 22 E Suite 107, Union, NJ  
-☎ [(908) 688-7800](tel:9086887800)  
 Contact listed by NJ DCA: Geralanne Maglione
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00101 (exp. 2026-11-30)  
@@ -57,7 +56,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 2333 US Hwy 22W. Bldg.4, Union, NJ  
-☎ [(908) 206-0073](tel:9082060073)  
 Contact listed by NJ DCA: Ricardo Eustaquio
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00738 (exp. 2027-05-31)  
@@ -71,7 +69,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 2717 Linwood Rd, Union, NJ  
-☎ [(908) 418-2737](tel:9084182737)  
 Contact listed by NJ DCA: Emmanuel O Chiobi
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00627 (exp. 2026-10-31)  
@@ -86,7 +83,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 1125 Cranbury Rd, Union, NJ  
-☎ [(973) 372-2177](tel:9733722177)  
 Contact listed by NJ DCA: Emeka N. Okeke
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00506 (exp. 2028-03-31)  

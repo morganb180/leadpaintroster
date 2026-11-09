@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/enviroworks-inc-dba-envirotech-grou
 
 * Lead abatement, Lead inspection / evaluation
 * Spring Valley, NY (Rockland County)
-* Phone: (718) 437-6511
 * Address: 13 Grove St, Spring Valley, NY 10977
 * Google rating: 4.2 from 9 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F343196-1 (exp. 2029-08-06)

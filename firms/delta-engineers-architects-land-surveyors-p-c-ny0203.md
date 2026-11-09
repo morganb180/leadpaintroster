@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/delta-engineers-architects-land-sur
 
 * Lead inspection / evaluation
 * Endwell, NY (Broome County)
-* Phone: (607) 231-6600
 * Address: 860 Hooper Rd, Endwell, NY 13760
 * Google rating: 4.8 from 11 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-68796-4 (exp. 2028-08-10)

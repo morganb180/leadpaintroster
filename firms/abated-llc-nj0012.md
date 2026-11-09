@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/abated-llc-nj0012/
 
 * Lead abatement, Lead inspection / evaluation
 * Elizabeth, NJ (Union County)
-* Phone: (908) 372-8375
 * Address: 111 Clark Pl, Elizabeth, NJ 07206
 * Google rating: 5.0 from 22 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00806 (exp. 2028-06-22)

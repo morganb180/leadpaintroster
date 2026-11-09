@@ -47,8 +47,6 @@ Lead Paint Roster lists 4 listings with an address in West Babylon: 0 inspection
 Licensed firm
 
 38 Kean St, West Babylon, NY  
-☎ [(631) 243-5559](tel:6312435559)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2318-3 (exp. 2027-10-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1248)
@@ -60,8 +58,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 142 Dale St, West Babylon, NY  
-☎ [(631) 756-9530](tel:6317569530)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-47-3 (exp. 2027-08-31)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1253)

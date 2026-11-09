@@ -1,6 +1,6 @@
 ---
 title: "Lakonia Group LLC, Mineola, NY | Lead Paint Roster"
-description: "Lakonia Group LLC in Mineola, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Lakonia Group LLC in Mineola, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lakonia-group-llc-ny0382/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lakonia-group-llc-ny0382/
 
 * Lead inspection / evaluation
 * Mineola, NY (Nassau County)
-* Phone: (718) 506-2724
 * Address: 70 E 2nd St, Mineola, NY 11501
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F308526-2 (exp. 2031-09-24)
 

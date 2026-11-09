@@ -29,8 +29,6 @@ Lead Paint Roster lists 4 EPA-licensed listings with an address in Falconer: 4 l
 Licensed firm
 
 3013 Water St, Falconer, NY  
-☎ [(716) 986-5491](tel:7169865491)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F255950-1 (exp. 2026-11-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1218)
@@ -42,8 +40,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 16 Cross St, Falconer, NY  
-☎ [(716) 338-7093](tel:7163387093)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F330952-1 (exp. 2029-04-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1470)
@@ -55,8 +51,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 16 Cross St, Falconer, NY  
-☎ [(716) 922-4091](tel:7169224091)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F201641-1 (exp. 2029-04-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1474)
@@ -68,8 +62,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2145 Hanson Rd, Falconer, NY  
-☎ [(716) 397-6892](tel:7163976892)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F267957-1 (exp. 2027-08-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1504)

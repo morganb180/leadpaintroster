@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/fong-construction-corp-ny1023/
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (718) 729-4736
 * Address: 40-24 22nd St, Long Island City, NY 11101
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-77624-1 (exp. 2028-07-14)
 

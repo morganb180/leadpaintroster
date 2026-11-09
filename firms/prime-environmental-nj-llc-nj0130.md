@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/prime-environmental-nj-llc-nj0130/
 
 * Lead inspection / evaluation
 * East Rutherford, NJ (Bergen County)
-* Phone: (732) 242-1042
 * Address: 168 Humboldt St, East Rutherford, NJ 07073
 * Google rating: 5.0 from 25 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00917 (exp. 2028-04-30)

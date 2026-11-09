@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/abc-environmental-ny0025/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (929) 581-3300
 * Address: 1548 E 2nd St, Brooklyn, NY 11223
 * Google rating: 5.0 from 334 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F240125-2 (exp. 2028-09-14)

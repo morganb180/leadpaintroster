@@ -50,8 +50,6 @@ Lead Paint Roster lists 35 listings with an address in Yonkers: 10 inspection/ri
 Licensed firm
 
 915 Yonkers Ave, Yonkers, NY  
-☎ [(917) 520-5463](tel:9175205463)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F312066-1 (exp. 2028-10-30)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F312066-1 (exp. 2028-10-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -64,8 +62,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 976 Mclean Ave, Yonkers, NY  
-☎ [(917) 887-6508](tel:9178876508)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-83552-2 (exp. 2029-02-26)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-83552-2 (exp. 2029-02-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -78,8 +74,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 35 E Grassy Sprain Rd, Yonkers, NY  
-☎ [(347) 734-1865](tel:3477341865)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F275815-1 (exp. 2027-11-21)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F275815-1 (exp. 2027-11-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -92,8 +86,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 29 Garfield St, Yonkers, NY  
-☎ [(646) 350-9079](tel:6463509079)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F199446-3 (exp. 2028-06-04)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F199446-3 (exp. 2028-06-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

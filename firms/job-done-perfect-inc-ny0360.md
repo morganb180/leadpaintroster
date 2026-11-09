@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/job-done-perfect-inc-ny0360/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (212) 564-3663
 * Address: 1419 Coney Island Ave, Brooklyn, NY 11230
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F265077-1 (exp. 2027-06-13)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F265077-1 (exp. 2027-06-13)

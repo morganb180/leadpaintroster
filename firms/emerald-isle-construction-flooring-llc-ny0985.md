@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/emerald-isle-construction-flooring-
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (917) 975-5118
 * Address: 152 E 118th St Apt S1, New York, NY 10035
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F263047-1 (exp. 2027-04-29)
 

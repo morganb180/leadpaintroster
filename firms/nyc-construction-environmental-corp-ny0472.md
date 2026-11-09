@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nyc-construction-environmental-corp
 
 * Lead abatement, Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (347) 830-0414
 * Address: 711 Rockaway St, Staten Island, NY 10307
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F292113-1 (exp. 2028-05-02)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F292113-1 (exp. 2028-05-02)

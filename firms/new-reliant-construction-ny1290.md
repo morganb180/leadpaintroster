@@ -1,6 +1,6 @@
 ---
 title: "New Reliant Construction, New York, NY | Lead Paint Roster"
-description: "New Reliant Construction in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "New Reliant Construction in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/new-reliant-construction-ny1290/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/new-reliant-construction-ny1290/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (212) 226-7912
 * Address: 5 White St, New York, NY 10013
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F218375-1 (exp. 2029-06-18)
 

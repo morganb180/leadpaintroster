@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/artistry-works-contracting-llc-ny07
 
 * Lead abatement
 * Wantagh, NY (Nassau County)
-* Phone: (516) 209-2096
 * Address: 3134 N Jerusalem Rd, Wantagh, NY 11793
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F257269-1 (exp. 2026-12-15)
 

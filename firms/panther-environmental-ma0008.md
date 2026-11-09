@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/panther-environmental-ma0008/
 
 * Lead risk assessment
 * Braintree, MA (Norfolk County)
-* Phone: (781) 718-9231
-* Email: bobpowers107@verizon.net
 * Address: Braintree, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0008

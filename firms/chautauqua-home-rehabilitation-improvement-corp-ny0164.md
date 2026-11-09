@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/chautauqua-home-rehabilitation-impr
 
 * Lead inspection / evaluation
 * Mayville, NY (Chautauqua County)
-* Phone: (716) 753-4650
 * Address: 2 Academy St, Mayville, NY 14757
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1820-3 (exp. 2028-12-25)
 

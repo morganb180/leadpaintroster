@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sanyo-s-construction-corp-ny1475/
 
 * Lead abatement
 * South Richmond Hill, NY (Queens County)
-* Phone: (917) 748-9033
 * Address: 10731 135th St, South Richmond Hill, NY 11419
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F261168-1 (exp. 2027-03-20)
 

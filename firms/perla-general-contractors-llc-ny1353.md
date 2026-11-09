@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/perla-general-contractors-llc-ny135
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 991-9736
 * Address: 156 Flushing Ave, Brooklyn, NY 11205
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F229773-2 (exp. 2028-05-25)
 

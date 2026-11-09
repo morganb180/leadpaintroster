@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bright-remodeling-construction-llc-
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (718) 534-0777
 * Address: 472 Wild Ave, Staten Island, NY 10314
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F338213-1 (exp. 2029-06-23)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/viking-environmental-corp-ny0669/
 
 * Lead inspection / evaluation
 * White Plains, NY (Westchester County)
-* Phone: (914) 468-3204
 * Address: 337 Church St, White Plains, NY 10603
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F166290-4 (exp. 2028-07-13)
 

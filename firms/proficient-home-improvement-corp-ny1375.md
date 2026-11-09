@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/proficient-home-improvement-corp-ny
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 514-4854
 * Address: 397 1st St, Brooklyn, NY 11215
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-48839-1 (exp. 2028-02-27)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/watson-international-realty-group-l
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (646) 491-6655
 * Address: 360 W 15th St, New York, NY 10011
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F256754-2 (exp. 2029-12-05)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F256754-2 (exp. 2029-12-05)

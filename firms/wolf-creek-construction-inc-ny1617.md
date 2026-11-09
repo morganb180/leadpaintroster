@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/wolf-creek-construction-inc-ny1617/
 
 * Lead abatement
 * Schaghticoke, NY (Rensselaer County)
-* Phone: (518) 753-9526
 * Address: 73 Hansen Rd, Schaghticoke, NY 12154
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-45403-4 (exp. 2029-01-17)
 

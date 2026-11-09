@@ -1,6 +1,6 @@
 ---
 title: "Jerry Urban, Beverly, MA | Lead Paint Roster"
-description: "Jerry Urban in Beverly, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates, contact details and the official source list."
+description: "Jerry Urban in Beverly, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/jerry-urban-ma0004/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/jerry-urban-ma0004/
 
 * Lead risk assessment
 * Beverly, MA (Essex County)
-* Phone: (978) 395-5035
-* Email: jerryurban@mac.com
 * Address: Beverly, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0004

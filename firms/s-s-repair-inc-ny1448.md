@@ -1,6 +1,6 @@
 ---
 title: "S & S Repair Inc., Bronx, NY | Lead Paint Roster"
-description: "S & S Repair Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "S & S Repair Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/s-s-repair-inc-ny1448/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/s-s-repair-inc-ny1448/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 271-6005
 * Address: 815 Gerard Ave, Bronx, NY 10451
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F259841-1 (exp. 2027-02-22)
 

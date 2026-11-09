@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/amd-environmental-consultants-inc-n
 
 * Lead abatement, Lead inspection / evaluation
 * Tonawanda, NY (Erie County)
-* Phone: (716) 833-0043
 * Address: 72 E Niagara St, Tonawanda, NY 14150
 * Google rating: 5.0 from 46 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-83285-4 (exp. 2028-12-25)

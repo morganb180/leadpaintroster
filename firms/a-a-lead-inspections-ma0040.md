@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-a-lead-inspections-ma0040/
 
 * Lead inspection / evaluation
 * Saugus, MA (Essex County)
-* Phone: (617) 470-6837
-* Email: alti-marisails@hotmail.com
 * Address: Saugus, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0040

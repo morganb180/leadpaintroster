@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/northern-home-services-llc-ny1305/
 
 * Lead abatement
 * Constable, NY (Franklin County)
-* Phone: (518) 353-3884
 * Address: 12 Freeman Rd, Constable, NY 12926
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F229908-2 (exp. 2027-10-22)
 

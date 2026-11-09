@@ -1,6 +1,6 @@
 ---
 title: "Alps Interiors Inc, New York City, NY | Lead Paint Roster"
-description: "Alps Interiors Inc in New York City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Alps Interiors Inc in New York City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/alps-interiors-inc-ny0772/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/alps-interiors-inc-ny0772/
 
 * Lead abatement
 * New York City, NY (New York County)
-* Phone: (212) 389-6101
 * Address: 150 E 58th St, New York City, NY 10155
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F252057-2 (exp. 2029-07-25)
 

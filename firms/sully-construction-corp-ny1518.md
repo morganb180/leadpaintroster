@@ -1,6 +1,6 @@
 ---
 title: "Sully Construction Corp, Brooklyn, NY | Lead Paint Roster"
-description: "Sully Construction Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Sully Construction Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/sully-construction-corp-ny1518/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sully-construction-corp-ny1518/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (646) 915-6035
 * Address: 550 E 21 St, Brooklyn, NY 11226
 * Google rating: 5.0 from 82 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F226820-2 (exp. 2027-07-08)

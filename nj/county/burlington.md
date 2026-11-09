@@ -21,7 +21,6 @@ Lead Paint Roster lists 10 NJ DCA-licensed listings for lead inspection / evalua
 Licensed firm
 
 3 Terri Ln, Suite 4, Burlington, NJ  
-☎ [(609) 386-8800](tel:6093868800)  
 Contact listed by NJ DCA: John Lutz
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00028 (exp. 2027-11-30)  
@@ -35,7 +34,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 60 Anthony Dr, Burlington, NJ  
-☎ [(609) 556-0921](tel:6095560921)  
 Contact listed by NJ DCA: R. Christopher Strack
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00820 (exp. 2026-10-31)  
@@ -49,7 +47,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 901 Park Ave, Hainesport, NJ  
-☎ [(215) 939-1803](tel:2159391803)  
 Contact listed by NJ DCA: Adam Taki
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00909 (exp. 2028-02-28)  
@@ -63,7 +60,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 720 Rancocas Ave, Hainesport, NJ  
-☎ [(856) 313-1194](tel:8563131194)  
 Contact listed by NJ DCA: Jeffrey P. Fagerstrom
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00772 (exp. 2027-06-30)  
@@ -77,7 +73,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 750 Route 73, Suite 206, Marlton, NJ  
-☎ [(732) 741-1110](tel:7327411110)  
 Contact listed by NJ DCA: Scott Smith
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00868 (exp. 2027-04-30)  
@@ -91,7 +86,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 532 Old Marlton Pike W, Marlton, NJ  
-☎ [(856) 840-3029](tel:8568403029)  
 Contact listed by NJ DCA: Peter Hilerio
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00861 (exp. 2027-02-28)  
@@ -105,7 +99,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 532 Old Marlton Pike, Suite 113, Marlton, NJ  
-☎ [(856) 595-0888](tel:8565950888)  
 Contact listed by NJ DCA: Tae Son
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00789 (exp. 2027-11-30)  
@@ -119,7 +112,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 1253 N Church St, Moorestown, NJ  
-☎ [(856) 840-8800](tel:8568408800)  
 Contact listed by NJ DCA: Timothy Popp
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00013 (exp. 2026-11-30)  
@@ -133,7 +125,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 16 Lancashire Dr, Mount Holly, NJ  
-☎ [(732) 713-3142](tel:7327133142)  
 Contact listed by NJ DCA: Peter Umoren
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00733 (exp. 2027-08-31)  
@@ -147,7 +138,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 902 Centerton Rd, Mount Laurel, NJ  
-☎ [(856) 993-3498](tel:8569933498)  
 Contact listed by NJ DCA: Daniel Halgas
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00818 (exp. 2028-07-29)  
@@ -165,7 +155,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 30 Maple Ave P.o.box 25, Lumberton, NJ  
-☎ [(609) 265-2107](tel:6092652107)  
 Contact listed by NJ DCA: Robert Gunst
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00106 (exp. 2027-05-31)  
@@ -179,7 +168,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 70 Stacy Haines Rd, Suite 4, Lumberton, NJ  
-☎ [(609) 702-0400](tel:6097020400)  
 Contact listed by NJ DCA: James Mullarkey
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00576 (exp. 2027-07-31)  
@@ -193,7 +181,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 623 Cutler Ave, Maple Shade, NJ  
-☎ [(856) 755-0099](tel:8567550099)  
 Contact listed by NJ DCA: William J. Lynch
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00491 (exp. 2027-05-31)  

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/schachter-associates-llc-ny0602/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (202) 780-9560
 * Address: 26 Ct St, Brooklyn, NY 11242
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F260609-1 (exp. 2027-03-12)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F260609-1 (exp. 2027-03-12)

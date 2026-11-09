@@ -1,6 +1,6 @@
 ---
 title: "L and H Builders LLC, New Hartford, NY | Lead Paint Roster"
-description: "L and H Builders LLC in New Hartford, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "L and H Builders LLC in New Hartford, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/l-and-h-builders-llc-ny1162/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/l-and-h-builders-llc-ny1162/
 
 * Lead abatement
 * New Hartford, NY (Oneida County)
-* Phone: (315) 886-6634
 * Address: 12 Sanger Ave, New Hartford, NY 13413
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F281881-1 (exp. 2028-02-04)
 

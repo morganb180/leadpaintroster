@@ -1,6 +1,6 @@
 ---
 title: "Outpost Club Inc., New York, NY | Lead Paint Roster"
-description: "Outpost Club Inc. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Outpost Club Inc. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/outpost-club-inc-ny0515/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/outpost-club-inc-ny0515/
 
 * Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (833) 707-6611
 * Address: 450 7th Ave, New York, NY 10123
 * Google rating: 4.4 from 671 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295737-1 (exp. 2028-06-10)

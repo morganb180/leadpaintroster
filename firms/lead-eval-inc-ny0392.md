@@ -1,6 +1,6 @@
 ---
 title: "Lead Eval, Inc., Inwood, NY | Lead Paint Roster"
-description: "Lead Eval, Inc. in Inwood, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Lead Eval, Inc. in Inwood, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lead-eval-inc-ny0392/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lead-eval-inc-ny0392/
 
 * Lead inspection / evaluation
 * Inwood, NY (Nassau County)
-* Phone: (516) 253-6614
 * Address: 85 Inip Dr, Inwood, NY 11096
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-85980-4 (exp. 2029-02-23)
 

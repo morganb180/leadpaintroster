@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-house-into-a-home-real-estate-inv
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (585) 474-7557
 * Address: 9 Woodrow St, Rochester, NY 14606
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-14999-3 (exp. 2027-03-29)
 

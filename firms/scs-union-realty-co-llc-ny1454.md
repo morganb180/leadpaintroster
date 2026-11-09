@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/scs-union-realty-co-llc-ny1454/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (347) 281-6844
 * Address: 138 E 31st St, New York, NY 10016
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F148116-1 (exp. 2027-05-31)
 

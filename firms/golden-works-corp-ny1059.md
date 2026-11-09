@@ -1,6 +1,6 @@
 ---
 title: "Golden Works Corp, Astoria, NY | Lead Paint Roster"
-description: "Golden Works Corp in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Golden Works Corp in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/golden-works-corp-ny1059/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/golden-works-corp-ny1059/
 
 * Lead abatement
 * Astoria, NY (Queens County)
-* Phone: (929) 245-6388
 * Address: 2812 44th St, Astoria, NY 11103
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F331914-1 (exp. 2029-04-30)
 

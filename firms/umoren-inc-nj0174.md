@@ -1,6 +1,6 @@
 ---
 title: "Umoren Inc., Mount Holly, NJ | Lead Paint Roster"
-description: "Umoren Inc. in Mount Holly, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Umoren Inc. in Mount Holly, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/umoren-inc-nj0174/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/umoren-inc-nj0174/
 
 * Lead inspection / evaluation
 * Mount Holly, NJ (Burlington County)
-* Phone: (732) 713-3142
 * Address: 16 Lancashire Dr, Mount Holly, NJ 08060
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00733 (exp. 2027-08-31)
 

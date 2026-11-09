@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/commercial-lab-enterprise-corp-ny01
 
 * Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (718) 792-2832
 * Address: 2638 Harding Ave, Bronx, NY 10465
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-44439-4 (exp. 2028-09-05)
 

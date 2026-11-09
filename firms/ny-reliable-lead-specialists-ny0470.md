@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ny-reliable-lead-specialists-ny0470
 
 * Lead inspection / evaluation
 * Bellerose, NY (Queens County)
-* Phone: (917) 515-9404
 * Address: 8445 248th St, Bellerose, NY 11426
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F307422-1 (exp. 2028-09-11)
 

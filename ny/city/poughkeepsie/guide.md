@@ -50,8 +50,6 @@ Lead Paint Roster lists 6 listings with an address in Poughkeepsie: 4 inspection
 Licensed firm
 
 3 Neptune Rd, Poughkeepsie, NY  
-☎ [(845) 462-0200](tel:8454620200)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F288614-1 (exp. 2028-03-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0037)
@@ -63,8 +61,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 85 Civic Center Plaza, Poughkeepsie, NY  
-☎ [(845) 486-3404](tel:8454863404)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1926-3 (exp. 2027-10-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0187)
@@ -76,8 +72,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 198 Rochdale Rd, Poughkeepsie, NY  
-☎ [(201) 308-3832](tel:2013083832)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F291986-1 (exp. 2028-04-30)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F291986-1 (exp. 2028-04-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -90,8 +84,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3 Neptune Rd, Poughkeepsie, NY  
-☎ [(845) 462-1466](tel:8454621466)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F201419-3 (exp. 2028-04-25)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F201419-3 (exp. 2028-04-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

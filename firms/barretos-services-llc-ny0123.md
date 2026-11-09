@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/barretos-services-llc-ny0123/
 
 * Lead abatement, Lead inspection / evaluation
 * Mount Vernon, NY (Westchester County)
-* Phone: (914) 338-6979
 * Address: 20 Fletcher Ave, Mount Vernon, NY 10552
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F315084-1 (exp. 2028-11-26)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F315084-1 (exp. 2028-11-26)

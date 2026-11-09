@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/remington-vernick-engineers-nj0139/
 
 * Lead inspection / evaluation
 * Cherry Hill, NJ (Camden County)
-* Phone: (856) 795-9595
 * Address: 2059 Springdale Rd, Cherry Hill, NJ 08003
 * Google rating: 2.5 from 11 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00902 (exp. 2027-11-30)

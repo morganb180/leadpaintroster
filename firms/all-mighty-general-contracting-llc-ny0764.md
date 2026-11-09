@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/all-mighty-general-contracting-llc-
 
 * Lead abatement
 * Albany, NY (Albany County)
-* Phone: (518) 331-3510
 * Address: 298 Lark St, Albany, NY 12210
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F282559-1 (exp. 2028-02-10)
 

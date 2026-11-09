@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/assured-property-solutions-ny0101/
 
 * Lead inspection / evaluation
 * Crompond, NY (Westchester County)
-* Phone: (914) 314-4248
 * Address: 58 Mcgregor Ln, Crompond, NY 10517
 * Google rating: 5.0 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F261698-1 (exp. 2027-04-01)

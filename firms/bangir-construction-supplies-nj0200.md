@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bangir-construction-supplies-nj0200
 
 * Lead abatement
 * Pompton Lakes, NJ (Passaic County)
-* Phone: (716) 867-2012
 * Address: 1050 Colfax Ave, Pompton Lakes, NJ 07442
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00895 (exp. 2027-10-31)
 

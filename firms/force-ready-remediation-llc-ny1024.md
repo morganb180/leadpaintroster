@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/force-ready-remediation-llc-ny1024/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (321) 402-4359
 * Address: 2248 Broadway, New York, NY 10024
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F235800-2 (exp. 2028-05-10)
 

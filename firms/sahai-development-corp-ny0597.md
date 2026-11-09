@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sahai-development-corp-ny0597/
 
 * Lead abatement, Lead inspection / evaluation
 * South Ozone Park, NY (Queens County)
-* Phone: (347) 242-0918
 * Address: 11759 124 St, South Ozone Park, NY 11420
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F220484-1 (exp. 2026-12-05)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F220484-1 (exp. 2026-12-05)

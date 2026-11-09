@@ -41,8 +41,6 @@ Look the firm up in the official EPA list, then ask for the firm's certification
 Licensed firm
 
 7020 Austin St, Forest Hills, NY  
-☎ [(718) 830-0700](tel:7188300700)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F262373-1 (exp. 2027-04-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0198)
@@ -54,8 +52,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 11835 Queens Blvd, Forest Hills, NY  
-☎ [(347) 754-3491](tel:3477543491)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F238629-2 (exp. 2029-01-19)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F238629-2 (exp. 2029-01-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -68,8 +64,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 10206 Metropolitan Ave, Forest Hills, NY  
-☎ [(646) 591-8171](tel:6465918171)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F199833-1 (exp. 2028-02-24)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F199833-1 (exp. 2028-02-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

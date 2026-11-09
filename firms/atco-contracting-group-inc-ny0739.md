@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/atco-contracting-group-inc-ny0739/
 
 * Lead abatement
 * Melville, NY (Suffolk County)
-* Phone: (718) 606-1076
 * Address: 105 Maxess Rd, Melville, NY 11747
 * Google rating: 4.4 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F146189-3 (exp. 2026-12-05)

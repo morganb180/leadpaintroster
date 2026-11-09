@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mfc-safety-ny0432/
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (917) 251-8137
 * Address: 3750 Bronx Blvd, Bronx, NY 10467
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F288329-1 (exp. 2028-03-21)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F288329-1 (exp. 2028-03-21)

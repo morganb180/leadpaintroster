@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/timelight-remodeling-lead-abatement
 
 * Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (347) 805-3885
 * Address: 441 E 155th St, Bronx, NY 10455
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F156820-3 (exp. 2027-09-03)
 

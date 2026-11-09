@@ -1,6 +1,6 @@
 ---
 title: "Mark Hertz Enviro LLC, Monsey, NY | Lead Paint Roster"
-description: "Mark Hertz Enviro LLC in Monsey, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Mark Hertz Enviro LLC in Monsey, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/mark-hertz-enviro-llc-ny1226/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mark-hertz-enviro-llc-ny1226/
 
 * Lead abatement
 * Monsey, NY (Rockland County)
-* Phone: (646) 741-9708
 * Address: 47 Olympia Ln, Monsey, NY 10952
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F266837-1 (exp. 2027-07-24)
 

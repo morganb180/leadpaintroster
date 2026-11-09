@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/simsim-construction-inc-ny0610/
 
 * Lead abatement, Lead inspection / evaluation
 * Hicksville, NY (Nassau County)
-* Phone: (917) 618-5516
 * Address: 230 Princess St, Hicksville, NY 11801
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F190560-2 (exp. 2028-02-18)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F190560-2 (exp. 2028-02-18)

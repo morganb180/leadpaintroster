@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/absolute-enviro-ny0062/
 
 * Lead abatement, Lead inspection / evaluation
 * New City, NY (Rockland County)
-* Phone: (646) 784-6013
 * Address: 40 Red Rock Rd, New City, NY 10956
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F221245-2 (exp. 2027-01-25)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221245-2 (exp. 2027-01-25)

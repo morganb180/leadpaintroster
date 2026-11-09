@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dynamics-development-services-inc-n
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (718) 906-1055
 * Address: 557 Grand Concourse, Bronx, NY 10451
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-107073-4 (exp. 2029-01-05)
 

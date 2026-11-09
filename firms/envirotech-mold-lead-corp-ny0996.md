@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/envirotech-mold-lead-corp-ny0996/
 
 * Lead abatement
 * New City, NY (Rockland County)
-* Phone: (305) 785-8065
 * Address: 216 Congers Rd, New City, NY 10956
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F319278-1 (exp. 2029-01-19)
 

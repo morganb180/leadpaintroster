@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/colonial-property-management-ny0904
 
 * Lead abatement
 * Airmont, NY (Rockland County)
-* Phone: (845) 367-4240
 * Address: 410 NY- 59, Airmont, NY 10952
 * Google rating: 3.5 from 89 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F268307-1 (exp. 2027-09-02)

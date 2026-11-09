@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/premium-mitigation-restoration-llc-
 
 * Lead abatement
 * Forest Hills, NY (Queens County)
-* Phone: (866) 269-0222
 * Address: 11201 Queens Blvd, Forest Hills, NY 11375
 * Google rating: 5.0 from 15 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F271589-1 (exp. 2027-10-08)

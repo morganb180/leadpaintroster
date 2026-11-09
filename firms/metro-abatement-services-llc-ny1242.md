@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/metro-abatement-services-llc-ny1242
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (914) 886-5615
 * Address: 102 Hyatt Ave, Yonkers, NY 10704
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-117708-4 (exp. 2029-11-17)
 

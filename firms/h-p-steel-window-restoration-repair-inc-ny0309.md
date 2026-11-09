@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/h-p-steel-window-restoration-repair
 
 * Lead abatement, Lead inspection / evaluation
 * Wappingers Falls, NY (Dutchess County)
-* Phone: (845) 288-3882
 * Address: 765 Sergeant Palmateer Way, Wappingers Falls, NY 12590
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F159776-1 (exp. 2027-05-02)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/black-mountain-renovations-llc-ny08
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (718) 220-3439
 * Address: 2419 Crotona Ave, Bronx, NY 10458
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F178048-4 (exp. 2029-07-12)
 

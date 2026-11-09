@@ -1,6 +1,6 @@
 ---
 title: "Job Site Resources, Pennsburg, PA | Lead Paint Roster"
-description: "Job Site Resources in Pennsburg, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Job Site Resources in Pennsburg, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/job-site-resources-nj0223/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/job-site-resources-nj0223/
 
 * Lead abatement
 * Pennsburg, PA (Montgomery County)
-* Phone: (484) 955-0791
 * Address: 3750 Layfield Rd, Pennsburg, PA 18073
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00929 (exp. 2028-07-06)
 

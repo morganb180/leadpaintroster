@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/amt-home-improvements-llc-ny0047/
 
 * Lead abatement, Lead inspection / evaluation
 * East Elmhurst, NY (Queens County)
-* Phone: (347) 603-9124
 * Address: 9517 24th Ave, East Elmhurst, NY 11369
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F347597-1 (exp. 2029-09-22)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F347597-1 (exp. 2029-09-22)

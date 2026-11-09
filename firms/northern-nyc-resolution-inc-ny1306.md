@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/northern-nyc-resolution-inc-ny1306/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (929) 238-4191
 * Address: 3043 Buhre Ave, Bronx, NY 10461
 * Google rating: 4.8 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F284976-1 (exp. 2028-02-18)

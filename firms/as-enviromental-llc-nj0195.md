@@ -1,6 +1,6 @@
 ---
 title: "As Enviromental LLC, Fords, NJ | Lead Paint Roster"
-description: "As Enviromental LLC in Fords, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "As Enviromental LLC in Fords, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/as-enviromental-llc-nj0195/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/as-enviromental-llc-nj0195/
 
 * Lead abatement
 * Fords, NJ (Middlesex County)
-* Phone: (908) 405-6658
 * Address: 26 Woodland Ave, Fords, NJ 08863
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00446 (exp. 2027-10-31)
 

@@ -1,6 +1,6 @@
 ---
 title: "Vrex Construction Inc., Bronx, NY | Lead Paint Roster"
-description: "Vrex Construction Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Vrex Construction Inc. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/vrex-construction-inc-ny1601/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/vrex-construction-inc-ny1601/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 692-8865
 * Address: 632 City Island Ave, Bronx, NY 10464
 * Google rating: 5.0 from 6 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-119404-3 (exp. 2026-12-21)

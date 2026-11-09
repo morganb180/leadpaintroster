@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/delete-86-environmental-llc-ny0939/
 
 * Lead abatement
 * Jamestown, NY (Chautauqua County)
-* Phone: (716) 450-2811
 * Address: 111 Cheney St, Jamestown, NY 14701
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F266119-1 (exp. 2027-07-08)
 

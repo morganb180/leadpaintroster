@@ -1,6 +1,6 @@
 ---
 title: "Amazing Deep Clean Corp., Bronx, NY | Lead Paint Roster"
-description: "Amazing Deep Clean Corp. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Amazing Deep Clean Corp. in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/amazing-deep-clean-corp-ny0778/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/amazing-deep-clean-corp-ny0778/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (929) 320-9137
 * Address: 3032 Coddington Ave, Bronx, NY 10461
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F308905-1 (exp. 2028-09-30)
 

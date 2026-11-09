@@ -50,8 +50,6 @@ Lead Paint Roster lists 22 listings with an address in Albany: 12 inspection/ris
 Licensed firm
 
 418 Broadway, Albany, NY  
-☎ [(844) 777-5323](tel:8447775323)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F311990-1 (exp. 2028-10-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0041)
@@ -63,8 +61,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 175 Green St, Albany, NY  
-☎ [(518) 447-4520](tel:5184474520)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1665-3 (exp. 2027-08-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0075)
@@ -76,8 +72,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 438 New Karner Rd, Albany, NY  
-☎ [(518) 250-4047](tel:5182504047)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-113-3 (exp. 2028-02-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0084)
@@ -89,8 +83,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 828 Washington Ave, Albany, NY  
-☎ [(518) 482-0704](tel:5184820704)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-16658-4 (exp. 2029-05-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0086)
@@ -102,8 +94,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 72 Clinton St, Albany, NY  
-☎ [(518) 917-2522](tel:5189172522)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F270350-1 (exp. 2027-10-02)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F270350-1 (exp. 2027-10-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -116,8 +106,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 418 Broadway, Albany, NY  
-☎ [(347) 675-7074](tel:3476757074)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F324001-1 (exp. 2029-03-09)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F324001-1 (exp. 2029-03-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

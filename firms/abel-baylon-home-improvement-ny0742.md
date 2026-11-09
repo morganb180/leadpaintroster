@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/abel-baylon-home-improvement-ny0742
 
 * Lead abatement
 * Queens Village, NY (Queens County)
-* Phone: (917) 628-9746
 * Address: 8910 220th St, Queens Village, NY 11427
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F217116-2 (exp. 2028-02-11)
 

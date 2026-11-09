@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/i-prime-development-llc-ny0331/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (917) 337-7069
 * Address: 215 W 88th St, New York, NY 10024
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F243574-2 (exp. 2029-01-02)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F243574-2 (exp. 2029-01-02)

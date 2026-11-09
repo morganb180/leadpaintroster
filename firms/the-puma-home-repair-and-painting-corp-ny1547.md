@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/the-puma-home-repair-and-painting-c
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 210-6292
 * Address: 3734 Laconia Ave, Bronx, NY 10469
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F233082-2 (exp. 2028-02-24)
 

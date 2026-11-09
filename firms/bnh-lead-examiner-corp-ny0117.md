@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bnh-lead-examiner-corp-ny0117/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 807-1365
 * Address: 199 Lee Ave, Brooklyn, NY 11211
 * Google rating: 3.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-13617-4 (exp. 2030-03-15)

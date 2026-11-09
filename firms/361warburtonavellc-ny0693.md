@@ -1,6 +1,6 @@
 ---
 title: "361WarburtonAveLLC, Yonkers, NY | Lead Paint Roster"
-description: "361WarburtonAveLLC in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "361WarburtonAveLLC in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/361warburtonavellc-ny0693/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/361warburtonavellc-ny0693/
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (914) 338-4745
 * Address: 520 Van Cortlandt Park Ave, Yonkers, NY 10705
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F350871-1 (exp. 2029-10-22)
 

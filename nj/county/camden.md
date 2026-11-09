@@ -23,7 +23,6 @@ Lead Paint Roster lists 12 NJ DCA-licensed listings for lead inspection / evalua
 Licensed firm
 
 900 Route 168 Suite E4, Blackwood, NJ  
-☎ [(856) 262-2335](tel:8562622335)  
 Contact listed by NJ DCA: Jennifer L. Puccio
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00626 (exp. 2027-05-31)  
@@ -37,7 +36,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 2060 Fairfax Ave, Cherry Hill, NJ  
-☎ [(215) 284-0086](tel:2152840086)  
 Contact listed by NJ DCA: William P. O'Donnell
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00432 (exp. 2027-01-31)  
@@ -51,7 +49,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 80 Barclay Farms Shop. Ctr., Cherry Hill, NJ  
-☎ [(856) 888-2396](tel:8568882396)  
 Contact listed by NJ DCA: Bassey Akpan
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00620 (exp. 2027-12-31)  
@@ -65,7 +62,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 10 Penn Ave, Cherry Hill, NJ  
-☎ [(856) 858-9509](tel:8568589509)  
 Contact listed by NJ DCA: David C. Sulock
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00725 (exp. 2026-10-31)  
@@ -79,7 +75,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 2059 Springdale Rd, Cherry Hill, NJ  
-☎ [(856) 795-9595](tel:8567959595)  
 Contact listed by NJ DCA: Edward Vernick
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00902 (exp. 2027-11-30)  
@@ -93,7 +88,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 124 E Franklin Ave, Collingswood, NJ  
-☎ [(856) 869-0866](tel:8568690866)  
 Contact listed by NJ DCA: Marinko Stokic
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00892 (exp. 2027-09-30)  
@@ -107,7 +101,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 1112 Saint Marks Dr, Glendora, NJ  
-☎ [(609) 876-8440](tel:6098768440)  
 Contact listed by NJ DCA: Heather J. McKeever
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00786 (exp. 2027-11-30)  
@@ -121,7 +114,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 515 Grove St Suite 1B, Haddon Heights, NJ  
-☎ [(856) 547-0505](tel:8565470505)  
 Contact listed by NJ DCA: Jeremy Humble
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00239 (exp. 2028-05-31)  
@@ -135,7 +127,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 5434 King Ave, Suite 101, Pennsauken, NJ  
-☎ [(856) 616-9516](tel:8566169516)  
 Contact listed by NJ DCA: Jay Murray
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00552 (exp. 2027-05-31)  
@@ -149,7 +140,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 413 N Black Horse Pike, Runnemede, NJ  
-☎ [(856) 482-1311](tel:8564821311)  
 Contact listed by NJ DCA: Howard Zenobi
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00335 (exp. 2028-05-31)  
@@ -163,7 +153,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 117 N.black Horse Pike, Runnemede, NJ  
-☎ [(856) 463-0777](tel:8564630777)  
 Contact listed by NJ DCA: Michael Menz
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00777 (exp. 2027-09-30)  
@@ -177,7 +166,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 1012 Industrial Dr, West Berlin, NJ  
-☎ [(856) 809-1202](tel:8568091202)  
 Contact listed by NJ DCA: Joseph Scott Horn
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00493 (exp. 2027-09-30)  
@@ -195,7 +183,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 80 Barclay Farms Shop. Ctr., Cherry Hill, NJ  
-☎ [(856) 888-2396](tel:8568882396)  
 Contact listed by NJ DCA: Bassey Akpan
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00638 (exp. 2028-05-31)  

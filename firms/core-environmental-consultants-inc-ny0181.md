@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/core-environmental-consultants-inc-
 
 * Lead inspection / evaluation
 * Williamsville, NY (Erie County)
-* Phone: (716) 204-8054
 * Address: 2312 Wehrle Dr, Williamsville, NY 14221
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-13601-4 (exp. 2029-09-20)
 

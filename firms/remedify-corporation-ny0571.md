@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/remedify-corporation-ny0571/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 734-5020
 * Address: 220 Marine Ave, Brooklyn, NY 11209
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F327709-1 (exp. 2029-03-31)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F327709-1 (exp. 2029-03-31)

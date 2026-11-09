@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/empire-environmental-corp-ny0990/
 
 * Lead abatement
 * Saint Albans, NY (Queens County)
-* Phone: (732) 619-6061
 * Address: 19027 118 Ave, Saint Albans, NY 11412
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F237573-2 (exp. 2028-11-06)
 

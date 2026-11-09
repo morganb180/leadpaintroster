@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ambient-environmental-inc-ny0086/
 
 * Lead inspection / evaluation
 * Albany, NY (Albany County)
-* Phone: (518) 482-0704
 * Address: 828 Washington Ave, Albany, NY 12203
 * Google rating: 4.3 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-16658-4 (exp. 2029-05-12)

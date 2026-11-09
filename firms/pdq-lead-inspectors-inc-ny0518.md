@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pdq-lead-inspectors-inc-ny0518/
 
 * Lead inspection / evaluation
 * Valley Stream, NY (Nassau County)
-* Phone: (516) 508-0845
 * Address: 625 Michelle Pl, Valley Stream, NY 11581
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F256716-1 (exp. 2026-12-05)
 

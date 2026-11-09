@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/imperial-inspection-services-ma0001
 
 * Lead inspection / evaluation
 * Attleboro, MA (Bristol County)
-* Phone: (781) 843-1141
-* Email: mark@imperialinspectionservices.com
 * Address: Attleboro, MA
 * Google rating: 4.9 from 138 reviews (as of Oct 18, 2026)
 

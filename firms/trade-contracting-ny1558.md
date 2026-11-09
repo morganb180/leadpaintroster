@@ -1,6 +1,6 @@
 ---
 title: "Trade Contracting, Carmel, NY | Lead Paint Roster"
-description: "Trade Contracting in Carmel, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Trade Contracting in Carmel, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/trade-contracting-ny1558/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/trade-contracting-ny1558/
 
 * Lead abatement
 * Carmel, NY (Putnam County)
-* Phone: (212) 814-1480
 * Address: 126 Hortontown Rd, Carmel, NY 10512
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F298705-1 (exp. 2028-06-19)
 

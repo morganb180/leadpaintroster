@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rm-environmental-specialists-llc-ny
 
 * Lead abatement
 * Kew Gardens, NY (Queens County)
-* Phone: (347) 235-3739
 * Address: 8450 Austin St, Kew Gardens, NY 11415
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F197587-3 (exp. 2028-02-12)
 

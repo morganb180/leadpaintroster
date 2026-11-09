@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/j-william-restoration-ny0340/
 
 * Lead abatement, Lead inspection / evaluation
 * Rochester, NY (Monroe County)
-* Phone: (469) 439-2189
 * Address: 584 Harvest Dr, Rochester, NY 14626
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F257071-1 (exp. 2026-12-11)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F257071-1 (exp. 2026-12-11)

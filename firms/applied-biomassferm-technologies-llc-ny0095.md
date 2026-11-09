@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/applied-biomassferm-technologies-ll
 
 * Lead inspection / evaluation
 * Syracuse, NY (Onondaga County)
-* Phone: (315) 256-4737
 * Address: 112-3B Gray Ave, Syracuse, NY 13203
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-18574-3 (exp. 2029-01-29)
 

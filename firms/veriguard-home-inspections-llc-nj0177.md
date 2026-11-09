@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/veriguard-home-inspections-llc-nj01
 
 * Lead inspection / evaluation
 * Hackensack, NJ (Bergen County)
-* Phone: (201) 790-8736
 * Address: 31 Fairmount Ave, Hackensack, NJ 07601
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00871 (exp. 2027-04-30)
 

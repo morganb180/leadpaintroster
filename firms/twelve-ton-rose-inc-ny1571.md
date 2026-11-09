@@ -1,6 +1,6 @@
 ---
 title: "Twelve Ton Rose, Inc, Brooklyn, NY | Lead Paint Roster"
-description: "Twelve Ton Rose, Inc in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Twelve Ton Rose, Inc in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/twelve-ton-rose-inc-ny1571/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/twelve-ton-rose-inc-ny1571/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 907-2353
 * Address: 484 Rugby Rd, Brooklyn, NY 11226
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F324116-1 (exp. 2029-03-09)
 
