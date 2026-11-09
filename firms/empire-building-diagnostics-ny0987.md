@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/empire-building-diagnostics-ny0987/
 
 * Lead abatement
 * Lackawanna, NY (Erie County)
-* Phone: (716) 685-4588
 * Address: 400 Ingham Ave, Lackawanna, NY 14218
 * Google rating: 3.8 from 20 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F253187-1 (exp. 2026-11-30)

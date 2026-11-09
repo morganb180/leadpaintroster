@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jun-s-construction-inc-ny0355/
 
 * Lead abatement, Lead inspection / evaluation
 * College Point, NY (Queens County)
-* Phone: (718) 888-1881
 * Address: 12203 14th Ave, College Point, NY 11356
 * Google rating: 4.3 from 6 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F259078-1 (exp. 2027-02-07)

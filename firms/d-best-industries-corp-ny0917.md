@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/d-best-industries-corp-ny0917/
 
 * Lead abatement
 * West Hempstead, NY (Nassau County)
-* Phone: (516) 358-0965
 * Address: 77 Hempstead Gardens Dr, West Hempstead, NY 11552
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F326738-1 (exp. 2029-03-25)
 

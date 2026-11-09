@@ -21,8 +21,6 @@ Lead Paint Roster lists 1 EPA-licensed listing for lead inspection / evaluation 
 Licensed firm
 
 4501 Lewis Rd, Walworth, NY  
-☎ [(585) 704-2886](tel:5857042886)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F237445-2 (exp. 2028-06-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0333)
@@ -38,8 +36,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 19 W Main St, Macedon, NY  
-☎ [(315) 986-9601](tel:3159869601)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2531-3 (exp. 2027-07-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1479)
@@ -51,8 +47,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1330 Research Forest, Macedon, NY  
-☎ [(585) 617-5710](tel:5856175710)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F179613-4 (exp. 2030-02-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1485)
@@ -64,8 +58,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 907 Peirson Ave, Newark, NY  
-☎ [(315) 573-7275](tel:3155737275)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F325590-1 (exp. 2029-03-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1523)

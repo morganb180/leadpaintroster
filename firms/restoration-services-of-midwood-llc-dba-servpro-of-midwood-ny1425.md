@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/restoration-services-of-midwood-llc
 
 * Lead abatement
 * Medford, NY (Suffolk County)
-* Phone: (631) 774-0736
 * Address: 3090 Route 112, Medford, NY 11776
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F348707-1 (exp. 2029-10-07)
 

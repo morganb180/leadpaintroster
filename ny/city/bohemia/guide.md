@@ -50,8 +50,6 @@ Lead Paint Roster lists 4 listings with an address in Bohemia: 1 inspection/risk
 Licensed firm
 
 630 Johnson Ave, Bohemia, NY  
-☎ [(631) 589-6353](tel:6315896353)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F157051-2 (exp. 2027-12-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0516)
@@ -63,8 +61,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 380 Central Ave, Bohemia, NY  
-☎ [(631) 456-3720](tel:6314563720)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F284293-1 (exp. 2028-02-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1065)
@@ -76,8 +72,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 423 Johnson Path, Bohemia, NY  
-☎ [(631) 562-8440](tel:6315628440)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F259937-1 (exp. 2027-03-01)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1435)

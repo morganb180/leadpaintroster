@@ -1,6 +1,6 @@
 ---
 title: "Nebcom Inc., Long Island City, NY | Lead Paint Roster"
-description: "Nebcom Inc. in Long Island City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Nebcom Inc. in Long Island City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/nebcom-inc-ny1285/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nebcom-inc-ny1285/
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (718) 932-1280
 * Address: 35-61 Vernon Blvd, Long Island City, NY 11106
 * Google rating: 1.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-15951-4 (exp. 2028-11-30)

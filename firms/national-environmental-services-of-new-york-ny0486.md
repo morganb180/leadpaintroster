@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/national-environmental-services-of-
 
 * Lead inspection / evaluation
 * Astoria, NY (Queens County)
-* Phone: (718) 274-5000
 * Address: 3301 Vernon Blvd, Astoria, NY 11106
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F279376-1 (exp. 2027-12-24)
 

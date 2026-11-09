@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/empire-control-abatement-inc-ny0989
 
 * Lead abatement
 * Plainview, NY (Nassau County)
-* Phone: (718) 961-9404
 * Address: 206 Terminal Dr, Plainview, NY 11803
 * Google rating: 4.4 from 8 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-1956-3 (exp. 2028-07-26)

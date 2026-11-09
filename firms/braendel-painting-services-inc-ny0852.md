@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/braendel-painting-services-inc-ny08
 
 * Lead abatement
 * Tonawanda, NY (Erie County)
-* Phone: (716) 845-5544
 * Address: 2234 Niagara Falls Blvd, Tonawanda, NY 14150
 * Google rating: 4.4 from 98 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F204710-1 (exp. 2027-04-05)

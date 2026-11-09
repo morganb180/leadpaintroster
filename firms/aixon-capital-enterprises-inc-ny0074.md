@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aixon-capital-enterprises-inc-ny007
 
 * Lead abatement, Lead inspection / evaluation
 * Ozone Park, NY (Queens County)
-* Phone: (718) 607-2628
 * Address: 10216 95th Ave, Ozone Park, NY 11416
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F206924-2 (exp. 2028-04-30)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F206924-2 (exp. 2028-04-30)

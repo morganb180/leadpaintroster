@@ -21,7 +21,6 @@ Lead Paint Roster lists 1 NJ DCA-licensed listing for lead inspection / evaluati
 Licensed firm
 
 205 W Seaspray Rd, Ocean City, NJ  
-☎ [(609) 399-6653](tel:6093996653)  
 Contact listed by NJ DCA: Dominick P. Berenato
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00853 (exp. 2026-12-31)  

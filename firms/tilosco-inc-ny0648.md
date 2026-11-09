@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tilosco-inc-ny0648/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 336-7199
 * Address: 1545 W 4th St, Brooklyn, NY 11204
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F120244-2 (exp. 2027-02-17)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mitigation-solutions-llc-ny1258/
 
 * Lead abatement
 * Plainview, NY (Nassau County)
-* Phone: (516) 734-6669
 * Address: 30 E Mall, Plainview, NY 11803
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F158448-2 (exp. 2027-02-22)
 

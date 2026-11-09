@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rapido-gc-llc-ny0553/
 
 * Lead abatement, Lead inspection / evaluation
 * Long Islan City, NY (Queens County)
-* Phone: (347) 481-8753
 * Address: 4126 27st, Long Islan City, NY 11101
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F257214-1 (exp. 2026-12-15)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F257214-1 (exp. 2026-12-15)

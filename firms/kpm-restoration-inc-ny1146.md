@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/kpm-restoration-inc-ny1146/
 
 * Lead abatement
 * Mechanicville, NY (Saratoga County)
-* Phone: (518) 859-9769
 * Address: 5 Knabner Rd, Mechanicville, NY 12118
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F184408-2 (exp. 2029-10-22)
 

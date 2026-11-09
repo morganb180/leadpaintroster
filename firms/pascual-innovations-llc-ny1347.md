@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pascual-innovations-llc-ny1347/
 
 * Lead abatement
 * Mount Kisco, NY (Westchester County)
-* Phone: (914) 602-9669
 * Address: 487 E Main St, Mount Kisco, NY 10549
 * Google rating: 5.0 from 43 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262910-1 (exp. 2027-05-08)

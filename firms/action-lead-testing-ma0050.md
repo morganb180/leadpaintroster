@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/action-lead-testing-ma0050/
 
 * Lead risk assessment
 * Wakefield, MA (Middlesex County)
-* Phone: (978) 503-1765
-* Email: actionleadtesting@gmail.com
 * Address: Wakefield, MA
 * Google rating: 5.0 from 12 reviews (as of Oct 18, 2026)
 

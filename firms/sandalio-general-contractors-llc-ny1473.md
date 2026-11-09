@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sandalio-general-contractors-llc-ny
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (888) 781-7288
 * Address: 22 Cornish St, Staten Island, NY 10308
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F223463-2 (exp. 2027-03-25)
 

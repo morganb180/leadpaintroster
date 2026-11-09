@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rb-nyc-construction-inc-ny1399/
 
 * Lead abatement
 * Levittown, NY (Nassau County)
-* Phone: (347) 605-2700
 * Address: 312 Gardiners Ave, Levittown, NY 11756
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F256834-1 (exp. 2026-12-05)
 

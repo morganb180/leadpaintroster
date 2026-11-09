@@ -44,8 +44,6 @@ Lead Paint Roster lists 31 listings with an address in Long Island City: 12 insp
 Licensed firm
 
 3100 47th Ave, Long Island City, NY  
-☎ [(718) 924-2089](tel:7189242089)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F173072-2 (exp. 2027-08-28)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F173072-2 (exp. 2027-08-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -58,8 +56,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 14-26 28th Ave, Long Island City, NY  
-☎ [(718) 482-7525](tel:7184827525)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-9115-3 (exp. 2028-07-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0083)
@@ -71,8 +67,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1235 30th Dr, Long Island City, NY  
-☎ [(718) 545-0870](tel:7185450870)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F123144-4 (exp. 2029-05-28)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F123144-4 (exp. 2029-05-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -85,8 +79,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3835 Crescent St, Long Island City, NY  
-☎ [(516) 788-4164](tel:5167884164)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295970-1 (exp. 2028-06-04)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F295970-1 (exp. 2028-06-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

@@ -1,6 +1,6 @@
 ---
 title: "The Bronx Lead, Bronx, NY | Lead Paint Roster"
-description: "The Bronx Lead in Bronx, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "The Bronx Lead in Bronx, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/the-bronx-lead-ny0644/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/the-bronx-lead-ny0644/
 
 * Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (718) 678-2412
 * Address: 2257 Loring Pl North, Bronx, NY 10468
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F307026-1 (exp. 2028-09-11)
 

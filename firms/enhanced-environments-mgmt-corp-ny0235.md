@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/enhanced-environments-mgmt-corp-ny0
 
 * Lead abatement, Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (718) 930-4379
 * Address: 14 Windermere Rd, Staten Island, NY 10305
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F264802-1 (exp. 2027-06-04)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F264802-1 (exp. 2027-06-04)

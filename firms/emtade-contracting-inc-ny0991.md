@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/emtade-contracting-inc-ny0991/
 
 * Lead abatement
 * Laurelton, NY (Queens County)
-* Phone: (718) 978-3800
 * Address: 21701 Merrick Blvd, Laurelton, NY 11413
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-18250-3 (exp. 2028-05-23)
 

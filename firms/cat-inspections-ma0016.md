@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/cat-inspections-ma0016/
 
 * Lead risk assessment
 * Fitchburg, MA (Worcester County)
-* Phone: (978) 345-7273
-* Email: catinspections97@gmail.com
 * Address: Fitchburg, MA
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 

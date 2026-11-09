@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/reset-renovation-partners-llc-ny057
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (833) 934-0503
 * Address: 276 5th Ave, New York, NY 10001
 * Google rating: 5.0 from 35 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F261370-1 (exp. 2027-03-25)

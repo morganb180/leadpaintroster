@@ -1,6 +1,6 @@
 ---
 title: "Mr. Mold NY LLC, Bronx, NY | Lead Paint Roster"
-description: "Mr. Mold NY LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Mr. Mold NY LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/mr-mold-ny-llc-ny1263/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mr-mold-ny-llc-ny1263/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (516) 210-6188
 * Address: 425 Grand Concourse, Bronx, NY 10451
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F266457-1 (exp. 2027-07-11)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aaa-lead-professionals-nj0009/
 
 * Lead abatement, Lead inspection / evaluation
 * Lakewood, NJ (Ocean County)
-* Phone: (732) 719-5649
 * Address: 6 White Dove Ct, Lakewood, NJ 08701
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00430 (exp. 2028-05-31)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00407 (exp. 2027-09-30)

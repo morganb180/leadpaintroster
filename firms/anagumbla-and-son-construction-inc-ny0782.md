@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/anagumbla-and-son-construction-inc-
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (516) 369-2543
 * Address: 3025 Godwin Ter, Bronx, NY 10463
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-127617-2 (exp. 2029-06-15)
 

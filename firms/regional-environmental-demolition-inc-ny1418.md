@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/regional-environmental-demolition-i
 
 * Lead abatement
 * Niagara Falls, NY (Niagara County)
-* Phone: (716) 284-3366
 * Address: 6281 Wendt Dr, Niagara Falls, NY 14304
 * Google rating: 4.1 from 9 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-125971-3 (exp. 2027-06-20)

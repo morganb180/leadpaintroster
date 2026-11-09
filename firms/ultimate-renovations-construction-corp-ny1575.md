@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ultimate-renovations-construction-c
 
 * Lead abatement
 * Campbell Hall, NY (Orange County)
-* Phone: (646) 660-0841
 * Address: 22 Jackson Ln, Campbell Hall, NY 10916
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-114850-2 (exp. 2027-08-27)
 

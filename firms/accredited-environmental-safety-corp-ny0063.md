@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/accredited-environmental-safety-cor
 
 * Lead inspection / evaluation
 * Maspeth, NY (Queens County)
-* Phone: (929) 418-5281
 * Address: 6647 Grand Ave, Maspeth, NY 11378
 * Google rating: 5.0 from 20 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F267838-1 (exp. 2027-08-20)

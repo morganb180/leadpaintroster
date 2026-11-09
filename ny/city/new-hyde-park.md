@@ -29,8 +29,6 @@ Lead Paint Roster lists 7 EPA-licensed listings with an address in New Hyde Park
 Licensed firm
 
 269-20 Union Turnpike, New Hyde Park, NY  
-☎ [(718) 831-1933](tel:7188311933)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-58862-1 (exp. 2028-08-11)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-58862-1 (exp. 2028-08-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 900 3rd Ave, New Hyde Park, NY  
-☎ [(718) 361-0044](tel:7183610044)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2347-4 (exp. 2029-06-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0485)
@@ -56,8 +52,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1208 Jericho Turnpike, New Hyde Park, NY  
-☎ [(888) 737-8601](tel:8887378601)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F270489-1 (exp. 2027-10-03)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F270489-1 (exp. 2027-10-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -72,8 +66,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 121 Lakeville Rd, New Hyde Park, NY  
-☎ [(516) 616-4610](tel:5166164610)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2021-4 (exp. 2028-12-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1000)
@@ -85,8 +77,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 125 Denton Ave, New Hyde Park, NY  
-☎ [(516) 616-4300](tel:5166164300)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-23975-2 (exp. 2028-05-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1025)
@@ -98,8 +88,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2003 Jericho Turnpike, New Hyde Park, NY  
-☎ [(516) 821-7300](tel:5168217300)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F305737-1 (exp. 2028-09-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1191)
@@ -111,8 +99,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1645 Jericho Turnpike, New Hyde Park, NY  
-☎ [(516) 775-5659](tel:5167755659)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F217267-2 (exp. 2026-12-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1324)

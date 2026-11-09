@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/competent-safety-llc-ny0175/
 
 * Lead abatement, Lead inspection / evaluation
 * Queens, NY (Queens County)
-* Phone: (212) 756-3939
 * Address: 3627 31st St, Queens, NY 11106
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F267043-1 (exp. 2027-08-02)

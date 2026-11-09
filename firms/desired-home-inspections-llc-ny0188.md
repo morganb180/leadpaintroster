@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/desired-home-inspections-llc-ny0188
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 374-9956
 * Address: 315 Flatbush Ave, Brooklyn, NY 11217
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F224597-2 (exp. 2027-04-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F224597-2 (exp. 2027-04-23)

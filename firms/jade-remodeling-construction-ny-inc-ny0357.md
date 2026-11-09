@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jade-remodeling-construction-ny-inc
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 812-3342
 * Address: 201 Brighton 1st Rd, Brooklyn, NY 11235
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F239062-2 (exp. 2028-08-17)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F239062-2 (exp. 2028-08-17)

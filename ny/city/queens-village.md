@@ -29,8 +29,6 @@ Lead Paint Roster lists 6 EPA-licensed listings with an address in Queens Villag
 Licensed firm
 
 21108 82nd Ave, Queens Village, NY  
-☎ [(347) 545-2892](tel:3475452892)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F263646-1 (exp. 2027-05-10)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F263646-1 (exp. 2027-05-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 8625 Range St, Queens Village, NY  
-☎ [(646) 288-1006](tel:6462881006)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F225392-1 (exp. 2028-03-06)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F225392-1 (exp. 2028-03-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -57,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 80-39 213th St, Queens Village, NY  
-☎ [(646) 642-6506](tel:6466426506)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-82862-1 (exp. 2028-10-07)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-82862-1 (exp. 2028-10-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -73,8 +67,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 8910 220th St, Queens Village, NY  
-☎ [(917) 628-9746](tel:9176289746)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F217116-2 (exp. 2028-02-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0742)
@@ -86,8 +78,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 21103 99th Ave, Queens Village, NY  
-☎ [(347) 845-7003](tel:3478457003)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F275594-1 (exp. 2027-11-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1056)
@@ -99,8 +89,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 8979 Hollis Ct Blvd, Queens Village, NY  
-☎ [(718) 314-4599](tel:7183144599)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F229769-2 (exp. 2028-06-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1606)

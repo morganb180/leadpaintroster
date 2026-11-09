@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/verson-building-services-corp-ny066
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (646) 359-5758
 * Address: 250 E 34th St, New York, NY 10016
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F178650-2 (exp. 2028-07-27)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F178650-2 (exp. 2028-07-27)

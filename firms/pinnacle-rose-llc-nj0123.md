@@ -1,6 +1,6 @@
 ---
 title: "Pinnacle Rose, LLC, Neptune, NJ | Lead Paint Roster"
-description: "Pinnacle Rose, LLC in Neptune, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Pinnacle Rose, LLC in Neptune, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/pinnacle-rose-llc-nj0123/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pinnacle-rose-llc-nj0123/
 
 * Lead inspection / evaluation
 * Neptune, NJ (Monmouth County)
-* Phone: (732) 688-4544
 * Address: 19 Shorebrook Cir, Neptune, NJ 07753
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00906 (exp. 2028-01-31)
 

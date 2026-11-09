@@ -1,6 +1,6 @@
 ---
 title: "EC Home Renovations, Rochester, NY | Lead Paint Roster"
-description: "EC Home Renovations in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "EC Home Renovations in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/ec-home-renovations-ny0965/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ec-home-renovations-ny0965/
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (585) 666-1435
 * Address: 169 Newcomb St, Rochester, NY 14609
 * Google rating: 3.4 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F289361-1 (exp. 2028-04-08)

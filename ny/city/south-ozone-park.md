@@ -29,8 +29,6 @@ Lead Paint Roster lists 7 EPA-licensed listings with an address in South Ozone P
 Licensed firm
 
 115-54 117th St, South Ozone Park, NY  
-☎ [(718) 323-4362](tel:7183234362)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-80712-2 (exp. 2029-10-07)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-80712-2 (exp. 2029-10-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 11759 124 St, South Ozone Park, NY  
-☎ [(347) 242-0918](tel:3472420918)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F220484-1 (exp. 2026-12-05)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F220484-1 (exp. 2026-12-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -57,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 11711 132nd St, South Ozone Park, NY  
-☎ [(917) 756-6037](tel:9177566037)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F210974-3 (exp. 2027-10-10)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F210974-3 (exp. 2027-10-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -71,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 13018 133rd Ave, South Ozone Park, NY  
-☎ [(646) 469-6923](tel:6464696923)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F258852-1 (exp. 2027-02-02)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F258852-1 (exp. 2027-02-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -87,8 +79,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 13537 122nd Pl, South Ozone Park, NY  
-☎ [(718) 536-9226](tel:7185369226)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F264084-1 (exp. 2027-05-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0784)
@@ -100,8 +90,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 129-25 134th St, South Ozone Park, NY  
-☎ [(718) 845-1387](tel:7188451387)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-9297-4 (exp. 2028-10-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0876)
@@ -113,8 +101,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 13314 Sutter Ave, South Ozone Park, NY  
-☎ [(646) 512-1720](tel:6465121720)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F256911-1 (exp. 2026-12-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1206)

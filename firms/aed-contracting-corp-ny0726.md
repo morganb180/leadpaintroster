@@ -1,6 +1,6 @@
 ---
 title: "AED Contracting Corp, Brooklyn, NY | Lead Paint Roster"
-description: "AED Contracting Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "AED Contracting Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/aed-contracting-corp-ny0726/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aed-contracting-corp-ny0726/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 337-4313
 * Address: 1633 W 10th St, Brooklyn, NY 11223
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F260921-1 (exp. 2027-03-15)
 

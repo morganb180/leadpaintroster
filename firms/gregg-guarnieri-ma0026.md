@@ -1,6 +1,6 @@
 ---
 title: "Gregg Guarnieri, Malden, MA | Lead Paint Roster"
-description: "Gregg Guarnieri in Malden, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Gregg Guarnieri in Malden, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/gregg-guarnieri-ma0026/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/gregg-guarnieri-ma0026/
 
 * Lead inspection / evaluation
 * Malden, MA (Middlesex County)
-* Phone: (978) 766-4499
-* Email: leadfreehome@yahoo.com
 * Address: Malden, MA
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 

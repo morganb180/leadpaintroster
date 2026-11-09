@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/united-angel-construction-corp-ny15
 
 * Lead abatement
 * Richmond Hill, NY (Queens County)
-* Phone: (917) 495-5002
 * Address: 120-17 91st Ave, Richmond Hill, NY 11418
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-116725-3 (exp. 2029-05-14)
 

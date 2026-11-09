@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/clinton/
 Licensed firm
 
 44 Broad Ln, Ausable Forks, NY  
-☎ [(518) 593-0891](tel:5185930891)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F322484-1 (exp. 2029-02-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0805)
@@ -34,8 +32,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 104 Sharron Ave, Plattsburgh, NY  
-☎ [(518) 561-4010](tel:5185614010)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-118440-4 (exp. 2029-06-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1265)

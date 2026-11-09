@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bridgeway-associates-corp-nj0204/
 
 * Lead abatement
 * Hillside, NJ (Union County)
-* Phone: (201) 561-3125
 * Address: 519 Yale Ave, Hillside, NJ 07205
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00588 (exp. 2028-06-30)
 

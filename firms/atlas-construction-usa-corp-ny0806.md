@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/atlas-construction-usa-corp-ny0806/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (917) 536-6969
 * Address: 2739 Yates Ave, Bronx, NY 10469
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262632-1 (exp. 2027-04-19)
 

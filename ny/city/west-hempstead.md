@@ -29,8 +29,6 @@ Lead Paint Roster lists 4 EPA-licensed listings with an address in West Hempstea
 Licensed firm
 
 477 Ronkonkoma Ave, West Hempstead, NY  
-☎ [(516) 766-1273](tel:5167661273)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-109474-4 (exp. 2029-09-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0358)
@@ -44,8 +42,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 77 Hempstead Gardens Dr, West Hempstead, NY  
-☎ [(516) 358-0965](tel:5163580965)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F326738-1 (exp. 2029-03-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0917)
@@ -57,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1006 Saranac Rd, West Hempstead, NY  
-☎ [(516) 881-6007](tel:5168816007)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F259848-1 (exp. 2027-02-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1124)
@@ -70,8 +64,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 170 Cherry Valley Ave, West Hempstead, NY  
-☎ [(516) 292-4520](tel:5162924520)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-105084-1 (exp. 2026-12-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1299)

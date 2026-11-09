@@ -29,8 +29,6 @@ Lead Paint Roster lists 17 EPA-licensed listings with an address in Buffalo: 6 l
 Licensed firm
 
 261 Woltz Ave, Buffalo, NY  
-☎ [(716) 507-7848](tel:7165077848)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F292489-1 (exp. 2028-05-06)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F292489-1 (exp. 2028-05-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2393 Main St, Buffalo, NY  
-☎ [(716) 884-7791](tel:7168847791)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F225705-2 (exp. 2027-05-31)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0126)
@@ -56,8 +52,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 505 Ellicott St, Buffalo, NY  
-☎ [(716) 349-9669](tel:7163499669)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F341180-1 (exp. 2029-07-23)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F341180-1 (exp. 2029-07-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -70,8 +64,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 330 Watson St, Buffalo, NY  
-☎ [(716) 335-8105](tel:7163358105)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F266431-1 (exp. 2027-07-11)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F266431-1 (exp. 2027-07-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -84,8 +76,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 346 Austin St, Buffalo, NY  
-☎ [(716) 833-2929](tel:7168332929)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-672-3 (exp. 2027-11-29)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0657)
@@ -97,8 +87,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 95 Perry St, Buffalo, NY  
-☎ [(716) 206-5100](tel:7162065100)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1952-3 (exp. 2027-05-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0676)
@@ -112,8 +100,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 135 Delaware Ave, Buffalo, NY  
-☎ [(716) 259-9071](tel:7162599071)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F232379-2 (exp. 2028-05-29)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0699)
@@ -125,8 +111,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 135 Delaware Ave, Buffalo, NY  
-☎ [(716) 259-9071](tel:7162599071)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F311673-1 (exp. 2028-10-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0724)
@@ -138,8 +122,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 258 Lemon St, Buffalo, NY  
-☎ [(716) 465-6520](tel:7164656520)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F335135-1 (exp. 2029-05-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0982)
@@ -151,8 +133,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 503 Kensington Ave, Buffalo, NY  
-☎ [(716) 961-6800](tel:7169616800)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2020-3 (exp. 2027-05-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0999)
@@ -164,8 +144,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 154 Gorski St, Buffalo, NY  
-☎ [(716) 314-3793](tel:7163143793)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F266627-1 (exp. 2027-07-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1076)
@@ -177,8 +155,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 505 Ellicott St, Buffalo, NY  
-☎ [(716) 462-7979](tel:7164627979)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F302177-1 (exp. 2028-07-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1102)
@@ -190,8 +166,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 211 Davidson St, Buffalo, NY  
-☎ [(716) 931-2713](tel:7169312713)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F323208-1 (exp. 2029-03-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1177)
@@ -203,8 +177,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 211 Davidson Ave, Buffalo, NY  
-☎ [(716) 277-4769](tel:7162774769)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F282950-1 (exp. 2028-02-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1259)
@@ -216,8 +188,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 71 Peach St, Buffalo, NY  
-☎ [(716) 573-5298](tel:7165735298)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F282958-1 (exp. 2028-06-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1320)
@@ -229,8 +199,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 520 Hinman Ave, Buffalo, NY  
-☎ [(716) 873-3553](tel:7168733553)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F214164-3 (exp. 2029-07-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1461)
@@ -242,8 +210,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 263 S Union Rd, Buffalo, NY  
-☎ [(716) 228-9178](tel:7162289178)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F292641-1 (exp. 2029-07-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1515)

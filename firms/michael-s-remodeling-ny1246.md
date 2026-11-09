@@ -1,6 +1,6 @@
 ---
 title: "Michael's Remodeling, Selkirk, NY | Lead Paint Roster"
-description: "Michael's Remodeling in Selkirk, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Michael's Remodeling in Selkirk, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/michael-s-remodeling-ny1246/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/michael-s-remodeling-ny1246/
 
 * Lead abatement
 * Selkirk, NY (Albany County)
-* Phone: (518) 813-3334
 * Address: 328 County Route 101, Selkirk, NY 12158
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F220602-2 (exp. 2027-03-12)
 

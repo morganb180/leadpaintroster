@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/prime-aire-mold-services-dba-dry-ea
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (877) 215-8399
 * Address: 185 Clymer St, Brooklyn, NY 11211
 * Google rating: 5.0 from 24 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F223579-2 (exp. 2027-03-31)

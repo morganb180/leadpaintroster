@@ -21,9 +21,6 @@ Listings holding more than one licence type are shown once, in the first matchin
 Licensed firm
 
 Hancock, MA  
-☎ [(860) 977-5171](tel:8609775171)  
-✉ [freuden@comcast.net](mailto:freuden@comcast.net)
-
 1 licensed individual
 
 * Neal Freuden (MA DLS Inspector/Risk Assessor #1104 (exp. 2027-04-15))
@@ -38,9 +35,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Hartford, CT  
-☎ [(413) 335-6568](tel:4133356568)  
-✉ [pbateman@fando.com](mailto:pbateman@fando.com)
-
 1 licensed individual
 
 * Paul Bateman (MA DLS Inspector/Risk Assessor #3571 (exp. 2027-01-07))

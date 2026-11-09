@@ -46,8 +46,6 @@ Lead Paint Roster lists 5 listings with an address in Howard Beach: 2 inspection
 Licensed firm
 
 15140 88th St, Howard Beach, NY  
-☎ [(718) 971-9191](tel:7189719191)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F177038-4 (exp. 2029-06-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0275)
@@ -59,8 +57,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 15312 79th St, Howard Beach, NY  
-☎ [(347) 481-0883](tel:3474810883)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F255557-1 (exp. 2026-10-25)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F255557-1 (exp. 2026-10-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -73,8 +69,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 15936 84th St, Howard Beach, NY  
-☎ [(917) 387-6114](tel:9173876114)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F201320-3 (exp. 2028-05-18)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0765)

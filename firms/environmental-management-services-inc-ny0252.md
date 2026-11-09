@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-management-services-i
 
 * Lead inspection / evaluation
 * Astoria, NY (Queens County)
-* Phone: (917) 865-0399
 * Address: 3501 30th Ave, Astoria, NY 11103
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-10679-4 (exp. 2028-11-24)
 

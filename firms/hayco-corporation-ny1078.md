@@ -1,6 +1,6 @@
 ---
 title: "Hayco Corporation, New York, NY | Lead Paint Roster"
-description: "Hayco Corporation in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Hayco Corporation in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/hayco-corporation-ny1078/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hayco-corporation-ny1078/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (212) 545-0050
 * Address: 377 5th Ave, New York, NY 10016
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-12827-1 (exp. 2029-10-20)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/j-santana-construction-corp-ny0339/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (616) 432-8852
 * Address: 230 W 131 St, New York, NY 10027
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F260053-1 (exp. 2027-03-06)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F260053-1 (exp. 2027-03-06)

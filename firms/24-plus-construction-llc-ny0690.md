@@ -1,6 +1,6 @@
 ---
 title: "24 Plus construction LLC, New York, NY | Lead Paint Roster"
-description: "24 Plus construction LLC in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "24 Plus construction LLC in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/24-plus-construction-llc-ny0690/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/24-plus-construction-llc-ny0690/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (917) 858-6033
 * Address: 524 W 159th St, New York, NY 10032
 * Google rating: 5.0 from 18 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F305318-1 (exp. 2028-09-08)

@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/vincent-lovegrove-ma0030/
 
 * Lead risk assessment
 * New Bedford, MA (Bristol County)
-* Phone: (508) 932-3023
-* Email: kharma88@verizon.net
 * Address: New Bedford, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0030

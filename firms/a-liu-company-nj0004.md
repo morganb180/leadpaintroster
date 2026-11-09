@@ -1,6 +1,6 @@
 ---
 title: "A Liu Company, Montclair, NJ | Lead Paint Roster"
-description: "A Liu Company in Montclair, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "A Liu Company in Montclair, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/a-liu-company-nj0004/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-liu-company-nj0004/
 
 * Lead inspection / evaluation
 * Montclair, NJ (Essex County)
-* Phone: (732) 301-4599
 * Address: 10 Walnut Pkwy, Montclair, NJ 07042
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00809 (exp. 2028-05-31)
 

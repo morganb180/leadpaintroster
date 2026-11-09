@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/genesis-environmental-consultants-i
 
 * Lead abatement, Lead inspection / evaluation
 * Astoria, NY (Queens County)
-* Phone: (718) 932-8505
 * Address: 3353 Vernon Blvd, Astoria, NY 11106
 * Google rating: 4.8 from 6 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2068-4 (exp. 2029-02-02)

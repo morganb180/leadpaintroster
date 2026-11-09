@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lopez-matos-construction-inc-ny1184
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 886-1692
 * Address: 1727 Walton Ave, Bronx, NY 10453
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F211019-2 (exp. 2027-11-28)
 

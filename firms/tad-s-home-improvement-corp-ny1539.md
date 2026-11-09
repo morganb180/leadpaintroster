@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tad-s-home-improvement-corp-ny1539/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (781) 921-6081
 * Address: 935 79th St, Brooklyn, NY 11228
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F300048-1 (exp. 2028-07-08)
 

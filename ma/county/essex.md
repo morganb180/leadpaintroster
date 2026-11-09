@@ -23,9 +23,6 @@ Listings holding more than one licence type are shown once, in the first matchin
 Licensed firm
 
 Beverly, MA  
-☎ [(978) 836-0072](tel:9788360072)  
-✉ [admiraltd@aol.com](mailto:admiraltd@aol.com)
-
 1 licensed individual
 
 * Thomas Dowd (MA DLS Master Inspector/Risk Assessor #1170 (exp. 2027-10-15))
@@ -40,9 +37,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Lawrence, MA  
-☎ [(978) 876-2054](tel:9788762054)  
-✉ [xyzleadpaint1@gmail.com](mailto:xyzleadpaint1@gmail.com)
-
 1 licensed individual
 
 * Rafael Vasquez (MA DLS Inspector/Risk Assessor #4224 (exp. 2027-06-27))
@@ -57,9 +51,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Lynn, MA  
-☎ [(617) 884-2979](tel:6178842979)  
-✉ [davidandson6954@aol.com](mailto:davidandson6954@aol.com)
-
 1 licensed individual
 
 * David Ortiz (MA DLS Inspector/Risk Assessor #1098 (exp. 2027-10-15))
@@ -74,9 +65,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Swampscott, MA  
-☎ [(617) 899-7295](tel:6178997295)  
-✉ [info@tranleadinspection.com](mailto:info@tranleadinspection.com)
-
 1 licensed individual
 
 * Vendy Tran (MA DLS Inspector/Risk Assessor #4085 (exp. 2027-10-26))
@@ -90,12 +78,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Beverly, MA  
-☎ [(978) 395-5035](tel:9783955035)  
-✉ [jerryurban@mac.com](mailto:jerryurban@mac.com)
-
 MA DLS Inspector/Risk Assessor #3755 (exp. 2026-10-21)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0004)
@@ -111,9 +96,6 @@ Lead Paint Roster lists 2 Massachusetts-licensed listings for lead inspection / 
 Licensed firm
 
 Saugus, MA  
-☎ [(617) 470-6837](tel:6174706837)  
-✉ [alti-marisails@hotmail.com](mailto:alti-marisails@hotmail.com)
-
 1 licensed individual
 
 * Antonio Altimari (MA DLS Inspector #4217 (exp. 2027-10-11))
@@ -127,12 +109,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Beverly, MA  
-☎ [(617) 778-8501](tel:6177788501)  
-✉ [higorbmw@hotmail.com](mailto:higorbmw@hotmail.com)
-
 MA DLS Inspector #004654 (exp. 2027-09-01)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0006)

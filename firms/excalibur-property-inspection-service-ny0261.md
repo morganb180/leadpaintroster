@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/excalibur-property-inspection-servi
 
 * Lead inspection / evaluation
 * Rochester, NY (Monroe County)
-* Phone: (585) 794-1056
 * Address: 842 Partridge Ln, Rochester, NY 14580
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-16195-4 (exp. 2029-01-24)
 

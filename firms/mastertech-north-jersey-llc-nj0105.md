@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mastertech-north-jersey-llc-nj0105/
 
 * Lead inspection / evaluation
 * Mount Arlington, NJ (Morris County)
-* Phone: (973) 668-4060
 * Address: 4 Cove Rd, Mount Arlington, NJ 07856
 * Google rating: 5.0 from 85 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00908 (exp. 2028-01-31)

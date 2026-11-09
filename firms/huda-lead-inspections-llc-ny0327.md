@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/huda-lead-inspections-llc-ny0327/
 
 * Lead inspection / evaluation
 * Astoria, NY (Queens County)
-* Phone: (929) 629-0529
 * Address: 2441 31st St, Astoria, NY 11102
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F333295-1 (exp. 2029-05-11)
 

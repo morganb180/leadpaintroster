@@ -29,8 +29,6 @@ Lead Paint Roster lists 4 EPA-licensed listings with an address in Medford: 4 le
 Licensed firm
 
 76 Sharon Ct, Medford, NY  
-☎ [(347) 961-7575](tel:3479617575)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F210184-2 (exp. 2027-12-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1092)
@@ -42,8 +40,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2601 Wave Ave, Medford, NY  
-☎ [(718) 809-6614](tel:7188096614)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-12039-4 (exp. 2029-05-31)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1160)
@@ -55,8 +51,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 62 Elmhurst Ave, Medford, NY  
-☎ [(631) 485-7557](tel:6314857557)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F154971-1 (exp. 2027-09-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1356)
@@ -68,8 +62,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3090 Route 112, Medford, NY  
-☎ [(631) 774-0736](tel:6317740736)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F348707-1 (exp. 2029-10-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1425)

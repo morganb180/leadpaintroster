@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/d-riviera-construction-corp-ny0916/
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (646) 391-7632
 * Address: 555 Van Cortlandt Park Ave, Yonkers, NY 10705
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F305011-1 (exp. 2028-08-21)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/green-team-of-ny-services-corporati
 
 * Lead abatement
 * Corona, NY (Queens County)
-* Phone: (929) 933-8019
 * Address: 4313 National St, Corona, NY 11368
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F265664-1 (exp. 2027-06-25)
 

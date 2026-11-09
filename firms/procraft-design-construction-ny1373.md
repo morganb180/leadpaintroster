@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/procraft-design-construction-ny1373
 
 * Lead abatement
 * Huntington Station, NY (Suffolk County)
-* Phone: (917) 939-5657
 * Address: 89 6th Ave, Huntington Station, NY 11746
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F224339-3 (exp. 2029-03-24)
 

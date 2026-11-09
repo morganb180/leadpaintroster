@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/paradigm-environmental-services-inc
 
 * Lead inspection / evaluation
 * Rochester, NY (Monroe County)
-* Phone: (585) 454-1060
 * Address: 57 Ambrose St, Rochester, NY 14608
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2017-3 (exp. 2027-05-03)
 

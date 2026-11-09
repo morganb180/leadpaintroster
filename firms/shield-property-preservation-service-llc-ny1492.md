@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/shield-property-preservation-servic
 
 * Lead abatement
 * Valley Stream, NY (Nassau County)
-* Phone: (347) 345-8512
 * Address: 15 Gregory St, Valley Stream, NY 11580
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F298021-1 (exp. 2028-06-13)
 

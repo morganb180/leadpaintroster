@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rizzo-restoration-llc-ny1434/
 
 * Lead abatement
 * West Babylon, NY (Suffolk County)
-* Phone: (516) 788-0455
 * Address: 110 Bell St, West Babylon, NY 11704
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F298868-1 (exp. 2028-06-23)
 

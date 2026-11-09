@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/spring-air-network-solutions-inc-ny
 
 * Lead abatement, Lead inspection / evaluation
 * Great Neck Plaza, NY (Nassau County)
-* Phone: (212) 991-8442
 * Address: 33 Great Neck Rd, Great Neck Plaza, NY 11021
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F337222-1 (exp. 2029-06-11)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F337222-1 (exp. 2029-06-11)

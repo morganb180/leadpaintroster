@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/black-hawk-restoration-inc-ny0839/
 
 * Lead abatement
 * Ridgewood, NY (Queens County)
-* Phone: (347) 691-6661
 * Address: 1746 Summerfield St, Ridgewood, NY 11385
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F211000-3 (exp. 2029-03-19)
 

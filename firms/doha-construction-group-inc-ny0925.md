@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/doha-construction-group-inc-ny0925/
 
 * Lead abatement
 * Ozone Park, NY (Queens County)
-* Phone: (347) 930-9769
 * Address: 13219 79th St, Ozone Park, NY 11417
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F311223-1 (exp. 2028-10-17)
 

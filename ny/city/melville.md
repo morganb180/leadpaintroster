@@ -29,8 +29,6 @@ Lead Paint Roster lists 7 EPA-licensed listings with an address in Melville: 2 l
 Licensed firm
 
 538 Broadhollow Rd, Melville, NY  
-☎ [(631) 756-8000](tel:6317568000)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1482-4 (exp. 2028-08-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0310)
@@ -42,8 +40,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 178 Bagatelle Rd, Melville, NY  
-☎ [(347) 293-0709](tel:3472930709)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F202664-1 (exp. 2028-12-03)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F202664-1 (exp. 2028-12-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -58,8 +54,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 105 Maxess Rd, Melville, NY  
-☎ [(718) 606-1076](tel:7186061076)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F146189-3 (exp. 2026-12-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0739)
@@ -71,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 201 Mattituck Ct, Melville, NY  
-☎ [(516) 717-6916](tel:5167176916)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F275958-1 (exp. 2027-11-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0795)
@@ -84,8 +76,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 25 Melville Pard Rd, Melville, NY  
-☎ [(631) 897-3131](tel:6318973131)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F304830-1 (exp. 2028-08-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0828)
@@ -97,8 +87,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4 Sleepy Ln, Melville, NY  
-☎ [(718) 926-5270](tel:7189265270)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F183546-3 (exp. 2028-11-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1149)
@@ -110,8 +98,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 25 Melville Park Rd, Melville, NY  
-☎ [(929) 396-9063](tel:9293969063)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F295465-1 (exp. 2028-06-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1537)

@@ -1,6 +1,6 @@
 ---
 title: "Double R Construction Inc., Selden, NY | Lead Paint Roster"
-description: "Double R Construction Inc. in Selden, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Double R Construction Inc. in Selden, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/double-r-construction-inc-ny0952/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/double-r-construction-inc-ny0952/
 
 * Lead abatement
 * Selden, NY (Suffolk County)
-* Phone: (631) 736-8564
 * Address: 3 Arthur St, Selden, NY 11784
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F228498-3 (exp. 2029-07-01)
 

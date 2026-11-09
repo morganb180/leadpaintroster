@@ -1,6 +1,6 @@
 ---
 title: "L&L Lead Services LLC, Brooklyn, NY | Lead Paint Roster"
-description: "L&L Lead Services LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "L&L Lead Services LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/l-l-lead-services-llc-ny0375/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/l-l-lead-services-llc-ny0375/
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (347) 470-5323
 * Address: 692 Crown St, Brooklyn, NY 11213
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-90221-4 (exp. 2029-01-05)
 

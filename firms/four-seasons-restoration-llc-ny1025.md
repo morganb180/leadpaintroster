@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/four-seasons-restoration-llc-ny1025
 
 * Lead abatement
 * New Hyde Park, NY (Nassau County)
-* Phone: (516) 616-4300
 * Address: 125 Denton Ave, New Hyde Park, NY 11040
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-23975-2 (exp. 2028-05-06)
 

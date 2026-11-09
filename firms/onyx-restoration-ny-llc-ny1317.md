@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/onyx-restoration-ny-llc-ny1317/
 
 * Lead abatement
 * New City, NY (Rockland County)
-* Phone: (347) 824-2106
 * Address: 368 New Hempstead Rd, New City, NY 10956
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F301063-1 (exp. 2028-07-14)
 

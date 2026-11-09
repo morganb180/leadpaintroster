@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pmg-general-solutions-inc-ny1333/
 
 * Lead abatement
 * Malverne, NY (Nassau County)
-* Phone: (516) 792-1639
 * Address: 77 Weber Ave, Malverne, NY 11565
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F106465-3 (exp. 2027-09-18)
 

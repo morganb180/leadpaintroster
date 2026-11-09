@@ -50,8 +50,6 @@ Lead Paint Roster lists 7 listings with an address in Elmont: 5 inspection/risk-
 Licensed firm
 
 167 Opal St, Elmont, NY  
-☎ [(917) 601-8832](tel:9176018832)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-14832-2 (exp. 2027-01-16)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-14832-2 (exp. 2027-01-16)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -64,8 +62,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 701 Crans St, Elmont, NY  
-☎ [(718) 812-9042](tel:7188129042)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-125581-3 (exp. 2027-10-28)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-125581-3 (exp. 2027-10-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -78,8 +74,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2069 Baylis Ave, Elmont, NY  
-☎ [(917) 444-1045](tel:9174441045)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F201931-3 (exp. 2028-09-24)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F201931-3 (exp. 2028-09-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -92,8 +86,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 151 Miriam Pkwy, Elmont, NY  
-☎ [(516) 906-8422](tel:5169068422)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F285096-1 (exp. 2028-02-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0288)

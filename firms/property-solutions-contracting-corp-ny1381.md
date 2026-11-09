@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/property-solutions-contracting-corp
 
 * Lead abatement
 * Mount Sinai, NY (Suffolk County)
-* Phone: (631) 764-6383
 * Address: 201A Shore Rd, Mount Sinai, NY 11766
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F210983-2 (exp. 2028-02-18)
 

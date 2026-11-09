@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/g-granto-construction-company-ny027
 
 * Lead abatement, Lead inspection / evaluation
 * North Tonawanda, NY (Niagara County)
-* Phone: (716) 628-3043
 * Address: 696 Niagara Falls Blvd, North Tonawanda, NY 14120
 * Google rating: 4.9 from 231 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F226232-1 (exp. 2027-12-18)

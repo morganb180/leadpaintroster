@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/j-s-saini-construction-corp-ny1108/
 
 * Lead abatement
 * South Richmond Hill, NY (Queens County)
-* Phone: (347) 944-2136
 * Address: 12310 97th Ave, South Richmond Hill, NY 11419
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-121990-1 (exp. 2027-07-24)
 

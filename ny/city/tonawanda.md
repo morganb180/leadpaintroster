@@ -29,8 +29,6 @@ Lead Paint Roster lists 6 EPA-licensed listings with an address in Tonawanda: 1 
 Licensed firm
 
 72 E Niagara St, Tonawanda, NY  
-☎ [(716) 833-0043](tel:7168330043)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-83285-4 (exp. 2028-12-25)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-83285-4 (exp. 2028-12-25)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -45,8 +43,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 29 Leawood Dr, Tonawanda, NY  
-☎ [(716) 418-9748](tel:7164189748)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F282562-1 (exp. 2028-02-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0729)
@@ -58,8 +54,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2234 Niagara Falls Blvd, Tonawanda, NY  
-☎ [(716) 845-5544](tel:7168455544)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F204710-1 (exp. 2027-04-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0852)
@@ -71,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 594 Sheridan Dr, Tonawanda, NY  
-☎ [(716) 466-6653](tel:7164666653)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F338549-1 (exp. 2029-06-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1064)
@@ -84,8 +76,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 93 Dalton Dr, Tonawanda, NY  
-☎ [(716) 622-0647](tel:7166220647)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F230458-2 (exp. 2028-05-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1133)
@@ -97,8 +87,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 561 Main St, Tonawanda, NY  
-☎ [(716) 692-3540](tel:7166923540)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F311942-1 (exp. 2028-10-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1157)

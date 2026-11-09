@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/accredited-lead-inspection-inc-ny00
 
 * Lead abatement, Lead inspection / evaluation
 * Port Washington, NY (Nassau County)
-* Phone: (516) 944-5323
 * Address: 156 Shore Rd, Port Washington, NY 11050
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F281354-1 (exp. 2028-01-30)

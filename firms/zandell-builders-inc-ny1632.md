@@ -1,6 +1,6 @@
 ---
 title: "Zandell Builders Inc, Brooklyn, NY | Lead Paint Roster"
-description: "Zandell Builders Inc in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Zandell Builders Inc in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/zandell-builders-inc-ny1632/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/zandell-builders-inc-ny1632/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 560-6205
 * Address: 5015 Ave D, Brooklyn, NY 11203
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F226291-2 (exp. 2029-07-15)
 

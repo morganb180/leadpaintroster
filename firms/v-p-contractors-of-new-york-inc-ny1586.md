@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/v-p-contractors-of-new-york-inc-ny1
 
 * Lead abatement
 * Bellerose, NY (Queens County)
-* Phone: (718) 699-0053
 * Address: 8015 246th St, Bellerose, NY 11426
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F205854-1 (exp. 2027-03-13)
 

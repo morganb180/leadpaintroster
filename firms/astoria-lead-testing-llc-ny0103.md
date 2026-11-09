@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/astoria-lead-testing-llc-ny0103/
 
 * Lead inspection / evaluation
 * Jackson Heights, NY (Queens County)
-* Phone: (347) 694-9094
 * Address: 8211 37th Ave, Jackson Heights, NY 11372
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F229968-2 (exp. 2027-10-22)
 

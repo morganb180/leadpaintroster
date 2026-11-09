@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/defash-global-resources-inc-ny0199/
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (347) 607-1422
 * Address: 3056 Bruner Ave, Bronx, NY 10469
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F209214-3 (exp. 2028-10-25)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F209214-3 (exp. 2028-10-25)

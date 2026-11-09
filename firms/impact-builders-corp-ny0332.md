@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/impact-builders-corp-ny0332/
 
 * Lead abatement, Lead inspection / evaluation
 * Forest Hills, NY (Queens County)
-* Phone: (646) 591-8171
 * Address: 10206 Metropolitan Ave, Forest Hills, NY 11375
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F199833-1 (exp. 2028-02-24)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F199833-1 (exp. 2028-02-24)

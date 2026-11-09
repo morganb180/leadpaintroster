@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/robert-loiselle-ma0028/
 
 * Lead inspection / evaluation
 * Medford, MA (Middlesex County)
-* Phone: (781) 333-3203
-* Email: MAleadpaintinspector@gmail.com
 * Address: Medford, MA
 * Google rating: 5.0 from 88 reviews (as of Oct 18, 2026)
 

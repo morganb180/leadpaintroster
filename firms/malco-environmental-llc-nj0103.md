@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/malco-environmental-llc-nj0103/
 
 * Lead inspection / evaluation
 * Cranford, NJ (Union County)
-* Phone: (732) 513-3487
 * Address: 24 Lincoln Ave West, Cranford, NJ 07016
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00845 (exp. 2026-11-30)
 

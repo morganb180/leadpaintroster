@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gohar-construction-corp-ny1058/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (646) 238-4760
 * Address: 19 Crowell Ave, Staten Island, NY 10314
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F171734-1 (exp. 2029-08-27)
 

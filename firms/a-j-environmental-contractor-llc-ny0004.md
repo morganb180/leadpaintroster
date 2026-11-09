@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-j-environmental-contractor-llc-ny
 
 * Lead abatement, Lead inspection / evaluation
 * Queens, NY (Queens County)
-* Phone: (718) 600-3010
 * Address: 10112 46th Ave, Queens, NY 11368
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F229701-2 (exp. 2027-10-14)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F229701-2 (exp. 2027-10-14)

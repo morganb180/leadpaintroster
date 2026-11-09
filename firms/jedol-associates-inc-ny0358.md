@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jedol-associates-inc-ny0358/
 
 * Lead inspection / evaluation
 * West Hempstead, NY (Nassau County)
-* Phone: (516) 766-1273
 * Address: 477 Ronkonkoma Ave, West Hempstead, NY 11552
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-109474-4 (exp. 2029-09-13)
 

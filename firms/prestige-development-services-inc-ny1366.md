@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/prestige-development-services-inc-n
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (718) 401-2744
 * Address: 169 Lincoln Ave, Bronx, NY 10454
 * Google rating: 5.0 from 15 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-16307-4 (exp. 2029-03-01)

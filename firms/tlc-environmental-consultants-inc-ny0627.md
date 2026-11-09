@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tlc-environmental-consultants-inc-n
 
 * Lead inspection / evaluation
 * Great Neck, NY (Nassau County)
-* Phone: (646) 866-0249
 * Address: 4 Summer Ave, Great Neck, NY 11020
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F266337-1 (exp. 2027-07-10)
 

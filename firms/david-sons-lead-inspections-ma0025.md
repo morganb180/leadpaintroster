@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/david-sons-lead-inspections-ma0025/
 
 * Lead risk assessment
 * Lynn, MA (Essex County)
-* Phone: (617) 884-2979
-* Email: davidandson6954@aol.com
 * Address: Lynn, MA
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 

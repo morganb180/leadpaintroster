@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/metro-pure-solutions-llc-ny0453/
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 903-3400
 * Address: 11 Montana Pl, Brooklyn, NY 11234
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F320007-1 (exp. 2029-01-26)
 

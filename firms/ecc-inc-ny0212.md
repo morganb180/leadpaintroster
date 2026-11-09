@@ -1,6 +1,6 @@
 ---
 title: "ECC Inc., New York, NY | Lead Paint Roster"
-description: "ECC Inc. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "ECC Inc. in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/ecc-inc-ny0212/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ecc-inc-ny0212/
 
 * Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (646) 476-4736
 * Address: 417 5th Ave, New York, NY 10016
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F222144-2 (exp. 2027-02-23)

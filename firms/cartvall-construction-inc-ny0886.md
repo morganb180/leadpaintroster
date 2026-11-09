@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cartvall-construction-inc-ny0886/
 
 * Lead abatement
 * Flushing, NY (Queens County)
-* Phone: (929) 427-3804
 * Address: 4266 Phlox Pl, Flushing, NY 11355
 * Google rating: 5.0 from 13 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F228408-2 (exp. 2027-09-13)

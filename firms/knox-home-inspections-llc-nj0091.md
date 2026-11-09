@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/knox-home-inspections-llc-nj0091/
 
 * Lead inspection / evaluation
 * West Milford, NJ (Passaic County)
-* Phone: (973) 800-4063
 * Address: 620 Otterhole Rd, West Milford, NJ 07480
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00753 (exp. 2027-05-31)
 

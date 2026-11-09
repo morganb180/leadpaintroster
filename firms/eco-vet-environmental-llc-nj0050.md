@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/eco-vet-environmental-llc-nj0050/
 
 * Lead inspection / evaluation
 * East Orange, NJ (Essex County)
-* Phone: (862) 276-9836
 * Address: 121 Brighton Ave, East Orange, NJ 07017
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00863 (exp. 2027-03-31)
 

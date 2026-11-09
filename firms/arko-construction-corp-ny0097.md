@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/arko-construction-corp-ny0097/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (516) 315-0872
 * Address: 921 Washington Ave, Brooklyn, NY 11225
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F245827-1 (exp. 2027-03-14)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F245827-1 (exp. 2027-03-14)

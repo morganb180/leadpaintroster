@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/steuben/
 Licensed firm
 
 5811 Unionville Rd, Bath, NY  
-☎ [(607) 776-4714](tel:6077764714)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F314406-1 (exp. 2028-11-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1616)
@@ -34,8 +32,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 7749 Old Big Creek Rd, Hornell, NY  
-☎ [(607) 368-1765](tel:6073681765)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-53843-1 (exp. 2028-06-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0811)

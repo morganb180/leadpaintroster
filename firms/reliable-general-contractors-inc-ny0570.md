@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/reliable-general-contractors-inc-ny
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 877-8526
 * Address: 4304 Ave M, Brooklyn, NY 11234
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F150591-2 (exp. 2029-09-14)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F150591-2 (exp. 2029-09-14)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jefferson-county-code-enforcement-n
 
 * Lead abatement
 * Watertown, NY (Jefferson County)
-* Phone: (315) 785-5130
 * Address: 175 Arsenal St, Watertown, NY 13601
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F240443-2 (exp. 2028-10-11)
 

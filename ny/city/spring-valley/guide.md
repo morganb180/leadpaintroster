@@ -43,8 +43,6 @@ Look the firm up in the official EPA list, then ask for the firm's certification
 Licensed firm
 
 13 Grove St, Spring Valley, NY  
-☎ [(718) 437-6511](tel:7184376511)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F343196-1 (exp. 2029-08-06)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F343196-1 (exp. 2029-08-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -57,8 +55,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 11 Charles Ln, Spring Valley, NY  
-☎ [(646) 250-9538](tel:6462509538)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F243919-2 (exp. 2029-01-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0401)
@@ -70,8 +66,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 42 Ellish Pkwy, Spring Valley, NY  
-☎ [(845) 222-1088](tel:8452221088)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F317186-1 (exp. 2028-12-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0413)
@@ -83,8 +77,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2 Mezritch Rd, Spring Valley, NY  
-☎ [(845) 474-0666](tel:8454740666)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F284309-1 (exp. 2028-02-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0754)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mohinder-construction-corp-ny0459/
 
 * Lead abatement, Lead inspection / evaluation
 * Queens Village, NY (Queens County)
-* Phone: (646) 288-1006
 * Address: 8625 Range St, Queens Village, NY 11427
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F225392-1 (exp. 2028-03-06)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F225392-1 (exp. 2028-03-06)

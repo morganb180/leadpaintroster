@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/angstrom-testing-services-ny0090/
 
 * Lead inspection / evaluation
 * Oceanside, NY (Nassau County)
-* Phone: (516) 594-1204
 * Address: 2918 Chester St, Oceanside, NY 11572
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F110107-3 (exp. 2028-01-05)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/i-home-inspections-llc-nj0082/
 
 * Lead inspection / evaluation
 * Englewood Cliffs, NJ (Bergen County)
-* Phone: (201) 503-5577
 * Address: 190 Sylvan Ave, Suite D1, Englewood Cliffs, NJ 07632
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00765 (exp. 2027-05-31)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/kinsington-restoration-corp-ny0371/
 
 * Lead abatement, Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (646) 358-2607
 * Address: 576 Cary Ave, Staten Island, NY 10310
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F269814-1 (exp. 2027-09-26)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F269814-1 (exp. 2027-09-26)

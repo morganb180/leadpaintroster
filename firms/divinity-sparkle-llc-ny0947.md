@@ -1,6 +1,6 @@
 ---
 title: "Divinity Sparkle LLC, Arverne, NY | Lead Paint Roster"
-description: "Divinity Sparkle LLC in Arverne, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Divinity Sparkle LLC in Arverne, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/divinity-sparkle-llc-ny0947/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/divinity-sparkle-llc-ny0947/
 
 * Lead abatement
 * Arverne, NY (Queens County)
-* Phone: (401) 241-9644
 * Address: 186 White Sands Way, Arverne, NY 11692
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F267673-1 (exp. 2027-08-16)
 

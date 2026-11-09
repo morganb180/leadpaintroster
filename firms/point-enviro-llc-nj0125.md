@@ -1,6 +1,6 @@
 ---
 title: "Point Enviro, LLC, Wallington, NJ | Lead Paint Roster"
-description: "Point Enviro, LLC in Wallington, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Point Enviro, LLC in Wallington, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/point-enviro-llc-nj0125/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/point-enviro-llc-nj0125/
 
 * Lead inspection / evaluation
 * Wallington, NJ (Bergen County)
-* Phone: (201) 690-7008
 * Address: 55 Maple Ave, Unit 2, Wallington, NJ 07057
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00729 (exp. 2027-05-31)
 

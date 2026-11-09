@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/harvard-environmental-ma0055/
 
 * Lead risk assessment
 * Westwood, MA (Norfolk County)
-* Phone: (781) 329-0404
-* Email: Gary@leadinspection.net
 * Address: Westwood, MA
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 

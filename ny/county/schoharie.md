@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/schoharie/
 Licensed firm
 
 260 School Hill Rd, Cobleskill, NY  
-☎ [(518) 231-4736](tel:5182314736)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F283121-1 (exp. 2028-02-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0789)

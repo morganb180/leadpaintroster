@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-testing-services-nj00
 
 * Lead inspection / evaluation
 * Deptford, NJ (Gloucester County)
-* Phone: (215) 783-7261
 * Address: 619 Wills Ave, Deptford, NJ 08096
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00531 (exp. 2027-01-31)
 

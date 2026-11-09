@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cowan-weber-construction-ny0909/
 
 * Lead abatement
 * West Seneca, NY (Erie County)
-* Phone: (716) 331-8983
 * Address: 20 Brian Ln, West Seneca, NY 14224
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F348509-1 (exp. 2029-10-05)
 

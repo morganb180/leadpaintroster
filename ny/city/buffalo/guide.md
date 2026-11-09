@@ -47,8 +47,6 @@ Lead Paint Roster lists 17 listings with an address in Buffalo: 6 inspection/ris
 Licensed firm
 
 261 Woltz Ave, Buffalo, NY  
-☎ [(716) 507-7848](tel:7165077848)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F292489-1 (exp. 2028-05-06)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F292489-1 (exp. 2028-05-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -61,8 +59,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2393 Main St, Buffalo, NY  
-☎ [(716) 884-7791](tel:7168847791)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F225705-2 (exp. 2027-05-31)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0126)
@@ -74,8 +70,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 505 Ellicott St, Buffalo, NY  
-☎ [(716) 349-9669](tel:7163499669)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F341180-1 (exp. 2029-07-23)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F341180-1 (exp. 2029-07-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -88,8 +82,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 330 Watson St, Buffalo, NY  
-☎ [(716) 335-8105](tel:7163358105)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F266431-1 (exp. 2027-07-11)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F266431-1 (exp. 2027-07-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

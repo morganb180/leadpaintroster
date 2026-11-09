@@ -1,6 +1,6 @@
 ---
 title: "Ergul Construction Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Ergul Construction Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Ergul Construction Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/ergul-construction-inc-ny0998/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ergul-construction-inc-ny0998/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 377-1943
 * Address: 1279 E 17th St, Brooklyn, NY 11230
 * Google rating: 3.7 from 6 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-9960-4 (exp. 2028-10-05)

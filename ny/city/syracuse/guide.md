@@ -45,8 +45,6 @@ Lead Paint Roster lists 21 listings with an address in Syracuse: 7 inspection/ri
 Licensed firm
 
 112-3B Gray Ave, Syracuse, NY  
-☎ [(315) 256-4737](tel:3152564737)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-18574-3 (exp. 2029-01-29)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0095)
@@ -58,8 +56,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 499 Col Eileen Collins Blvd, Syracuse, NY  
-☎ [(315) 703-4307](tel:3157034307)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F257371-2 (exp. 2029-12-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0148)
@@ -71,8 +67,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 114 Edgewood Ave, Syracuse, NY  
-☎ [(315) 399-2186](tel:3153992186)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F252472-2 (exp. 2029-08-07)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F252472-2 (exp. 2029-08-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -85,8 +79,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 6443 Ridings Rd, Syracuse, NY  
-☎ [(315) 720-6769](tel:3157206769)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F154143-3 (exp. 2027-06-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0234)
@@ -98,8 +90,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 421 Montgomery St, Syracuse, NY  
-☎ [(315) 435-3558](tel:3154353558)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2405-4 (exp. 2029-01-15)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2405-4 (exp. 2029-01-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

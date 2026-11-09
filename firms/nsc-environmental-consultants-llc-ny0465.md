@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nsc-environmental-consultants-llc-n
 
 * Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (718) 710-1816
 * Address: 471 Clove Rd, Staten Island, NY 10310
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F231759-2 (exp. 2028-01-03)
 

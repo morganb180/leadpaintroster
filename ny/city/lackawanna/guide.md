@@ -45,8 +45,6 @@ Lead Paint Roster lists 4 listings with an address in Lackawanna: 0 inspection/r
 Licensed firm
 
 400 Ingham Ave, Lackawanna, NY  
-☎ [(716) 998-4838](tel:7169984838)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F326528-1 (exp. 2029-04-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0964)
@@ -58,8 +56,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 400 Ingham Ave, Lackawanna, NY  
-☎ [(716) 685-4588](tel:7166854588)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F253187-1 (exp. 2026-11-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0987)

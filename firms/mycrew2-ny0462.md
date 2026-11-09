@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mycrew2-ny0462/
 
 * Lead abatement, Lead inspection / evaluation
 * Jamaica, NY (Queens County)
-* Phone: (718) 926-4229
 * Address: 14617 133rd Ave, Jamaica, NY 11436
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F250421-2 (exp. 2029-06-21)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F250421-2 (exp. 2029-06-21)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aj-mgmt-solutions-llc-ny0038/
 
 * Lead abatement, Lead inspection / evaluation
 * Cedarhurst, NY (Nassau County)
-* Phone: (646) 397-7760
 * Address: 140A Washington Ave, Cedarhurst, NY 11516
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F236589-2 (exp. 2028-06-02)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F236589-2 (exp. 2028-06-02)

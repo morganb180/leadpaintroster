@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/scott-construction-svcs-of-rocheste
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (585) 370-6331
 * Address: 23 Wells St, Rochester, NY 14611
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F225780-1 (exp. 2029-08-20)
 

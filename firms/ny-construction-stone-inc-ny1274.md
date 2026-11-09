@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ny-construction-stone-inc-ny1274/
 
 * Lead abatement
 * Middle Village, NY (Queens County)
-* Phone: (917) 797-0220
 * Address: 5810 76th St, Middle Village, NY 11379
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-46879-1 (exp. 2028-05-08)
 

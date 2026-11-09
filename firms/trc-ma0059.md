@@ -1,6 +1,6 @@
 ---
 title: "TRC (Thomas Roche): Lead Paint Inspector, Woburn MA"
-description: "TRC (Thomas Roche) in Woburn, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "TRC (Thomas Roche) in Woburn, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/trc-ma0059/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/trc-ma0059/
 
 * Lead inspection / evaluation
 * Woburn, MA (Middlesex County)
-* Phone: (781) 933-2555
-* Email: troche@trcsolutions.com
 * Address: Woburn, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0059

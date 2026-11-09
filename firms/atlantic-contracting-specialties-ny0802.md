@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/atlantic-contracting-specialties-ny
 
 * Lead abatement
 * Troy, NY (Rensselaer County)
-* Phone: (518) 272-2715
 * Address: 1 Harrison St, Troy, NY 12180
 * Google rating: 4.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F259559-1 (exp. 2027-02-16)

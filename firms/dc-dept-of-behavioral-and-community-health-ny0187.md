@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dc-dept-of-behavioral-and-community
 
 * Lead inspection / evaluation
 * Poughkeepsie, NY (Dutchess County)
-* Phone: (845) 486-3404
 * Address: 85 Civic Center Plaza, Poughkeepsie, NY 12601
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1926-3 (exp. 2027-10-09)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/b-s-lead-risk-assessments-llc-ny011
 
 * Lead inspection / evaluation
 * Albany, NY (Albany County)
-* Phone: (518) 225-5124
 * Address: 15 Keller St, Albany, NY 12205
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F325680-1 (exp. 2029-03-13)
 

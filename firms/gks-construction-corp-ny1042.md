@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gks-construction-corp-ny1042/
 
 * Lead abatement
 * Valley Cottage, NY (Rockland County)
-* Phone: (845) 405-9304
 * Address: 2 Watch Hill Ct, Valley Cottage, NY 10989
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-18502-3 (exp. 2028-12-18)
 

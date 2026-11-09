@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/stateline-home-inspection-llc-nj016
 
 * Lead inspection / evaluation
 * Montvale, NJ (Bergen County)
-* Phone: (201) 390-4912
 * Address: 9 Magnolia Ave, Montvale, NJ 07645
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00785 (exp. 2027-11-30)
 

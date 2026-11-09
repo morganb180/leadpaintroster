@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/andrej-jankuv-independent-contracto
 
 * Lead abatement
 * Bayside, NY (Queens County)
-* Phone: (347) 236-0745
 * Address: 21721 50th Ave, Bayside, NY 11364
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-729-3 (exp. 2027-10-31)
 

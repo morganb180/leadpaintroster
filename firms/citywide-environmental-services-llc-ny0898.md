@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/citywide-environmental-services-llc
 
 * Lead abatement
 * Whitestone, NY (Queens County)
-* Phone: (718) 237-2849
 * Address: 151-17 6th Rd, Whitestone, NY 11357
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-15741-4 (exp. 2028-11-14)
 

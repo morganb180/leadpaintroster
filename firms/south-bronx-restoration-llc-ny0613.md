@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/south-bronx-restoration-llc-ny0613/
 
 * Lead abatement, Lead inspection / evaluation
 * Oyster Bay, NY (Nassau County)
-* Phone: (516) 384-9967
 * Address: 9 W Oak Hill Dr, Oyster Bay, NY 11771
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F276096-1 (exp. 2027-11-26)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F276096-1 (exp. 2027-11-26)

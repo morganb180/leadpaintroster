@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/j-j-abatement-of-new-york-llc-ny111
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 440-2994
 * Address: 348 4th Ave, Brooklyn, NY 11215
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F244626-2 (exp. 2029-02-13)
 

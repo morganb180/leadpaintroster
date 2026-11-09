@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/three-rivers-environmental-nj0171/
 
 * Lead inspection / evaluation
 * Mullica Hill, NJ (Gloucester County)
-* Phone: (856) 434-4975
 * Address: 35 Hickory Ridge Ct, Mullica Hill, NJ 08062
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00911 (exp. 2028-03-31)
 

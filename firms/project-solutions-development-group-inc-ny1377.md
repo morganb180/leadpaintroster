@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/project-solutions-development-group
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (917) 364-7166
 * Address: 4705 Center Blvd Suite Ph3, Long Island City, NY 11109
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F187660-3 (exp. 2027-06-22)
 

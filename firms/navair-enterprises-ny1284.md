@@ -1,6 +1,6 @@
 ---
 title: "NavAir Enterprises, Thiells, NY | Lead Paint Roster"
-description: "NavAir Enterprises in Thiells, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "NavAir Enterprises in Thiells, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/navair-enterprises-ny1284/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/navair-enterprises-ny1284/
 
 * Lead abatement
 * Thiells, NY (Rockland County)
-* Phone: (917) 728-0290
 * Address: 13 Dawson Rd, Thiells, NY 10984
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F281801-1 (exp. 2028-02-04)
 

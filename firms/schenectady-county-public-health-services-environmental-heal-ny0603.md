@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/schenectady-county-public-health-se
 
 * Lead inspection / evaluation
 * Schenectady, NY (Schenectady County)
-* Phone: (518) 386-2818
 * Address: 107 Nott Ter, Schenectady, NY 12308
 * Google rating: 4.2 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-117930-3 (exp. 2026-11-23)

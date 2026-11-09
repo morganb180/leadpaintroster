@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/orelvis-general-contracting-ny1321/
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (585) 957-3934
 * Address: 30 Wolff St, Rochester, NY 14606
 * Google rating: 5.0 from 97 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F255344-1 (exp. 2026-10-24)

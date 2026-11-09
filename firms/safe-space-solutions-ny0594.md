@@ -1,6 +1,6 @@
 ---
 title: "Safe Space Solutions, Albany, NY | Lead Paint Roster"
-description: "Safe Space Solutions in Albany, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Safe Space Solutions in Albany, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/safe-space-solutions-ny0594/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/safe-space-solutions-ny0594/
 
 * Lead inspection / evaluation
 * Albany, NY (Albany County)
-* Phone: (718) 598-6812
 * Address: 54 State St, Albany, NY 12207
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F263738-1 (exp. 2027-05-13)
 

@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/franklin-services-llc-ma0027/
 
 * Lead risk assessment
 * Marion, MA (Plymouth County)
-* Phone: (508) 889-7864
-* Email: afranklin@franklinanalytical.net
 * Address: Marion, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0027

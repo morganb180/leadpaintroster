@@ -1,6 +1,6 @@
 ---
 title: "Bnf Consulting, Inc, Somers, NY | Lead Paint Roster"
-description: "Bnf Consulting, Inc in Somers, NY: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Bnf Consulting, Inc in Somers, NY: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/bnf-consulting-inc-nj0036/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bnf-consulting-inc-nj0036/
 
 * Lead inspection / evaluation
 * Somers, NY (Westchester County)
-* Phone: (914) 297-8335
 * Address: 15 Lincoln Ave, Somers, NY 10589
 * Google rating: 5.0 from 104 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00844 (exp. 2026-11-30)

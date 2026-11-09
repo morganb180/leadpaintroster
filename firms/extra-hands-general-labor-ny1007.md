@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/extra-hands-general-labor-ny1007/
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (585) 402-2309
 * Address: 99 Villa St, Rochester, NY 14606
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F329931-1 (exp. 2029-04-13)
 

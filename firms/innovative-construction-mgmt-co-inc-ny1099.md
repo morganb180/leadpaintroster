@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/innovative-construction-mgmt-co-inc
 
 * Lead abatement
 * Elmhurst, NY (Queens County)
-* Phone: (929) 522-0083
 * Address: 8616 Queens Blvd, Elmhurst, NY 11373
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F108389-2 (exp. 2028-11-17)
 

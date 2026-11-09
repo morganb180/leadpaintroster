@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/velmartin-associates-inc-ny0666/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 342-7686
 * Address: 932 Albany Ave, Brooklyn, NY 11203
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2669-4 (exp. 2029-12-24)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2669-4 (exp. 2029-12-24)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/technomen-ny-inc-ny0638/
 
 * Lead abatement, Lead inspection / evaluation
 * Franklin Square, NY (Nassau County)
-* Phone: (646) 208-6764
 * Address: 1003 Maple Dr, Franklin Square, NY 11010
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F171319-3 (exp. 2026-11-15)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F171319-3 (exp. 2026-11-15)

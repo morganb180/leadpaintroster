@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/enp-environmental-inc-ny0214/
 
 * Lead abatement, Lead inspection / evaluation
 * Long Beach, NY (Nassau County)
-* Phone: (516) 835-9918
 * Address: 507A W Broadway, Long Beach, NY 11561
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F228588-2 (exp. 2027-09-08)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F228588-2 (exp. 2027-09-08)

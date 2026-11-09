@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lexian-corp-ny0416/
 
 * Lead abatement, Lead inspection / evaluation
 * Melville, NY (Suffolk County)
-* Phone: (347) 293-0709
 * Address: 178 Bagatelle Rd, Melville, NY 11747
 * Google rating: 1.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F202664-1 (exp. 2028-12-03)

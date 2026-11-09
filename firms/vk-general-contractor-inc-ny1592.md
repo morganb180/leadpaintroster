@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/vk-general-contractor-inc-ny1592/
 
 * Lead abatement
 * Astoria, NY (Queens County)
-* Phone: (646) 246-7314
 * Address: 2074 Steinway St, Astoria, NY 11105
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F154047-4 (exp. 2028-02-18)
 

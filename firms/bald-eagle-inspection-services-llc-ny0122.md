@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bald-eagle-inspection-services-llc-
 
 * Lead inspection / evaluation
 * Schaghticoke, NY (Rensselaer County)
-* Phone: (518) 488-2538
 * Address: 856 Knickerbocker Rd, Schaghticoke, NY 12154
 * Google rating: 5.0 from 94 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F292951-1 (exp. 2028-05-15)

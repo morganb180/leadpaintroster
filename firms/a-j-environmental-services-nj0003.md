@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-j-environmental-services-nj0003/
 
 * Lead abatement, Lead inspection / evaluation
 * Lakewood, NJ (Ocean County)
-* Phone: (856) 880-5323
 * Address: 37 Blossom Dr, Lakewood, NJ 08701
 * Google rating: 5.0 from 85 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00757 (exp. 2027-05-31)

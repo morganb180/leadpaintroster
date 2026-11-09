@@ -1,6 +1,6 @@
 ---
 title: "TERS Inc., Nanuet, NY | Lead Paint Roster"
-description: "TERS Inc. in Nanuet, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "TERS Inc. in Nanuet, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/ters-inc-ny1531/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ters-inc-ny1531/
 
 * Lead abatement
 * Nanuet, NY (Rockland County)
-* Phone: (914) 707-0183
 * Address: 410 E Route 59, Nanuet, NY 10954
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-18158-3 (exp. 2026-11-13)
 

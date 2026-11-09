@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/greene/
 Licensed firm
 
 3213 Rt 23C, Jewett, NY  
-☎ [(212) 799-0703](tel:2127990703)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-40251-1 (exp. 2028-05-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1583)

@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/columbia/
 Licensed firm
 
 23 Ohio Ave, Ancramdale, NY  
-☎ [(845) 784-6177](tel:8457846177)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F350818-1 (exp. 2029-10-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1615)
@@ -34,8 +32,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 524 Columbia St, Hudson, NY  
-☎ [(518) 822-1806](tel:5188221806)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-80441-2 (exp. 2028-12-18)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1304)
@@ -47,8 +43,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 35 Stepin Rd, Hudson, NY  
-☎ [(518) 300-3209](tel:5183003209)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F307465-1 (exp. 2028-09-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1472)

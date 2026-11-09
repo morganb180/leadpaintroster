@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/total-quality-environmental-inc-ny0
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 404-6704
 * Address: 116 Bay 19th St, Brooklyn, NY 11214
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F196630-3 (exp. 2028-05-13)
 

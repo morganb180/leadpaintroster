@@ -21,7 +21,6 @@ Lead Paint Roster lists 5 NJ DCA-licensed listings for lead inspection / evaluat
 Licensed firm
 
 1977 N.olden Ave, Suite 123, Ewing, NJ  
-☎ [(888) 362-8444](tel:8883628444)  
 Contact listed by NJ DCA: Janel Cylde
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00893 (exp. 2027-09-30)  
@@ -35,7 +34,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 15 Princess Rd, Suite K, Lawrenceville, NJ  
-☎ [(609) 910-0720](tel:6099100720)  
 Contact listed by NJ DCA: Christian J. Esposito
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00702 (exp. 2027-09-30)  
@@ -49,7 +47,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 300 Carnegie Center, Suite 150, Princeton, NJ  
-☎ [(609) 214-9586](tel:6092149586)  
 Contact listed by NJ DCA: Robert K. Reinhardt Jr.
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00887 (exp. 2027-07-31)  
@@ -63,7 +60,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 500 Horizon Dr, Suite 540, Robbinsville, NJ  
-☎ [(609) 890-7277](tel:6098907277)  
 Contact listed by NJ DCA: Julian Fernandez-Obregon
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00416 (exp. 2026-11-30)  
@@ -77,7 +73,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 120 N Warren St, Trenton, NJ  
-☎ [(609) 392-4200](tel:6093924200)  
 Contact listed by NJ DCA: Roland C. Jones
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00200 (exp. 2027-05-31)  
@@ -95,7 +90,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 2115 Hamilton Ave, Ste.202, Trenton, NJ  
-☎ [(609) 914-4279](tel:6099144279)  
 Contact listed by NJ DCA: Brian Haney
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00743 (exp. 2027-04-30)  

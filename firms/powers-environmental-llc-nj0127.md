@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/powers-environmental-llc-nj0127/
 
 * Lead inspection / evaluation
 * Montgomery, NY (Orange County)
-* Phone: (203) 775-4885
 * Address: 91 Corbett Rd, Montgomery, NY 12549
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00915 (exp. 2028-03-31)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sessler-environmental-services-llc-
 
 * Lead abatement
 * Macedon, NY (Wayne County)
-* Phone: (585) 617-5710
 * Address: 1330 Research Forest, Macedon, NY 14502
 * Google rating: 4.7 from 14 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F179613-4 (exp. 2030-02-21)

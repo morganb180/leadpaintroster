@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gsd-environmental-services-inc-ny10
 
 * Lead abatement
 * Tuxedo Park, NY (Orange County)
-* Phone: (862) 279-3467
 * Address: 41 Alexander Dr, Tuxedo Park, NY 10987
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F235521-2 (exp. 2028-07-23)
 

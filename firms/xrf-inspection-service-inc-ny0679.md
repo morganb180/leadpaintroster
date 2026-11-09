@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/xrf-inspection-service-inc-ny0679/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 780-6948
 * Address: 2168 86th St 2 R, Brooklyn, NY 11214
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F237932-2 (exp. 2028-07-11)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F237932-2 (exp. 2028-07-11)

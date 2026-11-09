@@ -1,6 +1,6 @@
 ---
 title: "Ec Solutions Inc., Port Washington, NY | Lead Paint Roster"
-description: "Ec Solutions Inc. in Port Washington, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Ec Solutions Inc. in Port Washington, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/ec-solutions-inc-ny0966/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ec-solutions-inc-ny0966/
 
 * Lead abatement
 * Port Washington, NY (Nassau County)
-* Phone: (646) 749-7669
 * Address: 1 Dunes Ln, Port Washington, NY 11050
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F207980-3 (exp. 2029-08-19)
 

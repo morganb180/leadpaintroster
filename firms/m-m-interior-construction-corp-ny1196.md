@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/m-m-interior-construction-corp-ny11
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 208-9369
 * Address: 3467 Dekalb Ave, Bronx, NY 10467
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F257268-1 (exp. 2026-12-12)
 

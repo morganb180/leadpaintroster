@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/fuss-o-neill-ma0019/
 
 * Lead risk assessment
 * Hartford, CT (Capitol Region County)
-* Phone: (413) 335-6568
-* Email: pbateman@fando.com
 * Address: Hartford, CT
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0019

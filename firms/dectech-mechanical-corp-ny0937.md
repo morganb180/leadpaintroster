@@ -1,6 +1,6 @@
 ---
 title: "Dectech Mechanical, Corp., Yonkers, NY | Lead Paint Roster"
-description: "Dectech Mechanical, Corp. in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Dectech Mechanical, Corp. in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/dectech-mechanical-corp-ny0937/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dectech-mechanical-corp-ny0937/
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (914) 349-3323
 * Address: 340 Saw Mill River Rd, Yonkers, NY 10701
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F264888-1 (exp. 2027-06-06)
 

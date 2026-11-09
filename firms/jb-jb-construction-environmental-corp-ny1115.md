@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jb-jb-construction-environmental-co
 
 * Lead abatement
 * South Richmond Hill, NY (Queens County)
-* Phone: (917) 612-9987
 * Address: 11704 103rd Ave, South Richmond Hill, NY 11419
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F151228-3 (exp. 2028-12-22)
 

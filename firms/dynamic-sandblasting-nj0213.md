@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Sandblasting, Eatontown, NJ | Lead Paint Roster"
-description: "Dynamic Sandblasting in Eatontown, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Dynamic Sandblasting in Eatontown, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/dynamic-sandblasting-nj0213/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dynamic-sandblasting-nj0213/
 
 * Lead abatement
 * Eatontown, NJ (Monmouth County)
-* Phone: (732) 344-2969
 * Address: 615 Hope Rd, Bldg 2, 2FLR., Eatontown, NJ 07724
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00706 (exp. 2027-12-31)
 

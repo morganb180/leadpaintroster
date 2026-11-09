@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/global-environmental-inc-ny1056/
 
 * Lead abatement
 * Queens Village, NY (Queens County)
-* Phone: (347) 845-7003
 * Address: 21103 99th Ave, Queens Village, NY 11429
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F275594-1 (exp. 2027-11-21)
 

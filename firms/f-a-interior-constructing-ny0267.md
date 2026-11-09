@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/f-a-interior-constructing-ny0267/
 
 * Lead inspection / evaluation
 * Whitestone, NY (Queens County)
-* Phone: (917) 945-6387
 * Address: 151-40 12th Ave, Whitestone, NY 11357
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F120914-1 (exp. 2028-02-11)
 

@@ -1,6 +1,6 @@
 ---
 title: "Primold Inc., Highland Mills, NY | Lead Paint Roster"
-description: "Primold Inc. in Highland Mills, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Primold Inc. in Highland Mills, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/primold-inc-ny1372/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/primold-inc-ny1372/
 
 * Lead abatement
 * Highland Mills, NY (Orange County)
-* Phone: (845) 372-1163
 * Address: 29 Country Hollow, Highland Mills, NY 10930
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F238866-2 (exp. 2028-08-17)
 

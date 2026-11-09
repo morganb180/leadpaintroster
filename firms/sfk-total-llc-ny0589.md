@@ -1,6 +1,6 @@
 ---
 title: "SFK Total LLC, Congers, NY | Lead Paint Roster"
-description: "SFK Total LLC in Congers, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "SFK Total LLC in Congers, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/sfk-total-llc-ny0589/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sfk-total-llc-ny0589/
 
 * Lead inspection / evaluation
 * Congers, NY (Rockland County)
-* Phone: (845) 422-1524
 * Address: 66 Lakewood Dr, Congers, NY 10920
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F297744-1 (exp. 2028-06-17)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/telos-consulting-services-llc-ny064
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (607) 391-2686
 * Address: 1178 Broadway, New York, NY 10001
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F238230-2 (exp. 2028-07-27)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F238230-2 (exp. 2028-07-27)

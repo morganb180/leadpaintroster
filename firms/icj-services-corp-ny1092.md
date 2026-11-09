@@ -1,6 +1,6 @@
 ---
 title: "ICJ Services Corp, Medford, NY | Lead Paint Roster"
-description: "ICJ Services Corp in Medford, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "ICJ Services Corp in Medford, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/icj-services-corp-ny1092/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/icj-services-corp-ny1092/
 
 * Lead abatement
 * Medford, NY (Suffolk County)
-* Phone: (347) 961-7575
 * Address: 76 Sharon Ct, Medford, NY 11763
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F210184-2 (exp. 2027-12-27)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aba-innovative-builders-inc-ny0720/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (347) 463-6492
 * Address: 398 Cromwell Ave, Staten Island, NY 10305
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F301322-1 (exp. 2028-07-16)
 

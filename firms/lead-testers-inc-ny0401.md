@@ -1,6 +1,6 @@
 ---
 title: "Lead Testers Inc., Spring Valley, NY | Lead Paint Roster"
-description: "Lead Testers Inc. in Spring Valley, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Lead Testers Inc. in Spring Valley, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lead-testers-inc-ny0401/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lead-testers-inc-ny0401/
 
 * Lead inspection / evaluation
 * Spring Valley, NY (Rockland County)
-* Phone: (646) 250-9538
 * Address: 11 Charles Ln, Spring Valley, NY 10977
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F243919-2 (exp. 2029-01-19)
 

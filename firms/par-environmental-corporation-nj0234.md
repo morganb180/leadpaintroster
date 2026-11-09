@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/par-environmental-corporation-nj023
 
 * Lead abatement
 * Suffern, NY (Rockland County)
-* Phone: (845) 369-7500
 * Address: 313 Spook Rock Rd, Suffern, NY 10901
 * Google rating: 4.3 from 6 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00542 (exp. 2028-03-31)

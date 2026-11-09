@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/anderson-lead-inspections-ma0045/
 
 * Lead risk assessment
 * Stow, MA (Middlesex County)
-* Phone: (978) 875-3081
-* Email: canderson@andersonlead.com
 * Address: Stow, MA
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 

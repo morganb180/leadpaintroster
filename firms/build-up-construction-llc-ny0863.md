@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/build-up-construction-llc-ny0863/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 420-5459
 * Address: 178 E 95th St, Brooklyn, NY 11212
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F182929-3 (exp. 2027-02-07)
 

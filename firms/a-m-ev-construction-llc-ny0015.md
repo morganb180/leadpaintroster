@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-m-ev-construction-llc-ny0015/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 200-2487
 * Address: 825 E 15th St, Brooklyn, NY 11230
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F264196-1 (exp. 2027-05-22)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F264196-1 (exp. 2027-05-22)

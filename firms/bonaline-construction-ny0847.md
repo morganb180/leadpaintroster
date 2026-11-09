@@ -1,6 +1,6 @@
 ---
 title: "Bonaline Construction, Bronx, NY | Lead Paint Roster"
-description: "Bonaline Construction in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Bonaline Construction in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/bonaline-construction-ny0847/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bonaline-construction-ny0847/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (347) 336-6340
 * Address: 2436 Delanoy Ave, Bronx, NY 10469
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F264101-1 (exp. 2027-05-21)
 

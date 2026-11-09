@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/abl-construction-group-llc-ny0722/
 
 * Lead abatement
 * New Rochelle, NY (Westchester County)
-* Phone: (347) 213-9316
 * Address: 17 Cole Ter, New Rochelle, NY 10801
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F298344-1 (exp. 2028-06-17)
 

@@ -29,8 +29,6 @@ Lead Paint Roster lists 8 EPA-licensed listings with an address in Ridgewood: 4 
 Licensed firm
 
 5326 Metropolitan Ave, Ridgewood, NY  
-☎ [(646) 248-1391](tel:6462481391)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295674-1 (exp. 2028-06-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0033)
@@ -42,8 +40,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 5948 Madison St, Ridgewood, NY  
-☎ [(347) 219-1526](tel:3472191526)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-12767-3 (exp. 2028-05-20)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-12767-3 (exp. 2028-05-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -56,8 +52,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 5948 Madison St, Ridgewood, NY  
-☎ [(347) 533-2605](tel:3475332605)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F304482-1 (exp. 2028-08-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0412)
@@ -69,8 +63,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2018 Greene Ave, Ridgewood, NY  
-☎ [(516) 401-4575](tel:5164014575)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F206053-1 (exp. 2028-02-11)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F206053-1 (exp. 2028-02-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -85,8 +77,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1746 Summerfield St, Ridgewood, NY  
-☎ [(347) 691-6661](tel:3476916661)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F211000-3 (exp. 2029-03-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0839)
@@ -98,8 +88,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1728 Putnam Ave, Ridgewood, NY  
-☎ [(718) 388-8070](tel:7183888070)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-69209-4 (exp. 2029-02-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0871)
@@ -111,8 +99,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2115 Linden St, Ridgewood, NY  
-☎ [(347) 265-7746](tel:3472657746)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F209462-3 (exp. 2028-10-31)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1357)
@@ -124,8 +110,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 6106 Grove St, Ridgewood, NY  
-☎ [(212) 202-2907](tel:2122022907)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F277026-1 (exp. 2027-12-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1427)

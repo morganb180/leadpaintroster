@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gt-k-construction-inc-ny0287/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (347) 430-1473
 * Address: 369 Lexington Ave, New York, NY 10017
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F216592-1 (exp. 2028-03-25)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F216592-1 (exp. 2028-03-25)

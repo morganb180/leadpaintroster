@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/painting-etc-inc-ny0522/
 
 * Lead abatement, Lead inspection / evaluation
 * Colton, NY (St. Lawrence County)
-* Phone: (315) 262-2150
 * Address: 18 McKabe Rd, Colton, NY 13625
 * Google rating: 4.1 from 13 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-126701-3 (exp. 2028-12-03)

@@ -1,6 +1,6 @@
 ---
 title: "ATKO Construction Corp, Brooklyn, NY | Lead Paint Roster"
-description: "ATKO Construction Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "ATKO Construction Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/atko-construction-corp-ny0740/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/atko-construction-corp-ny0740/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 834-7854
 * Address: 550 E 21st St, Brooklyn, NY 11226
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F199812-3 (exp. 2028-06-04)
 

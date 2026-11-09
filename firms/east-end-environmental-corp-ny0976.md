@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/east-end-environmental-corp-ny0976/
 
 * Lead abatement
 * Kings Park, NY (Suffolk County)
-* Phone: (631) 219-4171
 * Address: 143 Rumford Rd, Kings Park, NY 11754
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F225722-2 (exp. 2027-06-01)
 

@@ -29,8 +29,6 @@ Lead Paint Roster lists 4 EPA-licensed listings with an address in Farmingdale: 
 Licensed firm
 
 4 Darlene Ter, Farmingdale, NY  
-☎ [(631) 839-2144](tel:6318392144)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F228144-1 (exp. 2028-02-21)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F228144-1 (exp. 2028-02-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 128 Duane St, Farmingdale, NY  
-☎ [(631) 681-4261](tel:6316814261)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F256462-1 (exp. 2026-11-30)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F256462-1 (exp. 2026-11-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -59,8 +55,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 170 Central Ave, Farmingdale, NY  
-☎ [(516) 888-1708](tel:5168881708)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F174803-3 (exp. 2028-07-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0711)
@@ -72,8 +66,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 200 Central Ave, Farmingdale, NY  
-☎ [(516) 777-7001](tel:5167777001)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F162791-4 (exp. 2029-01-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1582)

@@ -1,6 +1,6 @@
 ---
 title: "Zeshan Construction Corp, Bronx, NY | Lead Paint Roster"
-description: "Zeshan Construction Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Zeshan Construction Corp in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/zeshan-construction-corp-ny1634/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/zeshan-construction-corp-ny1634/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 280-7641
 * Address: 967 E Gun Hill Rd, Bronx, NY 10469
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F301818-1 (exp. 2028-07-23)
 

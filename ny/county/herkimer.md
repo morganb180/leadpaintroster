@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/herkimer/
 Licensed firm
 
 23 Brockett St, Dolgeville, NY  
-☎ [(315) 868-3249](tel:3158683249)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F281536-1 (exp. 2028-04-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1513)

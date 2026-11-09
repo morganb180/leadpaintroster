@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lead-tech-nyc-llc-ny0399/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (516) 582-0588
 * Address: 247 W 15th St, New York, NY 10011
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F259838-1 (exp. 2027-02-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F259838-1 (exp. 2027-02-23)

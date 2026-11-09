@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ta-mt-construction-inc-ny1529/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 335-9641
 * Address: 8015 Bay Pkwy, Brooklyn, NY 11214
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262488-1 (exp. 2027-07-31)
 

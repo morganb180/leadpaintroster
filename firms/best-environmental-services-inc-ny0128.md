@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/best-environmental-services-inc-ny0
 
 * Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (646) 217-2583
 * Address: 439E 135th St, Bronx, NY 10454
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F154613-4 (exp. 2028-04-23)
 

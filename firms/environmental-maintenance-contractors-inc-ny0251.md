@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-maintenance-contracto
 
 * Lead abatement, Lead inspection / evaluation
 * Mount Kisco, NY (Westchester County)
-* Phone: (914) 232-7355
 * Address: 333 Lexington Ave, Mount Kisco, NY 10549
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-62470-4 (exp. 2029-10-06)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-62470-4 (exp. 2029-10-06)

@@ -1,6 +1,6 @@
 ---
 title: "TRC (Moses Ramirez): Lead Paint Inspector, Woburn MA"
-description: "TRC (Moses Ramirez) in Woburn, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "TRC (Moses Ramirez) in Woburn, MA: Massachusetts DLS licensed for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/trc-ma0058/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/trc-ma0058/
 
 * Lead inspection / evaluation
 * Woburn, MA (Middlesex County)
-* Phone: (617) 913-5398
-* Email: mosesr163@hotmail.com
 * Address: Woburn, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0058

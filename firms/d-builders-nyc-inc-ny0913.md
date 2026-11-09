@@ -1,6 +1,6 @@
 ---
 title: "D Builders NYC Inc, West Harrison, NY | Lead Paint Roster"
-description: "D Builders NYC Inc in West Harrison, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "D Builders NYC Inc in West Harrison, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/d-builders-nyc-inc-ny0913/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/d-builders-nyc-inc-ny0913/
 
 * Lead abatement
 * West Harrison, NY (Westchester County)
-* Phone: (718) 501-2040
 * Address: 243 Lakveiew Ave, West Harrison, NY 10604
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F229410-2 (exp. 2028-04-10)
 

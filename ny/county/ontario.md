@@ -21,8 +21,6 @@ Lead Paint Roster lists 1 EPA-licensed listing for lead inspection / evaluation 
 Licensed firm
 
 7224 Route 96, Victor, NY  
-☎ [(585) 924-8350](tel:5859248350)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-63594-1 (exp. 2028-07-16)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0521)

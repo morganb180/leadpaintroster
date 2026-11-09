@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tara-enterprises-corp-ny0636/
 
 * Lead abatement, Lead inspection / evaluation
 * Port Washington, NY (Nassau County)
-* Phone: (347) 538-4591
 * Address: 1 Crooker Pl, Port Washington, NY 11050
 * Google rating: 4.0 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F113446-3 (exp. 2028-06-13)

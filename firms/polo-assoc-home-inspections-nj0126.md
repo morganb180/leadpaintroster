@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/polo-assoc-home-inspections-nj0126/
 
 * Lead inspection / evaluation
 * Morris Plains, NJ (Morris County)
-* Phone: (973) 539-0715
 * Address: 1656 Littleton Rd, Morris Plains, NJ 07950
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00746 (exp. 2027-02-28)
 

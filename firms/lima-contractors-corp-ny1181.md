@@ -1,6 +1,6 @@
 ---
 title: "Lima Contractors, Corp., Brooklyn, NY | Lead Paint Roster"
-description: "Lima Contractors, Corp. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Lima Contractors, Corp. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lima-contractors-corp-ny1181/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lima-contractors-corp-ny1181/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 618-2734
 * Address: 278 6th St, Brooklyn, NY 11215
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262752-1 (exp. 2027-04-26)
 

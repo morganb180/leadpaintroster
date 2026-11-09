@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/quicken-business-solutions-llc-ny13
 
 * Lead abatement
 * Syracuse, NY (Onondaga County)
-* Phone: (336) 905-3510
 * Address: 807 N Salina St, Syracuse, NY 13208
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F312406-1 (exp. 2028-10-30)
 

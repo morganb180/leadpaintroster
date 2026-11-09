@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/professional-environmental-services
 
 * Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (718) 231-8399
 * Address: 3092 Hull Ave, Bronx, NY 10467
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2458-3 (exp. 2027-04-26)
 

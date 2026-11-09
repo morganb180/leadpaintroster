@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/envio-environmental-inc-ny0236/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 813-3988
 * Address: 1010 Rogers Ave, Brooklyn, NY 11226
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F290866-1 (exp. 2028-04-16)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F290866-1 (exp. 2028-04-16)

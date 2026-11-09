@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/fire-shield-restoration-llc-ny1019/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 441-8539
 * Address: 2918 Ave M, Brooklyn, NY 11210
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F286381-1 (exp. 2028-03-05)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mdg-design-construction-llc-ny1204/
 
 * Lead abatement
 * Woodbury, NY (Nassau County)
-* Phone: (631) 400-8189
 * Address: 170 Froehlich Farm Blvd, Woodbury, NY 11797
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-115775-4 (exp. 2029-12-27)
 

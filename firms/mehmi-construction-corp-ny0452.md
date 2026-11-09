@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mehmi-construction-corp-ny0452/
 
 * Lead inspection / evaluation
 * Hicksville, NY (Nassau County)
-* Phone: (929) 369-8098
 * Address: 69 Elm St, Hicksville, NY 11801
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F208578-1 (exp. 2027-06-17)
 

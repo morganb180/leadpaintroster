@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/apc-s-llc-ny0053/
 
 * Lead abatement, Lead inspection / evaluation
 * Richmond Hill, NY (Queens County)
-* Phone: (347) 771-4405
 * Address: 9326 123rd St, Richmond Hill, NY 11419
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F265771-1 (exp. 2027-06-27)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F265771-1 (exp. 2027-06-27)

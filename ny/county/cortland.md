@@ -21,8 +21,6 @@ Lead Paint Roster lists 3 EPA-licensed listings for lead inspection / evaluation
 Licensed firm
 
 32 N Main St, Cortland, NY  
-☎ [(607) 344-3112](tel:6073443112)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-22323-1 (exp. 2029-04-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0183)
@@ -34,8 +32,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 7 Douglas St, Cortland, NY  
-☎ [(607) 745-5370](tel:6077455370)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F236494-2 (exp. 2029-08-26)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F236494-2 (exp. 2029-08-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -48,8 +44,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 241 Merrill Rd, Homer, NY  
-☎ [(315) 863-2189](tel:3158632189)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F221343-2 (exp. 2027-01-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0550)

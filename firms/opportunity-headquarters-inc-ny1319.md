@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/opportunity-headquarters-inc-ny1319
 
 * Lead abatement
 * Syracuse, NY (Onondaga County)
-* Phone: (315) 474-1939
 * Address: 625 Erie Blvd West, Syracuse, NY 13204
 * Google rating: 4.2 from 114 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-20571-3 (exp. 2028-06-17)

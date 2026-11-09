@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rockland-wall-covering-paint-inc-ny
 
 * Lead abatement
 * New City, NY (Rockland County)
-* Phone: (914) 349-3349
 * Address: 14 Fair Haven Dr, New City, NY 10956
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F259471-1 (exp. 2027-02-19)
 

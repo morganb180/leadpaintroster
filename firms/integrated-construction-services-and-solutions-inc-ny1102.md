@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/integrated-construction-services-an
 
 * Lead abatement
 * Buffalo, NY (Erie County)
-* Phone: (716) 462-7979
 * Address: 505 Ellicott St, Buffalo, NY 14203
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F302177-1 (exp. 2028-07-28)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/comprehensive-env-services-nj0040/
 
 * Lead inspection / evaluation
 * Somerville, NJ (Somerset County)
-* Phone: (732) 841-6161
 * Address: 88 3rd St, Somerville, NJ 08876
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00891 (exp. 2027-11-30)
 

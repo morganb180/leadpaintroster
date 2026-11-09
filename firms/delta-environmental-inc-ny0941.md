@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/delta-environmental-inc-ny0941/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 302-4605
 * Address: 71 Green St, Brooklyn, NY 11222
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-1914-3 (exp. 2027-09-24)

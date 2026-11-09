@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-g-plastering-and-tile-corp-ny0709
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (718) 409-1100
 * Address: 1601 Bronxdale Ave, Bronx, NY 10462
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-10277-3 (exp. 2027-08-20)
 

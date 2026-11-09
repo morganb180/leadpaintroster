@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/alboro-maintenance-company-of-ny-in
 
 * Lead abatement
 * Nanuet, NY (Rockland County)
-* Phone: (718) 492-9885
 * Address: 228 E Route 59, Nanuet, NY 10954
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-99762-4 (exp. 2028-08-25)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lead-and-mold-detectives-ny0387/
 
 * Lead abatement, Lead inspection / evaluation
 * Glen Head, NY (Nassau County)
-* Phone: (516) 407-1111
 * Address: 2 Quail Path, Glen Head, NY 11545
 * Google rating: 5.0 from 194 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F230203-2 (exp. 2027-11-03)

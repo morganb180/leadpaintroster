@@ -1,6 +1,6 @@
 ---
 title: "Milro Services, Inc., Freeport, NY | Lead Paint Roster"
-description: "Milro Services, Inc. in Freeport, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Milro Services, Inc. in Freeport, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/milro-services-inc-ny1256/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/milro-services-inc-ny1256/
 
 * Lead abatement
 * Freeport, NY (Nassau County)
-* Phone: (516) 379-6100
 * Address: 41 Hanse Ave, Freeport, NY 11520
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-39421-4 (exp. 2028-11-08)
 

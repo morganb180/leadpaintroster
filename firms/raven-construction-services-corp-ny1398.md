@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/raven-construction-services-corp-ny
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 307-5751
 * Address: 171 Morgan Ave, Brooklyn, NY 11237
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F253887-2 (exp. 2029-09-19)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tectonic-engineering-consultants-ge
 
 * Lead inspection / evaluation
 * Mountainville, NY (Orange County)
-* Phone: (845) 534-5959
 * Address: 70 Pleasant Hill Rd, Mountainville, NY 10953
 * Google rating: 4.8 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F154902-3 (exp. 2027-06-26)

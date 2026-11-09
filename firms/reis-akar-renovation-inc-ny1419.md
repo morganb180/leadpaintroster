@@ -1,6 +1,6 @@
 ---
 title: "Reis Akar Renovation Inc, Maspeth, NY | Lead Paint Roster"
-description: "Reis Akar Renovation Inc in Maspeth, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Reis Akar Renovation Inc in Maspeth, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/reis-akar-renovation-inc-ny1419/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/reis-akar-renovation-inc-ny1419/
 
 * Lead abatement
 * Maspeth, NY (Queens County)
-* Phone: (917) 468-6950
 * Address: 5935 60th Ave, Maspeth, NY 11378
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F259132-1 (exp. 2027-02-08)
 

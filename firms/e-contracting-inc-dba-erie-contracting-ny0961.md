@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/e-contracting-inc-dba-erie-contract
 
 * Lead abatement
 * Lancaster, NY (Erie County)
-* Phone: (716) 686-3860
 * Address: 188 Erie St, Lancaster, NY 14086
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-40453-2 (exp. 2028-09-30)
 

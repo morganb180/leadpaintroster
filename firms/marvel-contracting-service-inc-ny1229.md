@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/marvel-contracting-service-inc-ny12
 
 * Lead abatement
 * Oakland Gardens, NY (Queens County)
-* Phone: (718) 225-2316
 * Address: 5819 230th St, Oakland Gardens, NY 11364
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-85801-1 (exp. 2029-09-09)
 

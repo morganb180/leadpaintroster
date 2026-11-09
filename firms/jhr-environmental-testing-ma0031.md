@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/jhr-environmental-testing-ma0031/
 
 * Lead risk assessment
 * Newton, MA (Middlesex County)
-* Phone: (617) 869-9059
-* Email: jrisko@jhr82.com
 * Address: Newton, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0031

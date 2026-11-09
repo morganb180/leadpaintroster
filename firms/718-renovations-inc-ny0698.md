@@ -1,6 +1,6 @@
 ---
 title: "718 Renovations Inc., Douglaston, NY | Lead Paint Roster"
-description: "718 Renovations Inc. in Douglaston, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "718 Renovations Inc. in Douglaston, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/718-renovations-inc-ny0698/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/718-renovations-inc-ny0698/
 
 * Lead abatement
 * Douglaston, NY (Queens County)
-* Phone: (917) 494-9204
 * Address: 311 Cherry St, Douglaston, NY 11363
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F267422-1 (exp. 2027-08-16)
 

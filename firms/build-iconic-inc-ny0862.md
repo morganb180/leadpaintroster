@@ -1,6 +1,6 @@
 ---
 title: "Build Iconic Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Build Iconic Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Build Iconic Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/build-iconic-inc-ny0862/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/build-iconic-inc-ny0862/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (844) 343-3333
 * Address: 254 36th St, Brooklyn, NY 11232
 * Google rating: 5.0 from 16 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F238913-2 (exp. 2028-08-17)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/luxury-tile-and-painting-llc-ny1189
 
 * Lead abatement
 * Far Rockaway, NY (Queens County)
-* Phone: (347) 361-3459
 * Address: 168 Beach 91st St, Far Rockaway, NY 11693
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F212169-1 (exp. 2028-01-28)
 

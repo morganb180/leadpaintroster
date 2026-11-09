@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/allegany/
 Licensed firm
 
 5775 Lyons Rd, Belmont, NY  
-☎ [(585) 449-1252](tel:5854491252)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F231137-1 (exp. 2029-06-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1351)

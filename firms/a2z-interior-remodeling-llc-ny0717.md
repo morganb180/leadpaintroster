@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a2z-interior-remodeling-llc-ny0717/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (929) 364-2185
 * Address: 459 Sterling Pl, Brooklyn, NY 11238
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F348346-1 (exp. 2029-09-29)
 

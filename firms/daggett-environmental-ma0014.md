@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/daggett-environmental-ma0014/
 
 * Lead inspection / evaluation
 * Dudley, MA (Worcester County)
-* Phone: (774) 230-7045
-* Email: Tracy@MassLeadInspector.com
 * Address: Dudley, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0014

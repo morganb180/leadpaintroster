@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/degraw-s-one-call-construction-llc-
 
 * Lead abatement
 * Pond Eddy, NY (Sullivan County)
-* Phone: (845) 754-1839
 * Address: 7 Dutch Hill Rd, Pond Eddy, NY 12770
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F220238-2 (exp. 2026-12-17)
 

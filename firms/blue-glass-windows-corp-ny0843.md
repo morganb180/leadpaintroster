@@ -1,6 +1,6 @@
 ---
 title: "Blue Glass Windows Corp, Smithtown, NY | Lead Paint Roster"
-description: "Blue Glass Windows Corp in Smithtown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Blue Glass Windows Corp in Smithtown, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/blue-glass-windows-corp-ny0843/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/blue-glass-windows-corp-ny0843/
 
 * Lead abatement
 * Smithtown, NY (Suffolk County)
-* Phone: (631) 379-7319
 * Address: 47 E Hill Dr, Smithtown, NY 11787
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F267545-1 (exp. 2027-08-12)
 

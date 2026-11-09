@@ -23,10 +23,6 @@ Listings holding more than one licence type are shown once, in the first matchin
 Licensed firm
 
 Northampton, MA  
-☎ [(413) 210-5500](tel:4132105500)  
-✉ [steve.ganzel@oneatlas.com](mailto:steve.ganzel@oneatlas.com)  
-✉ [Crystal.barry@oneatlas.com](mailto:Crystal.barry@oneatlas.com)
-
 4 licensed individuals
 
 * Steven Ganzel (MA DLS Inspector #004289 (exp. 2027-03-27))

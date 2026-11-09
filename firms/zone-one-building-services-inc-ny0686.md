@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/zone-one-building-services-inc-ny06
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 960-5872
 * Address: 975 56th St, Brooklyn, NY 11219
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F273288-1 (exp. 2027-11-04)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F273288-1 (exp. 2027-11-04)

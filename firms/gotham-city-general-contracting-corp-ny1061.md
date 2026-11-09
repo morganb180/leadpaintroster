@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gotham-city-general-contracting-cor
 
 * Lead abatement
 * Astoria, NY (Queens County)
-* Phone: (718) 905-0757
 * Address: 1938 38th St, Astoria, NY 11105
 * Google rating: 5.0 from 15 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F326763-1 (exp. 2029-03-25)

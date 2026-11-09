@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/leadsafe-lead-inspection-llc-nj0099
 
 * Lead inspection / evaluation
 * Spring Valley, NY (Rockland County)
-* Phone: (845) 521-9383
 * Address: 42 Ellish Pkwy, Spring Valley, NY 10977
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00912 (exp. 2028-03-31)
 

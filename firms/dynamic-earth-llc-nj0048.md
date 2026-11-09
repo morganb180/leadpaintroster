@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Earth, LLC, Lake Como, NJ | Lead Paint Roster"
-description: "Dynamic Earth, LLC in Lake Como, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Dynamic Earth, LLC in Lake Como, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/dynamic-earth-llc-nj0048/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dynamic-earth-llc-nj0048/
 
 * Lead inspection / evaluation
 * Lake Como, NJ (Monmouth County)
-* Phone: (732) 681-0760
 * Address: 1904 Main St, Lake Como, NJ 07719
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00930 (exp. 2028-07-13)
 

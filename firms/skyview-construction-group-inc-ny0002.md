@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/skyview-construction-group-inc-ny00
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 787-1125
 * Address: 2145 Ocean Ave, Brooklyn, NY 11229
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-118663-1 (exp. 2028-02-06)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-118663-1 (exp. 2028-02-06)

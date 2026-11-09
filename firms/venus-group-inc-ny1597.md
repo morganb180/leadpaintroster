@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/venus-group-inc-ny1597/
 
 * Lead abatement
 * South Richmond Hill, NY (Queens County)
-* Phone: (347) 480-5450
 * Address: 9706 117th St, South Richmond Hill, NY 11419
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F217263-2 (exp. 2028-04-24)
 

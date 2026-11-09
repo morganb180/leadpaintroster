@@ -21,7 +21,6 @@ Lead Paint Roster lists 2 NJ DCA-licensed listings for lead inspection / evaluat
 Licensed firm
 
 116 Woodbury Dr, Egg Harbor Township, NJ  
-☎ [(609) 576-2759](tel:6095762759)  
 Contact listed by NJ DCA: Afshana Anzum
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00865 (exp. 2027-03-31)  
@@ -36,7 +35,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 101 Palermo Ave, Egg Harbor Twp., NJ  
-☎ [(609) 377-0483](tel:6093770483)  
 Contact listed by NJ DCA: Iqbal Husaeen
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00852 (exp. 2026-11-30)  
@@ -54,7 +52,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 750 California Ave, Absecon, NJ  
-☎ [(609) 344-5300](tel:6093445300)  
 Contact listed by NJ DCA: Thomas Cirignano
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00811 (exp. 2028-05-31)  

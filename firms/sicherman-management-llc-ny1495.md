@@ -1,6 +1,6 @@
 ---
 title: "Sicherman Management LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Sicherman Management LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Sicherman Management LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/sicherman-management-llc-ny1495/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sicherman-management-llc-ny1495/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 851-4441
 * Address: 1451 52nd St, Brooklyn, NY 11219
 * Google rating: 4.2 from 16 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-12303-3 (exp. 2028-01-09)

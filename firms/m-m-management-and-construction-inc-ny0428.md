@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/m-m-management-and-construction-inc
 
 * Lead abatement, Lead inspection / evaluation
 * Congers, NY (Rockland County)
-* Phone: (845) 664-0390
 * Address: 23 Southward Ave, Congers, NY 10920
 * Google rating: 5.0 from 32 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F270575-1 (exp. 2027-10-08)

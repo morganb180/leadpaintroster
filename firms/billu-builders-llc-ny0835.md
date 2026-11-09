@@ -1,6 +1,6 @@
 ---
 title: "Billu Builders LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Billu Builders LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Billu Builders LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/billu-builders-llc-ny0835/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/billu-builders-llc-ny0835/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (929) 326-0007
 * Address: 8609 Bay 16th St, Brooklyn, NY 11214
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F291515-1 (exp. 2028-04-29)

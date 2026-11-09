@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/egcs-elite-global-cleaning-services
 
 * Lead abatement
 * Middle Village, NY (Queens County)
-* Phone: (929) 254-4114
 * Address: 6919 79th St, Middle Village, NY 11379
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F279479-1 (exp. 2027-12-24)
 

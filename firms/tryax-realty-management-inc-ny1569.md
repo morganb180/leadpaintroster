@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tryax-realty-management-inc-ny1569/
 
 * Lead abatement
 * Great Neck, NY (Nassau County)
-* Phone: (516) 829-5400
 * Address: 60 Cutter Mill Rd, Great Neck, NY 11021
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-26045-3 (exp. 2027-09-03)
 

@@ -1,6 +1,6 @@
 ---
 title: "Ally Environmental LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Ally Environmental LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Ally Environmental LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/ally-environmental-llc-ny0081/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ally-environmental-llc-ny0081/
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (646) 470-2201
 * Address: 82 Marine Ave, Brooklyn, NY 11209
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F121401-3 (exp. 2027-11-16)
 

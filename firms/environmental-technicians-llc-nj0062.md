@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-technicians-llc-nj006
 
 * Lead inspection / evaluation
 * Philadelphia, PA (Philadelphia County)
-* Phone: (215) 852-9654
 * Address: 325 Crest Park Rd, Philadelphia, PA 19119
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00736 (exp. 2027-03-31)
 

@@ -29,8 +29,6 @@ Lead Paint Roster lists 7 EPA-licensed listings with an address in Westbury: 3 l
 Licensed firm
 
 66 Brooklyn Ave, Westbury, NY  
-☎ [(516) 333-3339](tel:5163333339)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-11544-4 (exp. 2028-08-16)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0080)
@@ -42,8 +40,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 96 Lexington St, Westbury, NY  
-☎ [(516) 334-4663](tel:5163344663)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295693-1 (exp. 2028-06-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0211)
@@ -55,8 +51,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 830 Pepperidge Rd, Westbury, NY  
-☎ [(917) 299-3970](tel:9172993970)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F171559-4 (exp. 2028-12-29)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F171559-4 (exp. 2028-12-29)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -71,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 128 Land Ln, Westbury, NY  
-☎ [(347) 706-5524](tel:3477065524)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F297496-1 (exp. 2028-06-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0696)
@@ -84,8 +76,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1080 Old Country Rd, Westbury, NY  
-☎ [(718) 650-9352](tel:7186509352)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F211372-3 (exp. 2028-12-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1004)
@@ -97,8 +87,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 558 Union Ave, Westbury, NY  
-☎ [(800) 300-8734](tel:8003008734)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2649-3 (exp. 2027-02-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1573)
@@ -110,8 +98,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 830 Pepperidge Rd, Westbury, NY  
-☎ [(516) 851-8254](tel:5168518254)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F228053-2 (exp. 2028-07-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1578)

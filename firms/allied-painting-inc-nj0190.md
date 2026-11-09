@@ -1,6 +1,6 @@
 ---
 title: "Allied Painting Inc, Williamstown, NJ | Lead Paint Roster"
-description: "Allied Painting Inc in Williamstown, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Allied Painting Inc in Williamstown, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/allied-painting-inc-nj0190/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/allied-painting-inc-nj0190/
 
 * Lead abatement
 * Williamstown, NJ (Gloucester County)
-* Phone: (856) 429-3400
 * Address: 1330 N.black Horse Pike, Suite B, Williamstown, NJ 08094
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00136 (exp. 2027-09-30)
 

@@ -1,6 +1,6 @@
 ---
 title: "File5, Inc., Levittown, NY | Lead Paint Roster"
-description: "File5, Inc. in Levittown, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "File5, Inc. in Levittown, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/file5-inc-ny0274/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/file5-inc-ny0274/
 
 * Lead inspection / evaluation
 * Levittown, NY (Nassau County)
-* Phone: (914) 309-1433
 * Address: 2 Daisy Ln, Levittown, NY 11756
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F298040-1 (exp. 2028-06-13)
 

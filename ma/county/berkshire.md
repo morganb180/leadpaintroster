@@ -23,9 +23,6 @@ Listings holding more than one licence type are shown once, in the first matchin
 Licensed firm
 
 Pittsfield, MA  
-☎ [(413) 499-3015](tel:4134993015)  
-✉ [tmpack@aol.com](mailto:tmpack@aol.com)
-
 1 licensed individual
 
 * Terry Miller (MA DLS Inspector/Risk Assessor #2725 (exp. 2027-10-15))

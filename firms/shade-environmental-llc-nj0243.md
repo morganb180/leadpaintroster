@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/shade-environmental-llc-nj0243/
 
 * Lead abatement
 * Maple Shade, NJ (Burlington County)
-* Phone: (856) 755-0099
 * Address: 623 Cutler Ave, Maple Shade, NJ 08052
 * Google rating: 4.7 from 23 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00491 (exp. 2027-05-31)

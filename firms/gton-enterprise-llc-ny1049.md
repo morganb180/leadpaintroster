@@ -1,6 +1,6 @@
 ---
 title: "GTON Enterprise LLC, Brooklyn, NY | Lead Paint Roster"
-description: "GTON Enterprise LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "GTON Enterprise LLC in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/gton-enterprise-llc-ny1049/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gton-enterprise-llc-ny1049/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 230-0023
 * Address: 1655 Flatbush Ave, Brooklyn, NY 11210
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F242764-2 (exp. 2029-04-09)
 

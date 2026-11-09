@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/terranova-enviro-consultants-ny0641
 
 * Lead inspection / evaluation
 * Little Neck, NY (Queens County)
-* Phone: (475) 325-8197
 * Address: 24066 67th Ave, Little Neck, NY 11362
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F292255-1 (exp. 2028-05-02)
 

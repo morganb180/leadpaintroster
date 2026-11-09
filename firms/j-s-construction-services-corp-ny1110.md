@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/j-s-construction-services-corp-ny11
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (917) 569-7440
 * Address: 42 Tioga Ave, Yonkers, NY 10704
 * Google rating: 5.0 from 12 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F255559-1 (exp. 2026-10-25)

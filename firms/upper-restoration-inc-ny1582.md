@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/upper-restoration-inc-ny1582/
 
 * Lead abatement
 * Farmingdale, NY (Nassau County)
-* Phone: (516) 777-7001
 * Address: 200 Central Ave, Farmingdale, NY 11735
 * Google rating: 5.0 from 212 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F162791-4 (exp. 2029-01-09)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/g-b-home-improvements-inc-ny1030/
 
 * Lead abatement
 * Jericho, NY (Nassau County)
-* Phone: (347) 645-9488
 * Address: 366 N Broardway, Jericho, NY 11753
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F156476-2 (exp. 2029-10-07)
 

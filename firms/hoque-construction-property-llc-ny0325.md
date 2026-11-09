@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hoque-construction-property-llc-ny0
 
 * Lead abatement, Lead inspection / evaluation
 * Astoria, NY (Queens County)
-* Phone: (718) 532-6641
 * Address: 2073 Shore Blvd, Astoria, NY 11105
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F233680-2 (exp. 2028-03-13)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F233680-2 (exp. 2028-03-13)

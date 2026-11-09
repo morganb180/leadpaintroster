@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/green-earth-environmental-consultan
 
 * Lead inspection / evaluation
 * Jefferson Valley, NY (Westchester County)
-* Phone: (646) 259-5663
 * Address: 342 Orchard Rd, Jefferson Valley, NY 10535
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F196740-3 (exp. 2028-06-27)

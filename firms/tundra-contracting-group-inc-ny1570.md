@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tundra-contracting-group-inc-ny1570
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (917) 416-6282
 * Address: 129 Clarke Ave, Staten Island, NY 10306
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F229437-1 (exp. 2027-03-28)
 

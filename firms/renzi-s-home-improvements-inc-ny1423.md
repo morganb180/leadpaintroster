@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/renzi-s-home-improvements-inc-ny142
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (914) 588-0222
 * Address: 122 Clunie Ave, Yonkers, NY 10703
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F291157-2 (exp. 2031-04-15)
 

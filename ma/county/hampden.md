@@ -23,10 +23,6 @@ Listings holding more than one licence type are shown once, in the first matchin
 Licensed firm
 
 Springfield, MA  
-☎ [(413) 736-5323](tel:4137365323)  
-✉ [EBM@emeraldleadtesting.com](mailto:EBM@emeraldleadtesting.com)  
-✉ [DAB@emeraldleadtesting.com](mailto:DAB@emeraldleadtesting.com)
-
 3 licensed individuals
 
 * Eileen Manley (MA DLS Master Inspector/Risk Assessor #3305 (exp. 2027-02-17))
@@ -46,12 +42,9 @@ Lead Paint Roster lists 1 Massachusetts-licensed listing for lead inspection / e
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Holyoke, MA  
-☎ [(413) 433-0293](tel:4134330293)  
-✉ [mcrescentini@revitalizecdc.com](mailto:mcrescentini@revitalizecdc.com)
-
 MA DLS Inspector #004575 (exp. 2027-03-17)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0020)

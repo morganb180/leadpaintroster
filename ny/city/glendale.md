@@ -29,8 +29,6 @@ Lead Paint Roster lists 4 EPA-licensed listings with an address in Glendale: 4 l
 Licensed firm
 
 71-02 80th St, Glendale, NY  
-☎ [(718) 383-7006](tel:7183837006)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-48783-4 (exp. 2028-08-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0780)
@@ -42,8 +40,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 7547 61st St, Glendale, NY  
-☎ [(347) 739-4800](tel:3477394800)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F180303-2 (exp. 2027-02-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1213)
@@ -55,8 +51,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 7229 61st St, Glendale, NY  
-☎ [(917) 213-3004](tel:9172133004)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F265431-1 (exp. 2027-06-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1336)
@@ -68,8 +62,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 6226 Myrtle Ave, Glendale, NY  
-☎ [(347) 249-6302](tel:3472496302)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F276197-1 (exp. 2027-11-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1552)

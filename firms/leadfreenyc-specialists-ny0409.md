@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/leadfreenyc-specialists-ny0409/
 
 * Lead abatement, Lead inspection / evaluation
 * Albany, NY (Albany County)
-* Phone: (347) 809-1360
 * Address: 418 Broadway, Albany, NY 12207
 * Google rating: 5.0 from 50 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F307488-1 (exp. 2029-09-24)

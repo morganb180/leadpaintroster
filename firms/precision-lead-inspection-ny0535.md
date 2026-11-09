@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/precision-lead-inspection-ny0535/
 
 * Lead inspection / evaluation
 * New York, NY (Kings County)
-* Phone: (917) 699-0079
 * Address: 2014 86th St, New York, NY 11214
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F300993-1 (exp. 2028-07-14)
 

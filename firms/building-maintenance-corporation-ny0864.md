@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/building-maintenance-corporation-ny
 
 * Lead abatement
 * Maspeth, NY (Queens County)
-* Phone: (718) 205-5900
 * Address: 68-30 Jay Ave, Maspeth, NY 11378
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221181-2 (exp. 2028-04-22)
 

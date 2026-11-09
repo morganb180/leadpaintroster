@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/consulting-and-testing-services-inc
 
 * Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (212) 971-7016
 * Address: 237 W 35th St, New York, NY 10001
 * Google rating: 4.9 from 8 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-9324-4 (exp. 2028-08-14)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/precision-environmental-inc-ny0534/
 
 * Lead inspection / evaluation
 * Long Island City, NY (Queens County)
-* Phone: (718) 383-2626
 * Address: 36-15A 23rd St, Long Island City, NY 11106
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2451-3 (exp. 2028-06-21)

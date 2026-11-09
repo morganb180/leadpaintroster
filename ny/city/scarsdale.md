@@ -29,8 +29,6 @@ Lead Paint Roster lists 5 EPA-licensed listings with an address in Scarsdale: 3 
 Licensed firm
 
 1201 Post Rd, Scarsdale, NY  
-☎ [(347) 280-8629](tel:3472808629)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F307163-1 (exp. 2028-09-11)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F307163-1 (exp. 2028-09-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 59 Woodford Rd, Scarsdale, NY  
-☎ [(860) 805-7885](tel:8608057885)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F260274-1 (exp. 2027-03-06)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F260274-1 (exp. 2027-03-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -57,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 73 Bell Rd, Scarsdale, NY  
-☎ [(917) 568-9961](tel:9175689961)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F289155-1 (exp. 2028-04-01)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0403)
@@ -72,8 +66,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 111 Brook St, Scarsdale, NY  
-☎ [(914) 472-4900](tel:9144724900)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F206564-2 (exp. 2027-12-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1017)
@@ -85,8 +77,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 119 Montgomery Ave, Scarsdale, NY  
-☎ [(914) 424-6593](tel:9144246593)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F267880-1 (exp. 2027-08-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1121)

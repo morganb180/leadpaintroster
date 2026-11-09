@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/excellent-interior-exterior-inc-ny1
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (585) 703-0707
 * Address: 600 Guinevere Dr, Rochester, NY 14626
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-20506-3 (exp. 2028-04-24)
 

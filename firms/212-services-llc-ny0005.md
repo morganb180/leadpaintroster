@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/212-services-llc-ny0005/
 
 * Lead abatement, Lead inspection / evaluation
 * Elmont, NY (Nassau County)
-* Phone: (917) 601-8832
 * Address: 167 Opal St, Elmont, NY 11003
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-14832-2 (exp. 2027-01-16)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-14832-2 (exp. 2027-01-16)

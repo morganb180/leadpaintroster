@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bullseye-safety-consultants-llc-ny0
 
 * Lead abatement, Lead inspection / evaluation
 * Lindenhurst, NY (Suffolk County)
-* Phone: (516) 521-8318
 * Address: 1 Thorburn Ave, Lindenhurst, NY 11757
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F300930-1 (exp. 2028-07-14)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F300930-1 (exp. 2028-07-14)

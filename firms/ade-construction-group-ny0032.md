@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ade-construction-group-ny0032/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 273-0495
 * Address: 114 Albemarle Rd, Brooklyn, NY 11218
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F212379-1 (exp. 2028-02-06)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F212379-1 (exp. 2028-02-06)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/twin-peaks-environmental-ny0656/
 
 * Lead inspection / evaluation
 * Oakland Gardens, NY (Queens County)
-* Phone: (718) 757-2065
 * Address: 6416 Bell Blvd, Oakland Gardens, NY 11364
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F319409-1 (exp. 2029-01-19)
 

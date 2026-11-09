@@ -43,8 +43,6 @@ Look the firm up in the official EPA list, then ask for the firm's certification
 Licensed firm
 
 6647 Grand Ave, Maspeth, NY  
-☎ [(929) 418-5281](tel:9294185281)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F267838-1 (exp. 2027-08-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0063)
@@ -56,8 +54,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 5754 58th Pl, Maspeth, NY  
-☎ [(327) 828-6115](tel:3278286115)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F288158-1 (exp. 2028-03-20)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0406)
@@ -69,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 5364 70th St, Maspeth, NY  
-☎ [(646) 288-8237](tel:6462888237)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F211912-1 (exp. 2028-02-04)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F211912-1 (exp. 2028-02-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -83,8 +77,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 55-10 68th St, Maspeth, NY  
-☎ [(718) 608-7073](tel:7186087073)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F179626-3 (exp. 2027-11-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0715)

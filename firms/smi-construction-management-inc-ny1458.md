@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/smi-construction-management-inc-ny1
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (212) 452-3480
 * Address: 264 E 78th St, New York, NY 10075
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F286138-1 (exp. 2028-03-04)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/essex-general-construction-inc-ny02
 
 * Lead inspection / evaluation
 * Bellerose, NY (Queens County)
-* Phone: (516) 574-3314
 * Address: 25211 Elkmont Ave, Bellerose, NY 11426
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F211354-1 (exp. 2027-11-07)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/guardian-home-services-llc-nj0075/
 
 * Lead inspection / evaluation
 * Cresskill, NJ (Bergen County)
-* Phone: (201) 568-2209
 * Address: 31 Union Ave, Cresskill, NJ 07626
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00793 (exp. 2028-06-29)
 

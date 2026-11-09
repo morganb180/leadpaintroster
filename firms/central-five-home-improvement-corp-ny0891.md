@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/central-five-home-improvement-corp-
 
 * Lead abatement
 * Hicksville, NY (Nassau County)
-* Phone: (917) 353-4061
 * Address: 16 Seth Ln, Hicksville, NY 11801
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F200210-3 (exp. 2028-04-11)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/new-york-state-lead-inc-ny0496/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 467-1500
 * Address: 1486 Union St, Brooklyn, NY 11213
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F124182-4 (exp. 2029-10-05)

@@ -1,6 +1,6 @@
 ---
 title: "Sarah Spira Enviro, LLC, Brooklyn, NY | Lead Paint Roster"
-description: "Sarah Spira Enviro, LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Sarah Spira Enviro, LLC in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/sarah-spira-enviro-llc-ny0600/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sarah-spira-enviro-llc-ny0600/
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (347) 461-3377
 * Address: 2071 Flatbush Ave, Brooklyn, NY 11234
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F226684-2 (exp. 2027-07-06)
 

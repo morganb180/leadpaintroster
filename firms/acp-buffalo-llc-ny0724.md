@@ -1,6 +1,6 @@
 ---
 title: "ACP Buffalo, LLC, Buffalo, NY | Lead Paint Roster"
-description: "ACP Buffalo, LLC in Buffalo, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "ACP Buffalo, LLC in Buffalo, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/acp-buffalo-llc-ny0724/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/acp-buffalo-llc-ny0724/
 
 * Lead abatement
 * Buffalo, NY (Erie County)
-* Phone: (716) 259-9071
 * Address: 135 Delaware Ave, Buffalo, NY 14202
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F311673-1 (exp. 2028-10-22)
 

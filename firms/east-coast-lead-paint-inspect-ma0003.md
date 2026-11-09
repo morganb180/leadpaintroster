@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/east-coast-lead-paint-inspect-ma000
 
 * Lead inspection / evaluation
 * Ayer, MA (Middlesex County)
-* Phone: (781) 985-4186
-* Email: jakaitisinspections@gmail.com
 * Address: Ayer, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0003

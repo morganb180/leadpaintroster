@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/stohl-remediation-services-inc-ny15
 
 * Lead abatement
 * Orchard Park, NY (Erie County)
-* Phone: (716) 312-0070
 * Address: 3860 California Rd, Orchard Park, NY 14127
 * Google rating: 4.9 from 34 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F165523-4 (exp. 2028-06-23)

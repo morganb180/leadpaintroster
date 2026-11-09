@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-safeguard-solutions-l
 
 * Lead abatement, Lead inspection / evaluation
 * Queens, NY (Queens County)
-* Phone: (929) 395-1232
 * Address: 4758 43rd St, Queens, NY 11377
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F257534-1 (exp. 2026-12-21)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F257534-1 (exp. 2026-12-21)

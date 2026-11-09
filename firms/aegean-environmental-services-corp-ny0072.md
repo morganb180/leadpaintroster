@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aegean-environmental-services-corp-
 
 * Lead abatement, Lead inspection / evaluation
 * Elmhurst, NY (Queens County)
-* Phone: (732) 207-6598
 * Address: 2116 80th St, Elmhurst, NY 11370
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F228101-2 (exp. 2027-08-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F228101-2 (exp. 2027-08-23)

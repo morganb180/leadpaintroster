@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gi-environmental-testing-consulting
 
 * Lead inspection / evaluation
 * Whitestone, NY (Queens County)
-* Phone: (404) 542-0502
 * Address: 1252 Clintonville St, Whitestone, NY 11357
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F288396-1 (exp. 2028-03-21)
 

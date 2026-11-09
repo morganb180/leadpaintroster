@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rivers-painting-of-cny-inc-ny0580/
 
 * Lead abatement, Lead inspection / evaluation
 * Cortland, NY (Cortland County)
-* Phone: (607) 745-5370
 * Address: 7 Douglas St, Cortland, NY 13045
 * Google rating: 5.0 from 388 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F236494-2 (exp. 2029-08-26)

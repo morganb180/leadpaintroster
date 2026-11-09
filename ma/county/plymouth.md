@@ -23,9 +23,6 @@ Listings holding more than one licence type are shown once, in the first matchin
 Licensed firm
 
 Brockton, MA  
-☎ [(508) 294-8722](tel:5082948722)  
-✉ [ccinspection1@gmail.com](mailto:ccinspection1@gmail.com)
-
 1 licensed individual
 
 * Annette Dillard (MA DLS Inspector/Risk Assessor #3715 (exp. 2027-09-11))
@@ -40,9 +37,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Marion, MA  
-☎ [(508) 889-7864](tel:5088897864)  
-✉ [afranklin@franklinanalytical.net](mailto:afranklin@franklinanalytical.net)
-
 1 licensed individual
 
 * Amy Franklin (MA DLS Inspector/Risk Assessor #2171 (exp. 2027-05-05))

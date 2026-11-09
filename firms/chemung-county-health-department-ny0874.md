@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/chemung-county-health-department-ny
 
 * Lead abatement
 * Elmira, NY (Chemung County)
-* Phone: (607) 737-2019
 * Address: Cchd 103 Washington St, Elmira, NY 14902
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-1826-3 (exp. 2027-05-10)
 

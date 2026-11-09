@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/royal-homes-remodeling-ny1445/
 
 * Lead abatement
 * Schenectady, NY (Schenectady County)
-* Phone: (518) 907-8753
 * Address: 338 Melrose St, Schenectady, NY 12306
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F224255-2 (exp. 2029-04-02)
 

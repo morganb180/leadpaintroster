@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/the-centurion-group-associates-corp
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 809-5323
 * Address: 710 Crown St, Brooklyn, NY 11213
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-34992-3 (exp. 2026-11-17)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-34992-3 (exp. 2026-11-17)

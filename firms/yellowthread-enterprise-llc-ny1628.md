@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/yellowthread-enterprise-llc-ny1628/
 
 * Lead abatement
 * Schenectady, NY (Schenectady County)
-* Phone: (518) 221-6037
 * Address: 1209 Curry Rd, Schenectady, NY 12306
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F325884-1 (exp. 2029-03-17)
 

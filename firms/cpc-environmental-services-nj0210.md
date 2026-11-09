@@ -1,6 +1,6 @@
 ---
 title: "Cpc Environmental Services, Newark, NJ | Lead Paint Roster"
-description: "Cpc Environmental Services in Newark, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Cpc Environmental Services in Newark, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/cpc-environmental-services-nj0210/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cpc-environmental-services-nj0210/
 
 * Lead abatement
 * Newark, NJ (Essex County)
-* Phone: (973) 390-2416
 * Address: 142 N 13th St, Newark, NJ 07107
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00427 (exp. 2027-04-30)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/blueline-disaster-solutions-inc-ny0
 
 * Lead abatement
 * New Hartford, NY (Oneida County)
-* Phone: (315) 507-2140
 * Address: 1 Ora Ave, New Hartford, NY 13413
 * Google rating: 4.8 from 84 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F163915-4 (exp. 2028-05-30)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/frontier-management-and-development
 
 * Lead abatement
 * Niagara Falls, NY (Niagara County)
-* Phone: (716) 215-6525
 * Address: 2315 Whirlpool St, Niagara Falls, NY 14305
 * Google rating: 4.4 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F215476-1 (exp. 2029-05-11)

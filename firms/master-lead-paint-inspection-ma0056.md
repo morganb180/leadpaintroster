@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/master-lead-paint-inspection-ma0056
 
 * Lead risk assessment
 * Weymouth, MA (Norfolk County)
-* Phone: (617) 529-1578
-* Email: pbinspect2000@yahoo.com
 * Address: Weymouth, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0056

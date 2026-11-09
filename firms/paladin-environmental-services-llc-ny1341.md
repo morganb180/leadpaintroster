@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/paladin-environmental-services-llc-
 
 * Lead abatement
 * Syracuse, NY (Onondaga County)
-* Phone: (315) 210-6416
 * Address: 6936 Van Buren Rd, Syracuse, NY 13209
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F256101-1 (exp. 2026-11-15)
 

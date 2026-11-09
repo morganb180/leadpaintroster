@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/iris-environmetal-laboratories-nj00
 
 * Lead inspection / evaluation
 * Union, NJ (Union County)
-* Phone: (908) 206-0073
 * Address: 2333 US Hwy 22W. Bldg.4, Union, NJ 07083
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00738 (exp. 2027-05-31)
 

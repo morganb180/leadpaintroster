@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/marbec-environmental-services-corp-
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (646) 397-6443
 * Address: 135 E 57th St, New York, NY 10022
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F207755-3 (exp. 2029-01-22)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F207755-3 (exp. 2029-01-22)

@@ -1,6 +1,6 @@
 ---
 title: "Dean's Construction, Elmira, NY | Lead Paint Roster"
-description: "Dean's Construction in Elmira, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Dean's Construction in Elmira, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/dean-s-construction-ny0935/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dean-s-construction-ny0935/
 
 * Lead abatement
 * Elmira, NY (Chemung County)
-* Phone: (607) 857-2401
 * Address: 710 Benjamin, Elmira, NY 14901
 * Google rating: 3.7 from 12 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F212445-3 (exp. 2029-03-09)

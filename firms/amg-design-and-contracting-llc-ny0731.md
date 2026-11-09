@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/amg-design-and-contracting-llc-ny07
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (917) 992-8283
 * Address: 161 W 16th St, New York, NY 10011
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F319749-1 (exp. 2029-01-22)
 

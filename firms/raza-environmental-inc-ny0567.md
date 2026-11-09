@@ -1,6 +1,6 @@
 ---
 title: "Raza Environmental Inc., Yonkers, NY | Lead Paint Roster"
-description: "Raza Environmental Inc. in Yonkers, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Raza Environmental Inc. in Yonkers, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/raza-environmental-inc-ny0567/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/raza-environmental-inc-ny0567/
 
 * Lead inspection / evaluation
 * Yonkers, NY (Westchester County)
-* Phone: (914) 433-0491
 * Address: 1767 Central Ave, Yonkers, NY 10710
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F228826-2 (exp. 2027-09-16)
 

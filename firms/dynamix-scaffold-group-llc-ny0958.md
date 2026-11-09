@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dynamix-scaffold-group-llc-ny0958/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 709-4514
 * Address: 21 Dodworth St, Brooklyn, NY 11221
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F314959-1 (exp. 2028-11-19)
 

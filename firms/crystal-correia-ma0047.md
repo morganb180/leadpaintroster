@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/crystal-correia-ma0047/
 
 * Lead inspection / evaluation
 * Swansea, MA (Bristol County)
-* Phone: (401) 952-9375
-* Email: leadlady508@gmail.com
 * Address: Swansea, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0047

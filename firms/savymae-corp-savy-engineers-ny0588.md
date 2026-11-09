@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/savymae-corp-savy-engineers-ny0588/
 
 * Lead abatement, Lead inspection / evaluation
 * Floral Parl, NY (Nassau County)
-* Phone: (646) 837-1675
 * Address: 22510 Jamaica Ave, Floral Parl, NY 11001
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F223271-2 (exp. 2027-03-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F223271-2 (exp. 2027-03-23)

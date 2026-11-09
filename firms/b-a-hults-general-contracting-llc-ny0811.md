@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/b-a-hults-general-contracting-llc-n
 
 * Lead abatement
 * Hornell, NY (Steuben County)
-* Phone: (607) 368-1765
 * Address: 7749 Old Big Creek Rd, Hornell, NY 14843
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-53843-1 (exp. 2028-06-13)
 

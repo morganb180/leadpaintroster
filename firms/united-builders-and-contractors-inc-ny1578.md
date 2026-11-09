@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/united-builders-and-contractors-inc
 
 * Lead abatement
 * Westbury, NY (Nassau County)
-* Phone: (516) 851-8254
 * Address: 830 Pepperidge Rd, Westbury, NY 11590
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F228053-2 (exp. 2028-07-22)
 

@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/m-lemay-lead-paint-consulting-ma001
 
 * Lead inspection / evaluation
 * Fitchburg, MA (Worcester County)
-* Phone: (978) 430-6306
-* Email: mickie@lemayleadpaintconsulting.com
 * Address: Fitchburg, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0017

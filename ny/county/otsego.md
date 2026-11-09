@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/otsego/
 Licensed firm
 
 31 Main St, Oneonta, NY  
-☎ [(607) 431-2164](tel:6074312164)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-39359-1 (exp. 2029-06-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0895)

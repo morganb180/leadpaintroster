@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aaa-lead-asbestos-mold-nj0010/
 
 * Lead inspection / evaluation
 * North Brunswick, NJ (Middlesex County)
-* Phone: (732) 882-5741
 * Address: 2227 US Hwy 1, Suite 123, North Brunswick, NJ 08902
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00409 (exp. 2028-05-31)
 

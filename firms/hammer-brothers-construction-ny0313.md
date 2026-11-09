@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hammer-brothers-construction-ny0313
 
 * Lead abatement, Lead inspection / evaluation
 * Baldwinsville, NY (Onondaga County)
-* Phone: (315) 806-4532
 * Address: 2667 Ellsworth Rd, Baldwinsville, NY 13027
 * Google rating: 4.9 from 42 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F195159-1 (exp. 2028-09-01)

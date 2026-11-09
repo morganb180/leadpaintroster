@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/j-sons-construction-group-inc-ny110
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (718) 489-5040
 * Address: 360 Clove Rd, Staten Island, NY 10310
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F226997-2 (exp. 2027-09-13)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ade-environmental-services-llc-nj00
 
 * Lead inspection / evaluation
 * North Plainfield, NJ (Union County)
-* Phone: (908) 548-7180
 * Address: 44 Fairview Ave, North Plainfield, NJ 07060
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00850 (exp. 2026-11-30)
 

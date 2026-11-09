@@ -1,6 +1,6 @@
 ---
 title: "Kn & L Company, LLC, Sayreville, NJ | Lead Paint Roster"
-description: "Kn & L Company, LLC in Sayreville, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Kn & L Company, LLC in Sayreville, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/kn-l-company-llc-nj0090/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/kn-l-company-llc-nj0090/
 
 * Lead inspection / evaluation
 * Sayreville, NJ (Middlesex County)
-* Phone: (201) 737-8553
 * Address: 9 Elizabeth St, Sayreville, NJ 08872
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00872 (exp. 2027-04-30)
 

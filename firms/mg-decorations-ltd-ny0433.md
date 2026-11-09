@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mg-decorations-ltd-ny0433/
 
 * Lead abatement, Lead inspection / evaluation
 * Jackson Heights, NY (Queens County)
-* Phone: (347) 848-6518
 * Address: 3441 77th St, Jackson Heights, NY 11372
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F248118-2 (exp. 2029-11-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F248118-2 (exp. 2029-11-23)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nika-contracting-group-corp-ny0501/
 
 * Lead abatement, Lead inspection / evaluation
 * Port Washington, NY (Nassau County)
-* Phone: (347) 536-1804
 * Address: 83 Sands Point Rd, Port Washington, NY 11050
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F179570-1 (exp. 2028-02-11)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F179570-1 (exp. 2028-02-11)

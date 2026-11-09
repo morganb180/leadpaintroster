@@ -1,6 +1,6 @@
 ---
 title: "BNF Consulting, Inc., Somers, NY | Lead Paint Roster"
-description: "BNF Consulting, Inc. in Somers, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "BNF Consulting, Inc. in Somers, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/bnf-consulting-inc-ny0116/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bnf-consulting-inc-ny0116/
 
 * Lead inspection / evaluation
 * Somers, NY (Westchester County)
-* Phone: (914) 297-8335
 * Address: 15 Lincoln Ave, Somers, NY 10589
 * Google rating: 5.0 from 104 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F200872-2 (exp. 2027-02-02)

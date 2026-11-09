@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/city-of-elmira-community-developmen
 
 * Lead abatement, Lead inspection / evaluation
 * Elmira, NY (Chemung County)
-* Phone: (607) 737-5693
 * Address: 317 E Church St, Elmira, NY 14901
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F251797-1 (exp. 2028-06-19)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F251797-1 (exp. 2028-06-19)

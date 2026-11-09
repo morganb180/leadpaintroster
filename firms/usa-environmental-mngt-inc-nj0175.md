@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/usa-environmental-mngt-inc-nj0175/
 
 * Lead abatement, Lead inspection / evaluation
 * Philadelphia, PA (Philadelphia County)
-* Phone: (215) 365-5810
 * Address: 8436 Enterprise Ave, Philadelphia, PA 19153
 * Google rating: 4.5 from 4 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00232 (exp. 2026-11-30)

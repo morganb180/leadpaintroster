@@ -1,6 +1,6 @@
 ---
 title: "Greenhill Mgmt., LLC, Elmhurst, NY | Lead Paint Roster"
-description: "Greenhill Mgmt., LLC in Elmhurst, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Greenhill Mgmt., LLC in Elmhurst, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/greenhill-mgmt-llc-ny1067/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/greenhill-mgmt-llc-ny1067/
 
 * Lead abatement
 * Elmhurst, NY (Queens County)
-* Phone: (718) 606-9763
 * Address: PO Box 800059, Elmhurst, NY 11380
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-10689-3 (exp. 2027-08-04)
 

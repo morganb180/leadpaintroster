@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/b-and-s-construction-inc-ny0112/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (347) 893-1897
 * Address: 442 Madison St, Brooklyn, NY 11221
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F174511-4 (exp. 2029-09-14)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F174511-4 (exp. 2029-09-14)

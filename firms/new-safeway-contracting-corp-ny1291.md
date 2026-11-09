@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/new-safeway-contracting-corp-ny1291
 
 * Lead abatement
 * Jamaica, NY (Queens County)
-* Phone: (718) 658-0911
 * Address: 175-14 Hillside Ave, Jamaica, NY 11432
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F181419-3 (exp. 2029-07-15)
 

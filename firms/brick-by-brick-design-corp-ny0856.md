@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/brick-by-brick-design-corp-ny0856/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (914) 501-8185
 * Address: 1601 Bronxdale Ave, Bronx, NY 10462
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F305578-1 (exp. 2028-09-08)
 

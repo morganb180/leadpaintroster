@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/breeze-environmental-ny0139/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (347) 394-4411
 * Address: 1013 E 12th St, Brooklyn, NY 11230
 * Google rating: 4.6 from 25 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F316934-1 (exp. 2028-12-03)

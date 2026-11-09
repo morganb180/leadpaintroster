@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/neighborhood-environmental-llc-ny04
 
 * Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (973) 932-7281
 * Address: 530 Isham St, New York, NY 10034
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F269395-1 (exp. 2027-09-25)
 

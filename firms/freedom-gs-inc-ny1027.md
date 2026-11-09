@@ -1,6 +1,6 @@
 ---
 title: "Freedom GS Inc, Woodside, NY | Lead Paint Roster"
-description: "Freedom GS Inc in Woodside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Freedom GS Inc in Woodside, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/freedom-gs-inc-ny1027/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/freedom-gs-inc-ny1027/
 
 * Lead abatement
 * Woodside, NY (Queens County)
-* Phone: (917) 714-7664
 * Address: 3716 55th St, Woodside, NY 11377
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F182523-2 (exp. 2028-09-26)
 

@@ -1,6 +1,6 @@
 ---
 title: "Buna Home Improvement Inc, Yonkers, NY | Lead Paint Roster"
-description: "Buna Home Improvement Inc in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Buna Home Improvement Inc in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/buna-home-improvement-inc-ny0865/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/buna-home-improvement-inc-ny0865/
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (914) 462-9844
 * Address: 1047 Hunts Bridge Rd, Yonkers, NY 10704
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F256015-1 (exp. 2026-11-15)
 

@@ -46,8 +46,6 @@ Lead Paint Roster lists 5 listings with an address in Plainview: 2 inspection/ri
 Licensed firm
 
 208 Newtown Rd, Plainview, NY  
-☎ [(516) 932-3228](tel:5169323228)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F159751-3 (exp. 2027-12-22)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F159751-3 (exp. 2027-12-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -60,8 +58,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 125 Grohmans Ln, Plainview, NY  
-☎ [(516) 946-2660](tel:5169462660)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F258473-1 (exp. 2027-01-23)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F258473-1 (exp. 2027-01-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

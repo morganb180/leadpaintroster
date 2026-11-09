@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/extra-mile-home-inspection-svc-nj00
 
 * Lead inspection / evaluation
 * Cedar Knolls, NJ (Morris County)
-* Phone: (201) 952-8241
 * Address: 13 S Belair Ave, Cedar Knolls, NJ 07927
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00869 (exp. 2027-04-30)
 

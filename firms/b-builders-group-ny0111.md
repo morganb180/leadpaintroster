@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/b-builders-group-ny0111/
 
 * Lead abatement, Lead inspection / evaluation
 * Kew Gardens, NY (Queens County)
-* Phone: (917) 982-7100
 * Address: 8448 121st St, Kew Gardens, NY 11415
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F262841-1 (exp. 2027-04-26)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262841-1 (exp. 2027-04-26)

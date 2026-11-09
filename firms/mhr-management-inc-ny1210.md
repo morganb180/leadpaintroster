@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mhr-management-inc-ny1210/
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (646) 564-3716
 * Address: 4355 11th St, Long Island City, NY 11101
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262928-1 (exp. 2027-04-26)
 

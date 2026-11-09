@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pride-construction-restoration-corp
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (917) 528-7173
 * Address: 2022 Saint Paul Ave, Bronx, NY 10461
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221868-1 (exp. 2028-01-31)

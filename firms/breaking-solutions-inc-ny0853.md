@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/breaking-solutions-inc-ny0853/
 
 * Lead abatement
 * Mamaroneck, NY (Westchester County)
-* Phone: (718) 991-3366
 * Address: 325 Waverly Ave, Mamaroneck, NY 10543
 * Google rating: 4.0 from 8 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F152504-2 (exp. 2027-12-27)

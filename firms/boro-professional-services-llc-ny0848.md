@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/boro-professional-services-llc-ny08
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 871-2250
 * Address: 4313 18th Ave, Brooklyn, NY 11218
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F242242-2 (exp. 2029-07-30)
 

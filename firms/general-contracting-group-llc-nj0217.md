@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/general-contracting-group-llc-nj021
 
 * Lead abatement
 * Upper Saddle River, NJ (Bergen County)
-* Phone: (201) 790-0716
 * Address: 54 Old Chimney Rd, Upper Saddle River, NJ 07458
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00878 (exp. 2027-07-31)
 

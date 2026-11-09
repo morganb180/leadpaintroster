@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/the-heights-real-estate-company-ny1
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (212) 317-1423
 * Address: 369 E 62nd St, New York, NY 10065
 * Google rating: 4.3 from 177 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-106013-3 (exp. 2027-10-18)

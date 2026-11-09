@@ -1,6 +1,6 @@
 ---
 title: "H. A. Bader Consultants, New York, NY | Lead Paint Roster"
-description: "H. A. Bader Consultants in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "H. A. Bader Consultants in New York, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/h-a-bader-consultants-ny0308/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/h-a-bader-consultants-ny0308/
 
 * Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (212) 475-4122
 * Address: 130 W 25th St, New York, NY 10001
 * Google rating: 1.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-16590-1 (exp. 2027-06-13)

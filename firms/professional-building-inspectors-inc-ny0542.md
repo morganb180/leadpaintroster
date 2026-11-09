@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/professional-building-inspectors-in
 
 * Lead inspection / evaluation
 * East Setauket, NY (Suffolk County)
-* Phone: (631) 474-1534
 * Address: 6 Julia Cir, East Setauket, NY 11733
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-15689-3 (exp. 2026-12-19)

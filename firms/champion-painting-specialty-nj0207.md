@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/champion-painting-specialty-nj0207/
 
 * Lead abatement
 * Fort Lauderdale, FL (Broward County)
-* Phone: (954) 462-9079
 * Address: 130 SW 22 St, Fort Lauderdale, FL 33315
 * Google rating: 4.7 from 16 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00602 (exp. 2027-05-31)

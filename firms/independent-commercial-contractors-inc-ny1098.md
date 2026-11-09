@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/independent-commercial-contractors-
 
 * Lead abatement
 * Lorraine, NY (Jefferson County)
-* Phone: (315) 232-4076
 * Address: 27004 Loomis Rd, Lorraine, NY 13659
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-18163-2 (exp. 2028-05-19)

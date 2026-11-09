@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/afek-environmental-services-inc-ny0
 
 * Lead abatement, Lead inspection / evaluation
 * Jamaica, NY (Queens County)
-* Phone: (646) 456-4526
 * Address: 10652 Guy R Brewer Blvd, Jamaica, NY 11433
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F222810-2 (exp. 2027-03-10)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F222810-2 (exp. 2027-03-10)

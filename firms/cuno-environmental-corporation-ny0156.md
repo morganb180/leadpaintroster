@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cuno-environmental-corporation-ny01
 
 * Lead inspection / evaluation
 * Mount Vernon, NY (Westchester County)
-* Phone: (914) 631-7980
 * Address: 2 Gramatan Ave, Mount Vernon, NY 10550
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1893-4 (exp. 2029-09-09)
 

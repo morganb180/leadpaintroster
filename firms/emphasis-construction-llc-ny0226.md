@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/emphasis-construction-llc-ny0226/
 
 * Lead abatement, Lead inspection / evaluation
 * Queens, NY (Queens County)
-* Phone: (646) 504-3577
 * Address: 9705 23rd Ave, Queens, NY 11369
 * Google rating: 5.0 from 18 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F217888-1 (exp. 2028-10-20)

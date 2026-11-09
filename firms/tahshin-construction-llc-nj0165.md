@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tahshin-construction-llc-nj0165/
 
 * Lead abatement, Lead inspection / evaluation
 * Egg Harbor Township, NJ (Atlantic County)
-* Phone: (609) 576-2759
 * Address: 116 Woodbury Dr, Egg Harbor Township, NJ 08234
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00865 (exp. 2027-03-31)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00595 (exp. 2026-11-30)

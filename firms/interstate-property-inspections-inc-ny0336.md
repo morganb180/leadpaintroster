@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/interstate-property-inspections-inc
 
 * Lead inspection / evaluation
 * Brockport, NY (Monroe County)
-* Phone: (585) 721-7770
 * Address: 22 Brookdale Rd, Brockport, NY 14420
 * Google rating: 4.7 from 13 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F160456-2 (exp. 2026-11-21)

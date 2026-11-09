@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/abc-global-lead-consult-inc-ny0027/
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (929) 603-9634
 * Address: 840 Grand Concourse, Bronx, NY 10451
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295057-1 (exp. 2028-05-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F295057-1 (exp. 2028-05-23)

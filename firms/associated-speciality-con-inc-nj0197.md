@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/associated-speciality-con-inc-nj019
 
 * Lead abatement
 * Glen Mills, PA (Delaware County)
-* Phone: (610) 364-9622
 * Address: 98 Lacrue Ave, Glen Mills, PA 19342
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00274 (exp. 2026-12-31)
 

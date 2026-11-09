@@ -1,6 +1,6 @@
 ---
 title: "A & B Leadmasters, LLC, Lakewood, NJ | Lead Paint Roster"
-description: "A & B Leadmasters, LLC in Lakewood, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "A & B Leadmasters, LLC in Lakewood, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/a-b-leadmasters-llc-nj0002/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-b-leadmasters-llc-nj0002/
 
 * Lead inspection / evaluation
 * Lakewood, NJ (Ocean County)
-* Phone: (732) 901-0222
 * Address: 326 Third St Suite 102, Lakewood, NJ 08701
 * Google rating: 5.0 from 23 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00429 (exp. 2027-02-28)

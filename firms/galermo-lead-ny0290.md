@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/galermo-lead-ny0290/
 
 * Lead abatement, Lead inspection / evaluation
 * Woodside, NY (Queens County)
-* Phone: (347) 694-9093
 * Address: 4129 50 St, Woodside, NY 11377
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F233025-2 (exp. 2028-02-22)

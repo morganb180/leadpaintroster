@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/general-home-systems-corp-ny0293/
 
 * Lead abatement, Lead inspection / evaluation
 * Hillburn, NY (Rockland County)
-* Phone: (845) 280-1188
 * Address: 143 Route 59, Hillburn, NY 10931
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F291889-1 (exp. 2028-04-30)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F291889-1 (exp. 2028-04-30)

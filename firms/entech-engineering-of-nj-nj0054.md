@@ -1,6 +1,6 @@
 ---
 title: "Entech Engineering of NJ, Newark, NJ | Lead Paint Roster"
-description: "Entech Engineering of NJ in Newark, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Entech Engineering of NJ in Newark, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/entech-engineering-of-nj-nj0054/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/entech-engineering-of-nj-nj0054/
 
 * Lead inspection / evaluation
 * Newark, NJ (Essex County)
-* Phone: (732) 796-4792
 * Address: One Gateway Center, Newark, NJ 07102
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00701 (exp. 2028-05-31)
 

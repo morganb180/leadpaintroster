@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/p-s-contracting-ny-corp-ny1325/
 
 * Lead abatement
 * East Elmhurst, NY (Queens County)
-* Phone: (718) 219-5896
 * Address: 7320 30th Ave, East Elmhurst, NY 11370
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F260814-1 (exp. 2027-03-14)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/premier-euro-finishes-llc-ny1363/
 
 * Lead abatement
 * Astoria, NY (Queens County)
-* Phone: (646) 715-8851
 * Address: 10 Hallets Point 1742, Astoria, NY 11102
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F280046-1 (exp. 2028-01-01)
 

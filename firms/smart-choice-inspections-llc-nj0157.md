@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/smart-choice-inspections-llc-nj0157
 
 * Lead inspection / evaluation
 * Cedar Grove, NJ (Essex County)
-* Phone: (973) 500-3233
 * Address: 173 Ridge Rd, Apt H1, Cedar Grove, NJ 07009
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00790 (exp. 2027-10-31)
 

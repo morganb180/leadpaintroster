@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/finkle-preservation-construction-ny
 
 * Lead abatement
 * Youngstown, NY (Niagara County)
-* Phone: (716) 254-1930
 * Address: 337 Riverview Dr, Youngstown, NY 14174
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F332092-1 (exp. 2029-05-04)
 

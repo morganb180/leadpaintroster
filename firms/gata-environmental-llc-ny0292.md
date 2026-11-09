@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gata-environmental-llc-ny0292/
 
 * Lead inspection / evaluation
 * Fayetteville, NY (Onondaga County)
-* Phone: (315) 427-5707
 * Address: 6711 Harmony Dr, Fayetteville, NY 13066
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F332215-1 (exp. 2029-05-04)
 

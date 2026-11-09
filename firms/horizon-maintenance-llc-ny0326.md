@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/horizon-maintenance-llc-ny0326/
 
 * Lead abatement, Lead inspection / evaluation
 * Flushing, NY (Queens County)
-* Phone: (646) 239-2813
 * Address: 2364 92nd St, Flushing, NY 11369
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F294122-1 (exp. 2028-05-20)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F294122-1 (exp. 2028-05-20)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/angad-renovations-corp-ny0784/
 
 * Lead abatement
 * South Ozone Park, NY (Queens County)
-* Phone: (718) 536-9226
 * Address: 13537 122nd Pl, South Ozone Park, NY 11420
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F264084-1 (exp. 2027-05-20)
 

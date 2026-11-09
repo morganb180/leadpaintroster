@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aaa-lead-abatement-llc-ny0023/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (646) 812-2241
 * Address: 1843-49TH St, Brooklyn, NY 11204
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-15682-4 (exp. 2028-09-26)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-15682-4 (exp. 2028-09-26)

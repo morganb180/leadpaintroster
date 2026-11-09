@@ -1,6 +1,6 @@
 ---
 title: "ED.EN Construction, Inc., Yonkers, NY | Lead Paint Roster"
-description: "ED.EN Construction, Inc. in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "ED.EN Construction, Inc. in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/ed-en-construction-inc-ny0967/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ed-en-construction-inc-ny0967/
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (914) 282-4858
 * Address: 40 Bajart Pl, Yonkers, NY 10705
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F172369-1 (exp. 2029-06-17)
 

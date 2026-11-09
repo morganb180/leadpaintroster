@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bullay-shah-inc-ny0145/
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (718) 924-6846
 * Address: 3040 Hone Ave, Bronx, NY 10469
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F244188-2 (exp. 2029-01-24)

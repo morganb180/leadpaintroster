@@ -1,6 +1,6 @@
 ---
 title: "Seppe corp, Brooklyn, NY | Lead Paint Roster"
-description: "Seppe corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Seppe corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/seppe-corp-ny1483/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/seppe-corp-ny1483/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 573-2583
 * Address: 3202 Ave R, Brooklyn, NY 11234
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F279182-1 (exp. 2027-12-23)
 

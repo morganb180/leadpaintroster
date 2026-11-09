@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/quick-construction-inc-ny0551/
 
 * Lead abatement, Lead inspection / evaluation
 * Candor, NY (Tioga County)
-* Phone: (607) 227-3637
 * Address: 34 Ithaca Rd, Candor, NY 13743
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-124669-1 (exp. 2027-02-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-124669-1 (exp. 2027-02-23)

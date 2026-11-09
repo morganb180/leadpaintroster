@@ -1,6 +1,6 @@
 ---
 title: "Jose Antonio Perez, Staten Island, NY | Lead Paint Roster"
-description: "Jose Antonio Perez in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Jose Antonio Perez in Staten Island, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/jose-antonio-perez-ny1141/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jose-antonio-perez-ny1141/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (347) 303-1285
 * Address: 1167 Arden Ave, Staten Island, NY 10312
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F272137-1 (exp. 2027-10-23)
 

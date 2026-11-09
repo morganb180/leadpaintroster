@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/safeway-home-inspections-llc-nj0148
 
 * Lead inspection / evaluation
 * New Providence, NJ (Union County)
-* Phone: (908) 447-9445
 * Address: 105 Union Ave, New Providence, NJ 07974
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00860 (exp. 2027-02-28)
 

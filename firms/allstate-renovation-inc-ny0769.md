@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/allstate-renovation-inc-ny0769/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 934-0721
 * Address: 492 Throop Age, Brooklyn, NY 11221
 * Google rating: 4.0 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F264151-1 (exp. 2027-05-21)

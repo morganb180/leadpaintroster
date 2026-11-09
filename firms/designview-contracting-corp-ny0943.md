@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/designview-contracting-corp-ny0943/
 
 * Lead abatement
 * New Rochelle, NY (Westchester County)
-* Phone: (914) 633-3635
 * Address: 1333A N Ave, New Rochelle, NY 10804
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-14784-2 (exp. 2028-09-14)

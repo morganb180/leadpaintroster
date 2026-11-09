@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/elite-professional-construction-inc
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (347) 579-3469
 * Address: 291 Broadway, New York, NY 10007
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F243939-1 (exp. 2029-05-26)
 

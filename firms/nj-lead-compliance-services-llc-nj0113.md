@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nj-lead-compliance-services-llc-nj0
 
 * Lead inspection / evaluation
 * Bloomfield, NJ (Essex County)
-* Phone: (610) 312-4900
 * Address: 29 Donald St, Bloomfield, NJ 07003
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00928 (exp. 2028-07-07)
 

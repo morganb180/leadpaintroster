@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/cattaraugus/
 Licensed firm
 
 2105 Hastings Rd, Olean, NY  
-☎ [(716) 372-3456](tel:7163723456)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F276080-1 (exp. 2027-11-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0783)

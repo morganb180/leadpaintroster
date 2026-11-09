@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/envirolead-solutions-corp-ny0246/
 
 * Lead abatement, Lead inspection / evaluation
 * Great Neck, NY (Nassau County)
-* Phone: (718) 233-7032
 * Address: 23 Maple Grove St, Great Neck, NY 11023
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F262634-1 (exp. 2027-04-19)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262634-1 (exp. 2027-04-19)

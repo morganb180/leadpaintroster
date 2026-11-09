@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/w-a-maintenance-services-inc-ny0672
 
 * Lead abatement, Lead inspection / evaluation
 * Rockaway Park, NY (Queens County)
-* Phone: (516) 846-1000
 * Address: 10206 Rockaway Beach Blvd, Rockaway Park, NY 11694
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F260549-1 (exp. 2027-03-09)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F260549-1 (exp. 2027-03-09)

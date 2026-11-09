@@ -21,7 +21,6 @@ Lead Paint Roster lists 8 NJ DCA-licensed listings for lead inspection / evaluat
 Licensed firm
 
 7 Lehigh Ave, Clifton, NJ  
-☎ [(201) 741-3736](tel:2017413736)  
 Contact listed by NJ DCA: Wieslaw Kutyla
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00795 (exp. 2028-05-31)  
@@ -35,7 +34,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 463 Main St, Suite 1R #1018, Little Falls, NJ  
-☎ [(973) 960-1192](tel:9739601192)  
 Contact listed by NJ DCA: Kaity Rodriguez
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00867 (exp. 2027-04-30)  
@@ -49,7 +47,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 20 Ascension St, Passaic, NJ  
-☎ [(862) 232-9372](tel:8622329372)  
 Contact listed by NJ DCA: Blanca Ducos
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00808 (exp. 2028-05-31)  
@@ -63,7 +60,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 323 Skyline Dr, Ringwood, NJ  
-☎ [(862) 684-0094](tel:8626840094)  
 Contact listed by NJ DCA: Joseph Cierech
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00754 (exp. 2027-04-30)  
@@ -77,7 +73,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 11 Commerce Way, Suite A, Totowa, NJ  
-☎ [(732) 629-7930](tel:7326297930)  
 Contact listed by NJ DCA: Paul W. Schaefer
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00716 (exp. 2026-10-31)  
@@ -91,7 +86,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 409 Minnisink Rd, Suite 204, Totowa, NJ  
-☎ [(973) 785-7574](tel:9737857574)  
 Contact listed by NJ DCA: Stuart Casciano
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00076 (exp. 2027-08-31)  
@@ -105,7 +99,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 7 Alden Pl, Wayne, NJ  
-☎ [(201) 477-8573](tel:2014778573)  
 Contact listed by NJ DCA: Michael J. Damato
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00788 (exp. 2028-01-31)  
@@ -119,7 +112,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 620 Otterhole Rd, West Milford, NJ  
-☎ [(973) 800-4063](tel:9738004063)  
 Contact listed by NJ DCA: Alexander Knox
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00753 (exp. 2027-05-31)  
@@ -137,7 +129,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 223 Randolph Ave, Clifton, NJ  
-☎ [(973) 478-4681](tel:9734784681)  
 Contact listed by NJ DCA: Aleksandar Kuridza
 
 NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00100 (exp. 2027-09-30)  
@@ -151,7 +142,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 17 Florida Ave, Paterson, NJ  
-☎ [(973) 279-3200](tel:9732793200)  
 Contact listed by NJ DCA: Samuel B. Scaturro
 
 NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00084 (exp. 2027-12-31)  
@@ -165,7 +155,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 69 Danforth Ave, Paterson, NJ  
-☎ [(973) 807-6330](tel:9738076330)  
 Contact listed by NJ DCA: Branislav Pavlov
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00838 (exp. 2026-10-31)  
@@ -179,7 +168,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 1050 Colfax Ave, Pompton Lakes, NJ  
-☎ [(716) 867-2012](tel:7168672012)  
 Contact listed by NJ DCA: Hakan Bangir
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00895 (exp. 2027-10-31)  

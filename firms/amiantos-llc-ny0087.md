@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/amiantos-llc-ny0087/
 
 * Lead abatement, Lead inspection / evaluation
 * Long Island City, NY (Queens County)
-* Phone: (718) 545-0870
 * Address: 1235 30th Dr, Long Island City, NY 11102
 * Google rating: 5.0 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F123144-4 (exp. 2029-05-28)

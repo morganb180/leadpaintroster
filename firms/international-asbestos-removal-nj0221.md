@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/international-asbestos-removal-nj02
 
 * Lead abatement
 * Babylon, NY (Suffolk County)
-* Phone: (718) 335-0304
 * Address: 119 Cooper St, Babylon, NY 11702
 * Google rating: 4.0 from 4 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00724 (exp. 2026-11-30)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/m-n-general-services-inc-ny1192/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 745-1738
 * Address: 546 77th St, Brooklyn, NY 11209
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2274-3 (exp. 2027-09-26)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aaa-quality-home-improvement-ny0718
 
 * Lead abatement
 * Grand Island, NY (Erie County)
-* Phone: (716) 602-5501
 * Address: 1096 Baseline Rd, Grand Island, NY 14072
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F267342-1 (exp. 2027-08-05)
 

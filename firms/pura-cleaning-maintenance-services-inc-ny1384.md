@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pura-cleaning-maintenance-services-
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 465-1789
 * Address: 153 E 184 St, Bronx, NY 10468
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F351099-1 (exp. 2029-10-22)
 

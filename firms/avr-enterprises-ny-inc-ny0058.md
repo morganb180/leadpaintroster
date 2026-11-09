@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/avr-enterprises-ny-inc-ny0058/
 
 * Lead abatement, Lead inspection / evaluation
 * Astoria, NY (Queens County)
-* Phone: (646) 886-4113
 * Address: 2611 30th St, Astoria, NY 11102
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F308911-1 (exp. 2028-09-30)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F308911-1 (exp. 2028-09-30)

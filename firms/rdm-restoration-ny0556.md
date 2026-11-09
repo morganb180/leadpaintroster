@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rdm-restoration-ny0556/
 
 * Lead abatement, Lead inspection / evaluation
 * Jefferson Valley, NY (Westchester County)
-* Phone: (914) 245-3100
 * Address: 401 Main St, Jefferson Valley, NY 10535
 * Google rating: 4.9 from 94 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F331086-1 (exp. 2029-04-23)

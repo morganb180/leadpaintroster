@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/roots-inspection-services-llc-nj014
 
 * Lead inspection / evaluation
 * Scotch Plains, NJ (Union County)
-* Phone: (908) 917-9928
 * Address: 1070 Cooper Rd, Scotch Plains, NJ 07076
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00900 (exp. 2027-11-30)
 

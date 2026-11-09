@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-plus-painting-company-llc-ny0705/
 
 * Lead abatement
 * Newyork, NY (New York County)
-* Phone: (917) 754-0091
 * Address: 55WEST 119th St, Newyork, NY 10026
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F218524-2 (exp. 2028-10-13)
 

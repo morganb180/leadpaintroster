@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/better-community-neighborhoods-inc-
 
 * Lead abatement, Lead inspection / evaluation
 * Schenectady, NY (Schenectady County)
-* Phone: (518) 372-7616
 * Address: 816 Union St, Schenectady, NY 12308
 * Google rating: 4.3 from 15 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-30893-1 (exp. 2029-05-04)

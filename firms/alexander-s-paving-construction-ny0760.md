@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/alexander-s-paving-construction-ny0
 
 * Lead abatement
 * Liverpool, NY (Onondaga County)
-* Phone: (315) 546-4092
 * Address: 129 Kings Park Dr, Liverpool, NY 13090
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F317449-1 (exp. 2028-12-15)
 

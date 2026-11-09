@@ -1,6 +1,6 @@
 ---
 title: "Jahan Contracting Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Jahan Contracting Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Jahan Contracting Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/jahan-contracting-inc-ny1134/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jahan-contracting-inc-ny1134/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 680-9139
 * Address: 2674 Pitkin Ave, Brooklyn, NY 11208
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F281403-1 (exp. 2028-01-30)
 

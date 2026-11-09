@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/americana-contracting-corporation-n
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 658-5555
 * Address: 1242 E 103rd St, Brooklyn, NY 11236
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F256565-1 (exp. 2026-11-29)
 

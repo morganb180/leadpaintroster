@@ -41,8 +41,6 @@ Look the firm up in the official EPA list, then ask for the firm's certification
 Licensed firm
 
 9528 112th St, South Richmond Hill, NY  
-☎ [(347) 558-3502](tel:3475583502)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F300817-1 (exp. 2028-07-14)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F300817-1 (exp. 2028-07-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -55,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 10111 133rd St, South Richmond Hill, NY  
-☎ [(917) 634-4486](tel:9176344486)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F224017-1 (exp. 2028-02-04)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F224017-1 (exp. 2028-02-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

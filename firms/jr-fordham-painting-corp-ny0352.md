@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jr-fordham-painting-corp-ny0352/
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (347) 373-2991
 * Address: 1415 Arnow Ave, Bronx, NY 10469
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F151113-3 (exp. 2028-02-06)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F151113-3 (exp. 2028-02-06)

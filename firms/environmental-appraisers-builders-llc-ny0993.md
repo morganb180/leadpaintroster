@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-appraisers-builders-l
 
 * Lead abatement
 * Harrison, NY (Westchester County)
-* Phone: (718) 357-9191
 * Address: 111 Calvert St, Harrison, NY 10528
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-73010-3 (exp. 2029-06-29)
 

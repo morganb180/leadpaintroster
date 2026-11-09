@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/imperial-restoration-services-llc-n
 
 * Lead abatement
 * Ozone Park, NY (Queens County)
-* Phone: (646) 498-6851
 * Address: 10608 101st Ave, Ozone Park, NY 11416
 * Google rating: 5.0 from 21 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F299835-1 (exp. 2028-07-07)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bsi-america-professional-services-i
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (212) 290-6323
 * Address: 141 W 36th St, New York, NY 10018
 * Google rating: 2.8 from 11 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-12452-3 (exp. 2027-01-05)

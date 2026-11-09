@@ -1,6 +1,6 @@
 ---
 title: "M. Painting, Newark, NJ | Lead Paint Roster"
-description: "M. Painting in Newark, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "M. Painting in Newark, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/m-painting-nj0229/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/m-painting-nj0229/
 
 * Lead abatement
 * Newark, NJ (Essex County)
-* Phone: (973) 466-2828
 * Address: 200-206 Delancy St, Newark, NJ 07105
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00299 (exp. 2027-09-30)
 

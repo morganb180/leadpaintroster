@@ -1,6 +1,6 @@
 ---
 title: "Wsp USA, Inc., New York, NY | Lead Paint Roster"
-description: "Wsp USA, Inc. in New York, NY: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Wsp USA, Inc. in New York, NY: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/wsp-usa-inc-nj0178/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/wsp-usa-inc-nj0178/
 
 * Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (407) 587-7848
 * Address: One Penn Plaza, 4th Flr, New York, NY 10119
 * NJ DCA Lead Evaluation Contractor - Commercial buildings/steel structures (CB/SS) #00791 (exp. 2028-01-31)
 

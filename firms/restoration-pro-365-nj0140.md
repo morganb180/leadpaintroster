@@ -1,6 +1,6 @@
 ---
 title: "Restoration Pro 365, Ewing, NJ | Lead Paint Roster"
-description: "Restoration Pro 365 in Ewing, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Restoration Pro 365 in Ewing, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/restoration-pro-365-nj0140/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/restoration-pro-365-nj0140/
 
 * Lead inspection / evaluation
 * Ewing, NJ (Mercer County)
-* Phone: (888) 362-8444
 * Address: 1977 N.olden Ave, Suite 123, Ewing, NJ 08618
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00893 (exp. 2027-09-30)
 

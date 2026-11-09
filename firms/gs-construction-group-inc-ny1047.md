@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gs-construction-group-inc-ny1047/
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (718) 737-9222
 * Address: 1035 44th Dr, Long Island City, NY 11101
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F308200-1 (exp. 2028-09-22)
 

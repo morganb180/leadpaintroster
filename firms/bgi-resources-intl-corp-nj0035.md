@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bgi-resources-intl-corp-nj0035/
 
 * Lead inspection / evaluation
 * Cherry Hill, NJ (Camden County)
-* Phone: (856) 888-2396
 * Address: 80 Barclay Farms Shop. Ctr., Cherry Hill, NJ 08034
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00620 (exp. 2027-12-31)
 

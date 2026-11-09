@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tfw-partners-corp-ny0625/
 
 * Lead abatement, Lead inspection / evaluation
 * South Ozone Park, NY (Queens County)
-* Phone: (646) 469-6923
 * Address: 13018 133rd Ave, South Ozone Park, NY 11420
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F258852-1 (exp. 2027-02-02)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F258852-1 (exp. 2027-02-02)

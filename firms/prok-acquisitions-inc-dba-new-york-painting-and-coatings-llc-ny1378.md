@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/prok-acquisitions-inc-dba-new-york-
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (585) 330-3939
 * Address: 64 Shady Creek Rd, Rochester, NY 14623
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F265459-1 (exp. 2027-06-21)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hansmore-groups-llc-ny0314/
 
 * Lead abatement, Lead inspection / evaluation
 * White Plains, NY (Westchester County)
-* Phone: (917) 631-8195
 * Address: 209 Warren Ave, White Plains, NY 10603
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F327148-1 (exp. 2029-10-08)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F327148-1 (exp. 2029-10-08)

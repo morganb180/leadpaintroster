@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/saajan-general-construction-inc-ny1
 
 * Lead abatement
 * Queens, NY (Queens County)
-* Phone: (917) 251-4535
 * Address: 11218 Liberty Ave, Queens, NY 11418
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F263136-1 (exp. 2027-05-01)
 

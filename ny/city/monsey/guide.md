@@ -41,8 +41,6 @@ Look the firm up in the official EPA list, then ask for the firm's certification
 Licensed firm
 
 46 Main St, Monsey, NY  
-☎ [(718) 437-6511](tel:7184376511)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-116786-3 (exp. 2027-02-23)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-116786-3 (exp. 2027-02-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -55,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 5 Lenore Ave, Monsey, NY  
-☎ [(212) 575-4777](tel:2125754777)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F270390-1 (exp. 2027-10-02)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F270390-1 (exp. 2027-10-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -69,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 22A Ralph Blvd, Monsey, NY  
-☎ [(845) 428-4362](tel:8454284362)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F280005-1 (exp. 2028-01-01)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0667)

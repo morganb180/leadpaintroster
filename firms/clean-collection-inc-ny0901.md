@@ -1,6 +1,6 @@
 ---
 title: "Clean Collection Inc, Brooklyn, NY | Lead Paint Roster"
-description: "Clean Collection Inc in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Clean Collection Inc in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/clean-collection-inc-ny0901/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/clean-collection-inc-ny0901/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (929) 610-2406
 * Address: 202 Sheffield Ave, Brooklyn, NY 11207
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F229835-2 (exp. 2028-02-12)
 

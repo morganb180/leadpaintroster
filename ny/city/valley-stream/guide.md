@@ -46,8 +46,6 @@ Lead Paint Roster lists 12 listings with an address in Valley Stream: 6 inspecti
 Licensed firm
 
 84 Meyer Ave, Valley Stream, NY  
-☎ [(347) 526-8049](tel:3475268049)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F308425-1 (exp. 2028-09-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0172)
@@ -59,8 +57,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 146 E Dover St, Valley Stream, NY  
-☎ [(917) 769-8528](tel:9177698528)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F190716-3 (exp. 2029-03-28)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F190716-3 (exp. 2029-03-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -73,8 +69,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1304 G St, Valley Stream, NY  
-☎ [(347) 998-0316](tel:3479980316)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F270624-1 (exp. 2027-10-08)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F270624-1 (exp. 2027-10-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -87,8 +81,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 625 Michelle Pl, Valley Stream, NY  
-☎ [(516) 508-0845](tel:5165080845)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F256716-1 (exp. 2026-12-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0518)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-s-a-r-international-corp-ny0714/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (718) 761-7420
 * Address: 491 Wild Ave, Staten Island, NY 10314
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-1580-3 (exp. 2027-04-26)

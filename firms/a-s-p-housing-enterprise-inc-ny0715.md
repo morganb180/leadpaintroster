@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-s-p-housing-enterprise-inc-ny0715
 
 * Lead abatement
 * Maspeth, NY (Queens County)
-* Phone: (718) 608-7073
 * Address: 55-10 68th St, Maspeth, NY 11378
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F179626-3 (exp. 2027-11-22)
 

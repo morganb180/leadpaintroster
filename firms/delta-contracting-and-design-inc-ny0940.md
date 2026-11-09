@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/delta-contracting-and-design-inc-ny
 
 * Lead abatement
 * Auburn, NY (Cayuga County)
-* Phone: (516) 650-9458
 * Address: 20 Fitch Ave, Auburn, NY 13022
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F281845-1 (exp. 2028-02-04)
 

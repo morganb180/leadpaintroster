@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/enviroscience-consultants-llc-ny025
 
 * Lead inspection / evaluation
 * Ronkonkoma, NY (Suffolk County)
-* Phone: (631) 580-3191
 * Address: 2150 Smithtown Ave, Ronkonkoma, NY 11779
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1327-3 (exp. 2028-08-19)

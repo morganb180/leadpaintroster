@@ -46,8 +46,6 @@ Lead Paint Roster lists 6 listings with an address in Levittown: 2 inspection/ri
 Licensed firm
 
 2 Daisy Ln, Levittown, NY  
-☎ [(914) 309-1433](tel:9143091433)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F298040-1 (exp. 2028-06-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0274)
@@ -59,8 +57,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 152 Milton Ave, Levittown, NY  
-☎ [(917) 200-8383](tel:9172008383)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F241864-1 (exp. 2027-12-27)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F241864-1 (exp. 2027-12-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -73,8 +69,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 35 Squirrel Ln, Levittown, NY  
-☎ [(631) 921-7689](tel:6319217689)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F350130-1 (exp. 2029-10-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0746)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/roger-seasonwein-asc-inc-ny1441/
 
 * Lead abatement
 * Mt. Vernon, NY (Westchester County)
-* Phone: (914) 668-7618
 * Address: 300 Gramatan Ave, Mt. Vernon, NY 10552
 * Google rating: 4.3 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-66664-2 (exp. 2028-07-14)

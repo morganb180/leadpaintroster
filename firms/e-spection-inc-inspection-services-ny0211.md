@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/e-spection-inc-inspection-services-
 
 * Lead inspection / evaluation
 * Westbury, NY (Nassau County)
-* Phone: (516) 334-4663
 * Address: 96 Lexington St, Westbury, NY 11590
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295693-1 (exp. 2028-06-10)

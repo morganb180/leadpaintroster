@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/restoration-masters-inc-ny0577/
 
 * Lead abatement, Lead inspection / evaluation
 * New Hyde Park, NY (Nassau County)
-* Phone: (888) 737-8601
 * Address: 1208 Jericho Turnpike, New Hyde Park, NY 11040
 * Google rating: 5.0 from 13 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F270489-1 (exp. 2027-10-03)

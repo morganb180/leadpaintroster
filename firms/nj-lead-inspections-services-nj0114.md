@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nj-lead-inspections-services-nj0114
 
 * Lead inspection / evaluation
 * East Brunswick, NJ (Middlesex County)
-* Phone: (908) 705-4538
 * Address: 7 Pitt Rd, East Brunswick, NJ 08816
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00854 (exp. 2026-12-31)
 

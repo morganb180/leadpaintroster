@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/meridian-construction-group-inc-ny1
 
 * Lead abatement
 * Astoria, NY (Queens County)
-* Phone: (718) 475-6789
 * Address: 3533 31st St, Astoria, NY 11106
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F252630-2 (exp. 2029-08-11)
 

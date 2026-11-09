@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ziccor-capital-construction-inc-ny1
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (631) 882-7803
 * Address: 67 Mountainview Ave, Staten Island, NY 10314
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262492-1 (exp. 2027-05-06)
 

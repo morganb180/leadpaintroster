@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/alfonso-s-home-improvement-and-cont
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (646) 296-1786
 * Address: 3981 Victory Blvd, Staten Island, NY 10314
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F231972-2 (exp. 2028-05-01)

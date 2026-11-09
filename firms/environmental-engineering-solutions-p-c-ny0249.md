@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-engineering-solutions
 
 * Lead abatement, Lead inspection / evaluation
 * Briarcliff Manor, NY (Westchester County)
-* Phone: (914) 788-4165
 * Address: 540 N State Rd, Briarcliff Manor, NY 10510
 * Google rating: 1.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1988-3 (exp. 2027-02-22)

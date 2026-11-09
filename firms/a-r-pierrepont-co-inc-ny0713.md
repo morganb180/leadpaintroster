@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-r-pierrepont-co-inc-ny0713/
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (585) 473-3225
 * Address: 154 Berkeley St, Rochester, NY 14607
 * Google rating: 4.3 from 9 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-108545-4 (exp. 2029-04-28)

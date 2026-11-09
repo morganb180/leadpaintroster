@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/preservation-properties-llc-nj0129/
 
 * Lead inspection / evaluation
 * Newtown, PA (Bucks County)
-* Phone: (609) 504-0518
 * Address: 15 Claire Dr, Newtown, PA 18940
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00771 (exp. 2027-07-31)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/empire-contracting-renovation-inc-n
 
 * Lead abatement
 * Flushing, NY (Queens County)
-* Phone: (917) 662-0122
 * Address: 3637 193rd St, Flushing, NY 11358
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F335417-1 (exp. 2029-06-02)
 

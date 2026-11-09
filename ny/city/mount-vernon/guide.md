@@ -50,8 +50,6 @@ Lead Paint Roster lists 6 listings with an address in Mount Vernon: 3 inspection
 Licensed firm
 
 20 Fletcher Ave, Mount Vernon, NY  
-☎ [(914) 338-6979](tel:9143386979)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F315084-1 (exp. 2028-11-26)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F315084-1 (exp. 2028-11-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -64,8 +62,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2 Gramatan Ave, Mount Vernon, NY  
-☎ [(914) 631-7980](tel:9146317980)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1893-4 (exp. 2029-09-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0156)
@@ -77,8 +73,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 133 N Ter Ave, Mount Vernon, NY  
-☎ [(914) 906-3969](tel:9149063969)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F262346-1 (exp. 2027-04-15)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F262346-1 (exp. 2027-04-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

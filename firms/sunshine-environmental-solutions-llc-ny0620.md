@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sunshine-environmental-solutions-ll
 
 * Lead abatement, Lead inspection / evaluation
 * Deer Park, NY (Suffolk County)
-* Phone: (631) 320-2350
 * Address: 80 E Jefryn Blvd, Deer Park, NY 11729
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F165798-4 (exp. 2029-07-12)

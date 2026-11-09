@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/factory-engineering-works-ny0270/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (347) 967-9728
 * Address: 339 40th St, Brooklyn, NY 11232
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F304861-1 (exp. 2028-08-21)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F304861-1 (exp. 2028-08-21)

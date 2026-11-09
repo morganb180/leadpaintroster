@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/d-gaines-contracting-llc-ny0915/
 
 * Lead abatement
 * Binghamton, NY (Broome County)
-* Phone: (607) 651-0407
 * Address: 46 Starr Ave, Binghamton, NY 13905
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F258182-1 (exp. 2027-01-12)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/markaj-inc-ny0445/
 
 * Lead abatement, Lead inspection / evaluation
 * Valley Cottage, NY (Rockland County)
-* Phone: (914) 906-5999
 * Address: 21 Green Ave, Valley Cottage, NY 10989
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F319512-1 (exp. 2029-01-19)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F319512-1 (exp. 2029-01-19)

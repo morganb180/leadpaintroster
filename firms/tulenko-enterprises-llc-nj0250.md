@@ -1,6 +1,6 @@
 ---
 title: "Tulenko Enterprises, LLC, Rockaway, NJ | Lead Paint Roster"
-description: "Tulenko Enterprises, LLC in Rockaway, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Tulenko Enterprises, LLC in Rockaway, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/tulenko-enterprises-llc-nj0250/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tulenko-enterprises-llc-nj0250/
 
 * Lead abatement
 * Rockaway, NJ (Morris County)
-* Phone: (973) 453-6699
 * Address: 176 Franklin Ave, Unit #5, Rockaway, NJ 07866
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00877 (exp. 2027-04-30)
 

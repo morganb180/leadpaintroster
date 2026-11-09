@@ -1,6 +1,6 @@
 ---
 title: "Rabideau Corp., Saranac Lake, NY | Lead Paint Roster"
-description: "Rabideau Corp. in Saranac Lake, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Rabideau Corp. in Saranac Lake, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/rabideau-corp-ny1407/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rabideau-corp-ny1407/
 
 * Lead abatement
 * Saranac Lake, NY (Franklin County)
-* Phone: (518) 891-1541
 * Address: 50 Cedar Ridge Dr, Saranac Lake, NY 12983
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F146063-2 (exp. 2028-04-13)
 

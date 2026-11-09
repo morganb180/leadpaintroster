@@ -23,9 +23,6 @@ Listings holding more than one licence type are shown once, in the first matchin
 Licensed firm
 
 Dorchester, MA  
-☎ [(781) 534-2095](tel:7815342095)  
-✉ [mlm1973.mm@gmail.com](mailto:mlm1973.mm@gmail.com)
-
 1 licensed individual
 
 * Matthew Marrochello (MA DLS Inspector/Risk Assessor #004307 (exp. 2026-12-06))
@@ -40,10 +37,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Dorchester, MA  
-☎ [(617) 784-1684](tel:6177841684)  
-✉ [benjamin@asapenvironmental.com](mailto:benjamin@asapenvironmental.com)  
-✉ [John@asapenvironmental.com](mailto:John@asapenvironmental.com)
-
 4 licensed individuals
 
 * Benjamin Misch (MA DLS Inspector/Risk Assessor #3984 (exp. 2027-02-11))

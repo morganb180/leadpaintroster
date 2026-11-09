@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/big-a-s-solutions-ltd-ny0831/
 
 * Lead abatement
 * Rockville Center, NY (Nassau County)
-* Phone: (516) 967-9183
 * Address: 250 Merrick Rd, Rockville Center, NY 11571
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-111980-2 (exp. 2029-05-04)
 

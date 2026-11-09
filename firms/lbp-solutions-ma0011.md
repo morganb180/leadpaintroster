@@ -1,6 +1,6 @@
 ---
 title: "LBP Solutions, Dighton, MA | Lead Paint Roster"
-description: "LBP Solutions in Dighton, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates, contact details and the official source list."
+description: "LBP Solutions in Dighton, MA: Massachusetts DLS licensed for risk assessment. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lbp-solutions-ma0011/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/lbp-solutions-ma0011/
 
 * Lead risk assessment
 * Dighton, MA (Bristol County)
-* Phone: (508) 254-0514
-* Email: Neillafrance@lbpsolutions.com
 * Address: Dighton, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0011

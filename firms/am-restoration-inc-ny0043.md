@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/am-restoration-inc-ny0043/
 
 * Lead abatement, Lead inspection / evaluation
 * S Richmond Hill, NY (Queens County)
-* Phone: (347) 440-5621
 * Address: 110-09 101 Ave, S Richmond Hill, NY 11419
 * Google rating: 4.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F182012-1 (exp. 2028-08-04)

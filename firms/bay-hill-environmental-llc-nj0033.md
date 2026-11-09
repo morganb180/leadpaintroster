@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bay-hill-environmental-llc-nj0033/
 
 * Lead inspection / evaluation
 * Cherry Hill, NJ (Camden County)
-* Phone: (215) 284-0086
 * Address: 2060 Fairfax Ave, Cherry Hill, NJ 08002
 * Google rating: 4.9 from 201 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00432 (exp. 2027-01-31)

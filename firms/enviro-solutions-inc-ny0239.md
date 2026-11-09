@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/enviro-solutions-inc-ny0239/
 
 * Lead abatement, Lead inspection / evaluation
 * Newburgh, NY (Orange County)
-* Phone: (973) 592-5706
 * Address: 1781 Rt 300, Newburgh, NY 12550
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F167887-4 (exp. 2028-08-16)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F167887-4 (exp. 2028-08-16)

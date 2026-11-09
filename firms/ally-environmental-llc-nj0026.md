@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ally-environmental-llc-nj0026/
 
 * Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (212) 203-7523
 * Address: 81 Roosevelt Ave, Staten Island, NY 10314
 * Google rating: 5.0 from 12 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00755 (exp. 2027-03-31)

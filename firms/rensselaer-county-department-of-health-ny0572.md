@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rensselaer-county-department-of-hea
 
 * Lead inspection / evaluation
 * Troy, NY (Rensselaer County)
-* Phone: (518) 270-2626
 * Address: 1600 7th Ave, Troy, NY 12180
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2482-3 (exp. 2028-02-22)
 

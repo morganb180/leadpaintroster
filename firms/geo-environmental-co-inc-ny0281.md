@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/geo-environmental-co-inc-ny0281/
 
 * Lead inspection / evaluation
 * Yorktown Heights, NY (Westchester County)
-* Phone: (914) 962-1086
 * Address: 170 Loder Rd, Yorktown Heights, NY 10598
 * Google rating: 5.0 from 37 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F204353-3 (exp. 2028-07-02)

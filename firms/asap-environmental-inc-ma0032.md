@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/asap-environmental-inc-ma0032/
 
 * Lead risk assessment
 * Newton, MA (Middlesex County)
-* Phone: (508) 801-5407
-* Email: Okie816@gmail.com
 * Address: Newton, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0032

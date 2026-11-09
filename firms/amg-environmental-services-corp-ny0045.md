@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/amg-environmental-services-corp-ny0
 
 * Lead abatement, Lead inspection / evaluation
 * Whitestone, NY (Queens County)
-* Phone: (917) 939-0019
 * Address: 13915 14th Ave, Whitestone, NY 11357
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F215713-3 (exp. 2029-06-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F215713-3 (exp. 2029-06-23)

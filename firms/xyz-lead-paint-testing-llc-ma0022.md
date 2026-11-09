@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/xyz-lead-paint-testing-llc-ma0022/
 
 * Lead risk assessment
 * Lawrence, MA (Essex County)
-* Phone: (978) 876-2054
-* Email: xyzleadpaint1@gmail.com
 * Address: Lawrence, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0022

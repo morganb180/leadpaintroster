@@ -1,6 +1,6 @@
 ---
 title: "Tadco Engineering, Lyndhurst, NJ | Lead Paint Roster"
-description: "Tadco Engineering in Lyndhurst, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Tadco Engineering in Lyndhurst, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/tadco-engineering-nj0164/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tadco-engineering-nj0164/
 
 * Lead inspection / evaluation
 * Lyndhurst, NJ (Bergen County)
-* Phone: (201) 222-5322
 * Address: 1099 Wall St West, Lyndhurst, NJ 07071
 * Google rating: 4.7 from 15 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00551 (exp. 2028-03-31)

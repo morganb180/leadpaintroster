@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/360management-llc-ny0007/
 
 * Lead abatement, Lead inspection / evaluation
 * Niagara Falls, NY (Niagara County)
-* Phone: (716) 299-0931
 * Address: 931 Michigan Ave, Niagara Falls, NY 14305
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F343294-1 (exp. 2029-08-06)

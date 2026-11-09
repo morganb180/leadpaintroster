@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/react-env-professional-svcs-nj0136/
 
 * Lead inspection / evaluation
 * Philadelphia, PA (Philadelphia County)
-* Phone: (215) 729-3220
 * Address: 6901 Kingsessing Ave Suite 201, Philadelphia, PA 19142
 * Google rating: 3.0 from 3 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00605 (exp. 2026-10-31)

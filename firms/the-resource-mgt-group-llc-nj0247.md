@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/the-resource-mgt-group-llc-nj0247/
 
 * Lead abatement
 * Trenton, NJ (Mercer County)
-* Phone: (609) 914-4279
 * Address: 2115 Hamilton Ave, Ste.202, Trenton, NJ 08619
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00743 (exp. 2027-04-30)
 

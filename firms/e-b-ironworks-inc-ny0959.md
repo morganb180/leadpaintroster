@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/e-b-ironworks-inc-ny0959/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (347) 218-2779
 * Address: 225 Wellington Ct, Staten Island, NY 10314
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F230615-2 (exp. 2028-02-04)
 

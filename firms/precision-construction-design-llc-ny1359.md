@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/precision-construction-design-llc-n
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 518-4700
 * Address: 2745 Mill Ave, Brooklyn, NY 11234
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F217625-2 (exp. 2028-09-02)
 

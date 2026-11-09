@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/langan-engineering-environmental-su
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (973) 560-4900
 * Address: 360 W 31st St, New York, NY 10001
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2233-3 (exp. 2027-08-02)
 

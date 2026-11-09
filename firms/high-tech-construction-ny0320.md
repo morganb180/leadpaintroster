@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/high-tech-construction-ny0320/
 
 * Lead abatement, Lead inspection / evaluation
 * Smithtown, NY (Suffolk County)
-* Phone: (631) 724-5243
 * Address: 28 Merrivale Dr, Smithtown, NY 11787
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-67952-3 (exp. 2029-07-13)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-67952-3 (exp. 2029-07-13)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/kayafas-contracting-co-inc-ny1152/
 
 * Lead abatement
 * Bayside, NY (Queens County)
-* Phone: (718) 458-5545
 * Address: 21544 29th Ave, Bayside, NY 11360
 * Google rating: 5.0 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-79740-2 (exp. 2028-07-22)

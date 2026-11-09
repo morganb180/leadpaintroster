@@ -1,6 +1,6 @@
 ---
 title: "Nastasi Builders, LLC, Hoboken, NY | Lead Paint Roster"
-description: "Nastasi Builders, LLC in Hoboken, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Nastasi Builders, LLC in Hoboken, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/nastasi-builders-llc-ny1283/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nastasi-builders-llc-ny1283/
 
 * Lead abatement
 * Hoboken, NY
-* Phone: (201) 653-2577
 * Address: 321 Newark St, Hoboken, NY 07030
 * Google rating: 4.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-114757-1 (exp. 2029-08-18)

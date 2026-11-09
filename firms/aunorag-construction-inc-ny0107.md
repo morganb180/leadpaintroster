@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aunorag-construction-inc-ny0107/
 
 * Lead inspection / evaluation
 * Long island, NY (Nassau County)
-* Phone: (917) 440-2292
 * Address: 345 Grange St Franklin Square, Long island, NY 11010
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-42397-2 (exp. 2028-03-03)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/new-york-city-lead-defense-corp-ny1
 
 * Lead abatement
 * Queens, NY (Queens County)
-* Phone: (718) 825-4850
 * Address: 6223 64th St, Queens, NY 11379
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F348130-1 (exp. 2029-09-30)
 

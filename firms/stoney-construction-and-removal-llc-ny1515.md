@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/stoney-construction-and-removal-llc
 
 * Lead abatement
 * Buffalo, NY (Erie County)
-* Phone: (716) 228-9178
 * Address: 263 S Union Rd, Buffalo, NY 14221
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F292641-1 (exp. 2029-07-06)
 

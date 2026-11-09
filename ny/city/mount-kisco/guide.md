@@ -45,8 +45,6 @@ Lead Paint Roster lists 5 listings with an address in Mount Kisco: 3 inspection/
 Licensed firm
 
 239 Lexington Ave, Mount Kisco, NY  
-☎ [(917) 280-9851](tel:9172809851)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F231036-1 (exp. 2028-06-23)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F231036-1 (exp. 2028-06-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -59,8 +57,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 333 Lexington Ave, Mount Kisco, NY  
-☎ [(914) 232-7355](tel:9142327355)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-62470-4 (exp. 2029-10-06)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-62470-4 (exp. 2029-10-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -73,8 +69,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 487 E Main St, Mount Kisco, NY  
-☎ [(929) 949-9939](tel:9299499939)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F263862-1 (exp. 2027-05-15)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F263862-1 (exp. 2027-05-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

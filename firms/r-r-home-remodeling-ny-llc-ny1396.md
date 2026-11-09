@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/r-r-home-remodeling-ny-llc-ny1396/
 
 * Lead abatement
 * Schenectady, NY (Schenectady County)
-* Phone: (518) 421-3234
 * Address: 1517 Van Curler Ave, Schenectady, NY 12308
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F324055-1 (exp. 2029-03-09)
 

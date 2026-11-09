@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/restoration-environmental-abatement
 
 * Lead abatement
 * Bayside, NY (Queens County)
-* Phone: (347) 891-7114
 * Address: 3620 221st St, Bayside, NY 11361
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F307395-1 (exp. 2028-09-11)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bako-construction-rest-inc-nj0199/
 
 * Lead abatement
 * East Hanover, NJ (Morris County)
-* Phone: (973) 256-7010
 * Address: 34 Deforest Ave, Suite 1, East Hanover, NJ 07936
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00231 (exp. 2027-04-30)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/m-a-b-renovation-group-corp-ny1198/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (917) 716-5424
 * Address: 207 W 102nd St, New York, NY 10025
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-102484-2 (exp. 2027-04-08)
 

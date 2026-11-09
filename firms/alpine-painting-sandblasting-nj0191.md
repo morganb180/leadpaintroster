@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/alpine-painting-sandblasting-nj0191
 
 * Lead abatement
 * Paterson, NJ (Passaic County)
-* Phone: (973) 279-3200
 * Address: 17 Florida Ave, Paterson, NJ 07503
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00084 (exp. 2027-12-31)
 

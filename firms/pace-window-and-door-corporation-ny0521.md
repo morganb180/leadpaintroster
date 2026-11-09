@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pace-window-and-door-corporation-ny
 
 * Lead inspection / evaluation
 * Victor, NY (Ontario County)
-* Phone: (585) 924-8350
 * Address: 7224 Route 96, Victor, NY 14564
 * Google rating: 4.6 from 544 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-63594-1 (exp. 2028-07-16)

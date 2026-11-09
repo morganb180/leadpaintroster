@@ -1,6 +1,6 @@
 ---
 title: "E.F.Global LLC, Astoria, NY | Lead Paint Roster"
-description: "E.F.Global LLC in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "E.F.Global LLC in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/e-f-global-llc-ny0963/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/e-f-global-llc-ny0963/
 
 * Lead abatement
 * Astoria, NY (Queens County)
-* Phone: (929) 320-8786
 * Address: 2056 20th St, Astoria, NY 11105
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F304704-1 (exp. 2028-08-19)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/northstar-demolition-and-remediatio
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (409) 886-3959
 * Address: 120 Elmgrove Park, Rochester, NY 14624
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F214110-3 (exp. 2029-04-01)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-tactics-inc-nj0061/
 
 * Lead inspection / evaluation
 * Matawan, NJ (Monmouth County)
-* Phone: (732) 290-2217
 * Address: 64 Broad St, Matawan, NJ 07747
 * Google rating: 1.0 from 1 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00070 (exp. 2027-05-31)

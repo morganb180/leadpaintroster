@@ -1,6 +1,6 @@
 ---
 title: "Jayhomes LLC, East Orange, NJ | Lead Paint Roster"
-description: "Jayhomes LLC in East Orange, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Jayhomes LLC in East Orange, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/jayhomes-llc-nj0087/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jayhomes-llc-nj0087/
 
 * Lead inspection / evaluation
 * East Orange, NJ (Essex County)
-* Phone: (973) 477-9199
 * Address: 162 Brookwood St, East Orange, NJ 07018
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00775 (exp. 2027-07-31)
 

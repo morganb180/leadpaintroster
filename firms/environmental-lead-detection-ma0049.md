@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-lead-detection-ma0049
 
 * Lead inspection / evaluation, Lead risk assessment
 * Swansea, MA (Bristol County)
-* Phone: (774) 888-8208
-* Email: katy@leadsafeeld.com
 * Address: Swansea, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0049

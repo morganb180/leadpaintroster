@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/saul-environmental-corporation-nj02
 
 * Lead abatement
 * North Bergen, NJ (Hudson County)
-* Phone: (201) 378-6464
 * Address: 8419 Liberty Ave, North Bergen, NJ 07047
 * Google rating: 5.0 from 34 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00691 (exp. 2026-12-31)

@@ -1,6 +1,6 @@
 ---
 title: "Senatach Contracting, LLC, Newark, NJ | Lead Paint Roster"
-description: "Senatach Contracting, LLC in Newark, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Senatach Contracting, LLC in Newark, NJ: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/senatach-contracting-llc-nj0242/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/senatach-contracting-llc-nj0242/
 
 * Lead abatement
 * Newark, NJ (Essex County)
-* Phone: (973) 444-6059
 * Address: 418 S 15th St, Flr 1, Newark, NJ 07103
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00910 (exp. 2028-01-31)
 

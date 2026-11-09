@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cny-environmental-ny0153/
 
 * Lead abatement, Lead inspection / evaluation
 * North Syracuse, NY (Onondaga County)
-* Phone: (315) 491-2473
 * Address: 7773 Davis Rd S, North Syracuse, NY 13212
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F318306-1 (exp. 2028-12-25)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F318306-1 (exp. 2028-12-25)

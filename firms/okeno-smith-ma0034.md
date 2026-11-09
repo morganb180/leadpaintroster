@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/okeno-smith-ma0034/
 
 * Lead inspection / evaluation
 * North Easton, MA (Bristol County)
-* Phone: (508) 821-0661
-* Email: Okenosmith@gmail.com
 * Address: North Easton, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0034

@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/lewis/
 Licensed firm
 
 6255 State Route 12, Lowville, NY  
-☎ [(315) 681-0244](tel:3156810244)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F267666-1 (exp. 2027-08-16)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1039)

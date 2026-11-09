@@ -1,6 +1,6 @@
 ---
 title: "StarNight Corp., Astoria, NY | Lead Paint Roster"
-description: "StarNight Corp. in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "StarNight Corp. in Astoria, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/starnight-corp-ny1510/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/starnight-corp-ny1510/
 
 * Lead abatement
 * Astoria, NY (Queens County)
-* Phone: (347) 237-2701
 * Address: 4311 19th Ave, Astoria, NY 11105
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-14236-3 (exp. 2028-10-08)
 

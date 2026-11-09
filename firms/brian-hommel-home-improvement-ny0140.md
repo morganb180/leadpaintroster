@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/brian-hommel-home-improvement-ny014
 
 * Lead abatement, Lead inspection / evaluation
 * Saugerties, NY (Ulster County)
-* Phone: (845) 399-9154
 * Address: 749 Kings Hwy, Saugerties, NY 12477
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-65201-1 (exp. 2028-11-14)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-65201-1 (exp. 2028-11-14)

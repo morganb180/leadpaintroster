@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/eastern-property-services-inc-ny097
 
 * Lead abatement
 * Riverhead, NY (Suffolk County)
-* Phone: (631) 996-4900
 * Address: 1794 W Main St, Riverhead, NY 11901
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F191656-3 (exp. 2028-09-30)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hudson-valley-environmental-llc-ny0
 
 * Lead inspection / evaluation
 * Pomona, NY (Rockland County)
-* Phone: (347) 469-8447
 * Address: 8 Deer Run Rd, Pomona, NY 10970
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F288731-1 (exp. 2028-03-26)
 

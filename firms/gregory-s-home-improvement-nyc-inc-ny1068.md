@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gregory-s-home-improvement-nyc-inc-
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (917) 468-1304
 * Address: 158 Butler Ave, Staten Island, NY 10307
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F219639-2 (exp. 2026-11-23)

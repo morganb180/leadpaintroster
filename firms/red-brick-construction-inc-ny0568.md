@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/red-brick-construction-inc-ny0568/
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (914) 501-3653
 * Address: 2317 Laconia Ave, Bronx, NY 10469
 * Google rating: 5.0 from 11 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F300709-1 (exp. 2028-07-14)

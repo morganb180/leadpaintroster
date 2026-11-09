@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/alberti-and-sons-general-contractor
 
 * Lead abatement, Lead inspection / evaluation
 * Fairport, NY (Monroe County)
-* Phone: (585) 388-1105
 * Address: 24 High St, Fairport, NY 14626
 * Google rating: 4.9 from 105 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295186-1 (exp. 2028-05-23)

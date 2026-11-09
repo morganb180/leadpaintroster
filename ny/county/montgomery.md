@@ -21,8 +21,6 @@ Lead Paint Roster lists 1 EPA-licensed listing for lead inspection / evaluation 
 Licensed firm
 
 412 Maple Hill Rd, Canajoharie, NY  
-☎ [(518) 376-2649](tel:5183762649)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-47239-4 (exp. 2029-02-09)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-47239-4 (exp. 2029-02-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -39,8 +37,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 52 Milton Ave, Amsterdam, NY  
-☎ [(518) 212-2276](tel:5182122276)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-117306-1 (exp. 2029-04-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0887)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/atlantic-sun-construction-corp-ny08
 
 * Lead abatement
 * Maspeth, NY (Queens County)
-* Phone: (718) 672-4390
 * Address: 58-46 59th St, Maspeth, NY 11378
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F107945-4 (exp. 2028-11-01)
 

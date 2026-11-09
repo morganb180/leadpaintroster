@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dynamic-inspections-llc-nj0049/
 
 * Lead inspection / evaluation
 * Princeton, NJ (Mercer County)
-* Phone: (609) 214-9586
 * Address: 300 Carnegie Center, Suite 150, Princeton, NJ 08540
 * Google rating: 5.0 from 47 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00887 (exp. 2027-07-31)

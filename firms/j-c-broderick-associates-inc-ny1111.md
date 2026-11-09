@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/j-c-broderick-associates-inc-ny1111
 
 * Lead abatement
 * Hauppauge, NY (Suffolk County)
-* Phone: (631) 584-5492
 * Address: 1775 Expressway Dr North, Hauppauge, NY 11788
 * Google rating: 5.0 from 5 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2159-3 (exp. 2027-05-28)

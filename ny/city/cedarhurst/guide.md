@@ -47,8 +47,6 @@ Lead Paint Roster lists 4 listings with an address in Cedarhurst: 4 inspection/r
 Licensed firm
 
 140A Washington Ave, Cedarhurst, NY  
-☎ [(646) 397-7760](tel:6463977760)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F236589-2 (exp. 2028-06-02)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F236589-2 (exp. 2028-06-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -61,8 +59,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 445 Central Ave, Cedarhurst, NY  
-☎ [(516) 218-4750](tel:5162184750)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F220972-3 (exp. 2027-02-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0193)
@@ -74,8 +70,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 97 Cedarhurst Ave, Cedarhurst, NY  
-☎ [(267) 973-9206](tel:2679739206)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295177-1 (exp. 2028-05-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0306)
@@ -87,8 +81,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 125R Cedarhurst Ave, Cedarhurst, NY  
-☎ [(718) 436-0845](tel:7184360845)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F119308-4 (exp. 2029-01-23)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F119308-4 (exp. 2029-01-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

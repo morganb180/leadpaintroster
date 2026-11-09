@@ -1,6 +1,6 @@
 ---
 title: "Aviva Builders, Inc., New York, NY | Lead Paint Roster"
-description: "Aviva Builders, Inc. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Aviva Builders, Inc. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/aviva-builders-inc-ny0807/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aviva-builders-inc-ny0807/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (718) 578-2689
 * Address: 521 5th Ave, New York, NY 10175
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F267910-1 (exp. 2027-08-27)
 

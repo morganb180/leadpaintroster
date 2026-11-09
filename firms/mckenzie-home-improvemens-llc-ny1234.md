@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mckenzie-home-improvemens-llc-ny123
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (646) 957-0663
 * Address: 1156 Metcalf Ave, Bronx, NY 10472
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F281581-1 (exp. 2028-02-04)
 

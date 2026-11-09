@@ -1,6 +1,6 @@
 ---
 title: "Lek Environmental, Palisades Park, NJ | Lead Paint Roster"
-description: "Lek Environmental in Palisades Park, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Lek Environmental in Palisades Park, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lek-environmental-nj0100/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lek-environmental-nj0100/
 
 * Lead inspection / evaluation
 * Palisades Park, NJ (Bergen County)
-* Phone: (914) 314-4248
 * Address: 28 E Palisades Blvd, #21, Palisades Park, NJ 07650
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00925 (exp. 2028-05-31)
 

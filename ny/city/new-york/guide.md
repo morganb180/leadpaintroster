@@ -42,8 +42,6 @@ Look the firm up in the official EPA list, then ask for the firm's certification
 Licensed firm
 
 1140 Ave Of The Americas, New York, NY  
-☎ [(929) 384-6411](tel:9293846411)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F301518-1 (exp. 2028-07-22)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F301518-1 (exp. 2028-07-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -56,8 +54,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 440 Park Ave South, New York, NY  
-☎ [(212) 696-0670](tel:2126960670)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-18244-3 (exp. 2028-06-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0039)
@@ -69,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 158 W 27th St, New York, NY  
-☎ [(212) 675-5544](tel:2126755544)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-25289-4 (exp. 2028-07-09)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-25289-4 (exp. 2028-07-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -83,8 +77,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 353 Lexington Ave, New York, NY  
-☎ [(212) 545-1855](tel:2125451855)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-869-3 (exp. 2027-11-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0070)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pro-spec-painting-corporation-nj023
 
 * Lead abatement
 * Vineland, NJ (Cumberland County)
-* Phone: (856) 690-9500
 * Address: 1819 Cedar Ave, Suite B, Vineland, NJ 08360
 * Google rating: 4.4 from 19 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00670 (exp. 2028-03-31)

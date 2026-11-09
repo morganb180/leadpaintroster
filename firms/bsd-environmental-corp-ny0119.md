@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bsd-environmental-corp-ny0119/
 
 * Lead abatement, Lead inspection / evaluation
 * Airmont, NY (Rockland County)
-* Phone: (718) 436-1500
 * Address: 4 Potter Ln, Airmont, NY 10901
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F257273-1 (exp. 2026-12-15)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F257273-1 (exp. 2026-12-15)

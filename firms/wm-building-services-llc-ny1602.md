@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/wm-building-services-llc-ny1602/
 
 * Lead abatement
 * White Plains, NY (Westchester County)
-* Phone: (914) 686-3474
 * Address: 25 Hillside Ave, White Plains, NY 10601
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F328204-1 (exp. 2029-04-02)
 

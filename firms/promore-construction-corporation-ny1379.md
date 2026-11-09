@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/promore-construction-corporation-ny
 
 * Lead abatement
 * Woodhaven, NY (Queens County)
-* Phone: (347) 493-9006
 * Address: 8325 98th St, Woodhaven, NY 11421
 * Google rating: 4.9 from 68 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F241714-2 (exp. 2028-12-12)

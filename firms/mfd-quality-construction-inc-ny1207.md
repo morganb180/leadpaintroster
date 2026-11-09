@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mfd-quality-construction-inc-ny1207
 
 * Lead abatement
 * New City, NY (Rockland County)
-* Phone: (845) 708-5221
 * Address: 173 Old Route 304, New City, NY 10956
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F292382-1 (exp. 2028-05-05)
 

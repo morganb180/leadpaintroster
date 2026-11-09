@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-to-z-restoration-environmental-co
 
 * Lead abatement, Lead inspection / evaluation
 * Corona, NY (Queens County)
-* Phone: (646) 643-0881
 * Address: 4045 99th St, Corona, NY 11368
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-19012-3 (exp. 2027-09-09)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-19012-3 (exp. 2027-09-09)

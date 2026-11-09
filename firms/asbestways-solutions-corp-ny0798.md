@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/asbestways-solutions-corp-ny0798/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 858-2600
 * Address: 132 Washington Ave, Brooklyn, NY 11205
 * Google rating: 4.7 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F149822-3 (exp. 2027-02-10)

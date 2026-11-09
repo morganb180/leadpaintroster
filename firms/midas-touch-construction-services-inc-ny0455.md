@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/midas-touch-construction-services-i
 
 * Lead abatement, Lead inspection / evaluation
 * Mount Vernon, NY (Westchester County)
-* Phone: (914) 906-3969
 * Address: 133 N Ter Ave, Mount Vernon, NY 10550
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F262346-1 (exp. 2027-04-15)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262346-1 (exp. 2027-04-15)

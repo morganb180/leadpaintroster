@@ -1,6 +1,6 @@
 ---
 title: "Ponns & Company Inc, Essington, PA | Lead Paint Roster"
-description: "Ponns & Company Inc in Essington, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Ponns & Company Inc in Essington, PA: NJ DCA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/ponns-company-inc-nj0236/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ponns-company-inc-nj0236/
 
 * Lead abatement
 * Essington, PA (Delaware County)
-* Phone: (610) 595-1990
 * Address: 616 E 2nd St, Essington, PA 19029
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00179 (exp. 2027-05-31)
 

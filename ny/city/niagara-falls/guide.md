@@ -41,8 +41,6 @@ Look the firm up in the official EPA list, then ask for the firm's certification
 Licensed firm
 
 931 Michigan Ave, Niagara Falls, NY  
-☎ [(716) 299-0931](tel:7162990931)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F343294-1 (exp. 2029-08-06)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F343294-1 (exp. 2029-08-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -55,8 +53,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3035 Duluth St, Niagara Falls, NY  
-☎ [(716) 622-8642](tel:7166228642)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F331663-1 (exp. 2029-04-29)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0953)

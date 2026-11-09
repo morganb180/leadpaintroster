@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/oswego/
 Licensed firm
 
 1577 State Route 49, Constantia, NY  
-☎ [(315) 400-2654](tel:3154002654)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F314048-1 (exp. 2028-11-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1422)
@@ -34,8 +32,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1919 County Route 37, West Monroe, NY  
-☎ [(315) 529-2363](tel:3155292363)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F285766-1 (exp. 2028-02-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1132)

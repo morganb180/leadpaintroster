@@ -29,8 +29,6 @@ Lead Paint Roster lists 21 EPA-licensed listings with an address in Syracuse: 7 
 Licensed firm
 
 112-3B Gray Ave, Syracuse, NY  
-☎ [(315) 256-4737](tel:3152564737)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-18574-3 (exp. 2029-01-29)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0095)
@@ -42,8 +40,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 499 Col Eileen Collins Blvd, Syracuse, NY  
-☎ [(315) 703-4307](tel:3157034307)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F257371-2 (exp. 2029-12-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0148)
@@ -55,8 +51,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 114 Edgewood Ave, Syracuse, NY  
-☎ [(315) 399-2186](tel:3153992186)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F252472-2 (exp. 2029-08-07)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F252472-2 (exp. 2029-08-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -69,8 +63,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 6443 Ridings Rd, Syracuse, NY  
-☎ [(315) 720-6769](tel:3157206769)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F154143-3 (exp. 2027-06-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0234)
@@ -82,8 +74,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 101 Bast Newell St, Syracuse, NY  
-☎ [(315) 471-3210](tel:3154713210)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2249-3 (exp. 2027-06-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0377)
@@ -95,8 +85,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 421 Montgomery St, Syracuse, NY  
-☎ [(315) 435-3558](tel:3154353558)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2405-4 (exp. 2029-01-15)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2405-4 (exp. 2029-01-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -109,8 +97,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 333 W Washington St, Syracuse, NY  
-☎ [(315) 956-6100](tel:3159566100)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2392-4 (exp. 2029-06-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0563)
@@ -124,8 +110,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 163 Darlington Rd, Syracuse, NY  
-☎ [(680) 216-3217](tel:6802163217)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F237784-2 (exp. 2028-07-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0762)
@@ -137,8 +121,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 222 Teall Ave, Syracuse, NY  
-☎ [(315) 475-1757](tel:3154751757)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F209347-3 (exp. 2029-02-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0791)
@@ -150,8 +132,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4600 Cleveland Rd, Syracuse, NY  
-☎ [(315) 395-1138](tel:3153951138)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-54049-2 (exp. 2029-09-01)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0810)
@@ -163,8 +143,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 202 Twin Oaks Dr, Syracuse, NY  
-☎ [(315) 671-6006](tel:3156716006)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-26926-4 (exp. 2028-12-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0878)
@@ -176,8 +154,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 409 Crossett St, Syracuse, NY  
-☎ [(518) 844-0555](tel:5188440555)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F335841-1 (exp. 2029-06-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0912)
@@ -189,8 +165,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 140 Mather St, Syracuse, NY  
-☎ [(646) 887-4085](tel:6468874085)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F312610-1 (exp. 2028-11-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0945)
@@ -202,8 +176,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4014 New Ct Ave, Syracuse, NY  
-☎ [(315) 246-6711](tel:3152466711)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F152528-4 (exp. 2028-09-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1119)
@@ -215,8 +187,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 105 Homer Ave, Syracuse, NY  
-☎ [(315) 484-4740](tel:3154844740)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F317484-1 (exp. 2028-12-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1128)
@@ -228,8 +198,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 6739 Pickard Dr, Syracuse, NY  
-☎ [(315) 437-2712](tel:3154372712)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-60340-2 (exp. 2026-11-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1163)
@@ -241,8 +209,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 421 Montgomery St, Syracuse, NY  
-☎ [(315) 435-3271](tel:3154353271)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2406-3 (exp. 2027-09-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1316)
@@ -254,8 +220,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 625 Erie Blvd West, Syracuse, NY  
-☎ [(315) 474-1939](tel:3154741939)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-20571-3 (exp. 2028-06-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1319)
@@ -267,8 +231,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 6936 Van Buren Rd, Syracuse, NY  
-☎ [(315) 210-6416](tel:3152106416)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F256101-1 (exp. 2026-11-15)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1341)
@@ -280,8 +242,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 807 N Salina St, Syracuse, NY  
-☎ [(336) 905-3510](tel:3369053510)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F312406-1 (exp. 2028-10-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1393)
@@ -293,8 +253,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4547 Beef St, Syracuse, NY  
-☎ [(315) 673-3422](tel:3156733422)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-38144-3 (exp. 2029-03-06)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1397)

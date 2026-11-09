@@ -1,6 +1,6 @@
 ---
 title: "Rainier Restoration LLC, New York, NY | Lead Paint Roster"
-description: "Rainier Restoration LLC in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Rainier Restoration LLC in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/rainier-restoration-llc-ny1410/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rainier-restoration-llc-ny1410/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (646) 559-6649
 * Address: 303 5th Ave, New York, NY 10016
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F179585-4 (exp. 2029-09-20)
 

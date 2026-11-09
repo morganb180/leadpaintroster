@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/safe-nest-environmental-llc-ny1467/
 
 * Lead abatement
 * Jackson Hts, NY (Queens County)
-* Phone: (646) 251-0584
 * Address: 8211 37th Ave, Jackson Hts, NY 11372
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F285832-1 (exp. 2028-02-27)
 

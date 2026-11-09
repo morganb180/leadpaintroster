@@ -23,10 +23,6 @@ Listings holding more than one licence type are shown once, in the first matchin
 Licensed firm
 
 Dighton, MA  
-☎ [(508) 254-0514](tel:5082540514)  
-✉ [Neillafrance@lbpsolutions.com](mailto:Neillafrance@lbpsolutions.com)  
-✉ [jeffharris@LBPSolutions.com](mailto:jeffharris@LBPSolutions.com)
-
 3 licensed individuals
 
 * Neil LaFrance (MA DLS Master Inspector/Risk Assessor #1100 (exp. 2027-01-07))
@@ -43,9 +39,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Raynham, MA  
-☎ [(617) 293-5583](tel:6172935583)  
-✉ [Affordablelead@aol.com](mailto:Affordablelead@aol.com)
-
 1 licensed individual
 
 * Scott Bascom (MA DLS Inspector/Risk Assessor #3244 (exp. 2027-02-23))
@@ -60,9 +53,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Swansea, MA  
-☎ [(508) 674-8730](tel:5086748730)  
-✉ [psalm128@comcast.net](mailto:psalm128@comcast.net)
-
 1 licensed individual
 
 * John Eastman (MA DLS Master Inspector/Risk Assessor #3514 (exp. 2027-06-05))
@@ -77,10 +67,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Swansea, MA  
-☎ [(774) 888-8208](tel:7748888208)  
-✉ [katy@leadsafeeld.com](mailto:katy@leadsafeeld.com)  
-✉ [Kerry@leadsafeeld.com](mailto:Kerry@leadsafeeld.com)
-
 3 licensed individuals
 
 * Katie Oliver (MA DLS Inspector #004294 (exp. 2027-04-11))
@@ -96,12 +82,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 New Bedford, MA  
-☎ [(508) 932-3023](tel:5089323023)  
-✉ [kharma88@verizon.net](mailto:kharma88@verizon.net)
-
 MA DLS Inspector/Risk Assessor #1542 (exp. 2027-04-12)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0030)
@@ -117,9 +100,6 @@ Lead Paint Roster lists 3 Massachusetts-licensed listings for lead inspection / 
 Licensed firm
 
 Attleboro, MA  
-☎ [(781) 843-1141](tel:7818431141)  
-✉ [mark@imperialinspectionservices.com](mailto:mark@imperialinspectionservices.com)
-
 1 licensed individual
 
 * Mark Vitiello (MA DLS Inspector #004322 (exp. 2027-08-29))
@@ -133,12 +113,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 North Easton, MA  
-☎ [(508) 821-0661](tel:5088210661)  
-✉ [Okenosmith@gmail.com](mailto:Okenosmith@gmail.com)
-
 MA DLS Inspector #004390 (exp. 2027-03-27)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0034)
@@ -149,12 +126,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Swansea, MA  
-☎ [(401) 952-9375](tel:4019529375)  
-✉ [leadlady508@gmail.com](mailto:leadlady508@gmail.com)
-
 MA DLS Inspector #004576 (exp. 2027-03-24)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0047)

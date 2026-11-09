@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/qc-remodeling-more-inc-ny1388/
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (585) 749-8253
 * Address: 162 Spring Tree Ln, Rochester, NY 14612
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F234958-1 (exp. 2028-03-18)
 

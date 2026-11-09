@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/anthi-environmental-ny0091/
 
 * Lead abatement, Lead inspection / evaluation
 * Astoria, NY (Queens County)
-* Phone: (718) 567-6050
 * Address: 20-33 26th St, Astoria, NY 11105
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F217959-2 (exp. 2027-09-28)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F217959-2 (exp. 2027-09-28)

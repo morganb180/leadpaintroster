@@ -1,6 +1,6 @@
 ---
 title: "AAA Green Environmental, Edison, NJ | Lead Paint Roster"
-description: "AAA Green Environmental in Edison, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "AAA Green Environmental in Edison, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/aaa-green-environmental-nj0008/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aaa-green-environmental-nj0008/
 
 * Lead inspection / evaluation
 * Edison, NJ (Middlesex County)
-* Phone: (848) 702-0973
 * Address: 159 Oakland Ave, Edison, NJ 08817
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00855 (exp. 2028-03-31)
 

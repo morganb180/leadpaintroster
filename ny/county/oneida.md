@@ -21,8 +21,6 @@ Lead Paint Roster lists 2 EPA-licensed listings for lead inspection / evaluation
 Licensed firm
 
 291 Genesee St, Utica, NY  
-☎ [(315) 735-1916](tel:3157351916)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-611-3 (exp. 2026-11-18)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0222)
@@ -34,8 +32,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 87 Whitesboro St, Yorkville, NY  
-☎ [(315) 749-3095](tel:3157493095)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F213219-1 (exp. 2029-07-07)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F213219-1 (exp. 2029-07-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -52,8 +48,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1 Ora Ave, New Hartford, NY  
-☎ [(315) 507-2140](tel:3155072140)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F163915-4 (exp. 2028-05-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0845)
@@ -65,8 +59,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3805 Oneida St, New Hartford, NY  
-☎ [(315) 404-5898](tel:3154045898)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F185720-3 (exp. 2030-03-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0846)
@@ -78,8 +70,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 12 Sanger Ave, New Hartford, NY  
-☎ [(315) 886-6634](tel:3158866634)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F281881-1 (exp. 2028-02-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1162)
@@ -91,8 +81,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 20 Greenman Ave, New York Mills, NY  
-☎ [(315) 880-9028](tel:3158809028)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F284294-1 (exp. 2028-02-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1594)
@@ -104,8 +92,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 402 Scott Ave, Rome, NY  
-☎ [(315) 337-2040](tel:3153372040)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F259895-1 (exp. 2027-02-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1199)
@@ -117,8 +103,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 PO Box 502, Sauquoit, NY  
-☎ [(315) 737-3827](tel:3157373827)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-12996-3 (exp. 2026-10-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1465)
@@ -130,8 +114,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2249 State Route 5, Utica, NY  
-☎ [(315) 798-8026](tel:3157988026)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2322-4 (exp. 2028-06-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1250)
@@ -143,8 +125,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 7722 State Route 20, Waterville, NY  
-☎ [(315) 202-4006](tel:3152024006)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F217869-3 (exp. 2029-09-18)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1211)
@@ -156,8 +136,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 7391 Cider St, Westmoreland, NY  
-☎ [(315) 736-5288](tel:3157365288)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-37873-3 (exp. 2027-09-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1572)

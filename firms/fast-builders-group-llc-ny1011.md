@@ -1,6 +1,6 @@
 ---
 title: "Fast Builders Group, LLC, Bronx, NY | Lead Paint Roster"
-description: "Fast Builders Group, LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Fast Builders Group, LLC in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/fast-builders-group-llc-ny1011/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/fast-builders-group-llc-ny1011/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (212) 518-4050
 * Address: 2406 Tiemann Ave, Bronx, NY 10469
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F264463-1 (exp. 2027-11-21)
 

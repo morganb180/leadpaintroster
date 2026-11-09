@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/stepping-stone-home-improvement-llc
 
 * Lead abatement
 * Albany, NY (Albany County)
-* Phone: (631) 220-0474
 * Address: 54 State St, Albany, NY 12207
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F259860-1 (exp. 2027-02-23)
 

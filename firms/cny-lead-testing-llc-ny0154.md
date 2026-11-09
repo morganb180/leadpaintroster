@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cny-lead-testing-llc-ny0154/
 
 * Lead abatement, Lead inspection / evaluation
 * Syracuse, NY (Onondaga County)
-* Phone: (315) 399-2186
 * Address: 114 Edgewood Ave, Syracuse, NY 13207
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F252472-2 (exp. 2029-08-07)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F252472-2 (exp. 2029-08-07)

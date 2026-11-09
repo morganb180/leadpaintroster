@@ -1,6 +1,6 @@
 ---
 title: "BSB Construction, Inc., Milton, NY | Lead Paint Roster"
-description: "BSB Construction, Inc. in Milton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "BSB Construction, Inc. in Milton, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/bsb-construction-inc-ny0816/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bsb-construction-inc-ny0816/
 
 * Lead abatement
 * Milton, NY (Ulster County)
-* Phone: (845) 462-5236
 * Address: 1613 Route 9W, Milton, NY 12547
 * Google rating: 4.1 from 8 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-116110-4 (exp. 2029-11-03)

@@ -1,6 +1,6 @@
 ---
 title: "Bright Light Star Corp, Yonkers, NY | Lead Paint Roster"
-description: "Bright Light Star Corp in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Bright Light Star Corp in Yonkers, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/bright-light-star-corp-ny0857/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/bright-light-star-corp-ny0857/
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (347) 856-8107
 * Address: 20 Dehaven Dr, Yonkers, NY 10703
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F267907-1 (exp. 2027-08-27)

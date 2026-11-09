@@ -1,6 +1,6 @@
 ---
 title: "Metro Abatement Corp, Brooklyn, NY | Lead Paint Roster"
-description: "Metro Abatement Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Metro Abatement Corp in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/metro-abatement-corp-ny1241/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/metro-abatement-corp-ny1241/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (646) 772-1860
 * Address: 3214 Clarendon Rd, Brooklyn, NY 11226
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F292764-1 (exp. 2028-05-12)
 

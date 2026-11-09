@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/smooth-plastering-llc-dba-smooth-co
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 212-0256
 * Address: 248 Creamer St, Brooklyn, NY 11231
 * Google rating: 5.0 from 29 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F252512-2 (exp. 2029-08-27)

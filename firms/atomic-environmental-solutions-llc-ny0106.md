@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/atomic-environmental-solutions-llc-
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (516) 330-9504
 * Address: 825 8th Ave, New York, NY 10019
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F200559-3 (exp. 2028-11-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F200559-3 (exp. 2028-11-23)

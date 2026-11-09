@@ -1,6 +1,6 @@
 ---
 title: "Pluto Environmental LLC, Mahopac, NY | Lead Paint Roster"
-description: "Pluto Environmental LLC in Mahopac, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Pluto Environmental LLC in Mahopac, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/pluto-environmental-llc-ny1332/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/pluto-environmental-llc-ny1332/
 
 * Lead abatement
 * Mahopac, NY (Putnam County)
-* Phone: (845) 661-3168
 * Address: 15 Betsy Rd, Mahopac, NY 10541
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F168127-4 (exp. 2028-12-24)
 

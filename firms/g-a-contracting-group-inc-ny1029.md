@@ -1,6 +1,6 @@
 ---
 title: "G&a Contracting Group Inc, Jamaica, NY | Lead Paint Roster"
-description: "G&a Contracting Group Inc in Jamaica, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "G&a Contracting Group Inc in Jamaica, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/g-a-contracting-group-inc-ny1029/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/g-a-contracting-group-inc-ny1029/
 
 * Lead abatement
 * Jamaica, NY (Queens County)
-* Phone: (347) 495-7700
 * Address: 17815 145th Rd, Jamaica, NY 11434
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F288527-1 (exp. 2028-03-20)
 

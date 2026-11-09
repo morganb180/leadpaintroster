@@ -1,6 +1,6 @@
 ---
 title: "Snow Construction 2.0, Falconer, NY | Lead Paint Roster"
-description: "Snow Construction 2.0 in Falconer, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Snow Construction 2.0 in Falconer, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/snow-construction-2-0-ny1504/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/snow-construction-2-0-ny1504/
 
 * Lead abatement
 * Falconer, NY (Chautauqua County)
-* Phone: (716) 397-6892
 * Address: 2145 Hanson Rd, Falconer, NY 14733
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F267957-1 (exp. 2027-08-27)
 

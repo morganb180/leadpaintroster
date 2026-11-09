@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-risk-associates-ny025
 
 * Lead abatement, Lead inspection / evaluation
 * Florida, NY (Orange County)
-* Phone: (914) 309-0342
 * Address: 62 N Main St, Florida, NY 10921
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F223103-2 (exp. 2027-03-18)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F223103-2 (exp. 2027-03-18)

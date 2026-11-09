@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/valcon-environmental-and-mechanical
 
 * Lead inspection / evaluation
 * Great Neck, NY (Nassau County)
-* Phone: (516) 312-6589
 * Address: 25450 Bates Rd, Great Neck, NY 11020
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F218558-3 (exp. 2029-10-19)
 

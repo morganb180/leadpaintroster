@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/expert-environmental-construction-g
 
 * Lead inspection / evaluation
 * Rochester, NY (Monroe County)
-* Phone: (800) 397-7914
 * Address: 620 Park Ave, Rochester, NY 14607
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-111407-3 (exp. 2029-04-14)
 

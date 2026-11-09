@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/manhattan-lead-llc-ny0443/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (212) 226-1614
 * Address: 1375 Coney Island Ave, Brooklyn, NY 11230
 * Google rating: 5.0 from 136 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F239341-2 (exp. 2028-08-23)

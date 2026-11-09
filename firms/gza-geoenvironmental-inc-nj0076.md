@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gza-geoenvironmental-inc-nj0076/
 
 * Lead inspection / evaluation
 * Fairfield, NJ (Essex County)
-* Phone: (973) 774-3300
 * Address: 55 Ln Rd, Suite 407, Fairfield, NJ 07004
 * Google rating: 4.0 from 3 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00358 (exp. 2026-11-30)

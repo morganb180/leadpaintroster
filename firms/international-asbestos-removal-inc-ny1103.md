@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/international-asbestos-removal-inc-
 
 * Lead abatement
 * Babylon, NY (Suffolk County)
-* Phone: (718) 335-0304
 * Address: 119 Cooper St, Babylon, NY 11702
 * Google rating: 4.0 from 4 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2148-4 (exp. 2029-01-09)

@@ -45,8 +45,6 @@ Lead Paint Roster lists 4 listings with an address in Woodmere: 3 inspection/ris
 Licensed firm
 
 915 Harvard Ct, Woodmere, NY  
-☎ [(516) 672-1161](tel:5166721161)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F240420-1 (exp. 2027-04-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0133)
@@ -58,8 +56,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 10 Brower Ave, Woodmere, NY  
-☎ [(516) 512-7877](tel:5165127877)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F203126-3 (exp. 2028-05-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0264)
@@ -71,8 +67,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 396 Westwood Rd, Woodmere, NY  
-☎ [(516) 382-7458](tel:5163827458)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F226246-2 (exp. 2027-06-17)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F226246-2 (exp. 2027-06-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -85,8 +79,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1049 Wales Pl, Woodmere, NY  
-☎ [(718) 218-4378](tel:7182184378)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F313745-1 (exp. 2028-11-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0837)

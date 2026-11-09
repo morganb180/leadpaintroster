@@ -1,6 +1,6 @@
 ---
 title: "IBX Services LLC, Queens, NY | Lead Paint Roster"
-description: "IBX Services LLC in Queens, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "IBX Services LLC in Queens, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/ibx-services-llc-ny1091/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ibx-services-llc-ny1091/
 
 * Lead abatement
 * Queens, NY (Queens County)
-* Phone: (917) 780-0024
 * Address: 12-14 Astoria Blvd, Queens, NY 11102
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F174564-2 (exp. 2028-04-12)
 

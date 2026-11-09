@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/enviro-plan-llc-ma0018/
 
 * Lead risk assessment
 * Hancock, MA
-* Phone: (860) 977-5171
-* Email: freuden@comcast.net
 * Address: Hancock, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0018

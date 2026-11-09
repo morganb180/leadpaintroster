@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/adirondack-community-action-program
 
 * Lead abatement
 * Elizabethtown, NY (Essex County)
-* Phone: (518) 873-3207
 * Address: 7572 Ct St, Elizabethtown, NY 12932
 * Google rating: 5.0 from 8 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-22570-1 (exp. 2029-04-29)

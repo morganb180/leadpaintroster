@@ -23,8 +23,6 @@ Lead Paint Roster lists 5 EPA-licensed listings for lead inspection / evaluation
 Licensed firm
 
 225 Front St, Binghamton, NY  
-☎ [(607) 778-2847](tel:6077782847)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-113487-4 (exp. 2029-07-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0141)
@@ -36,8 +34,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 143 Ct St, Binghamton, NY  
-☎ [(607) 798-8081](tel:6077988081)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F247882-2 (exp. 2029-05-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0330)
@@ -49,8 +45,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 58 Exchange St, Binghamton, NY  
-☎ [(607) 770-9098](tel:6077709098)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-122809-4 (exp. 2029-06-02)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-122809-4 (exp. 2029-06-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -63,8 +57,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 860 Hooper Rd, Endwell, NY  
-☎ [(607) 231-6600](tel:6072316600)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-68796-4 (exp. 2028-08-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0203)
@@ -76,8 +68,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 24 Abbott Rd, Lisle, NY  
-☎ [(607) 725-6942](tel:6077256942)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F305713-1 (exp. 2028-09-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0155)
@@ -93,8 +83,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 126 E Service Rd, Binghamton, NY  
-☎ [(607) 760-6300](tel:6077606300)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-83499-2 (exp. 2027-04-02)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0766)
@@ -106,8 +94,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 64 Felters Rd, Binghamton, NY  
-☎ [(607) 759-1455](tel:6077591455)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F244581-1 (exp. 2027-10-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0838)
@@ -119,8 +105,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 46 Starr Ave, Binghamton, NY  
-☎ [(607) 651-0407](tel:6076510407)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F258182-1 (exp. 2027-01-12)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0915)
@@ -132,8 +116,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 6 Spring Forest Ave, Binghamton, NY  
-☎ [(607) 724-4400](tel:6077244400)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2583-3 (exp. 2028-05-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1521)
@@ -145,8 +127,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 56 Willette Park Rd, Chenango Bridge, NY  
-☎ [(607) 644-4094](tel:6076444094)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F273183-1 (exp. 2027-10-31)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0885)
@@ -158,8 +138,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 53 Main St, Windsor, NY  
-☎ [(607) 205-3230](tel:6072053230)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F279199-1 (exp. 2027-12-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0800)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/grindstone-construction-inc-ny1069/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (646) 744-4485
 * Address: 317 W 83rd St, New York, NY 10024
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F236224-2 (exp. 2028-03-31)
 

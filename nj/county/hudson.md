@@ -21,7 +21,6 @@ Lead Paint Roster lists 2 NJ DCA-licensed listings for lead inspection / evaluat
 Licensed firm
 
 157 A First St, Suite 341, Jersey City, NJ  
-☎ [(201) 954-0292](tel:2019540292)  
 Contact listed by NJ DCA: Sunil Chillar
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00767 (exp. 2027-09-30)  
@@ -35,7 +34,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 57 3rd Ave, Apt #2, Secaucus, NJ  
-☎ [(551) 327-6660](tel:5513276660)  
 Contact listed by NJ DCA: Selvendran Narasingam
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00787 (exp. 2027-11-30)  
@@ -53,7 +51,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 8419 Liberty Ave, North Bergen, NJ  
-☎ [(201) 378-6464](tel:2013786464)  
 Contact listed by NJ DCA: Gloria Euceda Romero
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00691 (exp. 2026-12-31)  
@@ -67,7 +64,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_abat
 Licensed firm
 
 57 3rd Ave, #02, Secaucus, NJ  
-☎ [(551) 327-6660](tel:5513276660)  
 Contact listed by NJ DCA: Selvendran Narasingam
 
 NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00882 (exp. 2027-09-30)  

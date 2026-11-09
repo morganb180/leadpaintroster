@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tw-environmental-services-inc-ny063
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 674-9682
 * Address: 323 Parkville Ave, Brooklyn, NY 11230
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F275359-1 (exp. 2028-05-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F275359-1 (exp. 2028-05-23)

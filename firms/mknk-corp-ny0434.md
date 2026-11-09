@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mknk-corp-ny0434/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 880-8839
 * Address: 945 E 26th St, Brooklyn, NY 11210
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F349523-1 (exp. 2029-10-07)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F349523-1 (exp. 2029-10-07)

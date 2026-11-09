@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lyn-consultants-llc-ny0379/
 
 * Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (718) 501-3515
 * Address: 126 Cassidy Pl, Staten Island, NY 10301
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F305758-1 (exp. 2028-09-08)
 

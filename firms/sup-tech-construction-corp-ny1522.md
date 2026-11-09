@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sup-tech-construction-corp-ny1522/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 680-9094
 * Address: 6901 7th Ave, Brooklyn, NY 11228
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221613-2 (exp. 2028-01-31)
 

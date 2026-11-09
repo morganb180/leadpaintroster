@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jp-general-contractor-and-construct
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 376-3339
 * Address: 1310 Ave X, Brooklyn, NY 11235
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F207565-1 (exp. 2027-08-16)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F207565-1 (exp. 2027-08-16)

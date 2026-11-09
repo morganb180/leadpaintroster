@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/trident-mold-remediation-ny1564/
 
 * Lead abatement
 * Castleton On Hudson, NY (Rensselaer County)
-* Phone: (518) 380-0119
 * Address: 869 Stony Point Rd, Castleton On Hudson, NY 12033
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F341447-1 (exp. 2029-07-23)
 

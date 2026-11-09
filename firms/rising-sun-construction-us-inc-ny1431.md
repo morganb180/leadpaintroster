@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rising-sun-construction-us-inc-ny14
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (917) 251-1668
 * Address: 90 Mosely Ave, Staten Island, NY 10312
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F344380-1 (exp. 2029-08-20)
 

@@ -1,6 +1,6 @@
 ---
 title: "Rosenberg Realty Group, Inc, Bronx, NY | Lead Paint Roster"
-description: "Rosenberg Realty Group, Inc in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Rosenberg Realty Group, Inc in Bronx, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/rosenberg-realty-group-inc-ny1443/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rosenberg-realty-group-inc-ny1443/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (718) 863-2300
 * Address: 1919 Williamsbridge Rd, Bronx, NY 10461
 * Google rating: 2.4 from 8 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-10429-4 (exp. 2028-10-26)

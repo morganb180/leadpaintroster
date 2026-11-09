@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/eli-nyc-inc-ny0213/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (516) 784-9469
 * Address: 224 W 35th St, New York, NY 10001
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F298634-1 (exp. 2028-06-19)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F298634-1 (exp. 2028-06-19)

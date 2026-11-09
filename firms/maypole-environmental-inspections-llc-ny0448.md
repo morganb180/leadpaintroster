@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/maypole-environmental-inspections-l
 
 * Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (917) 680-2740
 * Address: 299 Broadway, New York, NY 10007
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F204569-3 (exp. 2029-02-22)
 

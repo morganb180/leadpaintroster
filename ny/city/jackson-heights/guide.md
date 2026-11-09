@@ -47,8 +47,6 @@ Lead Paint Roster lists 6 listings with an address in Jackson Heights: 2 inspect
 Licensed firm
 
 8211 37th Ave, Jackson Heights, NY  
-☎ [(347) 694-9094](tel:3476949094)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F229968-2 (exp. 2027-10-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0103)
@@ -60,8 +58,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3441 77th St, Jackson Heights, NY  
-☎ [(347) 848-6518](tel:3478486518)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F248118-2 (exp. 2029-11-23)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F248118-2 (exp. 2029-11-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -74,8 +70,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3327 70th St, Jackson Heights, NY  
-☎ [(718) 426-2838](tel:7184262838)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-46969-3 (exp. 2029-03-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1201)

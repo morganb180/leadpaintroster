@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sato-construction-dba-flag-waterpro
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (718) 784-8100
 * Address: 1040 Borden Ave, Long Island City, NY 11101
 * Google rating: 4.6 from 17 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-96434-1 (exp. 2027-10-17)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/liberty-maintenance-inc-nj0228/
 
 * Lead abatement
 * Youngstown, OH (Mahoning County)
-* Phone: (330) 755-7711
 * Address: 777 N Meridian Rd, Youngstown, OH 44509
 * Google rating: 4.6 from 9 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00463 (exp. 2027-12-31)

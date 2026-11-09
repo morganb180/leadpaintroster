@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sanz-construction-inc-ny1476/
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (347) 744-1008
 * Address: 28 Birch Rd, Staten Island, NY 10303
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F212862-1 (exp. 2028-08-19)
 

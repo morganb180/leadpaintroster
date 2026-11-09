@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/voss-renovation-and-construction-ll
 
 * Lead abatement, Lead inspection / evaluation
 * Getzville, NY (Erie County)
-* Phone: (716) 748-8812
 * Address: 2801 N Forest Rd, Getzville, NY 14068
 * Google rating: 5.0 from 24 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F301906-1 (exp. 2028-07-24)

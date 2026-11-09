@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/adm-appraisers-and-builders-llc-ny0
 
 * Lead abatement
 * New Rochelle, NY (Westchester County)
-* Phone: (347) 231-5155
 * Address: 56 Harrison St, New Rochelle, NY 10801
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F319223-1 (exp. 2029-01-19)
 

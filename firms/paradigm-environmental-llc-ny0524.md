@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/paradigm-environmental-llc-ny0524/
 
 * Lead abatement, Lead inspection / evaluation
 * Poughkeepsie, NY (Dutchess County)
-* Phone: (845) 462-1466
 * Address: 3 Neptune Rd, Poughkeepsie, NY 12601
 * Google rating: 4.9 from 72 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F201419-3 (exp. 2028-04-25)

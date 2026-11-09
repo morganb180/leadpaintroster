@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/triumph-development-group-llc-ny156
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (914) 806-7444
 * Address: 967 E Gunhill Rd, Bronx, NY 10469
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F319702-1 (exp. 2029-01-22)
 

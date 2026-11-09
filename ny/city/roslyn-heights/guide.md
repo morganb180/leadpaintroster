@@ -42,8 +42,6 @@ Look the firm up in the official EPA list, then ask for the firm's certification
 Licensed firm
 
 31 Oxford St, Roslyn Heights, NY  
-☎ [(718) 877-0891](tel:7188770891)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F256774-2 (exp. 2029-12-05)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F256774-2 (exp. 2029-12-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -56,8 +54,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 66 Mineola Ave, Roslyn Heights, NY  
-☎ [(917) 686-2250](tel:9176862250)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F221321-3 (exp. 2030-01-28)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F221321-3 (exp. 2030-01-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

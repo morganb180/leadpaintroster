@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mold-360-corp-ny0435/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 614-3929
 * Address: 1025 St John's Pl, Brooklyn, NY 11213
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F238575-2 (exp. 2028-08-21)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F238575-2 (exp. 2028-08-21)

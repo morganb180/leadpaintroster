@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aa-reliable-lead-inspections-llc-ny
 
 * Lead inspection / evaluation
 * Staten Island, NY (Richmond County)
-* Phone: (646) 707-8946
 * Address: 503 King St, Staten Island, NY 10312
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F284664-1 (exp. 2028-02-13)
 

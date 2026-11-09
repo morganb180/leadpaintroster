@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/handel-s-home-improvements-llc-ny10
 
 * Lead abatement
 * Eastchester, NY (Westchester County)
-* Phone: (914) 548-1387
 * Address: 5 Pine Cir, Eastchester, NY 10709
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F226811-1 (exp. 2029-06-02)
 

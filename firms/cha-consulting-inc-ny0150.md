@@ -1,6 +1,6 @@
 ---
 title: "CHA Consulting, Inc., Albany, NY | Lead Paint Roster"
-description: "CHA Consulting, Inc. in Albany, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "CHA Consulting, Inc. in Albany, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/cha-consulting-inc-ny0150/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cha-consulting-inc-ny0150/
 
 * Lead inspection / evaluation
 * Albany, NY (Albany County)
-* Phone: (518) 453-4500
 * Address: 3 Winners Cir, Albany, NY 12205
 * Google rating: 4.8 from 13 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F148797-3 (exp. 2027-03-27)

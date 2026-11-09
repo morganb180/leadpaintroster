@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jimenez-home-improvement-co-ny1138/
 
 * Lead abatement
 * Yonker, NY (Westchester County)
-* Phone: (917) 417-6153
 * Address: 77 Cross Hill Ave, Yonker, NY 10703
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F224371-2 (exp. 2027-04-20)
 

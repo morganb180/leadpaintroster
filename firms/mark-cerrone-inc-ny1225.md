@@ -1,6 +1,6 @@
 ---
 title: "Mark Cerrone, Inc., Niagara Falls, NY | Lead Paint Roster"
-description: "Mark Cerrone, Inc. in Niagara Falls, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Mark Cerrone, Inc. in Niagara Falls, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/mark-cerrone-inc-ny1225/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mark-cerrone-inc-ny1225/
 
 * Lead abatement
 * Niagara Falls, NY (Niagara County)
-* Phone: (716) 282-5244
 * Address: 2368 Maryland Ave, Niagara Falls, NY 14305
 * Google rating: 3.6 from 13 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F198722-4 (exp. 2030-01-22)

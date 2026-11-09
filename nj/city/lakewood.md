@@ -29,7 +29,6 @@ Lead Paint Roster lists 5 NJ DCA-licensed listings with an address in Lakewood: 
 Licensed firm
 
 326 Third St Suite 102, Lakewood, NJ  
-☎ [(732) 901-0222](tel:7329010222)  
 Contact listed by NJ DCA: Gershon Kaufman
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00429 (exp. 2027-02-28)  
@@ -43,7 +42,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 37 Blossom Dr, Lakewood, NJ  
-☎ [(856) 880-5323](tel:8568805323)  
 Contact listed by NJ DCA: Jacob Ausch
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00757 (exp. 2027-05-31)  
@@ -58,7 +56,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 6 White Dove Ct, Lakewood, NJ  
-☎ [(732) 719-5649](tel:7327195649)  
 Contact listed by NJ DCA: Joseph Perlstein
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00430 (exp. 2028-05-31)  
@@ -73,7 +70,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 2 Hawthorne St, Lakewood, NJ  
-☎ [(732) 598-0472](tel:7325980472)  
 Contact listed by NJ DCA: Edward Grunbaum
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00916 (exp. 2028-04-30)  
@@ -87,7 +83,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 44 Cir Pl, Lakewood, NJ  
-☎ [(732) 534-1175](tel:7325341175)  
 Contact listed by NJ DCA: Shmuel Anisfeld
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00857 (exp. 2027-02-28)  

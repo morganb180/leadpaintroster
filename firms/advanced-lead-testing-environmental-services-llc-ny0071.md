@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/advanced-lead-testing-environmental
 
 * Lead abatement, Lead inspection / evaluation
 * Bronx, NY (Bronx County)
-* Phone: (718) 654-6119
 * Address: 3211 Bainbridge Ave, Bronx, NY 10467
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-10850-3 (exp. 2027-01-11)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-10850-3 (exp. 2027-01-11)

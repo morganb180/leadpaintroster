@@ -29,8 +29,6 @@ Lead Paint Roster lists 31 EPA-licensed listings with an address in Long Island 
 Licensed firm
 
 3100 47th Ave, Long Island City, NY  
-☎ [(718) 924-2089](tel:7189242089)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F173072-2 (exp. 2027-08-28)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F173072-2 (exp. 2027-08-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -43,8 +41,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 14-26 28th Ave, Long Island City, NY  
-☎ [(718) 482-7525](tel:7184827525)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-9115-3 (exp. 2028-07-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0083)
@@ -56,8 +52,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1235 30th Dr, Long Island City, NY  
-☎ [(718) 545-0870](tel:7185450870)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F123144-4 (exp. 2029-05-28)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F123144-4 (exp. 2029-05-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -70,8 +64,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3835 Crescent St, Long Island City, NY  
-☎ [(516) 788-4164](tel:5167884164)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F295970-1 (exp. 2028-06-04)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F295970-1 (exp. 2028-06-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -84,8 +76,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3620 13th St, Long Island City, NY  
-☎ [(917) 744-3329](tel:9177443329)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-14180-3 (exp. 2030-02-10)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-14180-3 (exp. 2030-02-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -98,8 +88,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 43-25 43rd St, Long Island City, NY  
-☎ [(718) 407-9893](tel:7184079893)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F146555-2 (exp. 2028-05-09)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F146555-2 (exp. 2028-05-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -112,8 +100,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3927 29th St, Long Island City, NY  
-☎ [(212) 219-8365](tel:2122198365)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F165595-4 (exp. 2028-07-07)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F165595-4 (exp. 2028-07-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -126,8 +112,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 35-40 36th St, Long Island City, NY  
-☎ [(718) 729-1997](tel:7187291997)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2192-3 (exp. 2027-07-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0363)
@@ -139,8 +123,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1025 44th Ave, Long Island City, NY  
-☎ [(718) 706-8383](tel:7187068383)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2261-3 (exp. 2027-11-03)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2261-3 (exp. 2027-11-03)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -153,8 +135,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 39-27 29th St, Long Island City, NY  
-☎ [(212) 219-8218](tel:2122198218)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-14695-3 (exp. 2027-11-28)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-14695-3 (exp. 2027-11-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -167,8 +147,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 36-15A 23rd St, Long Island City, NY  
-☎ [(718) 383-2626](tel:7183832626)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2451-3 (exp. 2028-06-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0534)
@@ -180,8 +158,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 10-59 Jackson Ave, Long Island City, NY  
-☎ [(929) 500-0106](tel:9295000106)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-67559-4 (exp. 2028-08-10)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-67559-4 (exp. 2028-08-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -196,8 +172,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 40-19 35th Ave, Long Island City, NY  
-☎ [(718) 784-4230](tel:7187844230)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-34752-3 (exp. 2029-03-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0774)
@@ -209,8 +183,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 40-05 Crescent St, Long Island City, NY  
-☎ [(718) 472-0830](tel:7184720830)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-18549-3 (exp. 2027-03-05)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0890)
@@ -222,8 +194,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 36-28 9th St, Long Island City, NY  
-☎ [(212) 685-8989](tel:2126858989)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-55387-3 (exp. 2029-09-29)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0918)
@@ -235,8 +205,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1059 Jackson Ave, Long Island City, NY  
-☎ [(929) 450-8870](tel:9294508870)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F185166-3 (exp. 2027-04-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1003)
@@ -248,8 +216,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 40-24 22nd St, Long Island City, NY  
-☎ [(718) 729-4736](tel:7187294736)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-77624-1 (exp. 2028-07-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1023)
@@ -261,8 +227,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1035 44th Dr, Long Island City, NY  
-☎ [(718) 737-9222](tel:7187379222)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F308200-1 (exp. 2028-09-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1047)
@@ -274,8 +238,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4350 11th St, Long Island City, NY  
-☎ [(718) 440-3166](tel:7184403166)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F121385-3 (exp. 2028-04-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1104)
@@ -287,8 +249,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4947 31st St, Long Island City, NY  
-☎ [(917) 217-0396](tel:9172170396)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F252379-1 (exp. 2027-11-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1165)
@@ -300,8 +260,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4355 11th St, Long Island City, NY  
-☎ [(646) 564-3716](tel:6465643716)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F262928-1 (exp. 2027-04-26)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1210)
@@ -313,8 +271,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 10-51 49th Ave, Long Island City, NY  
-☎ [(718) 440-9799](tel:7184409799)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F255155-1 (exp. 2026-10-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1227)
@@ -326,8 +282,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2705 41st Ave, Long Island City, NY  
-☎ [(646) 851-0669](tel:6468510669)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F257661-1 (exp. 2026-12-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1264)
@@ -339,8 +293,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 35-61 Vernon Blvd, Long Island City, NY  
-☎ [(718) 932-1280](tel:7189321280)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-15951-4 (exp. 2028-11-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1285)
@@ -352,8 +304,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2402 49th Ave, Long Island City, NY  
-☎ [(718) 707-8914](tel:7187078914)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2365-3 (exp. 2027-05-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1280)
@@ -365,8 +315,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 11-02 Queens Plaza South, Long Island City, NY  
-☎ [(718) 349-0900](tel:7183490900)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-2415-4 (exp. 2029-10-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1328)
@@ -378,8 +326,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 4705 Center Blvd Suite Ph3, Long Island City, NY  
-☎ [(917) 364-7166](tel:9173647166)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F187660-3 (exp. 2027-06-22)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1377)
@@ -391,8 +337,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 5302 11th St, Long Island City, NY  
-☎ [(914) 515-3923](tel:9145153923)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F260166-1 (exp. 2027-03-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1387)
@@ -404,8 +348,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1040 Borden Ave, Long Island City, NY  
-☎ [(718) 784-8100](tel:7187848100)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-96434-1 (exp. 2027-10-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1477)
@@ -417,8 +359,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 3418 Northern Blvd, Long Island City, NY  
-☎ [(212) 257-1661](tel:2122571661)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F294061-1 (exp. 2028-05-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1562)
@@ -430,8 +370,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1138 44th Rd, Long Island City, NY  
-☎ [(929) 422-3761](tel:9294223761)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F271895-1 (exp. 2027-10-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1538)

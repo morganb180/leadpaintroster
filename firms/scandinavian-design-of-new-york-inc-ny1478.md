@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/scandinavian-design-of-new-york-inc
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 265-9016
 * Address: 4126 Manhattan Ave, Brooklyn, NY 11224
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-115835-3 (exp. 2029-10-20)
 

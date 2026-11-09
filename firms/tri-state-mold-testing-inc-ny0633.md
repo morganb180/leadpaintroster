@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tri-state-mold-testing-inc-ny0633/
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (844) 665-3111
 * Address: 2071 Flatbush Ave, Brooklyn, NY 11234
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F225634-2 (exp. 2027-05-26)
 

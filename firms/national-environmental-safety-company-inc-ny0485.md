@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/national-environmental-safety-compa
 
 * Lead inspection / evaluation
 * New Hyde Park, NY (Nassau County)
-* Phone: (718) 361-0044
 * Address: 900 3rd Ave, New Hyde Park, NY 11040
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2347-4 (exp. 2029-06-27)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/air-environmental-consulting-llc-ny
 
 * Lead inspection / evaluation
 * Poughkeepsie, NY (Dutchess County)
-* Phone: (845) 462-0200
 * Address: 3 Neptune Rd, Poughkeepsie, NY 12601
 * Google rating: 4.7 from 11 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F288614-1 (exp. 2028-03-21)

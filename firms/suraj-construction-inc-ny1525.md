@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/suraj-construction-inc-ny1525/
 
 * Lead abatement
 * Fresh Meadow, NY (Queens County)
-* Phone: (917) 402-5240
 * Address: 71-36 165th St, Fresh Meadow, NY 11365
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F113050-1 (exp. 2028-02-11)
 

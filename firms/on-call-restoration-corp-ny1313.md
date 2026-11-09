@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/on-call-restoration-corp-ny1313/
 
 * Lead abatement
 * Massapequa, NY (Nassau County)
-* Phone: (516) 880-5128
 * Address: 182 Park Ln, Massapequa, NY 11758
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F236631-1 (exp. 2027-02-01)
 

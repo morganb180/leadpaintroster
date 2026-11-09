@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/kam-consultants-corp-ny0363/
 
 * Lead inspection / evaluation
 * Long Island City, NY (Queens County)
-* Phone: (718) 729-1997
 * Address: 35-40 36th St, Long Island City, NY 11106
 * Google rating: 4.7 from 14 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-2192-3 (exp. 2027-07-27)

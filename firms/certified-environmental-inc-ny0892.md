@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/certified-environmental-inc-ny0892/
 
 * Lead abatement
 * Monsey, NY (Rockland County)
-* Phone: (917) 985-0144
 * Address: 15 Stillo Dr, Monsey, NY 10952
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F216558-3 (exp. 2029-08-04)
 

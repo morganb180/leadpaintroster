@@ -29,8 +29,6 @@ Lead Paint Roster lists 6 EPA-licensed listings with an address in Port Washingt
 Licensed firm
 
 156 Shore Rd, Port Washington, NY  
-☎ [(516) 944-5323](tel:5169445323)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F281354-1 (exp. 2028-01-30)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F281354-1 (exp. 2028-01-30)  
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-77473-3 (exp. 2027-04-07)  
@@ -45,8 +43,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 88 Harbor Rd, Port Washington, NY  
-☎ [(516) 944-9500](tel:5169449500)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-124686-3 (exp. 2027-05-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0493)
@@ -58,8 +54,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 83 Sands Point Rd, Port Washington, NY  
-☎ [(347) 536-1804](tel:3475361804)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F179570-1 (exp. 2028-02-11)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F179570-1 (exp. 2028-02-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -72,8 +66,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1 Crooker Pl, Port Washington, NY  
-☎ [(347) 538-4591](tel:3475384591)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F113446-3 (exp. 2028-06-13)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F113446-3 (exp. 2028-06-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -88,8 +80,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1 Dunes Ln, Port Washington, NY  
-☎ [(646) 749-7669](tel:6467497669)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F207980-3 (exp. 2029-08-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0966)
@@ -101,8 +91,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 7 Carey Pl, Port Washington, NY  
-☎ [(516) 883-8500](tel:5168838500)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F221557-2 (exp. 2027-02-10)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1183)

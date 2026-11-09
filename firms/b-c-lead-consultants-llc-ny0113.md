@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/b-c-lead-consultants-llc-ny0113/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 532-1350
 * Address: 4907 18th Ave, Brooklyn, NY 11204
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-111637-4 (exp. 2029-07-06)

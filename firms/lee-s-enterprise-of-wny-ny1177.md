@@ -1,6 +1,6 @@
 ---
 title: "Lee's Enterprise of WNY, Buffalo, NY | Lead Paint Roster"
-description: "Lee's Enterprise of WNY in Buffalo, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Lee's Enterprise of WNY in Buffalo, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/lee-s-enterprise-of-wny-ny1177/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lee-s-enterprise-of-wny-ny1177/
 
 * Lead abatement
 * Buffalo, NY (Erie County)
-* Phone: (716) 931-2713
 * Address: 211 Davidson St, Buffalo, NY 14225
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F323208-1 (exp. 2029-03-03)
 

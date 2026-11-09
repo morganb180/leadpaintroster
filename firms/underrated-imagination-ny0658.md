@@ -1,6 +1,6 @@
 ---
 title: "Underrated Imagination, Bellerose, NY | Lead Paint Roster"
-description: "Underrated Imagination in Bellerose, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Underrated Imagination in Bellerose, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/underrated-imagination-ny0658/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/underrated-imagination-ny0658/
 
 * Lead inspection / evaluation
 * Bellerose, NY (Queens County)
-* Phone: (516) 926-0776
 * Address: 25121 Jericho Turnpike, Bellerose, NY 11426
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F258136-1 (exp. 2027-01-10)
 

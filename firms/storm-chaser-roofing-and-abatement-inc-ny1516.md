@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/storm-chaser-roofing-and-abatement-
 
 * Lead abatement
 * Ozone Park, NY (Queens County)
-* Phone: (929) 554-7522
 * Address: 8441 103rd Ave, Ozone Park, NY 11417
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F242072-2 (exp. 2028-11-16)
 

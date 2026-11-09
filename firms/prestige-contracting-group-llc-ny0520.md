@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/prestige-contracting-group-llc-ny05
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (646) 726-0204
 * Address: 1136 E 37th St, Brooklyn, NY 11210
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F308193-1 (exp. 2028-09-22)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F308193-1 (exp. 2028-09-22)

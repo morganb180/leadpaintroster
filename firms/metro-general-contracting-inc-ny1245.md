@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/metro-general-contracting-inc-ny124
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (718) 704-8321
 * Address: 70 Mulberry Ave, Staten Island, NY 10314
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262673-1 (exp. 2027-04-19)
 

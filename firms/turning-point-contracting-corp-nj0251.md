@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/turning-point-contracting-corp-nj02
 
 * Lead abatement
 * Union, NJ (Union County)
-* Phone: (973) 372-2177
 * Address: 1125 Cranbury Rd, Union, NJ 07083
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00506 (exp. 2028-03-31)
 

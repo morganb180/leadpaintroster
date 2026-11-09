@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mae-property-consultants-ny0429/
 
 * Lead abatement, Lead inspection / evaluation
 * New York, NY (New York County)
-* Phone: (347) 596-2427
 * Address: 99 Madison Ave, New York, NY 10016
 * Google rating: 5.0 from 14 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F242207-2 (exp. 2028-11-21)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/asbestos-mold-services-corp-nj0196/
 
 * Lead abatement
 * Lumberton, NJ (Burlington County)
-* Phone: (609) 702-0400
 * Address: 70 Stacy Haines Rd, Suite 4, Lumberton, NJ 08048
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00576 (exp. 2027-07-31)
 

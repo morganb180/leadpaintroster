@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/partner-eng-and-science-nj0121/
 
 * Lead inspection / evaluation
 * Torrance, CA (Los Angeles County)
-* Phone: (310) 615-4500
 * Address: 2154 Torrance Blvd, Ste.200, Torrance, CA 90501
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00658 (exp. 2027-09-30)
 

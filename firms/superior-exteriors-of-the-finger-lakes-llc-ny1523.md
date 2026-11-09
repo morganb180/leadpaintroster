@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/superior-exteriors-of-the-finger-la
 
 * Lead abatement
 * Newark, NY (Wayne County)
-* Phone: (315) 573-7275
 * Address: 907 Peirson Ave, Newark, NY 14513
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F325590-1 (exp. 2029-03-12)
 

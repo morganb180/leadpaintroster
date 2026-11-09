@@ -1,6 +1,6 @@
 ---
 title: "Aspis Environmental, LLC, Newark, NJ | Lead Paint Roster"
-description: "Aspis Environmental, LLC in Newark, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Aspis Environmental, LLC in Newark, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/aspis-environmental-llc-nj0030/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/aspis-environmental-llc-nj0030/
 
 * Lead inspection / evaluation
 * Newark, NJ (Essex County)
-* Phone: (609) 433-6258
 * Address: 601 15th Ave, #1, Newark, NJ 07103
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00899 (exp. 2027-12-31)
 

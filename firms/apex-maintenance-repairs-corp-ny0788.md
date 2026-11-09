@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/apex-maintenance-repairs-corp-ny078
 
 * Lead abatement
 * Yorktown Heights, NY (Westchester County)
-* Phone: (718) 654-0736
 * Address: 1204 Underhill Ave, Yorktown Heights, NY 10598
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F158612-3 (exp. 2028-07-29)
 

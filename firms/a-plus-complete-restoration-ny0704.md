@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-plus-complete-restoration-ny0704/
 
 * Lead abatement
 * Garrison, NY (Putnam County)
-* Phone: (914) 334-9592
 * Address: 1760 Route 9, Garrison, NY 10524
 * Google rating: 5.0 from 61 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F258877-1 (exp. 2029-10-07)

@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/iee-ma0057/
 
 * Lead inspection / evaluation, Lead risk assessment
 * Wilmington, MA (Middlesex County)
-* Phone: (603) 216-2177
-* Email: gdevine@ieetrains.com
 * Address: Wilmington, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0057

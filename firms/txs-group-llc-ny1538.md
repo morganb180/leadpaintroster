@@ -1,6 +1,6 @@
 ---
 title: "Txs Group LLC, Long Island City, NY | Lead Paint Roster"
-description: "Txs Group LLC in Long Island City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Txs Group LLC in Long Island City, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/txs-group-llc-ny1538/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/txs-group-llc-ny1538/
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (929) 422-3761
 * Address: 1138 44th Rd, Long Island City, NY 11101
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F271895-1 (exp. 2027-10-10)
 

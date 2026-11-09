@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/liberty-remediation-group-llc-ny042
 
 * Lead abatement, Lead inspection / evaluation
 * Richmond Hill, NY (Queens County)
-* Phone: (718) 600-3151
 * Address: 12319 Hillside Ave, Richmond Hill, NY 11418
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F343612-1 (exp. 2029-08-13)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F343612-1 (exp. 2029-08-13)

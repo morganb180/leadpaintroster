@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sherwin-property-services-llc-ny149
 
 * Lead abatement
 * Schenectady, NY (Schenectady County)
-* Phone: (518) 225-2154
 * Address: 818 Bolt Rd, Schenectady, NY 12302
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221352-3 (exp. 2029-09-16)
 

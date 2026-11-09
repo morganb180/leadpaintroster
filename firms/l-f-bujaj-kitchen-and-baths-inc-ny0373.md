@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/l-f-bujaj-kitchen-and-baths-inc-ny0
 
 * Lead abatement, Lead inspection / evaluation
 * Elmsford, NY (Westchester County)
-* Phone: (917) 774-8005
 * Address: 116 Winthrop Ave, Elmsford, NY 10523
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F240301-1 (exp. 2027-11-04)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F240301-1 (exp. 2027-11-04)

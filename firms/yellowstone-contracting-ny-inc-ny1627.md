@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/yellowstone-contracting-ny-inc-ny16
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 327-1024
 * Address: 712 45th St, Brooklyn, NY 11220
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F272415-1 (exp. 2027-10-22)
 

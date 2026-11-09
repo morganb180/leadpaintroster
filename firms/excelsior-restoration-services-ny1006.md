@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/excelsior-restoration-services-ny10
 
 * Lead abatement
 * Ballston Spa, NY (Saratoga County)
-* Phone: (518) 288-3699
 * Address: 433 Geyser Rd, Ballston Spa, NY 12020
 * Google rating: 5.0 from 73 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F274613-1 (exp. 2027-11-06)

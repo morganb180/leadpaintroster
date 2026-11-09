@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/built-in-brooklyn-construction-ny01
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (347) 294-0152
 * Address: 509 39th St, Brooklyn, NY 11232
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F170792-4 (exp. 2028-11-17)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F170792-4 (exp. 2028-11-17)

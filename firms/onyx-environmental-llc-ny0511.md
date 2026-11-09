@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/onyx-environmental-llc-ny0511/
 
 * Lead abatement, Lead inspection / evaluation
 * Centereach, NY (Suffolk County)
-* Phone: (917) 440-9419
 * Address: 81 Wood Rd, Centereach, NY 11720
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F258196-1 (exp. 2027-01-12)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F258196-1 (exp. 2027-01-12)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/galiba-general-construction-inc-ny1
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (917) 577-3872
 * Address: 960 Anderson Ave, Bronx, NY 10452
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F287743-1 (exp. 2028-03-18)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rosmil-tile-painting-corp-ny1444/
 
 * Lead abatement
 * New Rochelle, NY (Westchester County)
-* Phone: (212) 740-6600
 * Address: 95 Union Ave, New Rochelle, NY 10801
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-126661-3 (exp. 2028-03-28)
 

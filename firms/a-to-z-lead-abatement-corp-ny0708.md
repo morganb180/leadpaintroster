@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-to-z-lead-abatement-corp-ny0708/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 437-6510
 * Address: 1336 48th St, Brooklyn, NY 11219
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-11336-4 (exp. 2029-03-04)
 

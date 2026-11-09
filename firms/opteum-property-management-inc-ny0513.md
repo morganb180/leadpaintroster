@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/opteum-property-management-inc-ny05
 
 * Lead abatement, Lead inspection / evaluation
 * North Tonawanda, NY (Niagara County)
-* Phone: (716) 266-2677
 * Address: 15 Webster St, North Tonawanda, NY 14120
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F279133-1 (exp. 2027-12-23)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F279133-1 (exp. 2027-12-23)

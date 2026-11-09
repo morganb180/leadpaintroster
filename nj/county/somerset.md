@@ -21,7 +21,6 @@ Lead Paint Roster lists 6 NJ DCA-licensed listings for lead inspection / evaluat
 Licensed firm
 
 53 Aspen Dr, Basking Ridge, NJ  
-☎ [(908) 552-0203](tel:9085520203)  
 Contact listed by NJ DCA: Si Chen
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00839 (exp. 2027-02-28)  
@@ -35,7 +34,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 971 US Hwy 202 N, Branchburg, NJ  
-☎ [(917) 939-0019](tel:9179390019)  
 Contact listed by NJ DCA: George Miltiadou
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB), Commercial buildings/steel structures (CB/SS) #00888 (exp. 2027-07-31)  
@@ -49,7 +47,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 220 Davidson Ave Suite 205, Somerset, NJ  
-☎ [(732) 418-9006](tel:7324189006)  
 Contact listed by NJ DCA: Justin Mastykarz
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00317 (exp. 2028-06-11)  
@@ -63,7 +60,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 39 Cornelius Way, Somerset, NJ  
-☎ [(732) 662-0798](tel:7326620798)  
 Contact listed by NJ DCA: Mark Van Burik
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00802 (exp. 2028-04-30)  
@@ -77,7 +73,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 88 3rd St, Somerville, NJ  
-☎ [(732) 841-6161](tel:7328416161)  
 Contact listed by NJ DCA: Neheru Singh
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00891 (exp. 2027-11-30)  
@@ -91,7 +86,6 @@ Source: [NJ DCA list](https://www.nj.gov/dca/codes/publications/pdf_lead/ld_eval
 Licensed firm
 
 62 Mountain Ave, Warren, NJ  
-☎ [(973) 650-4151](tel:9736504151)  
 Contact listed by NJ DCA: Michael Dominianni
 
 NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00748 (exp. 2027-05-31)  

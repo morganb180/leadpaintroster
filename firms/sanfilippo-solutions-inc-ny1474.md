@@ -1,6 +1,6 @@
 ---
 title: "Sanfilippo Solutions Inc, Falconer, NY | Lead Paint Roster"
-description: "Sanfilippo Solutions Inc in Falconer, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Sanfilippo Solutions Inc in Falconer, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/sanfilippo-solutions-inc-ny1474/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/sanfilippo-solutions-inc-ny1474/
 
 * Lead abatement
 * Falconer, NY (Chautauqua County)
-* Phone: (716) 922-4091
 * Address: 16 Cross St, Falconer, NY 14733
 * Google rating: 4.8 from 40 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F201641-1 (exp. 2029-04-02)

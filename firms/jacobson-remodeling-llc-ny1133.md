@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jacobson-remodeling-llc-ny1133/
 
 * Lead abatement
 * Tonawanda, NY (Erie County)
-* Phone: (716) 622-0647
 * Address: 93 Dalton Dr, Tonawanda, NY 14223
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F230458-2 (exp. 2028-05-12)
 

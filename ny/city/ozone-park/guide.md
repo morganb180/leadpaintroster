@@ -46,8 +46,6 @@ Lead Paint Roster lists 9 listings with an address in Ozone Park: 1 inspection/r
 Licensed firm
 
 10216 95th Ave, Ozone Park, NY  
-☎ [(718) 607-2628](tel:7186072628)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F206924-2 (exp. 2028-04-30)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F206924-2 (exp. 2028-04-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -60,8 +58,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 9433 95th St, Ozone Park, NY  
-☎ [(646) 509-4601](tel:6465094601)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F255702-1 (exp. 2026-10-31)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0770)

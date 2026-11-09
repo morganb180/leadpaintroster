@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gc-upstate-environmental-solutions-
 
 * Lead abatement
 * East Northport, NY (Suffolk County)
-* Phone: (631) 392-0626
 * Address: 196 Laurel Rd, East Northport, NY 11731
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F124617-4 (exp. 2029-07-23)
 

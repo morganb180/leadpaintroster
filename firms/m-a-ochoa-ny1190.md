@@ -1,6 +1,6 @@
 ---
 title: "M & A Ochoa, Kingston, NY | Lead Paint Roster"
-description: "M & A Ochoa in Kingston, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "M & A Ochoa in Kingston, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/m-a-ochoa-ny1190/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/m-a-ochoa-ny1190/
 
 * Lead abatement
 * Kingston, NY (Ulster County)
-* Phone: (845) 594-5283
 * Address: 16 Oak St, Kingston, NY 12401
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F146592-1 (exp. 2028-02-27)
 

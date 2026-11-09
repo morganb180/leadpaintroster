@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/192-branch-interior-services-inc-ny
 
 * Lead abatement
 * Ronkonkoma, NY (Suffolk County)
-* Phone: (631) 467-6600
 * Address: 2099 9th Ave, Ronkonkoma, NY 11779
 * Google rating: 4.6 from 10 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-796-3 (exp. 2027-11-22)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/western-house-construction-llc-ny16
 
 * Lead abatement
 * Flushing, NY (Queens County)
-* Phone: (718) 539-1956
 * Address: 3708 Main St, Flushing, NY 11354
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-55636-1 (exp. 2028-05-19)
 

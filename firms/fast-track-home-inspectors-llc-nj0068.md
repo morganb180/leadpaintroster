@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/fast-track-home-inspectors-llc-nj00
 
 * Lead inspection / evaluation
 * Demarest, NJ (Bergen County)
-* Phone: (201) 665-3333
 * Address: 116 Bellaire Dr, Demarest, NJ 07627
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00762 (exp. 2027-08-31)
 

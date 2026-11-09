@@ -1,6 +1,6 @@
 ---
 title: "Abatek Corp., Maspeth, NY | Lead Paint Roster"
-description: "Abatek Corp. in Maspeth, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Abatek Corp. in Maspeth, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/abatek-corp-ny0741/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/abatek-corp-ny0741/
 
 * Lead abatement
 * Maspeth, NY (Queens County)
-* Phone: (718) 326-4757
 * Address: 4632 53rd Ave, Maspeth, NY 11378
 * Google rating: 5.0 from 25 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-50209-3 (exp. 2028-08-16)

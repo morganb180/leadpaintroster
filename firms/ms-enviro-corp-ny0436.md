@@ -1,6 +1,6 @@
 ---
 title: "MS Enviro Corp, Brooklyn, NY | Lead Paint Roster"
-description: "MS Enviro Corp in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "MS Enviro Corp in Brooklyn, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/ms-enviro-corp-ny0436/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ms-enviro-corp-ny0436/
 
 * Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (917) 399-2590
 * Address: 1228 E 91st St, Brooklyn, NY 11236
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F264264-1 (exp. 2027-05-24)
 

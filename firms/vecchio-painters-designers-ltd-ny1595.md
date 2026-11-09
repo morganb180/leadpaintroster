@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/vecchio-painters-designers-ltd-ny15
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 450-2119
 * Address: 1522 E 66th St, Brooklyn, NY 11234
 * Google rating: 4.9 from 87 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F214616-1 (exp. 2028-09-11)

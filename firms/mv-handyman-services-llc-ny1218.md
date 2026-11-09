@@ -1,6 +1,6 @@
 ---
 title: "Mv Handyman Services LLC, Falconer, NY | Lead Paint Roster"
-description: "Mv Handyman Services LLC in Falconer, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Mv Handyman Services LLC in Falconer, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/mv-handyman-services-llc-ny1218/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mv-handyman-services-llc-ny1218/
 
 * Lead abatement
 * Falconer, NY (Chautauqua County)
-* Phone: (716) 986-5491
 * Address: 3013 Water St, Falconer, NY 14733
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F255950-1 (exp. 2026-11-15)
 

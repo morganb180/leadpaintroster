@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/a-i-general-contractors-llc-ny0710/
 
 * Lead abatement
 * Yonkers, NY (Westchester County)
-* Phone: (914) 613-8871
 * Address: 703 Yonkers Ave, Yonkers, NY 10704
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F260803-1 (exp. 2027-03-14)
 

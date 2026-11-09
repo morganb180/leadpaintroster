@@ -29,8 +29,6 @@ Lead Paint Roster lists 4 EPA-licensed listings with an address in Watertown: 4 
 Licensed firm
 
 175 Arsenal St, Watertown, NY  
-☎ [(315) 785-5130](tel:3157855130)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F240443-2 (exp. 2028-10-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1137)
@@ -42,8 +40,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 27520 Perch Lake Rd, Watertown, NY  
-☎ [(315) 681-7784](tel:3156817784)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F117544-2 (exp. 2029-08-13)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1457)
@@ -55,8 +51,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 215 Washington St, Watertown, NY  
-☎ [(315) 775-3115](tel:3157753115)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F267159-1 (exp. 2027-07-31)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1554)
@@ -68,8 +62,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 26252 State Route 3, Watertown, NY  
-☎ [(315) 818-4188](tel:3158184188)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F253648-1 (exp. 2028-11-19)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1559)

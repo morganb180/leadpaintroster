@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ornell-tanner-construction-llc-ny13
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (914) 557-5005
 * Address: 1058 E 222nd St, Bronx, NY 10466
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221820-1 (exp. 2028-03-10)
 

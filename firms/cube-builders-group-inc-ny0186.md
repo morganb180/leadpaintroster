@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cube-builders-group-inc-ny0186/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (347) 673-6700
 * Address: 1671 Bath Ave, Brooklyn, NY 11214
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F199304-3 (exp. 2028-06-08)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F199304-3 (exp. 2028-06-08)

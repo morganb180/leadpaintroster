@@ -21,8 +21,6 @@ canonical: https://leadpaintroster.com/ny/county/delaware/
 Licensed firm
 
 1275 Hog Mountain Rd, Fleischmanns, NY  
-☎ [(845) 800-2759](tel:8458002759)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F279194-1 (exp. 2027-12-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0728)
@@ -34,8 +32,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 420 Sanford Hollow Rd, New Kingston, NY  
-☎ [(845) 532-3535](tel:8455323535)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F279526-1 (exp. 2027-12-24)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1054)
@@ -47,8 +43,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 489 Al Pekrul Rd, Roxbury, NY  
-☎ [(607) 326-4769](tel:6073264769)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F314698-1 (exp. 2028-11-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0821)
@@ -60,8 +54,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 44 W St, Walton, NY  
-☎ [(607) 291-2100](tel:6072912100)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F285356-1 (exp. 2028-02-21)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0834)
@@ -73,8 +65,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 44 W St, Walton, NY  
-☎ [(607) 453-4400](tel:6074534400)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F279365-1 (exp. 2028-01-27)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0836)

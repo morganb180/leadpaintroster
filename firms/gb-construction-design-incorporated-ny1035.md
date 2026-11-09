@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/gb-construction-design-incorporated
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (917) 403-3936
 * Address: 11 E 80th St, New York, NY 10075
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F252661-2 (exp. 2029-08-16)
 

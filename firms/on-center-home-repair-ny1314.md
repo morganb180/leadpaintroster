@@ -1,6 +1,6 @@
 ---
 title: "On Center Home Repair, Forestville, NY | Lead Paint Roster"
-description: "On Center Home Repair in Forestville, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "On Center Home Repair in Forestville, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/on-center-home-repair-ny1314/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/on-center-home-repair-ny1314/
 
 * Lead abatement
 * Forestville, NY (Chautauqua County)
-* Phone: (716) 378-9895
 * Address: 2475 Route 39, Forestville, NY 14062
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F229422-2 (exp. 2029-10-08)
 

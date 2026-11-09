@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/shoreline-environmental-inc-ny1494/
 
 * Lead abatement
 * Copiague, NY (Suffolk County)
-* Phone: (631) 275-0057
 * Address: 8 N Di Tomas Ct, Copiague, NY 11726
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F291161-1 (exp. 2028-04-15)
 

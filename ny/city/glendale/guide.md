@@ -47,8 +47,6 @@ Lead Paint Roster lists 4 listings with an address in Glendale: 0 inspection/ris
 Licensed firm
 
 71-02 80th St, Glendale, NY  
-☎ [(718) 383-7006](tel:7183837006)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-48783-4 (exp. 2028-08-07)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0780)
@@ -60,8 +58,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 7547 61st St, Glendale, NY  
-☎ [(347) 739-4800](tel:3477394800)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F180303-2 (exp. 2027-02-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY1213)

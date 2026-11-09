@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nyc-apartment-building-solutions-in
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (646) 302-4542
 * Address: 7504 5th Ave, Brooklyn, NY 11209
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F216710-3 (exp. 2029-08-14)
 

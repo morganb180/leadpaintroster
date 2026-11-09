@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/westside-construction-group-llc-ny0
 
 * Lead abatement, Lead inspection / evaluation
 * Churchville, NY (Monroe County)
-* Phone: (585) 440-0304
 * Address: 141 E Buffalo St, Churchville, NY 14428
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F257716-1 (exp. 2027-01-11)

@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/asap-environmental-ma0012/
 
 * Lead risk assessment
 * Dorchester, MA (Suffolk County)
-* Phone: (617) 784-1684
-* Email: benjamin@asapenvironmental.com
 * Address: Dorchester, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0012

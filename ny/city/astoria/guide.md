@@ -47,8 +47,6 @@ Lead Paint Roster lists 34 listings with an address in Astoria: 17 inspection/ri
 Licensed firm
 
 2810 23rd Ave, Astoria, NY  
-☎ [(718) 777-8383](tel:7187778383)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F248903-2 (exp. 2029-05-09)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F248903-2 (exp. 2029-05-09)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -61,8 +59,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2611 30th St, Astoria, NY  
-☎ [(646) 886-4113](tel:6468864113)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F308911-1 (exp. 2028-09-30)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F308911-1 (exp. 2028-09-30)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -75,8 +71,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 20-33 26th St, Astoria, NY  
-☎ [(718) 567-6050](tel:7185676050)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F217959-2 (exp. 2027-09-28)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F217959-2 (exp. 2027-09-28)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -89,8 +83,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 1829 42nd St, Astoria, NY  
-☎ [(917) 385-9142](tel:9173859142)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F209872-3 (exp. 2028-11-14)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F209872-3 (exp. 2028-11-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  

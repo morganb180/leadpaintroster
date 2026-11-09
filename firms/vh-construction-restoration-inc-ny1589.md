@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/vh-construction-restoration-inc-ny1
 
 * Lead abatement
 * Woodhaven, NY (Queens County)
-* Phone: (347) 858-4152
 * Address: 9107 97th St, Woodhaven, NY 11421
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F268759-1 (exp. 2027-09-12)
 

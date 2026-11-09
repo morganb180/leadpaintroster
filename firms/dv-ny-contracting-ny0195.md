@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dv-ny-contracting-ny0195/
 
 * Lead abatement, Lead inspection / evaluation
 * White Plains, NY (Westchester County)
-* Phone: (917) 645-8998
 * Address: 75 S Broadway, White Plains, NY 10601
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F174697-1 (exp. 2028-11-27)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F174697-1 (exp. 2028-11-27)

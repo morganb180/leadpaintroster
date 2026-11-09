@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/onyxenviro-llc-ny0512/
 
 * Lead abatement, Lead inspection / evaluation
 * Suffern, NY (Rockland County)
-* Phone: (347) 984-6699
 * Address: 15 Marget Ann Ln, Suffern, NY 10901
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F336963-1 (exp. 2029-06-09)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F336963-1 (exp. 2029-06-09)

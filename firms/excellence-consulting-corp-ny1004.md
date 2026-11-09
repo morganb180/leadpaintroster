@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/excellence-consulting-corp-ny1004/
 
 * Lead abatement
 * Westbury, NY (Nassau County)
-* Phone: (718) 650-9352
 * Address: 1080 Old Country Rd, Westbury, NY 11590
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F211372-3 (exp. 2028-12-30)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/steelcoat-painting-company-nj0246/
 
 * Lead abatement
 * Elizabeth, NJ (Union County)
-* Phone: (908) 772-4188
 * Address: 654 Maple Ave, Elizabeth, NJ 07202
 * NJ DCA Lead Abatement Contractor - Commercial buildings/steel structures (CB/SS) #00927 (exp. 2028-06-30)
 

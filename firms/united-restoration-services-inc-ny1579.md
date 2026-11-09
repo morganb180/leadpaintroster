@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/united-restoration-services-inc-ny1
 
 * Lead abatement
 * Briarcliff, NY (Westchester County)
-* Phone: (800) 959-1188
 * Address: 72 N State Rd, Briarcliff, NY 10510
 * Google rating: 5.0 from 41 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-49328-2 (exp. 2028-02-04)

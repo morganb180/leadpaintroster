@@ -1,6 +1,6 @@
 ---
 title: "Compliance Aide Inc, Maspeth, NY | Lead Paint Roster"
-description: "Compliance Aide Inc in Maspeth, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Compliance Aide Inc in Maspeth, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/compliance-aide-inc-ny0905/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/compliance-aide-inc-ny0905/
 
 * Lead abatement
 * Maspeth, NY (Queens County)
-* Phone: (917) 417-1080
 * Address: 6140 56th Ave, Maspeth, NY 11378
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F307656-1 (exp. 2028-09-16)
 

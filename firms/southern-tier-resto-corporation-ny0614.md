@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/southern-tier-resto-corporation-ny0
 
 * Lead abatement, Lead inspection / evaluation
 * Elmira, NY (Chemung County)
-* Phone: (607) 481-0780
 * Address: 231 W Water St, Elmira, NY 14901
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F301630-1 (exp. 2028-07-22)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F301630-1 (exp. 2028-07-22)

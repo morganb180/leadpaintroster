@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ranallo-contracting-inc-ny0564/
 
 * Lead abatement, Lead inspection / evaluation
 * Dix Hills, NY (Suffolk County)
-* Phone: (516) 351-7893
 * Address: 15 Bagatelle Rd, Dix Hills, NY 11746
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F145737-1 (exp. 2028-06-05)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F145737-1 (exp. 2028-06-05)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/nys-dept-of-corrections-community-s
 
 * Lead abatement
 * Albany, NY (Albany County)
-* Phone: (518) 408-4417
 * Address: 550 Broadway, Albany, NY 12204
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-2371-4 (exp. 2028-06-05)
 

@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/children-s-choice-deleading-environ
 
 * Lead risk assessment
 * Brockton, MA (Plymouth County)
-* Phone: (508) 294-8722
-* Email: ccinspection1@gmail.com
 * Address: Brockton, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0009

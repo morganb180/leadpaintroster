@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/richmond-hill-road-construction-cor
 
 * Lead abatement
 * Staten Island, NY (Richmond County)
-* Phone: (718) 668-1200
 * Address: 16 Flagg Pl, Staten Island, NY 10304
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-121810-2 (exp. 2029-06-07)
 

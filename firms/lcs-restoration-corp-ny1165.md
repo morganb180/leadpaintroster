@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/lcs-restoration-corp-ny1165/
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (917) 217-0396
 * Address: 4947 31st St, Long Island City, NY 11101
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F252379-1 (exp. 2027-11-21)
 

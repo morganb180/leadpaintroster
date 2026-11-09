@@ -1,6 +1,6 @@
 ---
 title: "Anthony Passmore, Elmira, NY | Lead Paint Roster"
-description: "Anthony Passmore in Elmira, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Anthony Passmore in Elmira, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/anthony-passmore-ny0786/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/anthony-passmore-ny0786/
 
 * Lead abatement
 * Elmira, NY (Chemung County)
-* Phone: (607) 684-5507
 * Address: 1000 Hall St, Elmira, NY 14901
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F318246-1 (exp. 2028-12-25)
 

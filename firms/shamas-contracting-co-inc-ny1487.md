@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/shamas-contracting-co-inc-ny1487/
 
 * Lead abatement
 * Bronx, NY (Bronx County)
-* Phone: (718) 563-2100
 * Address: 4509 Park Ave, Bronx, NY 10457
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-122399-3 (exp. 2027-08-05)
 

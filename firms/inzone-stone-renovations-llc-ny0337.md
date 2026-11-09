@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/inzone-stone-renovations-llc-ny0337
 
 * Lead abatement, Lead inspection / evaluation
 * W Hempstead, NY (Nassau County)
-* Phone: (347) 405-3175
 * Address: 359 Mckinley St, W Hempstead, NY 11552
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F262165-1 (exp. 2027-04-10)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F262165-1 (exp. 2027-04-10)

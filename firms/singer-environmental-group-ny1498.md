@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/singer-environmental-group-ny1498/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 437-9600
 * Address: 5318 New Utrecht Ave, Brooklyn, NY 11219
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F221580-2 (exp. 2027-02-10)
 

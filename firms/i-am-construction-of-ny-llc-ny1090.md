@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/i-am-construction-of-ny-llc-ny1090/
 
 * Lead abatement
 * East Greenbush, NY (Rensselaer County)
-* Phone: (518) 879-2686
 * Address: 3 Rolling Ridge Dr, East Greenbush, NY 12061
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F185608-3 (exp. 2028-02-02)
 

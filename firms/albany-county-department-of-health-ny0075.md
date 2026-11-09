@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/albany-county-department-of-health-
 
 * Lead inspection / evaluation
 * Albany, NY (Albany County)
-* Phone: (518) 447-4520
 * Address: 175 Green St, Albany, NY 12202
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1665-3 (exp. 2027-08-04)
 

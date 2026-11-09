@@ -1,6 +1,6 @@
 ---
 title: "Tri-West Steel Inc, Brooklyn, NY | Lead Paint Roster"
-description: "Tri-West Steel Inc in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Tri-West Steel Inc in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/tri-west-steel-inc-ny1561/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/tri-west-steel-inc-ny1561/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (718) 787-1700
 * Address: 2729 Cobeck Ct, Brooklyn, NY 11223
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F284745-1 (exp. 2028-02-17)

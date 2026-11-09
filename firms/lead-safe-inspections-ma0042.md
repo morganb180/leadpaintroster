@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/lead-safe-inspections-ma0042/
 
 * Lead inspection / evaluation
 * Somerville, MA (Middlesex County)
-* Phone: (617) 909-1949
-* Email: jack.mason1@gmail.com
 * Address: Somerville, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0042

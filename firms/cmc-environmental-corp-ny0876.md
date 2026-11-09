@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/cmc-environmental-corp-ny0876/
 
 * Lead abatement
 * South Ozone Park, NY (Queens County)
-* Phone: (718) 845-1387
 * Address: 129-25 134th St, South Ozone Park, NY 11420
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-9297-4 (exp. 2028-10-21)
 

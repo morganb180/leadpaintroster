@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/phase-1-restoration-inc-ny0527/
 
 * Lead abatement, Lead inspection / evaluation
 * Wantagh, NY (Nassau County)
-* Phone: (516) 741-1777
 * Address: 1400 Wantagh Ave, Wantagh, NY 11793
 * Google rating: 5.0 from 24 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F229498-2 (exp. 2027-10-11)

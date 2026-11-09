@@ -23,9 +23,6 @@ Listings holding more than one licence type are shown once, in the first matchin
 Licensed firm
 
 Fitchburg, MA  
-☎ [(978) 345-7273](tel:9783457273)  
-✉ [catinspections97@gmail.com](mailto:catinspections97@gmail.com)
-
 1 licensed individual
 
 * Joseph Cataldo (MA DLS Inspector/Risk Assessor #3147 (exp. 2027-02-25))
@@ -40,10 +37,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Hopedale, MA  
-☎ [(508) 341-0837](tel:5083410837)  
-✉ [jacobs@cbjenvironmental.com](mailto:jacobs@cbjenvironmental.com)  
-✉ [isael@cbjenvironmental.com](mailto:isael@cbjenvironmental.com)
-
 2 licensed individuals
 
 * Ronald Jacobs (MA DLS Inspector/Risk Assessor #3718 (exp. 2027-06-23))
@@ -59,9 +52,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Leominster, MA  
-☎ [(508) 561-1281](tel:5085611281)  
-✉ [Caulf@comcast.net](mailto:Caulf@comcast.net)
-
 1 licensed individual
 
 * Christine Caulfield (MA DLS Master Inspector/Risk Assessor #1950 (exp. 2027-05-04))
@@ -80,9 +70,6 @@ Lead Paint Roster lists 5 Massachusetts-licensed listings for lead inspection / 
 Licensed firm
 
 Auburn, MA  
-☎ [(508) 762-8847](tel:5087628847)  
-✉ [tadasenvironmental@gmail.com](mailto:tadasenvironmental@gmail.com)
-
 1 licensed individual
 
 * Tadas Bendaravicius (MA DLS Inspector #004415 (exp. 2027-05-07))
@@ -97,9 +84,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Dudley, MA  
-☎ [(774) 230-7045](tel:7742307045)  
-✉ [Tracy@MassLeadInspector.com](mailto:Tracy@MassLeadInspector.com)
-
 1 licensed individual
 
 * Tracy Daggett (MA DLS Inspector #3990 (exp. 2026-11-30))
@@ -114,9 +98,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Fitchburg, MA  
-☎ [(978) 430-6306](tel:9784306306)  
-✉ [mickie@lemayleadpaintconsulting.com](mailto:mickie@lemayleadpaintconsulting.com)
-
 1 licensed individual
 
 * Michelle Lemay (MA DLS Inspector #3764 (exp. 2027-06-20))
@@ -131,9 +112,6 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 Licensed firm
 
 Worcester, MA  
-☎ [(508) 733-4179](tel:5087334179)  
-✉ [BrooksJ@worcesterma.gov](mailto:BrooksJ@worcesterma.gov)
-
 1 licensed individual
 
 * James Brooks (MA DLS Inspector #4216 (exp. 2026-12-12))
@@ -147,12 +125,9 @@ Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-
 
 Licensed individual
 
-⚠ DLS list gives city, phone and email only (no street address)
+⚠ The MA DLS list gives a city for this person and no street address
 
 Leominster, MA  
-☎ [(508) 561-1281](tel:5085611281)  
-✉ [caulf@comcast.net](mailto:caulf@comcast.net)
-
 MA DLS Inspector #4223 (exp. 2027-02-16)  
 Source: [MA list](https://www.mass.gov/doc/licensed-private-lead-inspector-list-0/download), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=MA0023)

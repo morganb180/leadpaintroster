@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ali-fix-it-construction-llc-ny0762/
 
 * Lead abatement
 * Syracuse, NY (Onondaga County)
-* Phone: (680) 216-3217
 * Address: 163 Darlington Rd, Syracuse, NY 13208
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F237784-2 (exp. 2028-07-06)
 

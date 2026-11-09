@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/envirocore-services-ny0243/
 
 * Lead abatement, Lead inspection / evaluation
 * College Point, NY (Queens County)
-* Phone: (917) 935-5254
 * Address: 11018 15th Ave, College Point, NY 11356
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F305074-1 (exp. 2029-01-22)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F305074-1 (exp. 2029-01-22)

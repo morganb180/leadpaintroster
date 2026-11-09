@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/saturno-environmental-testing-nj014
 
 * Lead inspection / evaluation
 * Phillipsburg, NJ (Warren County)
-* Phone: (347) 892-5148
 * Address: 114 Bullman St, Phillipsburg, NJ 08865
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00859 (exp. 2027-02-28)
 

@@ -50,8 +50,6 @@ Lead Paint Roster lists 18 listings with an address in Schenectady: 5 inspection
 Licensed firm
 
 816 Union St, Schenectady, NY  
-☎ [(518) 372-7616](tel:5183727616)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-30893-1 (exp. 2029-05-04)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-30893-1 (exp. 2029-05-04)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -64,8 +62,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2021 Lenox Rd, Schenectady, NY  
-☎ [(518) 391-1864](tel:5183911864)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F329800-1 (exp. 2029-04-08)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F329800-1 (exp. 2029-04-08)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -78,8 +74,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 2110 Broadway, Schenectady, NY  
-☎ [(518) 986-2193](tel:5189862193)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F330016-1 (exp. 2029-04-14)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F330016-1 (exp. 2029-04-14)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -92,8 +86,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 107 Nott Ter, Schenectady, NY  
-☎ [(518) 386-2818](tel:5183862818)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-117930-3 (exp. 2026-11-23)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0603)

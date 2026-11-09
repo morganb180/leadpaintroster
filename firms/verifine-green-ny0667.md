@@ -1,6 +1,6 @@
 ---
 title: "Verifine Green, Monsey, NY | Lead Paint Roster"
-description: "Verifine Green in Monsey, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Verifine Green in Monsey, NY: US EPA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/verifine-green-ny0667/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/verifine-green-ny0667/
 
 * Lead inspection / evaluation
 * Monsey, NY (Rockland County)
-* Phone: (845) 428-4362
 * Address: 22A Ralph Blvd, Monsey, NY 10952
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F280005-1 (exp. 2028-01-01)
 

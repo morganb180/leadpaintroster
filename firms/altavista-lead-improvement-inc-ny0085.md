@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/altavista-lead-improvement-inc-ny00
 
 * Lead inspection / evaluation
 * White Plains, NY (Westchester County)
-* Phone: (914) 358-4161
 * Address: 211 Central Ave, White Plains, NY 10606
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F187724-3 (exp. 2028-04-11)
 

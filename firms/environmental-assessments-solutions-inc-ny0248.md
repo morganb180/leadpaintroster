@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/environmental-assessments-solutions
 
 * Lead inspection / evaluation
 * Ardsley, NY (Westchester County)
-* Phone: (914) 478-1717
 * Address: 144 Euclid Ave, Ardsley, NY 10502
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-1981-4 (exp. 2027-02-17)
 

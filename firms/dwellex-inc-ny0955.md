@@ -1,6 +1,6 @@
 ---
 title: "Dwellex Inc, Rochester, NY | Lead Paint Roster"
-description: "Dwellex Inc in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Dwellex Inc in Rochester, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/dwellex-inc-ny0955/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dwellex-inc-ny0955/
 
 * Lead abatement
 * Rochester, NY (Monroe County)
-* Phone: (585) 746-9183
 * Address: 403 Fiesta Rd, Rochester, NY 14626
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-1927-1 (exp. 2027-06-13)
 

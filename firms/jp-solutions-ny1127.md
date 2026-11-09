@@ -1,6 +1,6 @@
 ---
 title: "JP Solutions, Jamaica, NY | Lead Paint Roster"
-description: "JP Solutions in Jamaica, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "JP Solutions in Jamaica, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/jp-solutions-ny1127/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/jp-solutions-ny1127/
 
 * Lead abatement
 * Jamaica, NY (Queens County)
-* Phone: (516) 361-0658
 * Address: 8512 169th St, Jamaica, NY 11432
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F154873-3 (exp. 2027-06-26)
 

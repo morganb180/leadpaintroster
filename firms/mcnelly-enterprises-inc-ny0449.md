@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/mcnelly-enterprises-inc-ny0449/
 
 * Lead abatement, Lead inspection / evaluation
 * Brooklyn, NY (Kings County)
-* Phone: (718) 385-1234
 * Address: 137 Liberty Ave, Brooklyn, NY 11212
 * Google rating: 2.3 from 3 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-46808-1 (exp. 2028-07-14)

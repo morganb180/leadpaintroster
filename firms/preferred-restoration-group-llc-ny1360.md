@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/preferred-restoration-group-llc-ny1
 
 * Lead abatement
 * Airmont, NY (Rockland County)
-* Phone: (212) 243-4600
 * Address: 178 Rt 59, Airmont, NY 10952
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F347389-1 (exp. 2029-09-17)
 

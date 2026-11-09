@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/damab-technologies-services-inc-ny0
 
 * Lead abatement, Lead inspection / evaluation
 * Cambria Heights, NY (Queens County)
-* Phone: (901) 216-6081
 * Address: 11456 212th St, Cambria Heights, NY 11411
 * Google rating: 5.0 from 7 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F238768-2 (exp. 2028-08-12)

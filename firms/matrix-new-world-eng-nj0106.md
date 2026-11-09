@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/matrix-new-world-eng-nj0106/
 
 * Lead inspection / evaluation
 * Florham Park, NJ (Morris County)
-* Phone: (973) 240-1800
 * Address: 26 Columbia Turnpike, Florham Park, NJ 07932
 * Google rating: 4.9 from 12 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00204 (exp. 2027-12-31)

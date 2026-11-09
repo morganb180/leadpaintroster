@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/four-leaf-home-inspections-llc-nj00
 
 * Lead inspection / evaluation
 * Atlantic Highlands, NJ (Monmouth County)
-* Phone: (732) 939-0816
 * Address: 24 Brittany Ct, Atlantic Highlands, NJ 07716
 * Google rating: 4.9 from 27 reviews (as of Oct 18, 2026)
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00913 (exp. 2028-03-31)

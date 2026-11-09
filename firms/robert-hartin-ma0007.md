@@ -8,8 +8,6 @@ canonical: https://leadpaintroster.com/firms/robert-hartin-ma0007/
 
 * Lead risk assessment
 * Braintree, MA (Norfolk County)
-* Phone: (508) 583-8893
-* Email: bobhartin@outlook.com
 * Address: Braintree, MA
 
 Get a quote: https://leadpaintroster.com/quotes/?firm=MA0007

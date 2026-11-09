@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/manka-construction-inc-ny1200/
 
 * Lead abatement
 * East Elmhurst, NY (Queens County)
-* Phone: (929) 844-9307
 * Address: 2230 79th St, East Elmhurst, NY 11370
 * Google rating: 3.7 from 3 reviews (as of Oct 18, 2026)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F231916-2 (exp. 2028-01-27)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/liaviv-construction-corp-ny0418/
 
 * Lead abatement, Lead inspection / evaluation
 * Elmhurst, NY (Queens County)
-* Phone: (347) 567-8276
 * Address: 87-42 Elmhurst Ave, Elmhurst, NY 11373
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F176975-2 (exp. 2027-12-31)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F176975-2 (exp. 2027-12-31)

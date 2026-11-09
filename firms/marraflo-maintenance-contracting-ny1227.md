@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/marraflo-maintenance-contracting-ny
 
 * Lead abatement
 * Long Island City, NY (Queens County)
-* Phone: (718) 440-9799
 * Address: 10-51 49th Ave, Long Island City, NY 11101
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F255155-1 (exp. 2026-10-13)
 

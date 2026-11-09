@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/ja-scrimale-s-property-service-llc-
 
 * Lead abatement
 * West Monroe, NY (Oswego County)
-* Phone: (315) 529-2363
 * Address: 1919 County Route 37, West Monroe, NY 13167
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F285766-1 (exp. 2028-02-27)
 

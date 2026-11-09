@@ -1,6 +1,6 @@
 ---
 title: "Metex EL Inc., Brooklyn, NY | Lead Paint Roster"
-description: "Metex EL Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Metex EL Inc. in Brooklyn, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/metex-el-inc-ny1238/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/metex-el-inc-ny1238/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (347) 766-0762
 * Address: 24 Joralemon St, Brooklyn, NY 11201
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F332005-1 (exp. 2029-04-29)
 

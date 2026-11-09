@@ -1,6 +1,6 @@
 ---
 title: "Rapex Contracting Corp., New York, NY | Lead Paint Roster"
-description: "Rapex Contracting Corp. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, contact details and the official source list."
+description: "Rapex Contracting Corp. in New York, NY: US EPA certified for lead abatement. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/rapex-contracting-corp-ny1412/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/rapex-contracting-corp-ny1412/
 
 * Lead abatement
 * New York, NY (New York County)
-* Phone: (347) 563-3170
 * Address: 82 Jane St, New York, NY 10014
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F238897-2 (exp. 2028-08-17)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/clean-environmental-services-ny0169
 
 * Lead inspection / evaluation
 * Hicksville, NY (Nassau County)
-* Phone: (516) 884-7540
 * Address: 43 Bond Ln, Hicksville, NY 11801
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F206888-2 (exp. 2028-02-22)
 

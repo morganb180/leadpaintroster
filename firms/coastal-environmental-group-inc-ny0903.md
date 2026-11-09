@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/coastal-environmental-group-inc-ny0
 
 * Lead abatement
 * East Patchogue, NY (Suffolk County)
-* Phone: (631) 230-5415
 * Address: 264 Sills Rd, East Patchogue, NY 11772
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-936-2 (exp. 2027-09-13)
 

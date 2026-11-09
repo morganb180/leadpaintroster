@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/shannon-abatement-inc-ny1488/
 
 * Lead abatement
 * Stony Point, NY (Rockland County)
-* Phone: (845) 429-4346
 * Address: 14 Highridge Rd, Stony Point, NY 10980
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F333751-1 (exp. 2029-05-14)
 

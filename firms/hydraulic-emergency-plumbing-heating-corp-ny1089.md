@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hydraulic-emergency-plumbing-heatin
 
 * Lead abatement
 * Richmond Hill, NY (Queens County)
-* Phone: (718) 846-4000
 * Address: 8771 Lefferts Blvd, Richmond Hill, NY 11418
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-86192-3 (exp. 2028-08-28)
 

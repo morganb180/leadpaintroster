@@ -44,8 +44,6 @@ Lead Paint Roster lists 4 listings with an address in New York City: 1 inspectio
 Licensed firm
 
 66 Fort Washington Ave, New York City, NY  
-☎ [(646) 488-4318](tel:6464884318)
-
 EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F337341-1 (exp. 2029-06-11)  
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F337341-1 (exp. 2029-06-11)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
@@ -58,8 +56,6 @@ Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-se
 Licensed firm
 
 114 E 25th St, New York City, NY  
-☎ [(917) 304-5359](tel:9173045359)
-
 EPA Lead-Based Paint Activities firm: Abatement #LBP-F239110-2 (exp. 2028-08-17)  
 Source: [EPA list](https://cdxocsppapps.epa.gov/ocspp-oppt-lead/firm-location-search), retrieved 2026-10-12  
 [Claim, correct or remove this listing](https://leadpaintroster.com/claim-listing/?id=NY0695)

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/dormar-construction-ny0951/
 
 * Lead abatement
 * Roslyn Heights, NY (Nassau County)
-* Phone: (516) 626-0212
 * Address: 48 Pasture Ln, Roslyn Heights, NY 11577
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-75046-2 (exp. 2027-11-23)
 

@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hardrock-construction-corp-ny1075/
 
 * Lead abatement
 * Brooklyn, NY (Kings County)
-* Phone: (917) 624-6940
 * Address: 2251 Schenectady Ave, Brooklyn, NY 11234
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F254185-2 (exp. 2029-09-21)
 

@@ -1,6 +1,6 @@
 ---
 title: "Hm Environmental, LLC, Glendora, NJ | Lead Paint Roster"
-description: "Hm Environmental, LLC in Glendora, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, contact details and the official source list."
+description: "Hm Environmental, LLC in Glendora, NJ: NJ DCA certified for lead inspection. Licence numbers, expiry dates, the address when the record includes one, and the official source list."
 canonical: https://leadpaintroster.com/firms/hm-environmental-llc-nj0080/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/hm-environmental-llc-nj0080/
 
 * Lead inspection / evaluation
 * Glendora, NJ (Camden County)
-* Phone: (609) 876-8440
 * Address: 1112 Saint Marks Dr, Glendora, NJ 08029
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00786 (exp. 2027-11-30)
 

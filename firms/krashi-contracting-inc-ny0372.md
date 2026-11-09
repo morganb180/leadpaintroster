@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/krashi-contracting-inc-ny0372/
 
 * Lead abatement, Lead inspection / evaluation
 * Queens, NY (Queens County)
-* Phone: (347) 415-2511
 * Address: 3266 80th St E Elmhurst 11370, Queens, NY 11370
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F266885-1 (exp. 2027-07-24)
 * EPA Lead-Based Paint Activities firm: Abatement #LBP-F266885-1 (exp. 2027-07-24)

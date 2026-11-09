@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/absolute-jm-services-llc-nj0016/
 
 * Lead abatement, Lead inspection / evaluation
 * Orange, NJ (Essex County)
-* Phone: (862) 250-1925
 * Address: 144 Elm St, Suite 6, Orange, NJ 07050
 * NJ DCA Lead Evaluation Contractor - Residential/public buildings (RS/PB) #00681 (exp. 2028-06-30)
 * NJ DCA Lead Abatement Contractor - Residential/public buildings (RS/PB) #00697 (exp. 2027-09-30)

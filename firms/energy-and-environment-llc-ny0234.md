@@ -8,7 +8,6 @@ canonical: https://leadpaintroster.com/firms/energy-and-environment-llc-ny0234/
 
 * Lead inspection / evaluation
 * Syracuse, NY (Onondaga County)
-* Phone: (315) 720-6769
 * Address: 6443 Ridings Rd, Syracuse, NY 13206
 * EPA Lead-Based Paint Activities firm: Evaluation (inspection, risk assessment, clearance) #LBP-F154143-3 (exp. 2027-06-05)
 
