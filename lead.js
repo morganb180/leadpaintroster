@@ -12,7 +12,7 @@ function cslug(c){return String(c||"").toLowerCase().replace(/[^a-z]+/g,"-")}
 var NEXT="<h3 class=\"lf-h\">What happens next</h3><ol><li>They contact you directly. Lead Paint Roster does not call or text you.</li><li>Ask each for its certification or licence number and a written quote. For a rental or a child&#x27;s elevated blood-lead result, say so up front.</li></ol>";
 forms.forEach(function(f){var src=f.querySelector("[name=source]");if(src)src.value=location.pathname;
  var id=f.querySelector("[name=idem]");if(id&&!id.value)id.value=uid();
- f.addEventListener("focusin",loadTS,{once:true});f.addEventListener("pointerenter",loadTS,{once:true});
+ f.addEventListener("focusin",loadTS,{once:true});f.addEventListener("change",loadTS,{once:true}); /* Turnstile loads on first focus or change, never on hover */
  var cs=f.querySelector("select[name=county]");if(cs&&pre&&!cs.value)cs.value=pre;
  var fi=f.querySelector("input[name=firm]"),fid=q.get("firm"),fr=fid&&(window.NET_FIRMS||{})[fid];
  if(fi&&fr){var SL={"i": "inspection", "r": "risk assessment", "a": "abatement"},SN={"i": "inspection", "r": "risk_assessment", "a": "abatement"},fn=fr[0],sv=fr[1];fi.value=fid;var fl=f.querySelector(".lf-firm");if(fl){fl.innerHTML='We connect you with <strong>'+esc(fn)+'</strong> and up to 2 other nearby certified firms. They contact you directly. '+esc(fn)+' offers: '+sv.split("").map(function(c){return SL[c]}).join(", ")+'.';fl.hidden=false}var r0=f.querySelector('input[name=need][value="'+SN[sv[0]]+'"]');if(r0&&!f.querySelector("input[name=need]:checked"))r0.checked=true}

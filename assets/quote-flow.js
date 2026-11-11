@@ -71,7 +71,7 @@
     var fn=firmName(), need=(checked("need")||{}).value||"";
     if(fn) return "We connect you with "+fn+" and up to 2 other nearby certified firms. We choose the others when you send this form. You will see every firm on the next screen. They contact you directly. Firms can't pay to be picked.";
     if(need==="not_sure") return "We connect you with up to 3 nearby certified inspectors and risk assessors, who can tell you which service you need. We choose them when you send this form, nearest your ZIP and licensed for your state. You will see their names on the next screen. They contact you directly. Firms can't pay to be picked.";
-    return "We connect you with up to 3 nearby certified firms that offer the service you chose, licensed for your state (NJ DCA, US EPA in New York, or Massachusetts) and nearest your ZIP. We choose them when you send this form. You will see their names on the next screen. They contact you directly. An email address is required on this form so they can reach you. Firms can't pay to be picked.";
+    return "We connect you with up to 3 nearby certified firms that offer the service you chose, licensed for your state (NJ DCA, US EPA in New York, or Massachusetts) and nearest your ZIP. We choose them when you send this form. You will see their names on the next screen. They contact you directly. Give an email address or a phone number so they can reach you. Firms can't pay to be picked.";
   }
   function buttonText(){
     var fn=firmName();
